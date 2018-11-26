@@ -4,12 +4,12 @@
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
-    "messagingSenderId": "1083195713896"
+    "apiKey": "AIzaSyCoFwRN1nCrq26Z0C8spgJ2WCIcMoBpgSc",
+    "authDomain": "android-makers-2019.firebaseapp.com",
+    "databaseURL": "https://android-makers-2019.firebaseio.com",
+    "projectId": "android-makers-2019",
+    "storageBucket": "android-makers-2019.appspot.com",
+    "messagingSenderId": "38710070893"
   },
   "googleMapApiKey": ""
 }
