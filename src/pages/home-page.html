@@ -2,17 +2,6 @@
 
 <link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
 
-<link rel="import" href="../elements/about-block.html">
-<link rel="import" href="../elements/speakers-block.html">
-<link rel="import" href="../elements/latest-posts-block.html">
-<link rel="import" href="../elements/tickets-block.html">
-<link rel="import" href="../elements/partners-block.html">
-<link rel="import" href="../elements/featured-videos.html">
-<link rel="import" href="../elements/subscribe-block.html">
-<link rel="import" href="../elements/gallery-block.html">
-<link rel="import" href="../elements/map-block.html">
-<link rel="import" href="../elements/about-organizer-block.html">
-<link rel="import" href="../mixins/scroll-functions.html">
 <link rel="import" href="../mixins/redux-mixin.html">
 
 <dom-module id="home-page">
@@ -33,7 +22,7 @@
 
       .hero-logo {
         --iron-image-width: 100%;
-        max-width: 240px;
+        max-width: 480px;
       }
 
       .info-items {
@@ -121,7 +110,7 @@
         }
 
         .hero-logo {
-          max-width: 320px;
+          max-width: 880px;
         }
 
         .info-items {
@@ -151,28 +140,12 @@
 
 
         <div class="action-buttons" layout horizontal center-justified wrap>
-          <paper-button
-            class="watch-video"
-            on-tap="_playVideo"
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
-          >
-            <iron-icon icon="hoverboard:movie"></iron-icon>
-            {$ viewHighlights $}
-          </paper-button>
-          <paper-button
-            on-tap="_scrollToTickets"
-            ga-on="click"
-            ga-event-category="tickets"
-            ga-event-action="scroll"
-            ga-event-label="hero block - scroll to tickets"
-            primary invert
-          >
-            <iron-icon icon="hoverboard:ticket"></iron-icon>
-            {$ buyTicket $}
-          </paper-button>
+          <a href="{$ linkEventbrite $}">
+            <paper-button primary invert>
+              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              {$ buyTicket $}
+            </paper-button>
+        </a>
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
@@ -204,29 +177,6 @@
             statePath: 'ui.viewport',
           },
         };
-      }
-
-      _playVideo() {
-        uiActions.toggleVideoDialog({
-          title: '{$  aboutBlock.callToAction.howItWas.title $}',
-          youtubeId: '{$  aboutBlock.callToAction.howItWas.youtubeId $}',
-          disableControls: true,
-          opened: true,
-        });
-      }
-
-      _scrollToTickets() {
-        // eslint-disable-next-line no-undef
-        const toolbarHeight = HOVERBOARD.Elements.HeaderToolbar.getBoundingClientRect().height - 1;
-        // eslint-disable-next-line no-undef
-        const ticketsBlockPositionY = HOVERBOARD.Elements.Tickets.getBoundingClientRect().top
-          - toolbarHeight;
-        this.scrollToY(ticketsBlockPositionY, 600, 'easeInOutSine');
-      }
-
-      _scrollNextBlock() {
-        const heroHeight = this.$.hero.getBoundingClientRect().height - 64;
-        this.scrollToY(heroHeight, 600, 'easeInOutSine');
       }
     }
 
