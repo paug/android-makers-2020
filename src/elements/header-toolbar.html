@@ -112,8 +112,8 @@
         --iron-icon-fill-color: var(--hero-font-color);
       }
 
-      .buy-button {
-        margin-top: 12px;
+      .button {
+        margin: 12px;
       }
 
       @media (min-width: 640px) {
@@ -153,9 +153,16 @@
         {% endfor %}
 
         <a href="{$ linkEventbrite $}">
-          <paper-button class="buy-button" primary>
+          <paper-button class="button" primary>
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
+          </paper-button>
+        </a>
+
+        <a href="{$ linkCallForPapers $}">
+          <paper-button class="button" primary>
+            <iron-icon icon="hoverboard:document"></iron-icon>
+            {$ callForPapers $}
           </paper-button>
         </a>
       </paper-tabs>

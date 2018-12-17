@@ -27,6 +27,14 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
+    },
+    "cod": {
+      "title": "Code Of Conduct",
+      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
     }
   },
   "location": {
@@ -44,7 +52,7 @@
       "latitude": 48,
       "longitude": 2
     },
-    "description": "More than 10 000m<sup>2</sup>,<br />with a 800+ attendees keynote room<br />at the gateway of Paris"
+    "description": "At the gateway of Paris, in Le Beffroi de Montrouge"
   },
   "mediaQueries": {
     "xs": {

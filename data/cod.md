@@ -36,7 +36,7 @@ The following actions are considered harassment and are unacceptable within our 
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events, including talks and, presentations.
 
-###  5. Consequences of Unacceptable Behavior
+### 5. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
