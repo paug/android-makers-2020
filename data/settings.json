@@ -46,13 +46,14 @@
     "pointer": {
       "latitude": 48.819205, 
       "longitude": 2.319641,
-      "zoom": 5
+      "zoom": 12
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 2
+      "latitude": 48.85,
+      "longitude": 2.32
     },
-    "description": "At the gateway of Paris, in Le Beffroi de Montrouge"
+    "description": "At the gateway of Paris, in Le Beffroi de Montrouge",
+    "longDescription": "More than 10 000m2, with a 800+ attendees keynote room, at the gateway of Paris"
   },
   "mediaQueries": {
     "xs": {
