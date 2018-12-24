@@ -1,0 +1,57 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../elements/polymer-helmet.html">
+<link rel="import" href="../elements/hero-block.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../elements/md-content.html">
+
+<dom-module id="tfr-page">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+
+    <polymer-helmet
+      title="{$ heroSettings.tfr.title $} | {$ title $}"
+      description="{$ heroSettings.tfr.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.tfr.background.image $}"
+      background-color="{$ heroSettings.tfr.background.color $}"
+      font-color="{$ heroSettings.tfr.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.tfr.title $}</div>
+      <p class="hero-description">{$ heroSettings.tfr.description $}</p>
+    </hero-block>
+
+    <md-content md-source="[[source]]"></md-content>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class TfrPage extends Polymer.Element {
+      static get is() {
+        return 'tfr-page';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ tfr $}',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(TfrPage.is, TfrPage);
+  </script>
+</dom-module>

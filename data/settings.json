@@ -36,6 +36,14 @@
       },
       "fontColor": "#424242"
     },
+    "tfr": {
+      "title": "Thanks for your registration",
+      "metaDescription": "Thank you for joining this great event",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
     "cod": {
       "title": "Code Of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
