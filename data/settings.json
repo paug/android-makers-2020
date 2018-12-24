@@ -1,8 +1,13 @@
 {
   "organizer": {
-    "name": "AndroidMakers",
-    "twitter": "androidmakersfr",
-    "url": "https://androidmakers.fr/"
+    "paug": {
+      "name": "Paris Android User Group",
+      "url": "https://paug.fr/"
+    },
+    "bma": {
+      "name": "BeMyApp",
+      "url": "https://www.bemyapp.com/events/?&country=France"
+    }
   },
   "startDate": "2019-04-23T09:00:00+02:00",
   "endDate": "2019-04-24T19:00:00+02:00",

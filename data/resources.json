@@ -73,6 +73,11 @@
           "name": "FAQs",
           "url": "/faq",
           "newTab": false
+        },
+        {
+          "name": "Code of conduct",
+          "url": "/cod",
+          "newTab": false
         }
       ]
     }
