@@ -28,6 +28,14 @@
       },
       "fontColor": "#FFF"
     },
+    "faq": {
+      "title": "FAQ",
+      "metaDescription": "Find answer to your questions",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
     "cod": {
       "title": "Code Of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",

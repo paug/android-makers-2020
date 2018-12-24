@@ -68,6 +68,11 @@
     {
       "title": "Event Resources",
       "links": [
+        {
+          "name": "FAQs",
+          "url": "/faq",
+          "newTab": false
+        }
       ]
     }
   ],
