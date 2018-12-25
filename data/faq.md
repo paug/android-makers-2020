@@ -47,20 +47,18 @@ If you’re unable to attend Android Makers in-person, you can still be part of 
 ### Language
 
 Half of the presentations at Android Makers will be in English, the other half in French.
-  
+
 
 ### Badges & Badge Pick-up
 
-Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 9AM on October 12th. So make sure to come in on time!
+Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 8AM on April 23rd. So make sure to come in on time!
 
 Please note, you may not share, give, or otherwise provide your badge to anyone. Android Makers badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your Android Makers badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification.
-
   
 
 ### Afterparty
 
-All registered attendees are invited to the afterparty on the evenings of April 23rd. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
-
+All registered attendees are invited to the afterparty on the evening of April 23rd. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
   
 
 ### Event Attire
@@ -71,6 +69,7 @@ Android Makers is a developer event, so please be comfortable and casual. There 
 ### Smoking
 
 Smoking is only permitted in designated outdoor smoking areas.
+
 
 ### No Soliciting
 
