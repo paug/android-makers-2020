@@ -183,11 +183,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#AndroidMakers2 highlights",
+    "description": "Check out photos from featured talks, hands-on learning sessions, and party-hours.",
     "callToAction": {
       "label": "See all photos",
-      "link": ""
+      "link": "https://photos.app.goo.gl/WDhmy1iGabI651163"
     }
   },
   "mapBlock": {
