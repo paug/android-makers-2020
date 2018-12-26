@@ -55,6 +55,10 @@ Everyone is guaranteed a seat for the keynotes but the best seats will be assign
 
 Please note, you may not share, give, or otherwise provide your badge to anyone. Android Makers badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your Android Makers badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification.
   
+### Food
+
+Food is not included in your entry to Android Makers but there will be food stands on premises where you will be able to get lunch for a very reasonnable price. We try our best to provide options for everyone but the space inside the Beffroi is limited. In the event that you don't find anything that suits you on premises, there are plenty of options at a walkable distance in Montrouge. You'll have time to get something outside and come back in time for the afternoon sessions.
+
 
 ### Afterparty
 
