@@ -136,14 +136,8 @@
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
-    "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
-    },
-    "toast": "We will contact you soon!"
+    "button": "Become a sponsor",
+    "link":"mailto:contact@androidmakers.fr"
   },
   "featuredVideos": {
     "title": "Android Makers 2018 featured videos",
