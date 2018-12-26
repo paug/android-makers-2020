@@ -57,7 +57,7 @@ Please note, you may not share, give, or otherwise provide your badge to anyone.
   
 ### Food
 
-Food is not included in your entry to Android Makers but there will be food stands on premises where you will be able to get lunch for a very reasonnable price. We try our best to provide options for everyone but the space inside the Beffroi is limited. In the event that you don't find anything that suits you on premises, there are plenty of options at a walkable distance in Montrouge. You'll have time to get something outside and come back in time for the afternoon sessions.
+Food is not included in your entry to Android Makers but there will be food stands on premises where you will be able to get lunch for a very reasonnable price. We try our best to provide options for everyone but the space inside the Beffroi is limited. In the event that you don't find something that suits you on premises, there are plenty of options at a very walkable distance in Montrouge. You'll have time to get something outside and come back in time for the afternoon sessions.
 
 
 ### Afterparty
