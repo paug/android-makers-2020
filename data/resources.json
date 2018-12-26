@@ -43,6 +43,16 @@
           "name": "Google Developers Group",
           "url": "https://developers.google.com/",
           "newTab": true
+        },
+        {
+          "name": "Paris Android User Group",
+          "url": "https://paug.fr/",
+          "newTab": true
+        },
+        {
+          "name": "BeMyApp",
+          "url": "https://www.bemyapp.com/events/?&country=France",
+          "newTab": true
         }
       ]
     },
