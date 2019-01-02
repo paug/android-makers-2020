@@ -23,6 +23,11 @@
   "disabledSchedule": true,
   "showSessionShortAbstract": false,
   "navigation": [
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
+    }
   ],
   "heroSettings": {
     "home": {
@@ -32,6 +37,14 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
+    },
+    "blog": {
+      "title": "Blog",
+      "metaDescription": "Read stories from our team",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
     },
     "faq": {
       "title": "FAQ",
@@ -130,5 +143,10 @@
       "https://www.facebook.com",
       "https://twitter.com"
     ]
+  },
+  "contentLoaders": {
+    "blog": {
+      "itemsCount": 3
+    }
   }
 }
