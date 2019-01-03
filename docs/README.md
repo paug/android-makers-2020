@@ -10,3 +10,4 @@
 * [Docker](tutorials/docker.md)
 * [SEO](tutorials/seo.md)
 * [Mailchimp autosubscription](tutorials/mailchimp-autosubscribe.md)
+* [Blog post](tutorials/blog-post.md)
