@@ -206,7 +206,8 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": ""
+    "title": "Team",
+    "description": "Meet the team !"
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"

@@ -64,11 +64,14 @@
     },
     "cod": {
       "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "metaDescription": "Learn more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
+    },
+    "team": {
+      "title": "Team"
     }
   },
   "location": {
