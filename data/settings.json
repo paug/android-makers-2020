@@ -24,6 +24,16 @@
   "showSessionShortAbstract": false,
   "navigation": [
     {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Team"
+    },
+    {
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
