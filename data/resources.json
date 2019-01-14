@@ -12,6 +12,7 @@
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
   "callForPapers": "Call for papers",
+  "callForMakers": "Call for makers",
   "becomeASponsor": "Become A Sponsor",
   "signIn": "Sign in",
   "signOut": "Sign out",
@@ -28,6 +29,7 @@
   "tfr": "/data/tfr.md",
   "linkEventbrite": "https://www.eventbrite.co.uk/e/android-makers-2019-tickets-45468692082#tickets",
   "linkCallForPapers": "https://cfp.androidmakers.fr/",
+  "linkCallForMakers": "https://docs.google.com/forms/d/e/1FAIpQLSeRbOfXx9cKg9ndILommw9BvPtF6hTv55y9EUhxakogUEdVmw/viewform",
   "linkBecomeASponsor": "mailto:contact@androidmakers.fr",
   "footer": {
     "blog": "Blog"
