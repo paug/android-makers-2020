@@ -29,6 +29,11 @@
       "label": "Home"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -51,6 +56,15 @@
     "blog": {
       "title": "Blog",
       "metaDescription": "Read stories from our team",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "speakers": {
+      "title": "Speakers",
+      "metaDescription": "Hear from Speakers who are building the future of Android. Check back often as we add more speakers everyday.",
+      "description": "Hear from Speakers who are building the future of Android. Check back often as we add more speakers everyday.",
       "background": {
         "color": "#FFF"
       },
@@ -160,6 +174,9 @@
   "contentLoaders": {
     "blog": {
       "itemsCount": 3
+    },
+    "speakers": {
+      "itemsCount": 4
     }
   }
 }

@@ -53,7 +53,7 @@
       image="[[speaker.photoUrl]]"
       active="[[opened]]"
       label1="{$ position $}"
-      data1="[[speaker.title]], [[speaker.company]]"
+      data1="[[speaker.company]]"
       label2="{$ country $}"
       data2="[[speaker.country]]"
     ></polymer-helmet>
@@ -81,7 +81,7 @@
 
       <div class="dialog-container content">
         <h3 class="meta-info">[[speaker.country]]</h3>
-        <h3 class="meta-info">[[speaker.title]], [[speaker.company]]</h3>
+        <h3 class="meta-info">[[speaker.company]]</h3>
         <h3 class="meta-info" hidden$="[[isEmpty(speaker.badges)]]">
           <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
             <a
