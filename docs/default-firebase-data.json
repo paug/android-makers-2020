@@ -72,7 +72,20 @@
       "country": "Mountain View, United States of America",
       "bio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen. And sometimes, just sometimes, he takes a break from comedy to give a technical talk.",
       "companyLogo": "/images/logos/google.svg",
-      "photo": "/images/people/chet_haase.jpg"
+      "photo": "/images/people/chet_haase.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/chethaase",
+        "name" : "Twitter"
+      }, {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/117594266474214732305",
+        "name" : "Google+"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@chethaase",
+        "name" : "Website"
+      } ]
     },
     "4a7ca4c16cbe81a612bf3011a3d3439f85408103": {
       "order": 1,
@@ -85,7 +98,24 @@
       "country": "Mountain View, United States of America",
       "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
       "companyLogo": "/images/logos/google.svg",
-      "photo": "/images/people/romain_guy.jpg"
+      "photo": "/images/people/romain_guy.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/romainguy",
+        "name" : "Twitter"
+      }, {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+RomainGuy",
+        "name" : "Google+"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.flickr.com/photos/romainguy/",
+        "name" : "Website"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/romainguy",
+        "name" : "GitHub"
+      } ]
     }
   },
   "team": [
