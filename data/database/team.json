@@ -1,0 +1,107 @@
+[
+  {
+    "title": "PAUG",
+    "members": [
+      {
+        "photoUrl": "https://pbs.twimg.com/profile_images/862422706016399361/KVX-WOT7_400x400.jpg",
+        "name": "Benjamin Gonin",
+        "order": 1,
+        "title": "Website, Android app, photos"
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/910937517578424320/da8z8FL0_400x400.jpg",
+        "name": "Marion Hayoun",
+        "order": 2
+      },
+      {
+        "photoUrl": "https://pbs.twimg.com/profile_images/989475350953553921/aqXeK-YO_400x400.jpg",
+        "name": "Antonin Fouques",
+        "photo": "",
+        "order": 0,
+        "title": "Website"
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1810811721/11_-_1_400x400.jpg",
+        "name": "Eyal Lezmy",
+        "order": 3
+      },
+      {
+        "photoUrl": "https://pbs.twimg.com/profile_images/673457436880146432/_ms7xAJA_400x400.jpg",
+        "name": "Stéphane Guérin",
+        "order": 4,
+        "title": "Organizer"
+      },
+      {
+        "order": 5,
+        "title": "Cfp site",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQHEwZ1EYbkLOA/profile-displayphoto-shrink_800_800/0?e=1553126400&v=beta&t=XiY9KpyvgyNr6A9EVoMv0AfZgoidMFdLV1MUzded1d4",
+        "name": "Martin Bonnin",
+        "photo": ""
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1013865859880759297/s0cSh-qU_400x400.jpg",
+        "name": "Stan Kocken",
+        "order": 6
+      },
+      {
+        "order": 7,
+        "title": "Android app",
+        "name": "Adrien Vitti"
+      },
+      {
+        "photoUrl": "https://pbs.twimg.com/profile_images/970727772409749505/P1v_kA8P_400x400.jpg",
+        "name": "Amael",
+        "order": 8,
+        "title": "Community Manager"
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/916204922349215744/FP5gGiZe_400x400.jpg",
+        "name": "Alexandre Bruneau",
+        "order": 9
+      },
+      {
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQGMPm4NaQ2bHg/profile-displayphoto-shrink_800_800/0?e=1553126400&v=beta&t=t9zhW_ZXBc3tk-j_hZzOJTpf_OX_oD8HDcyOPBIZegM",
+        "name": "Edouard Marquez",
+        "order": 10,
+        "title": "Organizer"
+      },
+      {
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQHqydLKzRheMA/profile-displayphoto-shrink_800_800/0?e=1553126400&v=beta&t=owLshHaLV5_1DmW1FHdp1LS9EMm1SsSBFavejLOWZEg",
+        "name": "Romain Ménétrier",
+        "order": 11,
+        "title": "Organizer"
+      },
+      {
+        "order": 12,
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/652853930108538880/ky0MYY5V_400x400.jpg",
+        "name": "Turhan Oz"
+      },
+      {
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFP28JHgfHyww/profile-displayphoto-shrink_800_800/0?e=1552521600&v=beta&t=da2BVsb18LTsVvwRSHPfiAjPphmqpGit0XpaeIEHgfw",
+        "name": "Djavan Bertrand",
+        "order": 13,
+        "title": "Organizer"
+      },
+      {
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQGjtSn-T7Lo_Q/profile-displayphoto-shrink_800_800/0?e=1552521600&v=beta&t=5UOPp7_pchnUfFipB0wZzwZHlbSIyqkhR2LrDAnLni4",
+        "name": "Remy Barbosa",
+        "order": 14,
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "title": "BeMyApp",
+    "members": [
+      {
+        "name": "John Karp",
+        "order": 0
+      }
+    ]
+  }
+]

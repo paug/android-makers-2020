@@ -1,0 +1,79 @@
+{
+  "registration": {
+    "description": "Registration of participants will begin on Monday April 23rd, from 8:00 a.m. in the entrance hall. For registration it is mandatory to carry the eventbrite ticket.",
+    "icon": "registration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+    "title": "Gates open / Registration",
+    "tags": [
+      "Service"
+    ]
+  },
+  "lunch": {
+    "description": "Fooooood!\nThe best time to talk with speakers and attendees",
+    "icon": "lunch",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+    "title": "Lunch",
+    "tags": [
+      "Service"
+    ]
+  },
+  "break": {
+    "description": "Coffeeeeeee!",
+    "icon": "coffee-break",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+    "title": "Coffee break",
+    "tags": [
+      "Service"
+    ]
+  },
+  "party": {
+    "description": "Let's talk and drink!\n\nFrom 19:00, come for chat, networking, drinks and food!",
+    "icon": "party",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+    "title": "Makers Party!",
+    "tags": [
+      "Service"
+    ]
+  },
+  "opening": {
+    "description": "Come early and choose the best seat",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+    "title": "Opening",
+    "tags": [
+      "Service"
+    ]
+  },
+  "closing": {
+    "description": "Thank you and see you next year!",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+    "title": "Thank you!",
+    "tags": [
+      "Service"
+    ]
+  },
+  "tbd": {
+    "speakers": [
+      "a14457ee24a86a604c55d6774bed5483b630e78f"
+    ],
+    "description": "TBD",
+    "language": "TBD",
+    "title": "TBD",
+    "complexity": "TBD",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "FVI-2317": {
+    "speakers": [
+      "379c162aac12eca2deca690287b54ad270cc2e40",
+      "4a7ca4c16cbe81a612bf3011a3d3439f85408103"
+    ],
+    "title": "Kotlin Under the Covers",
+    "language": "English",
+    "description": "Kotlin offers many powerful language features that make it a welcome addition to the Android developer's toolkit. But some of these features may do significant work behind the scenes, including allocating object and reflection. This dynamic is not obvious from the Kotlin code, so how do we know when this is happening? This talk will go over some of these areas that you should be aware of, as well as the tools that help us discover this kind of information about our code.",
+    "complexity": "Intermédiaire",
+    "tags": [
+      "Android Development"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "379c162aac12eca2deca690287b54ad270cc2e40": {
+    "order": 0,
+    "featured": true,
+    "shortBio": "Chet leads the Android Toolkit, working on animations, graphics...",
+    "company": "Google",
+    "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=20de7afb-f209-4ebe-a23e-027a5ee6fe28",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fchet_haase.jpg?alt=media&token=2f62c715-8a42-4c52-a51b-cc65e5f91432",
+    "name": "Chet Haase",
+    "country": "Mountain View, United States of America",
+    "bio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen. And sometimes, just sometimes, he takes a break from comedy to give a technical talk.",
+    "companyLogo": "/images/logos/google.svg",
+    "photo": "/images/people/chet_haase.jpg",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/chethaase",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/117594266474214732305",
+      "name" : "Google+"
+    }, {
+      "icon" : "website",
+      "link" : "https://medium.com/@chethaase",
+      "name" : "Website"
+    } ]
+  },
+  "4a7ca4c16cbe81a612bf3011a3d3439f85408103": {
+    "order": 1,
+    "featured": true,
+    "shortBio": "Romain works on 3D real-time graphics and Kotlin on the Android team....",
+    "company": "Google",
+    "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=20de7afb-f209-4ebe-a23e-027a5ee6fe28",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fromain_guy.jpg?alt=media&token=8f4b36fe-97bf-4266-a9cd-2e699dd85f56",
+    "name": "Romain Guy",
+    "country": "Mountain View, United States of America",
+    "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
+    "companyLogo": "/images/logos/google.svg",
+    "photo": "/images/people/romain_guy.jpg",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/romainguy",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+RomainGuy",
+      "name" : "Google+"
+    }, {
+      "icon" : "website",
+      "link" : "https://www.flickr.com/photos/romainguy/",
+      "name" : "Website"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/romainguy",
+      "name" : "GitHub"
+    } ]
+  },
+  "a14457ee24a86a604c55d6774bed5483b630e78f": {
+    "order": 2,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/eyal-lezmy",
+        "name": "gde"
+      },
+      {
+        "description": "Paris Android User Group",
+        "link": "https://www.meetup.com/Android-Paris/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Qonto",
+    "companyLogo": "/images/logos/qonto.svg",
+    "name": "Eyal LEZMY",
+    "country": "Paris, France",
+    "photo": "/images/people/eyal_lezmy.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feyal_lezmy.jpg?alt=media&token=762d2114-765f-4f35-b005-0f7f75e04fd5",
+    "bio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert Android and IoT\r\n\r\nI’ve been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. Then I joined Qonto a bank for freelancers, startups and SMBs.",
+    "shortBio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-orga...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Eyal_Lezmy",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+EyalLEZMY",
+        "name": "Google+"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/eyal-lezmy",
+        "name": "GitHub"
+      }
+    ]
+  }
+}

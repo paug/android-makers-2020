@@ -1,0 +1,22 @@
+{
+  "0": {
+    "name": "Moebius",
+    "capacity": 750,
+    "level": "1st floor"
+  },
+  "1": {
+    "name": "Room A. & L. Blin",
+    "capacity": 250,
+    "level": "Basement"
+  },
+  "2": {
+    "name": "Room 2.02",
+    "capacity": 100,
+    "level": "2nd floor"
+  },
+  "3": {
+    "name": "Room 2.04",
+    "capacity": 50,
+    "level": "2nd floor"
+  }
+}
