@@ -75,5 +75,249 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "TCT-1480": {
+    "complexity": "Beginer",
+    "speakers": [
+      "a14457ee24a86a604c55d6774bed5483b630e78f"
+    ],
+    "description": "Navigating between screens is pretty simple right? No it’s not. Actually not all the time.\r\nLast year Google introduced Navigation Component tool helping us standardise the design and the implementation of how screens can pass in front of the Android users.\r\n\r\nWe started to use it with my team last summer and we learned a lot about its benefits, and its pitfalls. In this presentation, I'll try to give a feedback about what we learned, what hope you can put in it and what’s not to expect from it.\r\n\r\nHere is an outline of the talk:\r\n\r\n- The Navigation Component tool and API\r\n- Testing your navigation\r\n- Specific use cases\r\n    - Handling multi start points\r\n    - Handling custom transitions and Shared Elements\r\n    - How to handle other entities than Fragments\r\n    - Handling the back navigation\r\n- Implementing the navigation logic\r\n    - 3 examples of implementation patterns we found\r\n    - Alternative example to Navigation Components\r\n- The lib is in alpha, what is it implied by this, for real\r\n- Single or Multiple activities what to choose?\r\n- Integrate nav controller in an existing app\r\n- Conclusion\r\n    - What can it bring to your app?\r\n    - Should we use it?\r\n",
+    "language": "English",
+    "title": "Navigation Component, feedback from the trench",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "TWY-4180": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "2a406d23a849d9691b9bc98d967206996e30b252"
+    ],
+    "description": "Working with a design system can be hugely rewarding: layouts can be created and modified using shared components. This should result in faster development and consistent designs across the app. But getting there is a slow and painful process.\r\n\r\nWhen implementing a design system you have to make many decisions, like: Where do you start? What actually makes a component? And how flexible should components be? This talk will shed some light on these issues by taking you through Deliveroo's process of adopting the design system in its three Android apps.",
+    "language": "English",
+    "title": "Consistency is Key - Working with a Design System",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "XQT-5940": {
+    "complexity": "Beginer",
+    "speakers": [
+      "cac5b6bc1f05caa67061c64989f324a517735a29",
+      "b1e2d11f8669d228ed5dd388540aae23c9b81f27"
+    ],
+    "description": "English TL;DR: It's a stupid french speaking podcast about leeks  ¯\\_(ツ)_/¯\r\n\r\nSi vous ne savez toujours pas pourquoi \"Poireau\" ou que si mais que vous n'avez pas rigolé à la blague la première fois, ni les 3000 autres fois parce qu'en réalité c'est pas si drôle, avouons le... Alors viendez, ça ne sera toujours pas plus drôle, ni plus intelligent mais vous pourrez dire en sortant: \"Je ne sais absolument pas pourquoi j'ai été voir ça\", et ça, ça n'a pas de prix.\r\n\r\n\r\nPS: Épisode 6 car on sait tous que le 6ème est en réalité le 3ème !",
+    "language": "French",
+    "title": "Android Leaks @Android Makers - Épisode 6 : Le retour des poireaux",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "XEB-2115": {
+    "complexity": "Beginer",
+    "speakers": [
+      "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2"
+    ],
+    "description": "Our responsibility as developers is to ship high quality features in a timely manner. But there are many factors which can hinder development: from tightly coupled, untested codebases, to differences between team members in architecture visions and API knowledge, to time pressure. \r\nWe tend to look at app development from one point of view: the code. But the team that writes that code is as important as the code, so we need to work on architecting a good, solid team as well, making sure that we create a common language in the team, a shared vision and an environment where team members learn and communicate freely.\r\n\r\nIn this talk, I’m going to cover some of the lessons I learned along the way and show how we, a team of four, applied them in rewriting Plaid - an open source app, initially created to showcase Material Design. We’ll see how intertwined the code and the team were for the project.\r\n",
+    "language": "English",
+    "title": "Pragmatic crafting",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "XPP-1467": {
+    "complexity": "Beginer",
+    "speakers": [
+      "3e271f509e5ca12cfef7d51e98fde031c124e382",
+      "6655ec55dd5d139ccb4d6f8724017c05c51555c3"
+    ],
+    "description": "Android apps are not just series of static screens. To create a great app you will have to bring it into life with meaningful, helpful and delightful motion.\r\n\r\nHowever, a good design is not worth much unless it gets implemented correctly. In this joint designer-developer talk we discuss the workflow from the idea, to design and development and all the way to user’ hands. \r\n\r\nWe describe when to use motion and when not to as well as selecting the right type and right intensity of motion. We then dive into the best implementation strategies including communicating state, navigation, feedback, tutorial and delightful animations.",
+    "language": "English",
+    "title": "Meaningful motion design and how to implement it",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "WLQ-5551": {
+    "complexity": "Beginer",
+    "speakers": [
+      "786f4ff40c2d8aeef85a8dc997006cae5a4f9dc3"
+    ],
+    "description": "Deploying an Android app to the play store always contains some cost in it. Furthermore the user isn't always keen to download (again) our latest versioned app. How about doubling the cost of development with the iOS app into account (or Web)?  \r\nAt Square, we came up with a system in which the server owns the workflow of the client. This means the client doesn't know before hand which screen, which image or text it's gonna show next.\r\n\r\nIn this talk, we'll:\r\n\r\n- Know why Square ended up choosing this system.\r\n- Discover how we built it.\r\n- Look at the challenges, the pros and cons of such an architecture.\r\n- Talk about how we want to alter it for the future.\r\n\r\nAttendees to this talk will be expose to solutions for problems every company is facing but don't address.",
+    "language": "English or French",
+    "title": "Server Driven UI Workflow",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "JSD-5161": {
+    "complexity": "Beginer",
+    "speakers": [
+      "6232967f8d0646a8551e28d2923630d719c4c42f"
+    ],
+    "description": "Vector assets are lightweight and sharp on every screen size, but working with them can be complicated. Android doesn’t directly support SVG, potentially leading to conversion and ownership issues. This talk will cover what designers and developers need to know to work together to create static and animated vector assets. We’ll cover the capabilities of Android’s vector formats, how they influence producing assets in graphics packages (with a focus on Sketch) and how to efficiently export them. We'll also look at tooling and workflows that allow designers and devs to collaborate on creating vector animations.",
+    "language": "English",
+    "title": "Vector Workflows",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "MAW-7262": {
+    "complexity": "Beginer",
+    "speakers": [
+      "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2"
+    ],
+    "description": "In this workshop we’ll be looking at coroutines - Kotlin’s way of handling asynchronous programming. We’ll see what they are, how they work, how to call tasks written with coroutines and get the results of the tasks, how to convert existing APIs to coroutines, how to use coroutines in an Android app, especially together with Architecture Components and, finally, see how to test coroutines. \r\n",
+    "language": "English",
+    "title": "Coroutines, a new scope",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "RBP-6855": {
+    "complexity": "Beginer",
+    "speakers": [
+      "14c3b8582f3c1821ba86739393cd027ec8e321c9"
+    ],
+    "description": "You've been working as an engineer for a while, and now you want more. More responsibilities, more decision making power, more money. But where do you even start? Become an engineering manager right? Not so fast. \r\n\r\nIn this talk, we'll go over how to choose the best career path for *you*. There are many ways of becoming the leader you know you deserve to be, and not all of them are obvious nor conventional. We'll cover the different options and the skills required to get there, but we'll also talk about why *not* to become a manager, or even a tech lead.\r\n\r\nFinally, you decide to make the jump. You \"made it\" right? But, now what? How to become the best leader you can possibly be? How to give constructive feedback? How to set expectations with your people? And what's next? Keep climbing?... or choose to go back to building.",
+    "language": "English",
+    "title": "Becoming a Leader in Tech: How to boost your career without losing your mind",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "KSG-3809": {
+    "complexity": "Beginer",
+    "speakers": [
+      "b90144ca0b7e987da4eac1e6ac116b1f1b2cb6e2"
+    ],
+    "description": "Sharing code between platforms is a powerful technique, but it may be hard to accomplish without rich APIs that we have in Android, JVM, or iOS platforms. Kotlin Multiplatform libraries can be used to fix that, bringing rich APIs directly in the common Kotlin code. \r\n\r\nWhat an exciting frontier!\r\n\r\nIn this talk we'll go over the creation of a Kotlin Multiplatform library. You'll learn how modules for each platform work, decide what parts of the code makes sense to share and what doesn't. All based in the experiences gathered after creating a library at Mixtiles used to fetch images from different cloud providers.",
+    "language": "English",
+    "title": "Building a library for Android and iOS using Kotlin Multiplatform",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "CRY-8750": {
+    "complexity": "Beginer",
+    "speakers": [
+      "f0b60b05124ad1a0b3e76cca09dd215645931221"
+    ],
+    "description": "Have you dreamed of deliciously sweet animations in your app but have no idea where to start? 🍫 What about creating some delightful UI treats to keep your users intrigued and wanting to discover more? 🍦\r\nJoin Rebecca on this journey into a World of Pure Android Animation ✨.  From creating custom view animations on a Canvas to using MotionLayout to create complex layout animations, there is something for everyone. We will also see how to create your own AnimatedVectorDrawable using Shape Shifter. No golden ticket required. ",
+    "language": "English",
+    "title": "In a World of Pure Android Animation  🍭🍫",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "OVK-2477": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "7995936e8a151a29c1a6fa72ac7db5ae373b201d"
+    ],
+    "description": "In this talk, we will learn how to build an application with the ARCore Android SDK. We'll start with a quick look at physically based rendering, and how to find or create these 3D models. \r\n\r\nThen we'll learn the basics of adding virtual objects and interfaces to our environment, using the Sceneform library. \r\n\r\nWe'll close with Cloud Anchors and Augmented Images, which are used to create collaborative and interactive augmented reality experiences.",
+    "language": "English",
+    "title": "ARCore - Basics and Tools",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "AFF-5103": {
+    "complexity": "Beginer",
+    "speakers": [
+      "109d33decd394492fbd5b99a92dd7607d821d27c"
+    ],
+    "description": "The first question Android developers ask me when they learn that I do talks about the Google Assistant is: *\"OH! I have this awesome app that has this use case and I totally want to integrate it with the Google Assistant so I can do hands-free actions inside my app\"*. This is a genuine question with a complicated answer. \r\n\r\nThere are several tools out there that you can use to address this problem: Dialogflow, TensorFlow (Mobile, Lite), ML Kit, Cloud APIs, Auto ML. The most impressive thing? They're all Google solutions! If you're not confused yet, take a look at Google Maps that \"integrated\" with the Google Assistant when you're in itinerary mode and App Actions that are supposed to help Android developers take advantage of Actions on Google.\r\n\r\nIn this talk, I'm *not* talking about integrating your app with the Google Assistant, but rather how Android developers can add voice actions in their app (not via the Google Assistant). I'll then talk about both ecosystems (Android and Assistant) and how they interact with each other.",
+    "language": "English",
+    "title": "Integrating Android with the Google Assistant",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "DFO-2916": {
+    "complexity": "Beginer",
+    "description": "Functions that take a long time to return are a problem because they block the calling thread, which could be the main thread, where your UI runs.\r\nYou can workaround this issue by using callbacks instead, but it introduces other issues:\r\n\r\n- Mangled functions signatures\r\n- Inability to use even simple language constructs like `if`, `while` or local variables\r\n- More verbose usage (boilerplate never scales well)\r\n- Harder error/exception handling\r\n\r\nSeeing it brings more problems than it solves helps us understand why people refer to **callback hells**.\r\n\r\nThere's been attempts to circumvent these issues with AsyncTask (no comment), Futures (from JDK, Guava, and more), Tasks API (from Google Play Services), reactive programming (e.g. RxJava used for threading and callbacks), and none solves all the issues mentioned above.\r\n\r\n**Kotlin coroutines are changing the game** with an implementation of the nearly 60 years old concept that **brings back the simplicity of blocking code**, without the blocking issue.\r\n\r\nIn this talk, you'll see how any waiting or blocking code can be made easier to write and read.\r\nYou'll learn how to use kotlinx.coroutines correctly in Android, and peek at how it all works.",
+    "language": "English",
+    "speakers": [
+      "cb2e16407c778831b4f990bfbd556135c507867f"
+    ],
+    "title": "Making any codebase more readable with Kotlin coroutines",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "SCS-0941": {
+    "complexity": "Beginer",
+    "speakers": [
+      "be0712870b4c90334f276a529f5a8f3fcebe50da"
+    ],
+    "description": "Kotlin changed the way we code!\r\nBut did you already adapt the way you test?\r\nThe language offers new possibilities but also offers challenges, just think of Coroutines.\r\nLet's write nice and clean Kotlin tests together.\r\n",
+    "language": "English",
+    "title": "Effective Unit testing with Kotlin",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "VUR-7482": {
+    "complexity": "Beginer",
+    "speakers": [
+      "855a1af7d899d1dd7bfe11b340f628fe70ef54a9"
+    ],
+    "description": "Even among machine learning experts, we have encountered many myths about on-device machine learning:\r\n1. Android is not powerful enough for machine learning\r\n2. Machine learning is not for me, it’s for people with PhDs\r\n3. Machine learning requires a lot of data - millions and billions of samples.\r\n\r\nIn this talk, Hoi will bust some myths with live demos and introduce best practices for developers to get around the reality of building everyday ML use cases including barcode scanning, AR stickers and more, on Android. Also, some core Android functionalities might surprise you… in a good way.\r\n",
+    "language": "English",
+    "title": "Myths and Reality of Android Machine Learning",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "AMU-5195": {
+    "complexity": "Beginer",
+    "speakers": [
+      "fb805760b311d7dea7963afcd97f9613303f7722"
+    ],
+    "description": "After TensorFlow Lite, MLKit  promises to be our new tool to make our apps smarter. The possibility to integrate our model directly on Firebase is crazy, but the second part (often put aside) deserves our attention.\r\nBased in majority on deprecated Mobile Vision, the few models offered by Google already give us something to enjoy. Most of them is available offline: so we can imagine the extent of the possibilities!\r\n\r\nCome with me to discover these APIs: how and why to use them.\r\n\r\nApres TensorFlow Lite, ML Kit s’annonce être notre nouvel outil pour rendre nos apps intelligentes. La possibilité d’héberger nos modèles sur Firebase est déjà folle, mais la seconde partie (souvent vite vu) mérite notre attention. \r\nBasée en grande partie sur feu-Mobile Vision, les quelques modèles proposés par Google nous donnent déjà de quoi nous amuser. La plupart sont disponible offline: on peut donc imaginer l’étendue des possibilités!\r\n\r\nJe vous propose de m’accompagner dans la découverte de ces API: comment et pourquoi les utiliser.\r\n",
+    "language": "English or French",
+    "title": "Do you want an easy way to add Machine Learning into your app?",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "QIW-9288": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "8f68e78b32a10a76333bab554eb2ad6532d0aa50"
+    ],
+    "description": "Until now, in order to perform background work in Android, developers had to choose between multiple execution options. At Google I/O 2018, the Android team launched WorkManager as part of the Android Jetpack. This library provides a simple and clean interface to specify deferrable, asynchronous tasks and when they should run.\r\nThe presentation will include an overview about the existing background solutions, what’s happening behind the scenes and why and when we should use WorkManager. Also, we will discover details about the architecture of the WorkManager library and about the main components(Worker, WorkRequest, WorkManager, WorkInfo) of it. Finally, we will highlight how to use WorkManager for scenarios like chained sequences of tasks that run in a specified order, unique named sequences, tasks that pass and return values and how to apply constraints in order to decide when to run the task.",
+    "language": "English",
+    "title": "Workout your tasks with WorkManager",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "XQK-8719": {
+    "complexity": "Beginer",
+    "speakers": [
+      "7c3c8d4952ab519203050d818cb1f3d6193ec605"
+    ],
+    "description": "*Vector-drawables, 9 Patches, layer-list, multi-densities, screen sizes*: Android provides many ways to use graphical resources in an application and deal with the fragmentation. The goal of this talk is to take a tour of the available resources that developers can use in their application, see what tools Android Studio provides to manage those resources, how these resources are embedded into the APK and what how the framework uses them at runtime.",
+    "language": "English",
+    "title": "A resourceful talk about Android Resources",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "RBU-3913": {
+    "complexity": "Beginer",
+    "speakers": [
+      "c51d1bb67a1dc86f27d7e9db63baae388dba5816",
+      "78c3edf266c08db4ad6c86f2019ab7b7fb1082f4",
+      "bb6d8ab858c76a2ae9bd19825398562f8c36b3d5"
+    ],
+    "description": "What’s that Flutter everybody in mobile development is talking about these days? Another new thing that will be forgotten by this time next year or a true revolution in mobile apps development? Is it really worth my time?\r\n\r\nFlutter is Google's mobile SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.\r\n\r\nBeyond the commercial pitch, in this codelab you will create a simple Flutter app and discover the features that make Flutter one of the most pleasant and productive development platform.\r\n\r\nYou need to bring your own laptop and validate the following steps :\r\n\r\n* https://flutter.io/docs/get-started/install\r\n* https://flutter.io/docs/get-started/editor\r\n* https://flutter.io/docs/get-started/test-drive\r\n\r\nThe demo app is running on your simulator? Let's go with Flutter!!!\r\n\r\nNB: We can speak in French or in English.",
+    "language": "English or French",
+    "title": "Write your first Flutter App",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
