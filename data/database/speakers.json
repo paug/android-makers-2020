@@ -808,5 +808,105 @@
         "name": "Blog"
       }
     ]
+  },
+  "76bf11899131efa3b3d975aa262c6c4a374e4dcf": {
+    "order": 24,
+    "featured": false,
+    "badges": [],
+    "company": "Ginosi Apartels and Hotels",
+    "companyLogo": "/images/logos/ginosi.svg",
+    "name": "Karapet Gyumjibashyan, PMP",
+    "country": "Armenia",
+    "photo": "/images/people/karapet_gyumjibashyanpmp.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fkarapet_gyumjibashyanpmp.jpg?alt=media&token=32a1e13e-b84c-4074-a05c-a885752744f0",
+    "bio": "I'm interactive, I'm hyperactive and from time to time I'm radioactive\r\n\r\nI'm leading the technology innovation team at Ginosi Apartels, working on building the new type of hotels which provide amazing guest experience enabled by technology. \r\n",
+    "shortBio": "I'm interactive, I'm hyperactive and from time to time I'm radioactive\r\n\r\nI'm leading the technology innovation team at Ginosi Apartels, working on building the new...",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/karapetgyumjibashyan/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "469f96c27458e9ea274351d9be8402ad54b4c803": {
+    "order": 25,
+    "featured": false,
+    "badges": [],
+    "company": "friendlyrobot.nyc",
+    "companyLogo": "/images/logos/friendlyrobotnyc.png",
+    "name": "Brian Plummer",
+    "country": "New York City, United States",
+    "photo": "/images/people/brian_plummer.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbrian_plummer.jpg?alt=media&token=8eacec8c-4b06-47f2-816f-64b7f8686cc3",
+    "bio": "I'm a passionate product focused developer that has been writing Android applications for 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab.",
+    "shortBio": "I'm a passionate product focused developer that has been writing Android applications for 8 years. I started working on Android for TouchLab then the The New York...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/plummermakes",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/brian-plummer-a566822/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "d2465df643f7c6cc758eda0bd047621e2ffddaa6": {
+    "order": 26,
+    "featured": false,
+    "badges": [],
+    "company": "FABERNOVEL TECHNOLOGIES",
+    "companyLogo": "/images/logos/fabernovel.svg",
+    "name": "Hugo Hache",
+    "country": "New York City, United States",
+    "photo": "/images/people/hugo_hache.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fhugo_hache.jpg?alt=media&token=26612cfd-9ee8-420a-a15a-f9b19bf34800",
+    "bio": "Des images de synthèse pendant mes études, au développement iOS de mes premières années de développeur, en passant par le création d'une équipe back Ruby on Rails, ma curiosité déraisonnable m'a permis de toucher à des domaines assez différents. \r\n\r\nJe passe beaucoup trop de temps sur Hacker News à m'informer sur des sujets auxquels je ne connais rien, mais ça a l'avantage de donner matière à conversation avec son voisin de conférence.\r\n\r\nAujourd'hui CTO chez FABERNOVEL TECHNOLOGIES, j'ai la chance de pouvoir venir vous parler de tous ces sujets qui me passionnent.",
+    "shortBio": "Des images de synthèse pendant mes études, au développement iOS de mes premières années de développeur, en passant par le création d'une équipe back...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/hugo_hache",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/hugohache/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "6352b1f89b94a70cb615c7e6ec9af9b97f5e7e16": {
+    "order": 27,
+    "featured": true,
+    "badges": [],
+    "company": "Worldline by ATOS",
+    "companyLogo": "/images/logos/worldline.svg",
+    "name": "Bruno Verachten",
+    "country": "Seclin, France",
+    "photo": "/images/people/bruno_verachten.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbruno_verachten.jpg?alt=media&token=383523a8-e122-42eb-bfe2-393f89c2523f",
+    "bio": "Father of *two*, husband of *one*, geek in denial, fond of handheld devices since 1989, beekeepeer and [permie].\r\n`#Linux #Android #Docker #ARMV8 #IOT`\r\n\r\n* Joined [Worldline] in 1999.\r\n* Currently works as an continuous integration for mobile development specialist in a transversal unit. \r\n* Fond of Linux and open source, hand-held devices ([SBC]...).\r\n* Also interested in new techniques in gardening, woodworking by hand, bike commuting and tons of other subjects.\r\n* Disguised as taciturn, but a chatterbox.\r\n\r\nTrying to push the use of ARM Socs in his job and everywhere [else]...\r\n\r\n[permie]: https://www.credential.net/5ufvm4zp\r\n[Worldline]: https://worldline.com/\r\n[SBC]: https://www.armbian.com/download/\r\n[else]: https://github.com/gounthar",
+    "shortBio": "Father of *two*, husband of *one*, geek in denial, fond of handheld devices since 1989, beekeepeer and [permie].\r\n`#Linux #Android #Docker #ARMV8 #IOT`...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/poddingue",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/bruno-verachten-2096449a/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@poddingue",
+        "name": "Blog"
+      }
+    ]
   }
 }
