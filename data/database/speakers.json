@@ -49,7 +49,7 @@
     "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=20de7afb-f209-4ebe-a23e-027a5ee6fe28",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fromain_guy.jpg?alt=media&token=8f4b36fe-97bf-4266-a9cd-2e699dd85f56",
     "name": "Romain Guy",
-    "country": "Mountain View, United States",
+    "country": "San Francisco, United States",
     "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
     "companyLogo": "/images/logos/google.svg",
     "photo": "/images/people/romain_guy.jpg",
@@ -906,6 +906,240 @@
         "icon": "website",
         "link": "https://medium.com/@poddingue",
         "name": "Blog"
+      }
+    ]
+  },
+  "5978cd774e924d51f2923d8620f1346a3392263c": {
+    "order": 28,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Designer and Engineer"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Nick Butcher",
+    "country": "London, UK",
+    "photo": "/images/people/nick_butcher.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fnick_butcher.jpg?alt=media&token=f770d87f-43da-4669-a681-7e47c33267ce",
+    "bio": "Nick is an Android Designer and Engineer in Google's London office where he helps designers and developers to create sublime mobile apps.",
+    "shortBio": "Nick is an Android Designer and Engineer in Google's London office where he helps designers and developers to create sublime mobile apps...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/crafty",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@crafty",
+        "name": "Medium"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/nickbutcher",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "577e9daa13bf52cf00a48a6304fc2332e060d73d": {
+    "order": 29,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/cyril-mottier",
+        "name": "gde"
+      }
+    ],
+    "company": "Zenly",
+    "companyLogo": "/images/logos/zenly.svg",
+    "name": "Cyril Mottier",
+    "country": "Nantes, France",
+    "photo": "/images/people/cyril_mottier.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fcyril_mottier.jpg?alt=media&token=819412e8-6fc8-4cc7-bae3-6eb03bdc9e9e",
+    "bio": "An Android developer that is a bit nostalgic about Android 1.0 😂",
+    "shortBio": "An Android developer that is a bit nostalgic about Android 1.0 😂...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/cyrilmottier",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://cyrilmottier.com",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/cyrilmottier",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "96c6201599b5aea0e119a60ab9ebbf185be421b5": {
+    "order": 30,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Developer advocate with the Firebase team"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Doug Stevenson",
+    "country": "Sunnyvale, United States",
+    "photo": "/images/people/doug_stevenson.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdoug_stevenson.jpg?alt=media&token=8d65f6d9-7200-4a51-b00e-ba3b1ae932e7",
+    "bio": "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He's been developing for Android since the very first Android device was on the market, and has bootstrapped the efforts of silicon valley startups.  Outside of work, Doug follows professional ice hockey and enjoys craft beer.\r\n",
+    "shortBio": "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He's been developing for Android since the very first...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/CodingDoug",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/codingdoug/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://firebase.google.com",
+        "name": "Blog"
+      }
+    ]
+  },
+  "d2a0ee8397721dab722a6f969532df215dad171c": {
+    "order": 31,
+    "featured": false,
+    "badges": [],
+    "company": "Blinkist",
+    "companyLogo": "/images/logos/blinkist.png",
+    "name": "Anita Singh",
+    "country": "Berlin, Germany",
+    "photo": "/images/people/anita_singh.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fanita_singh.jpg?alt=media&token=482cffad-5dac-46a0-b448-b35e3f6d0c76",
+    "bio": "Anita Singh is a Senior Android Engineer at Blinkist who recently moved to Berlin from Silicon Valley, where she lead mobile development at an early-stage startup. She transitioned from backend to Android development four years ago, and has never looked back! She is passionate about building beautiful and responsive apps, and making Android development more approachable for everybody.\u2028",
+    "shortBio": "Anita Singh is a Senior Android Engineer at Blinkist who recently moved to Berlin from Silicon Valley, where she lead mobile development at an early-stage startup...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/anitas3791",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@anitas3791",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/anitasinghusc",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.blinkist.com/",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/anitas3791",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "7d6c66f700e20f82bdfa02c954a83d13f05d63df": {
+    "order": 32,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Developer Programs Engineer"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Jose Alcérreca",
+    "country": "Madrid, Spain",
+    "photo": "/images/people/jose_alcerreca.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjose_alcerreca.jpg?alt=media&token=60e5f34d-75cc-44c3-90c5-f3d7010acae8",
+    "bio": "Jose is a Developer Programs Engineer at Google where he works to make the Android developer experience better, focusing on architecture and testing. He works on open-source projects such as Architecture Blueprints and the Jetpack architecture samples. He also writes documentation, codelabs, articles and does outreach.\r\nRecently, he's been focusing on the Architecture Components and Jetpack releases, and the Data Binding library.\r\n",
+    "shortBio": "Jose is a Developer Programs Engineer at Google where he works to make the Android developer experience better, focusing on architecture and testing. He works on...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ppvi",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+JoseAlcerreca",
+        "name": "Google+"
+      }
+    ]
+  },
+  "822864bbbee048b2f933cbe80197c80b36e291a3": {
+    "order": 33,
+    "featured": false,
+    "badges": [],
+    "company": "Nordic Usability",
+    "companyLogo": "/images/logos/nordicusability.png",
+    "name": "Lorica Claesson",
+    "country": "Zurich, Switzerland",
+    "photo": "/images/people/lorica_claesson.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Florica_claesson.jpg?alt=media&token=1a9ed4bf-885c-4ebd-8b2d-4cc09a160c38",
+    "bio": "Lorica is a UX Designer with a twist, having both a design and technical background.\r\n\r\nShe is passionate about innovative desktop, web and mobile applications that are tailored for real users. Designing engaging and easy-to-use interfaces backed up by a solid technical understanding of what is feasible and using a range of methods for understanding what users really want and need.\r\n",
+    "shortBio": "Lorica is a UX Designer with a twist, having both a design and technical background.\r\n\r\nShe is passionate about innovative desktop, web and mobile applications...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/lorica",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "nordicusability.com",
+        "name": "Blog"
+      }
+    ]
+  },
+  "bee9073d3e8e1f966338d0cf74c4d34708270008": {
+    "order": 34,
+    "featured": false,
+    "badges": [],
+    "company": "Instagram",
+    "companyLogo": "/images/logos/instagram.svg",
+    "name": "Jag Saund",
+    "country": "San Francisco, United States",
+    "photo": "/images/people/jag_saund.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjag_saund.jpg?alt=media&token=7012f563-7730-4cb1-8667-f3b7238aac67",
+    "bio": "Jag is a software engineer at Instagram. He has spent a decade developing mobile apps for Android with a focus on various facets of the media pipeline (camera, audio, video, live streaming). More recently he has been focused on coaching engineers and experimenting with the latest frameworks.\r\nIn his spare time, Jag dabbles in landscape photography.",
+    "shortBio": "Jag is a software engineer at Instagram. He has spent a decade developing mobile apps for Android with a focus on various facets of the media pipeline...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/jagsaund",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jagsaund",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@jagsaund",
+        "name": "Medium"
       }
     ]
   }

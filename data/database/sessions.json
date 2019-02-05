@@ -367,5 +367,114 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "KOV-9403": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "5978cd774e924d51f2923d8620f1346a3392263c"
+    ],
+    "description": "Animations bring your app to life but often we write them as pre-canned sequences that once started can’t be interrupted or redirected. Modern Android apps are reactive to state changes… your animations should be as well. This talk looks at techniques for writing animations that work like state machines, that can be interrupted or retargeted while running. We’ll look at ways to architect your animations to achieve this, and libraries and classes that we can utilize.",
+    "language": "English",
+    "title": "Motional Intelligence: Build smarter animations",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "comedy": {
+    "complexity": "Beginer",
+    "speakers": [
+      "379c162aac12eca2deca690287b54ad270cc2e40",
+      "4a7ca4c16cbe81a612bf3011a3d3439f85408103"
+    ],
+    "description": "",
+    "language": "English",
+    "title": "Closing conference",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "BXQ-5942": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "577e9daa13bf52cf00a48a6304fc2332e060d73d"
+    ],
+    "description": "Android is a marvelous platform that has been evolving for more than 10 years now. Having such a large framework and so many APIs, some of thme comes with their questions and puzzlers. In this talk, we will present some of the weirdest API usage/results and give an explanation for each of them.",
+    "language": "English",
+    "title": "Android Puzzlers",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "QMW-7145": {
+    "complexity": "Expert",
+    "speakers": [
+      "96c6201599b5aea0e119a60ab9ebbf185be421b5"
+    ],
+    "description": "If you’ve used Firebase Performance Monitoring, you know that it automatically discovers and reports performance metrics for all the HTTP transactions in your app.  But have you ever wondered how it does that?  Android doesn’t provide any APIs to listen in on an arbitrary connection (that would be a security problem!), and Firebase supports URLConnection, Apache, and OKHTTP APIs.  The secret here is bytecode manipulation at build time using the Transform API provided by the Android build tools.  Join this session to find out how the Firebase Performance Monitoring Gradle plugin intercepts and measures HTTP transactions at runtime with some assistance from bytecode manipulation at build time.\r\n",
+    "language": "English",
+    "title": "(Android) Transformers - bytecode in disguise!",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "VOJ-6007": {
+    "complexity": "Beginer",
+    "speakers": [
+      "d2a0ee8397721dab722a6f969532df215dad171c"
+    ],
+    "description": "You want to style the title of dialogs throughout your app and you think it should be simple enough. However, once you dive into it, you might start asking questions - should I use alertDialogTheme or alertDialogStyle? Should I use windowTitle or dialogTitle? It is no secret that the styling and theming system in Android is complex, but I promise there is some method to the madness! We can avoid writing custom components just to achieve pixel perfection if we know how tame to the beast.\r\n\r\nIn this talk, we will learn about the difference between themes and styles, the hierarchy of different styling techniques and how to use them effectively. We will also learn how they work internally, and the best practices of how to apply them. We will wrap up by discussing the newest app theme in town - the Material Components Theme and the attributes that come with it, like “colorOnSurface”.  \r\n\r\nAt the end of this talk, you will know how to style your app like a pro with the correct use of Styles, Themes, TextAppearance and sensible defaults while specifying colour, shape and typography through Material Theming.\u2028",
+    "language": "English",
+    "title": "Styles, Themes, Material Theming, Oh My!",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "MKQ-2052": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "7d6c66f700e20f82bdfa02c954a83d13f05d63df"
+    ],
+    "description": "Data binding is great for eliminating boilerplate and keeping UIs in sync with your state… but there's a lot more that it can do. This talk will take you through the more advanced features of Data Binding, beyond the basics. It will cover using custom binding adapters, two-way binding, animations and testing considerations. Moreover it examines how using Data Binding influences your app's architecture. You'll learn how to get the most out of Data Binding so that you can write less repetitive, safer, efficient apps.",
+    "language": "English",
+    "title": "Advanced Android Data Binding",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "GAO-2888": {
+    "complexity": "Beginer",
+    "speakers": [
+      "822864bbbee048b2f933cbe80197c80b36e291a3"
+    ],
+    "description": "In this talk, you will learn about best practices to gather insights,  mixed with real life experiences and anecdotes. Understand why people are doing certain tasks, not only what they are doing. \r\nBasically, improve your apps, by asking the right questions.\r\n\r\nNo budget for user research? Learn what you can do under the radar to understand the user behaviour better. You will get examples on how it can be done, regardless if you are a bigger company, or an indie developer! ",
+    "language": "English",
+    "title": "The difference between what and why.",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "HJM-2968": {
+    "complexity": "Beginer",
+    "speakers": [
+      "a14457ee24a86a604c55d6774bed5483b630e78f"
+    ],
+    "description": "A bunch of Google Developers Experts will come on stage, discovering a few applications in live, they will provide feedback and advices to the developers.\r\nPropose your application for the review by sending the Play Store link or the APK to contact@androidmakers.fr",
+    "language": "English",
+    "title": "App Clinic",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "VQS-5461": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "bee9073d3e8e1f966338d0cf74c4d34708270008"
+    ],
+    "description": "Writing multi-threaded software is hard. Debugging and chasing down problems like deadlocks, race conditions, and memory leaks is even harder.\r\nKotlin takes a different approach. It doesn't have to be so hard. Learn how you can write concurrent and asynchronous software using coroutines. And stop sharing memory to communicate mutable data. Leverage channels to safely communicate across coroutines.",
+    "language": "English",
+    "title": "Concurrency doesn't have to be hard: Kotlin Coroutines and Channels",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
