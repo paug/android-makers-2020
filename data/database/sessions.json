@@ -476,5 +476,248 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "ODA-3499": {
+    "complexity": "Beginer",
+    "speakers": [
+      "ebe349a84d93b180def160c8a4731efd3b4a44f4"
+    ],
+    "description": "Do you exactly know what's your app doing when you deliver it to your users? Are you 100% sure? Would you bet on this? You're probably confident with the code you wrote and you know what is doing. \r\n\r\nBut what about the code that others wrote? \r\n\r\nWe pull dependencies from the online repositories every day. Our applications strongly rely on external libraries that are hosted on public Maven repositories. What if one of those library contains some malicious code? Imagine a library that starts harvesting your user data without you knowing it.\r\n\r\nIn this talk we will see how to monitor and protect your application from malicious dependency on the web that might end up in your final compiled App.",
+    "language": "English",
+    "title": "I have no idea what my app is doing ¯\\_(ツ)_/¯",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "HXB-5769": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "5bdfb67feee7e1b26c4a99834b480ecbd8318405"
+    ],
+    "description": "Que l’on développe une application pour smartphones ou pour un IoT, la connectivité est un élément clé. Idéalement, on voudrait à la fois minimiser la latence et la consommation d’énergie. Concrètement, c’est difficilement faisable. En balayant tout un tas de technos, du WiFi à LTE-M, en passant par la 2,3,4,5G, nous verrons les mécanismes qui sont mis en place pour préserver l’autonomie d’un appareil et qui inévitablement induisent de la latence.",
+    "language": "French",
+    "title": "Energie, latence: je t'aime, moi non plus",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "XVO-2305": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "f58390d96ca39df86db9d7d5a3c5a237261b7c18"
+    ],
+    "description": "Recruter des talents dans le marché de l'informatique relève aujourd'hui de la gageure, et le déséquilibre entre l'offre et la demande entraîne une forte concurrence entre les entreprises.\r\n\r\nQuelles sont les clés pour maximiser les chances de recruter la personne que vous voulez :\r\n\r\n- Vaut-il mieux débusquer un _senior_ quitte à le payer très cher, ou investir sur un _junior_ ? Et comment le former le cas échéant ?\r\n- Que recherchent vraiment les candidats dans votre société, petite ou grande, et comment faire valoir vos atouts ?\r\n- Quels sont les médias disponibles pour rechercher des candidats, et comment sortir du lot sur les réseaux ?\r\n- Quels sont les points d'attention pendant le processus de recrutement ?\r\n\r\nNous tenterons d'aborder l'ensemble de ces questions en apportant des réponses circonstanciées - basées sur des exemples et des chiffres - et nous nous efforcerons de montrer que le recrutement d'un bon développeur est encore possible de nos jours.",
+    "language": "French",
+    "title": "Recruteurs, développeurs, bonne humeur",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "IVS-2334": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "ef8733e13308cd31795794c16320420436c045a9"
+    ],
+    "description": "A core use-case for Facebook for Android is scrolling through a feed of autoplaying videos. We've needed to have a deep understanding of video playback to optimize performance in our apps.\r\n\r\nIn this talk, we’ll examine the details behind video playback on Android. We’ll look at the actors that play a role in delivering decoded video pixels to the screen. We’ll go beyond the high-level MediaPlayer / ExoPlayer components and examine what's happening in the system. Understanding how video playback works under the hood can help you figure out how to get the best performance for your applications.\r\n\r\nWe’ll cover the details behind fundamental graphics components used by video rendering: e.g. SurfaceView, TextureView, SurfaceTexture, etc. These components also enable more complex media rendering such as 360 videos, 3D scenes, and AR experiences.\r\n\r\nWe hope to leave you empowered to look deeper into the Android system beyond the high-level Android framework components and expand your knowledge and expertise.",
+    "language": "English",
+    "title": "Rendering Video: A Detailed Look at Video Playback on Android",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "LNH-0175": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "e8187155eb33d38ede094437f68e66e4fb961811"
+    ],
+    "description": "Wind back one year ago:\r\n- releasing took us 10 weeks\r\n- our app was plagued by regression\r\n- developers felt completely detached from our users\r\n\r\nClearly our traditional strategy of heavily testing each release (up-front quality) wasn't working. So we decided to flip things around: why not try to reduce the cost of errors instead? Hence we decided to move our Philips Hue Android app to continuous deployment.\r\n\r\nIn this talk you will learn that if releasing is painful, you should actually release even more often. Step by step I'll explain how we moved the Philips Hue Android app to continuous deployment, what our current release process/CI looks like, what changes we made to our overall testing approach, how we empowered developers and testers, and how we made our release process completely painless.",
+    "language": "English",
+    "title": "Journey to painless releases: Continuous delivery for Philips Hue Android",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "LQF-6083": {
+    "complexity": "Beginer",
+    "speakers": [
+      "115f4a6f8cecc960e8936c3d4429d26004083556"
+    ],
+    "description": "We Android developers love desert. We love pie. We can't eat up a whole pie, but we can eat as many slices as we want.\r\nAndroid has a new API called Slices which is part of the AndroidX libraries. I'll show you how you can use it to serve slices of your app to any other apps like Google Search or Assistant but also any other app and in any Android desert you love.\r\n",
+    "language": "English or French",
+    "title": "Slices up your app!",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "HZY-9508": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "de70b5c556753d7ea84b24cf96b188e82d2e84ef"
+    ],
+    "description": "Many teams are designed so that engineers can take an abstract view of the customer and focus on implementation. But when the customers are other engineers, that entire dynamic is thrown on it's head.\r\n\r\nIn this talk, Ty will walk you through the best practices of building great products for developers, from team processes to the technical delivery.\r\n\r\nTopics covered will include: Building customer personas and product strategies, Developer Experience research and analytics, customer empathy and support structures, API Design and usability, testing, code distribution, and creating great documentation.",
+    "language": "English",
+    "title": "Building for Developers",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "EHB-6826": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "0f5e9b36c145d15e6f4e60b330f978dfe843731a"
+    ],
+    "description": "You're right, that title seems scary: there are so many complicated words and we all know there's no silver bullet in programming.\r\n\r\nSo instead of explaining why an architecture is better than another, let's discuss some issues we face in our daily Android development job and how we can solve those through 3 examples:\r\n\r\n1. I have crashes I can't reproduce.\r\n2. Integration tests are great and necessary to ensure a complete flow is working as expected, but they are complex to set up, and it takes time to run the whole test suite when using an instrumentation tool such as Espresso\r\n3. My legacy app has some \"startActivity\" calls in activites, fragments, custom views, and even in RecyclerView adapters (who did that !?!). I have no visibility regarding the overall navigation of and the code is sometimes hard to follow.\r\n\r\nWe will see today the concepts underneath and how such an architecture can be implemented using functional programming patterns through writing a Kotlin DSL.\r\n\r\nAt the end of the talk, you will get a new, fresh, vision on how to approach programming on Android, through a unidirectional data flow structure, and maybe you'll be interested in implementing a similar architecture.",
+    "language": "English or French",
+    "title": "The Rise Of The State Machines: An introduction to predictable state container based architectures for your Android apps",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "JJK-6338": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "6ce3af5e301140503905b5496e0a2294e0d649fe"
+    ],
+    "description": "One of the stated goals of Android Architecture Components is to make it easier for developers to manage the lifecycle of application components. However, when looking at the full picture of combining configuration changes and background memory constraints with static and dynamic state, the basic examples provided in the documentation begin to show their limitations. A more in-depth exploration is needed.\r\n\r\nWe'll look at how to combine bundles and view models to fully persist the state of the application during its lifecycle. Using coroutines for concurrency, we'll see how dynamic state restoration can be achieved.\r\n\r\nGoing over increasingly complex examples of state restoration constraints, we'll see how our implementation of state restoration grows and evolves.",
+    "language": "English",
+    "title": "State Restoration - The full Picture (With Coroutines)",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "PJX-9369": {
+    "complexity": "Beginer",
+    "speakers": [
+      "e3d707eac34855001324081f4355fbb6c4c4a0ad"
+    ],
+    "description": "Quand on parle d’accessibilité, on pense automatiquement aux rampes d’escaliers, ou aux places de parking. Mais qu’en est-il de l’accessibilité des applications mobiles ?\r\nCette présentation fera un tour des préconisations aussi bien UX/UI que techniques. Comment savoir si je dois utiliser un contentDescription ou un labelFor, quelle est la taille idéale des cibles tactiles (d'ailleurs c’est quoi une cible tactile ?), quels indices rajouter à mes interfaces, quel ratio de contraste de couleur ? LTR vers RTL, comment gérer ? Comment utiliser TalkBack ? Et toutes ces questions que l’on peut se poser (ou que l’on ne s'est pas encore posées) légitimement.\r\n\r\nRappelez-vous de Gandalf qui se cognait partout dans la petite maison de Bilbon Sacquet, le hobbit. La maison conçue pour des Hobbit par des Hobbit, n’était pas du tout adaptée à Gandalf qui faisait  votre taille.\r\nQuand on conçoit / développe une application, cela ne demande pas plus d’effort de cibler un plus large public…encore faut-il savoir comment.\r\n\r\nCe talk est justement pour tous ceux qui souhaitent en savoir plus à ce sujet, pour faciliter l'accès à l'information à une plus grande partie de la population.",
+    "language": "French",
+    "title": "L’accessibilité sur Android en 2019",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "VTN-7485": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "370e6c635f61bb5c39e82f411e8a639d0fdaf7ce"
+    ],
+    "description": "Comment créer un système capable de stocker et partager des fichiers de manière sécurisée dans une architecture Zero-Knowledge (sans faire confiance aux serveurs) ?\r\n\r\nComment gérer le chiffrement de fichiers volumineux et les droits d'accès distants ? Quelles sont les principales limitations ? etc...\r\n\r\nAu travers d'un projet concret (aujourd'hui utilisé par des millions d'utilisateurs), il vous sera détaillé l'architecture choisie et les détails techniques permettant son implémentation côté client et serveur.\r\n\r\n",
+    "language": "English or French",
+    "title": "Stockage et partage sécurisé de fichiers volumineux",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "ZCO-9565": {
+    "complexity": "Beginer",
+    "speakers": [
+      "48dedc7f7959765bcb75a87297c7232d70a317ee"
+    ],
+    "description": "La plupart d'entre vous connait le développement et le cycle de vie des applications Android.\r\nCependant, savez-vous quels mécanismes sont mis en oeuvre par Android pour isoler les applications les une des autres?\r\nVoyons ensemble tout ces mécanismes qui permettent de sécuriser l'OS mobile le plus utilisé au monde.\r\n",
+    "language": "French",
+    "title": "Le sandboxing applicatif d'Android",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "GMB-7169": {
+    "complexity": "Beginer",
+    "speakers": [
+      "00c74c65d0b0d9a25494245a768c5c3b9fcedd2a"
+    ],
+    "description": "On vous demande de coder une *vue custom* ? Peur de l'inconnu, le mot canevas fait peur à entendre, n'ayez crainte, c'est beaucoup beaucoup plus compliqué sur papier que ça ne l'est dans le code !\r\n\r\nNous apprendrons ensemble : \r\n- comment utiliser les classes Canvas et Paint\r\n- comment dessiner des vues simples : Rectangles, Ronds\r\n- comment dessiner des vues un peu plus complexes : RoundRect, Triangles\r\n- comment animer notre vue custom",
+    "language": "French",
+    "title": "S’il te plait, dessine moi une vue",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "JOO-6049": {
+    "complexity": "Beginer",
+    "speakers": [
+      "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce"
+    ],
+    "description": "Koin (https://insert-koin.io) is a pragmatic dependency injection framework for Kotlin/Android developers. Let's see how it will make your life easier thanks to the power of Kotlin language: from basics to the setup of Android architecture's components, without forgetting the testing part...  And of course, how to migrate your \"old\" Dagger project. \r\n\r\nAt the menu also, the presentation of the new 2.0 release and some advanced APIs!",
+    "language": "English",
+    "title": "Dependency injection from zero to hero with Koin",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "NOG-9878": {
+    "complexity": "Beginer",
+    "speakers": [
+      "a1ffbd4128a49788bb27672ad70bed1233dd1d66"
+    ],
+    "description": "Lorsque l'on travaille sur une application mobile, on se focalise surtout sur l'architecture, l'implémentation des fonctionnalités et éventuellement le design.\r\nOr lorsque l'on travaille dans une entreprise avec un département Marketing, ou simplement si l'on veut optimiser l'usage d'une app, nous sommes systématiquement confrontés à l'implémentation des analytics dans notre code. Et cela peut vite tourner au cauchemar si l'architecture de l'application n'y est pas préparée ou si le plan de tag n'est pas bien pensé. Nous verrons ici comment bien architecturer son app pour pouvoir les ajouter sans _tordre_ son code mais également comment bien définir les évènements et valeur à remonter.",
+    "language": "French",
+    "title": "Les analytics c'est bon, mangez-en !",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "ZPO-7428": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "0e8d0e049c4950ba8b15e76897680e14b6101a1d",
+      "70987167704d4d09a43b16f559b4d354389bbb46"
+    ],
+    "description": "Grâce à Kotlin/Native, disponible en version 1.0 depuis octobre, il est désormais possible d’utiliser Kotlin pour créer nos applications back et mobile natives en utilisant un même langage. Mais, en 2019, est-ce déjà une solution réellement viable ? Dans ce talk, nous allons vous présenter un retour d’expérience sur la création de notre application : de la création des Web Services avec Ktor aux clients iOS et Android, en passant par l'industrialisation et les tests.\r\n\r\nLe futur du développeur mobile serait-il full-stack ?",
+    "language": "French",
+    "title": "Kotlin end to end: du client au serveur",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "XWA-9893": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "93dc8e02bdf1513b877ea04d8d94b83ca00d116c"
+    ],
+    "description": "Si, il y a 10 ans, à cause d'un écosystème encore en construction, HTTPS était un protocole complexe à mettre en place, aujourd'hui il semble que c'est l'inverse.\r\n\r\nRejouons l'histoire pour découvrir et comprendre ensemble les différentes failles de sécurité qui ont poussé le Web à passer sur HTTPS ainsi que les implémentations associées sur Android.\r\n\r\nÀ travers du code et des analyses, implémentons, cassons et sécurisons ensemble du code réseau pour comprendre comment nous en sommes arrivés aux implémentations actuelles.\r\n\r\nNous découvrirons ensuite les limitations de 2019 : pouvons-nous empêcher tout le monde d'analyser notre traffic ? Qu'est-il possible de faire aujourd'hui, quels sont les risques pour l'utilisateur, le développeur, l'entreprise ? Quels sont les outils et bonnes pratiques pour empêcher ou au moins ralentir et complexifier nos analyses réseau par des personnes malicieuses ?",
+    "language": "English or French",
+    "title": "Sécuriser ses appels réseau Android, de 2009 à 2019",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "HDV-6804": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "d4af9db15742ba17b73c3ad1f57821e25e15983f",
+      "ccf70cece5f637610324d4a4fa188ddfdb5aaa03"
+    ],
+    "description": "Oui, on le sait : vous en avez assez des talks d'architecture mobile. On vous comprend, vous avez dû en voir des tonnes : utiles, superflus, simples, alambiqués, certains même imprononçables et là vous n’en pouvez plus.\r\n\r\nMais donnez-nous une chance : cette fois-ci nous voulons vous présenter une architecture que nous apprécions véritablement : simple, robuste, facilement testable et tirant profit des langages modernes comme Kotlin et Swift - Model-View-Intention. Inspirée de Redux, mais adaptée aux applications mobiles, MVI se sert d'immutabilité, flux de données unidirectionnel et binding pour faciliter débogage et testing et améliorer donc votre productivité. Applicable à Android et iOS, elle permet aussi de simplifier les échanges entre les équipes de développeurs d'applications mobiles natives.\r\n\r\nNous vous présenterons les éléments clés de l'architecture, sa mise en place, ainsi que l'implémentation des cas d'usage les plus communs, issus d'applications que nous avons réellement développées.",
+    "language": "French",
+    "title": "MVI : une architecture robuste et moderne",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "GBA-2488": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "0131a2bfbcc298b6be2339b868d91f62cda15336"
+    ],
+    "description": "GraphQL is not new, and REST is still around. Is it already time to switch? What tools can we rely on, as of today? Is the framework ready and suitable for everyone around?\r\nAt The New York Times, we invested heavily on this technology, so much that we actually created a whole new feature around it. Join us to discover the inner depths of GraphQL, how it works and how it can be integrated within a few days. Explore how you can make sure about what you write and test it out. And when it's time to optimize, maybe we can help it!",
+    "language": "English",
+    "title": "GraphQL in real life",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "ZPP-9970": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "4be0e0e99b3e04c7154d73ee45444b80d459f466",
+      "1fabaecfc95e03a8dfa95d783d59c0eb8f52900d"
+    ],
+    "description": "As developers, more often than not, you have access to fast and reliable internet connection, all day long. But the users you target won't. Limited data plans, unreliable network coverage, commuting : those are real obstacle that your users will see daily. This means that network will only be available at some times, and not necessarily when the user wants to interact with your application.\r\n\r\nOur talk will focus on creating a user experience with ‘offline’ being the default working state, and having access to the internet being a bonus for your users. We’ll see how to design your UI/UX to make offline more than an edge case scenario, as well as how to architecture your application, and which tools and libraries can help you to implement it.\r\n",
+    "language": "English or French",
+    "title": "“Make your app work perfectly offl…” — Connection Interrupted",
+    "tags": [
+      "Android Development"
+    ]
   }
 }

@@ -186,7 +186,7 @@
     "badges": [
       {
         "description": "GDG Brussels",
-        "link": "https://www.meetup.com/fr-FR/gdg-brussels/",
+        "link": "https://www.meetup.com/gdg-brussels/",
         "name": "gdg"
       }
     ],
@@ -389,7 +389,7 @@
       },
       {
         "description": "GDG Brussels",
-        "link": "https://www.meetup.com/fr-FR/gdg-brussels/",
+        "link": "https://www.meetup.com/gdg-brussels/",
         "name": "gdg"
       }
     ],
@@ -616,11 +616,17 @@
   },
   "fb805760b311d7dea7963afcd97f9613303f7722": {
     "order": 18,
-    "featured": false,
-    "badges": [],
+    "featured": true,
+    "badges": [
+      {
+        "description": "Women Techmakers",
+        "link": "https://www.womentechmakers.com",
+        "name": "wtm"
+      }
+    ],
     "company": "Disney Streaming Services",
     "companyLogo": "/images/logos/disneystreamingservices.svg",
-    "name": "Dupré Sandra",
+    "name": "Sandra Dupré",
     "country": "Amsterdam, The Netherlands",
     "photo": "/images/people/dupre_sandra.jpg",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdupre_sandra.jpg?alt=media&token=e56d7c2e-7567-463f-82ff-9522dc9657f0",
@@ -722,7 +728,7 @@
     "badges": [
       {
         "description": "GDG Android Nantes",
-        "link": "https://www.meetup.com/fr-FR/gdg_nantes_android/",
+        "link": "https://www.meetup.com/gdg_nantes_android/",
         "name": "gdg"
       }
     ],
@@ -748,7 +754,7 @@
     "badges": [
       {
         "description": "GDG Flutter Rennes",
-        "link": "https://www.meetup.com/fr-FR/Flutter-Rennes/",
+        "link": "https://www.meetup.com/Flutter-Rennes/",
         "name": "gdg"
       }
     ],
@@ -1140,6 +1146,659 @@
         "icon": "website",
         "link": "https://medium.com/@jagsaund",
         "name": "Medium"
+      }
+    ]
+  },
+  "ebe349a84d93b180def160c8a4731efd3b4a44f4": {
+    "order": 35,
+    "featured": false,
+    "badges": [
+      {
+        "description": "GDG Pisa",
+        "link": "https://gdgpisa.it/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Yelp",
+    "companyLogo": "/images/logos/yelp.svg",
+    "name": "Nicola Corti",
+    "country": "Hamburg, Germany",
+    "photo": "/images/people/nicola_corti.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fnicola_corti.jpg?alt=media&token=2c5432de-ccc4-424e-8bbc-6932a26cd48f",
+    "bio": "Nicola Corti has been an Android Software Engineer since 2.2, and a Free and Open Source lover for as long as he remembers. He’s currently working as an Android Engineer at Yelp Inc, connecting millions of users with great local businesses worldwide.\r\n\r\nNicola usually calls himself a 'community addict’. He can't survive without learning every day, sharing knowledge, and having fun with other developers. He’s also currently managing the GDG chapter in Pisa.\r\n\r\nIn his free time, he also loves photography, hiking, and cake design.\r\n",
+    "shortBio": "Nicola Corti has been an Android Software Engineer since 2.2, and a Free and Open Source lover for as long as he remembers. He’s currently working as an Android...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/cortinico",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://ncorti.com",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/cortinico",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "5bdfb67feee7e1b26c4a99834b480ecbd8318405": {
+    "order": 36,
+    "featured": false,
+    "badges": [
+      {
+        "description": "Code d'Armor",
+        "link": "https://codedarmor.fr/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Orange",
+    "companyLogo": "/images/logos/orange.svg",
+    "name": "Pierre Crépieux",
+    "country": "Lannion, France",
+    "photo": "/images/people/pierre_crepieux.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierre_crepieux.jpg?alt=media&token=9359f64f-ec09-4caa-9480-d5e09d637f18",
+    "bio": "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs avec des technos comme H.323, IMS, Réseau Intelligent, je suis passé de l'autre coté du réseau pour faire du développement Android. Aujourd'hui, je cultive et m'appuie sur cette double expérience pour investiguer les problèmes qui se posent à la frontière entre les deux.",
+    "shortBio": "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/PCrepieux",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/pcrepieux/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "f58390d96ca39df86db9d7d5a3c5a237261b7c18": {
+    "order": 37,
+    "featured": false,
+    "badges": [],
+    "company": "Smart&Soft",
+    "companyLogo": "/images/logos/smartnsoft.png",
+    "name": "David Fournier",
+    "country": "Paris, France",
+    "photo": "/images/people/david_fournier.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdavid_fournier.jpg?alt=media&token=8aca38e6-7c40-4f93-ab1a-237976a12586",
+    "bio": "Développeur Android (et iOS, à mes heures perdues) passionné, je suis membre du pôle de recherche et développement au sein de Smart&Soft, j’ai pu me confronter à un grand nombre de technologies et problématiques différentes, du front mobile aux APIs en passant par le front web, les chatbots et les back-offices.\r\nDirecteur Technique depuis mai 2018, je suis aujourd’hui en charge de la bonne marche des équipes de développements, des orientations technologiques de la société et du rayonnement de celle-ci à l’extérieur.",
+    "shortBio": "Développeur Android (et iOS, à mes heures perdues) passionné, je suis membre du pôle de recherche et développement au sein de Smart&Soft, j’ai pu me confronter à...",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/david-fournier-phd-4a287825/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/david-fournier-smartnsoft",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "ef8733e13308cd31795794c16320420436c045a9": {
+    "order": 38,
+    "featured": false,
+    "badges": [],
+    "company": "Facebook",
+    "companyLogo": "/images/logos/facebook.svg",
+    "name": "Pierre-Antoine LaFayette",
+    "country": "Sunnyvale, United States",
+    "photo": "/images/people/pierreantoine_lafayette.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierreantoine_lafayette.jpg?alt=media&token=dfb0039c-da72-4d6e-9493-0df5d9ddc893",
+    "bio": "Pierre is an Android VR Engineer at Facebook on the AR/VR Media team. Currently working on rendering Oculus Quill VR art on mobile. Previously worked on 360 videos/photos in Facebook for Android, Oculus Video & Facebook 360 for GearVR, and a bit on 3D Posts on Facebook for Android. Pierre is known internally as the Face of VR thanks to his iconic Oculus Rift photo. Outside of work, he has competed in basketball, trained in Muay Thai, and performed as a latin dancer.",
+    "shortBio": "Pierre is an Android VR Engineer at Facebook on the AR/VR Media team. Currently working on rendering Oculus Quill VR art on mobile. Previously worked on 360 videos/photos...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/03lafaye",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/plafayette/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "e8187155eb33d38ede094437f68e66e4fb961811": {
+    "order": 39,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/jeroen-mols",
+        "name": "gde"
+      }
+    ],
+    "company": "Philips Hue (Signify)",
+    "companyLogo": "/images/logos/signify.svg",
+    "name": "Jeroen Mols",
+    "country": "Mol, Belgium",
+    "photo": "/images/people/jeroen_mols.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjeroen_mols.jpg?alt=media&token=9555f67e-a693-497d-a3a5-f10cf1c8b214",
+    "bio": "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process, he refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he has built his own file-sharing platform (Wi-FileTransfer). Currently, he is an Android GDE and the lead Android developer at Philips Hue.\r\n\r\nOne of a kind, never-been-done-before apps are what he enjoys most. So far Jeroen helped realize four huge connected products, various high profile apps, actively contributes to open source and loves interacting with the Android community. He is a passionate blogger and enjoys speaking at conferences.",
+    "shortBio": "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process, he refocussed his master in Electrical...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/molsjeroen",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jeroenmols",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://jeroenmols.com",
+        "name": "Blog"
+      }
+    ]
+  },
+  "115f4a6f8cecc960e8936c3d4429d26004083556": {
+    "order": 40,
+    "featured": false,
+    "badges": [
+      {
+        "description": "Code d'Armor",
+        "link": "https://codedarmor.fr/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Orange Labs",
+    "companyLogo": "/images/logos/orange.svg",
+    "name": "Marc Poppleton",
+    "country": "Lannion, France",
+    "photo": "/images/people/marc_poppleton.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmarc_poppleton.jpg?alt=media&token=e4106b6f-3bcc-443d-a4c2-c92cae1f0d02",
+    "bio": "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the co-founder of the GDG Code d'Armor. The rest of the time, I'm Robopop, cyber-father and husband, half flesh and bones, half carbonfiber and steel.",
+    "shortBio": "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the co-founder of the GDG Code d'Armor. The rest of...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/marcpoppleton",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "de70b5c556753d7ea84b24cf96b188e82d2e84ef": {
+    "order": 41,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/tyler-smith",
+        "name": "gde"
+      },
+      {
+        "description": "San Francisco Android GDG",
+        "link": "https://www.meetup.com/sfandroid/",
+        "name": "gdg"
+      }
+    
+    ],
+    "company": "Uber",
+    "companyLogo": "/images/logos/uber.svg",
+    "name": "Ty Smith",
+    "country": "San Francisco, United States",
+    "photo": "/images/people/ty_smith.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fty_smith.jpg?alt=media&token=2ccf56c4-b96a-4c19-bd97-2eb663b40ead",
+    "bio": "Ty has been working on Android since 2009. He is a Tech Lead Manager at Uber, focused on the frameworks and open-source. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android.",
+    "shortBio": "Ty has been working on Android since 2009. He is a Tech Lead Manager at Uber, focused on the frameworks and open-source. He is a member of the Google...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/tsmith",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "Tysmith.me",
+        "name": "Blog"
+      }
+    ]
+  },
+  "0f5e9b36c145d15e6f4e60b330f978dfe843731a": {
+    "order": 42,
+    "featured": false,
+    "badges": [],
+    "company": "Delphia",
+    "companyLogo": "/images/logos/delphia.svg",
+    "name": "Mounir Boudraa",
+    "country": "Toronto, Canada",
+    "photo": "/images/people/mounir_boudraa.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmounir_boudraa.jpg?alt=media&token=ee8b5440-e995-43ee-aba3-58c480379926",
+    "bio": "Speaker, Android Dev, Dad not necessary in that order",
+    "shortBio": "Speaker, Android Dev, Dad not necessary in that order...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/_mboudraa",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/101079866497704610685",
+        "name": "Google+"
+      }
+    ]
+  },
+  "6ce3af5e301140503905b5496e0a2294e0d649fe": {
+    "order": 43,
+    "featured": false,
+    "badges": [],
+    "company": "Dashlane",
+    "companyLogo": "/images/logos/dashlane.svg",
+    "name": "Martin Devillers",
+    "country": "Paris, France",
+    "photo": "/images/people/martin_devillers.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmartin_devillers.jpg?alt=media&token=dd746944-c331-4ec0-913f-e49f9733941f",
+    "bio": "I've been working in mobile development for the past 5 years, but only focused on Android since I started at Dashlane over a year ago.",
+    "shortBio": "I've been working in mobile development for the past 5 years, but only focused on Android since I started at Dashlane over a year ago...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/devillersmartin",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@martin.devillers",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/martin-devillers-42486549",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://dashlane.com/",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/MartinDevi",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "e3d707eac34855001324081f4355fbb6c4c4a0ad": {
+    "order": 44,
+    "featured": false,
+    "badges": [
+      {
+        "description": "GDG Rennes Android ",
+        "link": "https://www.meetup.com/AndroidRennes/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Orange Applications for Business",
+    "companyLogo": "/images/logos/orangebusinessservices.svg",
+    "name": "Léna Ndiaye",
+    "country": "Rennes, France",
+    "photo": "/images/people/lena_ndiaye.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Flena_ndiaye.jpg?alt=media&token=0f875a08-078c-4e2d-a4fa-1d46ce405668",
+    "bio": "Développeuse Web à l'origine, j’ai changé de cap pour me concentrer sur  le développement d'applications mobiles Android.   \r\nJ’ai fondé le GDG Rennes Android  https://www.meetup.com/fr-FR/AndroidRennes/ .\r\nGrande fan de Charles DICKENS, surtout de son insolence\r\n\r\n",
+    "shortBio": "Développeuse Web à l'origine, j’ai changé de cap pour me concentrer sur  le développement d'applications mobiles Android.   \r\nJ’ai fondé le GDG Rennes Android...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/AnnetLenaNDIAYE",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "370e6c635f61bb5c39e82f411e8a639d0fdaf7ce": {
+    "order": 45,
+    "featured": false,
+    "badges": [],
+    "company": "Dashlane",
+    "companyLogo": "/images/logos/dashlane.svg",
+    "name": "Jonathan Salamon",
+    "country": "Paris, France",
+    "photo": "/images/people/jonathan_salamon.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjonathan_salamon.jpg?alt=media&token=356ec1e0-3dd3-4829-8255-62b268ca4346",
+    "bio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue.\r\n\r\nFan de nouvelles technologies (Réalité virtuelle, objets connectés, etc..) j'ai pu participé, en tant qu'auto-entrepreneur ou bénévole, au développement de projets innovants utilisant des nouvelles technologies et divers objets tels que le Bluetooth Low Energy, le NFC, du Geofencing, des montres sous Android Wear et même des Google Glass.\r\n\r\nJ'aime apprendre et je suis heureux d'avoir déjà pu toucher à de nombreux domaines allant du développement d'applications web front-end/back-end, au développement de jeux, en passant par des applications Android B2B/B2C et la conception d'objets connectés",
+    "shortBio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/J_TheFrench",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/salamonjonathan/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://thefrench-world.com/",
+        "name": "Blog"
+      }
+    ]
+  },
+  "48dedc7f7959765bcb75a87297c7232d70a317ee": {
+    "order": 46,
+    "featured": false,
+    "badges": [],
+    "company": "Smile",
+    "companyLogo": "/images/logos/smile.png",
+    "name": "Adrien Grassein",
+    "country": "Paris, France",
+    "photo": "/images/people/adrien_grassein.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_grassein.jpg?alt=media&token=c2380459-a2ad-435f-b52f-399497f9d625",
+    "bio": "Expert bas niveau sur Android depuis maintenant plus de 8 ans.\r\nJe connais toutes les versions d'Android entre 1.5 et 9.\r\nExpert technique et formateur chez Smile Open Source Solution. ",
+    "shortBio": "Expert bas niveau sur Android depuis maintenant plus de 8 ans.\r\nJe connais toutes les versions d'Android entre 1.5 et 9.\r\nExpert technique et formateur chez Smile...",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/adrien-grassein-515a1516/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/grassead",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "00c74c65d0b0d9a25494245a768c5c3b9fcedd2a": {
+    "order": 47,
+    "featured": false,
+    "badges": [],
+    "company": "@Idean",
+    "companyLogo": "/images/logos/idean.png",
+    "name": "Florent Champigny",
+    "country": "Montpellier, France",
+    "photo": "/images/people/florent_champigny.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fflorent_champigny.jpg?alt=media&token=09d49a0a-6930-4df5-abf4-a088753e1fcc",
+    "bio": "Développeur Android Passionné",
+    "shortBio": "Développeur Android Passionné...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/florent_champ",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/florentchampigny/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://tutos-android-france.com",
+        "name": "Blog"
+      }
+    ]
+  },
+  "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce": {
+    "order": 48,
+    "featured": false,
+    "badges": [],
+    "company": "",
+    "companyLogo": "/images/logos/koin.jpg",
+    "name": "Arnaud Giuliani",
+    "country": "Toulouse, France",
+    "photo": "/images/people/arnaud_giuliani.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Farnaud_giuliani.jpg?alt=media&token=0a84fe53-3e35-4f7c-a99e-be17182f9034",
+    "bio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff.  I'm the Koin project lead developer, a lightweight dependency injection framework for Kotlin - https://insert-koin.io\r\n\r\nI'm a speaker since 2016. I talk mostly about Kotlin & Koin: https://medium.com/@giuliani.arnaud/presentations-6b91f53899ac\r\n\r\nI regularly write articles on medium https://medium.com/@giuliani.arnaud/",
+    "shortBio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff.  I'm the Koin project lead...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arnogiu",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@giuliani.arnaud",
+        "name": "Medium"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/arnaudgiuliani",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "a1ffbd4128a49788bb27672ad70bed1233dd1d66": {
+    "order": 49,
+    "featured": false,
+    "badges": [
+      {
+        "description": "Paris Android User Group",
+        "link": "https://www.meetup.com/Android-Paris/",
+        "name": "gdg"
+      }
+    ],
+    "company": "Smart&Soft",
+    "companyLogo": "/images/logos/smartnsoft.svg",
+    "name": "Adrien Vitti",
+    "country": "",
+    "photo": "/images/people/adrien_vitti.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_vitti.jpg?alt=media&token=fa540ee3-c224-46de-a0ea-4a9e7aa1fe8e",
+    "bio": "Chef de pôle Android chez Smart&Soft, j'adore bidouiller tout ce qui me passe sous la main : du logiciel (un script Bash pour transcoder via VLC ? Pas de problème) au matériel (modification / réparation). Je suis à moitié responsable des bugs de l'application AndroidMakers. Enfin je fais aussi parti du Paris Android User Group et des plus gros utilisateurs de gifs de lamas ou d'alpagas !",
+    "shortBio": "Chef de pôle Android chez Smart&Soft, j'adore bidouiller tout ce qui me passe sous la main : du logiciel (un script Bash pour transcoder via VLC ? Pas de problème)...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/n0tnull",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+AdrienVitti",
+        "name": "Google+"
+      }
+    ]
+  },
+  "0e8d0e049c4950ba8b15e76897680e14b6101a1d": {
+    "order": 50,
+    "featured": false,
+    "badges": [],
+    "company": "@xebia-france",
+    "companyLogo": "/images/logos/xebia.svg",
+    "name": "Jordan Tuffery",
+    "country": "Nemours, France",
+    "photo": "/images/people/jordan_tuffery.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjordan_tuffery.jpg?alt=media&token=5aee2da0-dbc6-46ec-8374-6f3a64a8503e",
+    "bio": "Jordan est intéressé par le monde du développement informatique depuis son adolescence. Il découvre le développement en créant un jeu vidéo grâce au logiciel RPG Maker.\r\nQuelques années plus tard, malgré une première tentative décourageante, Jordan redécouvre le développement Android lorsqu’il entre chez Lagardère. Il tombe sous le charme de cette plateforme.\r\nCurieux de nature, Jordan essaie plusieurs façon de pratiquer son métier. D’abord freelance, puis développeur pour un éditeur de logiciel, il est maintenant consultant chez Xebia. Fort de ces expériences, il vise un nouveau challenge pour l’année 2019, pouvoir speaker sur le dernier framework qu’il a essayé: Kotlin / Native.",
+    "shortBio": "Jordan est intéressé par le monde du développement informatique depuis son adolescence. Il découvre le développement en créant un jeu vidéo grâce au logiciel RPG Maker...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Tuffaisquoi",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jordan-tuffery-766a7bb1/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "70987167704d4d09a43b16f559b4d354389bbb46": {
+    "order": 51,
+    "featured": false,
+    "badges": [],
+    "company": "Xebia",
+    "companyLogo": "/images/logos/xebia.svg",
+    "name": "Julien Datour",
+    "country": "Paris, France",
+    "photo": "/images/people/julien_datour.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjulien_datour.jpg?alt=media&token=f55f1249-c481-47b9-9f80-2dd0417d6a7e",
+    "bio": "Julien a commencé par être développeur mobile et s'est ensuite spécialisé sur une seule plate-forme: iOS\r\nIl est depuis passionné par le monde de la mobilité, les sujets d'architecture ainsi que les sujets tendance du moment: la réalité augmentée, le machine learning sur smartphone et le partage de code entre plateformes. ",
+    "shortBio": "Julien a commencé par être développeur mobile et s'est ensuite spécialisé sur une seule plate-forme: iOS\r\nIl est depuis passionné par le monde de la mobilité...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/jdatour",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/juliendatour",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://blog.xebia.fr",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/jdatour",
+        "name": "GitHub"
+      }
+    ]
+  },
+  "93dc8e02bdf1513b877ea04d8d94b83ca00d116c": {
+    "order": 52,
+    "featured": false,
+    "badges": [],
+    "company": "Xebia",
+    "companyLogo": "/images/logos/xebia.svg",
+    "name": "Michaël Ohayon",
+    "country": "Paris, France",
+    "photo": "/images/people/michael_ohayon.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmichael_ohayon.jpg?alt=media&token=bb4aa5b1-dcce-4b94-b358-19502bbfa6a7",
+    "bio": "Développeur Kotlin et Android, je suis consultant chez Xebia.\r\nJe suis mentor et contributeur Open-Source depuis 4 ans pour SugarLabs dans le cadre du Google Summer of Code.\r\nJ'anime des conférence et organise certains Meetup comme \"Mobile Things\" ainsi que le XKE de Xebia.\r\nJ'aime aussi utiliser d'autres technologies, Docker, Kotlin sur Serverless, Node.\r\nVous avez pu me voir créer et animer des projets IoT avec Android Things au cours des deux dernières Android Makers sur le stand Xebia.",
+    "shortBio": "Développeur Kotlin et Android, je suis consultant chez Xebia.\r\nJe suis mentor et contributeur Open-Source depuis 4 ans pour SugarLabs dans le cadre du Google...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/mikkl",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "d4af9db15742ba17b73c3ad1f57821e25e15983f": {
+    "order": 53,
+    "featured": false,
+    "badges": [],
+    "company": "Xebia IT Architects",
+    "companyLogo": "/images/logos/xebia.svg",
+    "name": "Simone Civetta",
+    "country": "Paris, France",
+    "photo": "/images/people/simone_civetta.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fsimone_civetta.jpg?alt=media&token=c8b632ec-d1d2-48e8-8864-29142f9a254a",
+    "bio": "Simone is a developer currently working in France and making iOS apps since 2010. He is currently working with great people at Xebia IT Architects in Paris, where he helps teams craft a wide range of mobile software. He devotes his spare time to organising the FrenchKit conference and flying across the World for visiting and conferencing. \r\n@viteinfinite / viteinfinite.com",
+    "shortBio": "Simone is a developer currently working in France and making iOS apps since 2010. He is currently working with great people at Xebia IT Architects in Paris, where...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/viteinfinite",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://viteinfinite.com",
+        "name": "Blog"
+      }
+    ]
+  },
+  "ccf70cece5f637610324d4a4fa188ddfdb5aaa03": {
+    "order": 54,
+    "featured": false,
+    "badges": [],
+    "company": "Xebia",
+    "companyLogo": "/images/logos/xebia.svg",
+    "name": "Arnaud Piroelle",
+    "country": "Paris, France",
+    "photo": "/images/people/arnaud_piroelle.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Farnaud_piroelle.jpg?alt=media&token=9abfd31f-6917-415a-b25b-723721b1555c",
+    "bio": "Originaire du monde Java, maintenant développeur Android et adepte de Kotlin, Arnaud est passionné par tout ce qui tourne autour de la plateforme Android.",
+    "shortBio": "Originaire du monde Java, maintenant développeur Android et adepte de Kotlin, Arnaud est passionné par tout ce qui tourne autour de la plateforme Android...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ArnaudPiroelle",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "0131a2bfbcc298b6be2339b868d91f62cda15336": {
+    "order": 55,
+    "featured": false,
+    "badges": [],
+    "company": "The New York Times",
+    "companyLogo": "/images/logos/thenewyorktimes.svg",
+    "name": "Roberto Orgiu",
+    "country": "Torino, Italy",
+    "photo": "/images/people/roberto_orgiu.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Froberto_orgiu.jpg?alt=media&token=908430a2-d38b-4b06-94f7-ec83940b87b4",
+    "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such as Kotlin, patterns and everything Android-related. I am now working in The New York Times Android team as Android Engineer.",
+    "shortBio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/_tiwiz",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "4be0e0e99b3e04c7154d73ee45444b80d459f466": {
+    "order": 56,
+    "featured": false,
+    "badges": [],
+    "company": "Workwell",
+    "companyLogo": "/images/logos/workwell.svg",
+    "name": "Xavier F. Gouchet",
+    "country": "Paris, France",
+    "photo": "/images/people/xavierf_gouchet.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fxavierf_gouchet.jpg?alt=media&token=745e0537-a294-43f1-a4ea-f28b05215639",
+    "bio": "Lead Android Engineer @ Workwell, erstwhile teacher. Music addict, irredeemably curious and adept of pogonotomy",
+    "shortBio": "Lead Android Engineer @ Workwell, erstwhile teacher. Music addict, irredeemably curious and adept of pogonotomy...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/xgouchet",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/xgouchet/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+XavierGouchet",
+        "name": "Google+"
+      }
+    ]
+  },
+  "1fabaecfc95e03a8dfa95d783d59c0eb8f52900d": {
+    "order": 57,
+    "featured": false,
+    "badges": [],
+    "company": "Workwell",
+    "companyLogo": "/images/logos/workwell.svg",
+    "name": "Jérémy Bartolomeu Bonze",
+    "country": "Paris, France",
+    "photo": "/images/people/jeremy_bartolomeubonze.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjeremy_bartolomeubonze.jpg?alt=media&token=b7710a77-1314-4bb1-afd5-1b8a860fb777",
+    "bio": "Jérémy Bartolomeu Bonze is Android Developer at Workwell, where he works on the core application. He is a Freshman in the Android world as he has been graduated from his computer engineering school in April 2018.\r\n",
+    "shortBio": "Jérémy Bartolomeu Bonze is Android Developer at Workwell, where he works on the core application. He is a Freshman in the Android world as he has been graduated from his...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/jeremybbonze",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/bartolj/",
+        "name": "LinkedIn"
       }
     ]
   }
