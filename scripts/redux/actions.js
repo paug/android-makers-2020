@@ -495,36 +495,21 @@ const galleryActions = {
   },
 };
 
-const _getTeamMembers = (teamId) => firebase.firestore()
-  .collection('team').doc(teamId).collection('members').orderBy('order', 'asc')
-  .get()
-  .then((snaps) => snaps.docs
-    .map((snap) => Object.assign({}, snap.data(), { id: snap.id }))
-  );
-
 const teamActions = {
   fetchTeam: () => (dispatch) => {
     dispatch({
       type: FETCH_TEAM,
     });
 
-    firebase.firestore()
-      .collection('team')
+    return firebase.firestore().collection('team')
       .get()
-      .then((snaps) => Promise.all(
-        snaps.docs.map((snap) => Promise.all([
-          snap.data(),
-          snap.id,
-          _getTeamMembers(snap.id),
-        ]))
-      ))
-      .then((teams) => teams.map(([team, id, members]) => Object.assign({}, team, { id, members })))
-      .then((list) => {
+      .then((snaps) => {
+        const list = snaps.docs
+          .map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
+
         dispatch({
           type: FETCH_TEAM_SUCCESS,
-          payload: {
-            list,
-          },
+          payload: { list },
         });
       })
       .catch((error) => {
