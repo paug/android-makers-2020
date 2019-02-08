@@ -49,7 +49,8 @@
       {
         "order": 7,
         "title": "Android app",
-        "name": "Adrien Vitti"
+        "name": "Adrien Vitti",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_vitti.jpg?alt=media&token=46f23aa2-413d-4103-8eba-26782e207d7a"
       },
       {
         "photoUrl": "https://pbs.twimg.com/profile_images/970727772409749505/P1v_kA8P_400x400.jpg",
@@ -100,7 +101,8 @@
     "members": [
       {
         "name": "John Karp",
-        "order": 0
+        "order": 0,
+        "photoUrl": "https://pbs.twimg.com/profile_images/803900316051718144/lDK8E_p9_400x400.jpg"
       }
     ]
   }
