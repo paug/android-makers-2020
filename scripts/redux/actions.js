@@ -130,13 +130,6 @@ const ticketsActions = {
   },
 };
 
-const _getPartnerItems = (groupId) => firebase.firestore()
-  .collection('partners').doc(groupId).collection('items').orderBy('order', 'asc')
-  .get()
-  .then((snaps) => snaps.docs
-    .map((snap) => Object.assign({}, snap.data(), { id: snap.id }))
-  );
-
 const partnersActions = {
   addPartner: (data) => (dispatch) => {
     dispatch({
@@ -172,24 +165,16 @@ const partnersActions = {
       type: FETCH_PARTNERS,
     });
 
-    firebase.firestore()
-      .collection('partners')
+    return firebase.firestore().collection('partners')
       .orderBy('order', 'asc')
       .get()
-      .then((snaps) => Promise.all(
-        snaps.docs.map((snap) => Promise.all([
-          snap.data(),
-          snap.id,
-          _getPartnerItems(snap.id),
-        ]))
-      ))
-      .then((groups) => groups.map(([group, id, items]) => Object.assign({}, group, { id, items })))
-      .then((list) => {
+      .then((snaps) => {
+        const list = snaps.docs
+          .map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
+
         dispatch({
           type: FETCH_PARTNERS_SUCCESS,
-          payload: {
-            list,
-          },
+          payload: { list },
         });
       })
       .catch((error) => {

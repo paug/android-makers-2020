@@ -1,10 +1,25 @@
 [
   {
     "order": 0,
+    "title": "Event Organizers",
+    "logos": [
+      {
+        "logoUrl": "../images/organizer-paug-logo.svg",
+        "name": "Paris Android User Group",
+        "url": "https://www.paug.fr/"
+      },
+      {
+        "logoUrl": "../images/organizer-bma-logo.svg",
+        "name": "BeMyApp",
+        "url": "https://www.bemyapp.com/"
+      }
+    ]
+  },
+  {
+    "order": 99,
     "title": "Website Template Creator",
     "logos": [
       {
-        "order": 0,
         "logoUrl": "../images/logos/gdg-lviv.svg",
         "name": "GDG Lviv",
         "url": "https://plus.google.com/102444623953913144164"
