@@ -23,6 +23,11 @@
         "logoUrl": "../images/logos/hiway.png",
         "name": "Hiway",
         "url": "https://www.hi-way.io"
+      },
+      {
+        "logoUrl": "../images/logos/kapten.svg",
+        "name": "Kapten_",
+        "url": "https://engineering.kapten.com/"
       }
     ]
   },
