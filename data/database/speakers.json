@@ -517,7 +517,7 @@
     "featured": false,
     "badges": [],
     "company": "SuiviDeFlotte.net - Beepiz",
-    "companyLogo": "/images/logos/suivideflotte.png",
+    "companyLogo": "/images/logos/beepiz.svg",
     "name": "Louis CAD",
     "country": "Tours, France",
     "photo": "/images/people/louis_cad.jpg",
@@ -534,6 +534,11 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+LouisCognault",
         "name": "Google+"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/LouisCAD",
+        "name": "Github"
       }
     ]
   },
