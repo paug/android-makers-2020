@@ -165,7 +165,8 @@
   "MAW-7262": {
     "complexity": "Beginer",
     "speakers": [
-      "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2"
+      "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2",
+      "c3ad78f46bc7565372f4b8228d6e3ddce264ecc6"
     ],
     "description": "In this workshop we’ll be looking at coroutines - Kotlin’s way of handling asynchronous programming. We’ll see what they are, how they work, how to call tasks written with coroutines and get the results of the tasks, how to convert existing APIs to coroutines, how to use coroutines in an Android app, especially together with Architecture Components and, finally, see how to test coroutines. \r\n",
     "language": "English",

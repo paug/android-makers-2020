@@ -1801,5 +1801,36 @@
         "name": "LinkedIn"
       }
     ]
+  },
+  "c3ad78f46bc7565372f4b8228d6e3ddce264ecc6": {
+    "order": 58,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android developer advocate"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Yacine Rezgui",
+    "country": "London, UK",
+    "photo": "/images/people/yacine_rezgui.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fyacine_rezgui.jpg?alt=media&token=1c56a996-1a35-47cd-bd55-36f5a3e4a658",
+    "bio": "Yacine is an Android developer advocate at Google. He has a background on front end development and got curious to deep dive into the mobile ecosystem. He was previously an AI developer advocate at IBM. He likes coding mentoring and debates about impact of tech on the world. He speaks French, English, Arabic and learning (slowly but surely) Korean.",
+    "shortBio": "Yacine is an Android developer advocate at Google. He has a background on front end development and got curious to deep dive into the mobile ecosystem. He was previously...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/yrezgui",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/androiddevelopers",
+        "name": "Blog"
+      }
+    ]
   }
 }
