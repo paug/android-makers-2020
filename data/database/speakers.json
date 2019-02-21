@@ -1837,5 +1837,35 @@
         "name": "Blog"
       }
     ]
+  },
+  "9294a55b442b986b06aafe0a08db568263a87d23": {
+    "order": 59,
+    "featured": true,
+    "badges": [],
+    "company": "Square, Inc",
+    "companyLogo": "/images/logos/square.png",
+    "name": "Pierre-Yves Ricau",
+    "country": "San Francisco, United States",
+    "photo": "/images/people/pierreyves_ricau.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierreyves_ricau.jpg?alt=media&token=11d14c5e-54ce-454c-91d4-23c43c3256e9",
+    "bio": "Android @Square, author of LeakCanary & AndroidAnnotations, killer of fragments 🍷⛷",
+    "shortBio": "Android @Square, author of LeakCanary & AndroidAnnotations, killer of fragments 🍷⛷...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Piwai",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://piwai.info",
+        "name": "Blog"
+      },
+      {
+        "icon" : "github",
+        "link" : "https://github.com/pyricau",
+        "name" : "GitHub"
+      }
+    ]
   }
 }
