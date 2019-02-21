@@ -77,7 +77,7 @@
     ]
   },
   "TCT-1480": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "a14457ee24a86a604c55d6774bed5483b630e78f"
     ],
@@ -101,7 +101,7 @@
     ]
   },
   "XQT-5940": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "cac5b6bc1f05caa67061c64989f324a517735a29",
       "b1e2d11f8669d228ed5dd388540aae23c9b81f27"
@@ -114,7 +114,7 @@
     ]
   },
   "XEB-2115": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2"
     ],
@@ -126,7 +126,7 @@
     ]
   },
   "XPP-1467": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "3e271f509e5ca12cfef7d51e98fde031c124e382",
       "6655ec55dd5d139ccb4d6f8724017c05c51555c3"
@@ -139,7 +139,7 @@
     ]
   },
   "WLQ-5551": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "786f4ff40c2d8aeef85a8dc997006cae5a4f9dc3"
     ],
@@ -151,7 +151,7 @@
     ]
   },
   "JSD-5161": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "6232967f8d0646a8551e28d2923630d719c4c42f"
     ],
@@ -163,7 +163,7 @@
     ]
   },
   "MAW-7262": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "289e5c0e7494a73fc56ebc509dfe5aa9a1d564c2",
       "c3ad78f46bc7565372f4b8228d6e3ddce264ecc6"
@@ -176,7 +176,7 @@
     ]
   },
   "RBP-6855": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "14c3b8582f3c1821ba86739393cd027ec8e321c9"
     ],
@@ -188,7 +188,7 @@
     ]
   },
   "KSG-3809": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "b90144ca0b7e987da4eac1e6ac116b1f1b2cb6e2"
     ],
@@ -200,7 +200,7 @@
     ]
   },
   "CRY-8750": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "f0b60b05124ad1a0b3e76cca09dd215645931221"
     ],
@@ -224,7 +224,7 @@
     ]
   },
   "AFF-5103": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "109d33decd394492fbd5b99a92dd7607d821d27c"
     ],
@@ -236,7 +236,7 @@
     ]
   },
   "DFO-2916": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "description": "Functions that take a long time to return are a problem because they block the calling thread, which could be the main thread, where your UI runs.\r\nYou can workaround this issue by using callbacks instead, but it introduces other issues:\r\n\r\n- Mangled functions signatures\r\n- Inability to use even simple language constructs like `if`, `while` or local variables\r\n- More verbose usage (boilerplate never scales well)\r\n- Harder error/exception handling\r\n\r\nSeeing it brings more problems than it solves helps us understand why people refer to **callback hells**.\r\n\r\nThere's been attempts to circumvent these issues with AsyncTask (no comment), Futures (from JDK, Guava, and more), Tasks API (from Google Play Services), reactive programming (e.g. RxJava used for threading and callbacks), and none solves all the issues mentioned above.\r\n\r\n**Kotlin coroutines are changing the game** with an implementation of the nearly 60 years old concept that **brings back the simplicity of blocking code**, without the blocking issue.\r\n\r\nIn this talk, you'll see how any waiting or blocking code can be made easier to write and read.\r\nYou'll learn how to use kotlinx.coroutines correctly in Android, and peek at how it all works.",
     "language": "English",
     "speakers": [
@@ -248,7 +248,7 @@
     ]
   },
   "SCS-0941": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "be0712870b4c90334f276a529f5a8f3fcebe50da"
     ],
@@ -260,7 +260,7 @@
     ]
   },
   "VUR-7482": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "855a1af7d899d1dd7bfe11b340f628fe70ef54a9"
     ],
@@ -272,7 +272,7 @@
     ]
   },
   "AMU-5195": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "fb805760b311d7dea7963afcd97f9613303f7722"
     ],
@@ -296,7 +296,7 @@
     ]
   },
   "XQK-8719": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "7c3c8d4952ab519203050d818cb1f3d6193ec605"
     ],
@@ -308,7 +308,7 @@
     ]
   },
   "RBU-3913": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "c51d1bb67a1dc86f27d7e9db63baae388dba5816",
       "78c3edf266c08db4ad6c86f2019ab7b7fb1082f4",
@@ -322,7 +322,7 @@
     ]
   },
   "NIZ-9897": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "76bf11899131efa3b3d975aa262c6c4a374e4dcf"
     ],
@@ -334,7 +334,7 @@
     ]
   },
   "TGV-6847": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "469f96c27458e9ea274351d9be8402ad54b4c803"
     ],
@@ -346,7 +346,7 @@
     ]
   },
   "ZDM-8801": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "d2465df643f7c6cc758eda0bd047621e2ffddaa6"
     ],
@@ -382,7 +382,7 @@
     ]
   },
   "comedy": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "379c162aac12eca2deca690287b54ad270cc2e40",
       "4a7ca4c16cbe81a612bf3011a3d3439f85408103"
@@ -419,7 +419,7 @@
     ]
   },
   "VOJ-6007": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "d2a0ee8397721dab722a6f969532df215dad171c"
     ],
@@ -443,7 +443,7 @@
     ]
   },
   "GAO-2888": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "822864bbbee048b2f933cbe80197c80b36e291a3"
     ],
@@ -455,7 +455,7 @@
     ]
   },
   "HJM-2968": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "a14457ee24a86a604c55d6774bed5483b630e78f"
     ],
@@ -479,7 +479,7 @@
     ]
   },
   "ODA-3499": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "ebe349a84d93b180def160c8a4731efd3b4a44f4"
     ],
@@ -539,7 +539,7 @@
     ]
   },
   "LQF-6083": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "115f4a6f8cecc960e8936c3d4429d26004083556"
     ],
@@ -587,7 +587,7 @@
     ]
   },
   "PJX-9369": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "e3d707eac34855001324081f4355fbb6c4c4a0ad"
     ],
@@ -611,7 +611,7 @@
     ]
   },
   "ZCO-9565": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "48dedc7f7959765bcb75a87297c7232d70a317ee"
     ],
@@ -623,7 +623,7 @@
     ]
   },
   "GMB-7169": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "00c74c65d0b0d9a25494245a768c5c3b9fcedd2a"
     ],
@@ -635,7 +635,7 @@
     ]
   },
   "JOO-6049": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce"
     ],
@@ -647,7 +647,7 @@
     ]
   },
   "NOG-9878": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "a1ffbd4128a49788bb27672ad70bed1233dd1d66"
     ],
