@@ -153,7 +153,8 @@
   "JSD-5161": {
     "complexity": "Beginer",
     "speakers": [
-      "6232967f8d0646a8551e28d2923630d719c4c42f"
+      "6232967f8d0646a8551e28d2923630d719c4c42f",
+      "5978cd774e924d51f2923d8620f1346a3392263c"
     ],
     "description": "Vector assets are lightweight and sharp on every screen size, but working with them can be complicated. Android doesn’t directly support SVG, potentially leading to conversion and ownership issues. This talk will cover what designers and developers need to know to work together to create static and animated vector assets. We’ll cover the capabilities of Android’s vector formats, how they influence producing assets in graphics packages (with a focus on Sketch) and how to efficiently export them. We'll also look at tooling and workflows that allow designers and devs to collaborate on creating vector animations.",
     "language": "English",
