@@ -338,7 +338,7 @@
       },
       {
         "icon": "website",
-        "link": "www.androiddesignpatterns.com",
+        "link": "https://www.androiddesignpatterns.com",
         "name": "Blog"
       }
     ]
@@ -368,7 +368,7 @@
       },
       {
         "icon": "website",
-        "link": "wealthfront.com",
+        "link": "https://wealthfront.com",
         "name": "Blog"
       },
       {
@@ -1129,7 +1129,7 @@
       },
       {
         "icon": "website",
-        "link": "nordicusability.com",
+        "link": "https://nordicusability.com",
         "name": "Blog"
       }
     ]
@@ -1375,7 +1375,7 @@
       },
       {
         "icon": "website",
-        "link": "Tysmith.me",
+        "link": "https://Tysmith.me",
         "name": "Blog"
       }
     ]
