@@ -732,5 +732,17 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "REB-6912": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
+    ],
+    "description": "In this session, we'll cover how elevation works on Android. From an overview of the available APIs, seeing what is new in Android P, and getting to the nitty gritty of how shadows are rendered on HWUI and Skia. Lastly, we'll learn how to take advantage of the existing APIs and work within their limitations to obtain original and unique results.\r\n\r\nThis talk follows the track of existing blog article(s) on the topic: https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596 and another upcoming article. There is also an open source app, Uplift, which will be used to showcase the effects as we talk about them: https://github.com/rock3r/uplift",
+    "language": "English",
+    "title": "Uplift — Material shadows on Android",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
