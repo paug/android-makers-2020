@@ -1913,5 +1913,67 @@
         "name": "Blog"
       }
     ]
+  },
+  "b86ae9dac45f40c077bbc700eb1af765c11031a5": {
+    "order": 61,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Tech Lead Android Studio Design Tools & ConstraintLayout"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "Nicolas Roard",
+    "country": "San Francisco, US",
+    "photo": "/images/people/nicolas_roard.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fnicolas_roard.jpg?alt=media&token=65b713f6-75c4-4d00-bda9-25dc5632809f",
+    "bio": "Tech Lead Android Studio Design Tools & ConstraintLayout",
+    "shortBio": "Tech Lead Android Studio Design Tools & ConstraintLayout...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/camaelon",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@camaelon",
+        "name": "Medium"
+      },
+      {
+        "icon": "website",
+        "link": "http://www.roard.com",
+        "name": "Blog"
+      }
+    ]
+  },
+  "072cc4fde1730b8c940eb745e3ab284174184cfd": {
+    "order": 62,
+    "featured": true,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Studio"
+      }
+    ],
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "name": "John Hoford",
+    "country": "Mountain View, US",
+    "photo": "/images/people/john_hoford.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjohn_hoford.jpg?alt=media&token=fd4ecd31-fd99-42a8-8cff-3d40efd53edd",
+    "bio": "John is a developer on Android working on Android Studio, ConstraintLayout and MotionLayout. He has worked on Android Studio, RenderScript, Vector Drawables, computed shadows and photo editor filters.",
+    "shortBio": "John is a developer on Android working on Android Studio, ConstraintLayout and MotionLayout. He has worked on Android Studio, RenderScript, Vector Drawables...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/johnhoford",
+        "name": "Twitter"
+      }
+    ]
   }
 }

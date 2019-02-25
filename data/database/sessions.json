@@ -745,5 +745,18 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "VJG-9207": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "b86ae9dac45f40c077bbc700eb1af765c11031a5",
+      "072cc4fde1730b8c940eb745e3ab284174184cfd"
+    ],
+    "description": "ConstraintLayout is a popular library for UI development on Android. It is deeply integrated with the Android Studio design tools, allowing developers to quickly create complex and reactive UIs. We recently released ConstraintLayout 2.0, which brings even more layout capabilities, virtual viewgroups, performance improvements and flexible ways to organize your UI. More uniquely, the library also provides powerful animation and motion handling capabilities via MotionLayout, a subclass of ConstraintLayout. All together, this new declarative approach makes it very easy to create modern, motion-enabled UIs for your application.\r\n\r\nThis talk will cover the new capabilities of the library, common pitfalls and solutions to UI patterns, performance aspects, integrating motion, and how to best take advantage of the library in your own application via a series of use cases and examples.",
+    "language": "English",
+    "title": "ConstraintLayout 2.0",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
