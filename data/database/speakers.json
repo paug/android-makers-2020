@@ -1975,5 +1975,45 @@
         "name": "Twitter"
       }
     ]
+  },
+  "e05f104edbea6da8b8627427dafc4d7a141d699f": {
+    "order": 63,
+    "featured": false,
+    "badges": [],
+    "company": "Sky",
+    "companyLogo": "/images/logos/sky.svg",
+    "name": "Marcos Holgado",
+    "country": "Leeds, UK",
+    "photo": "/images/people/marcos_holgado.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmarcos_holgado.jpg?alt=media&token=fc405daa-01ad-46f0-83dd-6e3d70da133d",
+    "bio": "Marcos is a Senior Android developer at Sky and has been working with Android since 2010. At Sky he has been leading the migration and modularization of the SkySports and SkyNews Android apps. He loves automating stuff and is constantly trying to find ways to reuse code and features without having to write a single line of code more than once. When he is not coding he is flying a PA28 across the UK.",
+    "shortBio": "Marcos is a Senior Android developer at Sky and has been working with Android since 2010. At Sky he has been leading the migration and modularization of the SkySports...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/orbycius",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@marcosholgado",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/marcosholgado",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.marcosholgado.com",
+        "name": "Blog"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/marcosholgado",
+        "name": "GitHub"
+      }
+    ]
   }
 }
