@@ -26,7 +26,7 @@ export const speakersWrite = functions.firestore.document('speakers/{speakerId}'
 
 async function generateAndSaveData(changedSpeaker) {
   const sessionsPromise = firestore().collection('sessions').get();
-  const schedulePromise = firestore().collection('schedule').orderBy('date', 'desc').get();
+  const schedulePromise = firestore().collection('schedule').get();
   const speakersPromise = firestore().collection('speakers').get();
 
   const [sessionsSnapshot, scheduleSnapshot, speakersSnapshot] = await Promise.all([sessionsPromise, schedulePromise, speakersPromise]);

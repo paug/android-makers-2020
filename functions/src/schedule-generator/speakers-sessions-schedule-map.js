@@ -11,6 +11,7 @@ function sessionsSpeakersScheduleMap(sessionsRaw, speakersRaw, scheduleRaw) {
         let timeslots = [];
         let extensions = {};
 
+        day.date = dayKey
         const timeslotLen = day.timeslots.length;
         for (let timeslotsIndex = 0; timeslotsIndex < timeslotLen; timeslotsIndex++) {
             const timeslot = day.timeslots[timeslotsIndex];
