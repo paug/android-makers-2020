@@ -756,5 +756,17 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "NTE-5380": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "e05f104edbea6da8b8627427dafc4d7a141d699f"
+    ],
+    "description": "Let’s face it, we waste a lot of time on things that don't add any value. Maybe you use the same pattern in different places and copy&paste the same files over and over. Probably the same happens whenever you create a new app or module. What about all the time that you spend in Jira or other tools on tasks like moving tickets or logging time?. What if you could automate all that? Well, you can, and I’m going to show you how by writing your own Android Studio Plugin.\r\n\r\nIn this talk you will learn how to create a new Android Studio Plugin using Kotlin, create templates to generate code automatically, write live templates to insert frequently-used constructors in your code, easily integrate Android Studio with Jira or other tools, create a brand new full App in minutes using feature modules and much more.",
+    "language": "English",
+    "title": "Write your own Android Studio Plugin and automate everything",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
