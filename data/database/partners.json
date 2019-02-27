@@ -23,6 +23,11 @@
         "logoUrl": "../images/logos/leboncoin.svg",
         "name": "Leboncoin",
         "url": "https://leboncoin.tech/"
+      },
+      {
+        "logoUrl": "../images/logos/badoo.svg",
+        "name": "Badoo",
+        "url": "https://badoo.com/en/team/jobs/"
       }
     ]
   },
