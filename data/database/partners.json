@@ -44,6 +44,11 @@
         "logoUrl": "../images/logos/xebia.svg",
         "name": "Xebia",
         "url": "https://xebia.fr"
+      },
+      {
+        "logoUrl": "../images/logos/blablacar.png",
+        "name": "BlaBlaCar",
+        "url": "https://www.blablacar.fr/"
       }
     ]
   },
