@@ -857,7 +857,7 @@
     "company": "friendlyrobot.nyc",
     "companyLogo": "/images/logos/friendlyrobotnyc.png",
     "name": "Brian Plummer",
-    "country": "New York City, United States",
+    "country": "New York City, US",
     "photo": "/images/people/brian_plummer.jpg",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbrian_plummer.jpg?alt=media&token=8eacec8c-4b06-47f2-816f-64b7f8686cc3",
     "bio": "I'm a passionate product focused developer that has been writing Android applications for 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab.",
@@ -2013,6 +2013,56 @@
         "icon": "github",
         "link": "https://github.com/marcosholgado",
         "name": "GitHub"
+      }
+    ]
+  },
+  "2a406d23a849d9691b9bc98d967206996e30b252": {
+    "order": 64,
+    "featured": false,
+    "badges": [],
+    "company": "Deliveroo",
+    "companyLogo": "/images/logos/deliveroo.svg",
+    "name": "Maria Neumayer",
+    "country": "London, UK",
+    "photo": "/images/people/maria_neumayer.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmaria_neumayer.jpg?alt=media&token=cf78dd1a-572c-43d5-82f7-71dcb2d0022e",
+    "bio": "Maria Neumayer is an Android Developer working at Deliveroo. She's been developing for Android since 2010 with a focus on UI work. Austrian expat living in London. Previously at Citymapper, Path, Saffron Digital and Rummble.",
+    "shortBio": "Maria Neumayer is an Android Developer working at Deliveroo. She's been developing for Android since 2010 with a focus on UI work. Austrian expat living in London...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/marianeum",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@marianeum",
+        "name": "Medium"
+      }
+    ]
+  },
+  "31cb1315078d707f1abda7a29d7309474e9ec0d4": {
+    "order": 65,
+    "featured": true,
+    "badges": [],
+    "company": "The New York Times",
+    "companyLogo": "/images/logos/thenewyorktimes.svg",
+    "name": "Wojciech Dziemianczyk",
+    "country": "New York City, US",
+    "photo": "/images/people/wojciech_dziemianczyk.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fwojciech_dziemianczyk.jpg?alt=media&token=74e2b57b-3b11-4d79-8968-aa25e81e1ae8",
+    "bio": "Originally from Poland, passionate with Android development and UI. Software Engineer with a love of pixel pushing, doodling concepts in my note book, or working on iterating and improving UX of our Reader app at The New York Times. In the winter you can find me snowboarding while in the summer you can find me at the beach.",
+    "shortBio": "Originally from Poland, passionate with Android development and UI. Software Engineer with a love of pixel pushing, doodling concepts in my note book, or working on...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/wdziemia",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://plus.google.com/101131813180589770026",
+        "name": "Blog"
       }
     ]
   }
