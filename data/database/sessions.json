@@ -61,6 +61,19 @@
       "Android Development"
     ]
   },
+  "VJG-9207": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "b86ae9dac45f40c077bbc700eb1af765c11031a5",
+      "072cc4fde1730b8c940eb745e3ab284174184cfd"
+    ],
+    "description": "ConstraintLayout is a popular library for UI development on Android. It is deeply integrated with the Android Studio design tools, allowing developers to quickly create complex and reactive UIs. We recently released ConstraintLayout 2.0, which brings even more layout capabilities, virtual viewgroups, performance improvements and flexible ways to organize your UI. More uniquely, the library also provides powerful animation and motion handling capabilities via MotionLayout, a subclass of ConstraintLayout. All together, this new declarative approach makes it very easy to create modern, motion-enabled UIs for your application.\r\n\r\nThis talk will cover the new capabilities of the library, common pitfalls and solutions to UI patterns, performance aspects, integrating motion, and how to best take advantage of the library in your own application via a series of use cases and examples.",
+    "language": "English",
+    "title": "ConstraintLayout 2.0",
+    "tags": [
+      "Android Development"
+    ]
+  },
   "FVI-2317": {
     "speakers": [
       "379c162aac12eca2deca690287b54ad270cc2e40",
@@ -70,6 +83,30 @@
     "language": "English",
     "description": "Kotlin offers many powerful language features that make it a welcome addition to the Android developer's toolkit. But some of these features may do significant work behind the scenes, including allocating object and reflection. This dynamic is not obvious from the Kotlin code, so how do we know when this is happening? This talk will go over some of these areas that you should be aware of, as well as the tools that help us discover this kind of information about our code.",
     "complexity": "Intermédiaire",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "KOV-9403": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "5978cd774e924d51f2923d8620f1346a3392263c"
+    ],
+    "description": "Animations bring your app to life but often we write them as pre-canned sequences that once started can’t be interrupted or redirected. Modern Android apps are reactive to state changes… your animations should be as well. This talk looks at techniques for writing animations that work like state machines, that can be interrupted or retargeted while running. We’ll look at ways to architect your animations to achieve this, and libraries and classes that we can utilize.",
+    "language": "English",
+    "title": "Motional Intelligence: Build smarter animations",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "LWJ-6534": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "9294a55b442b986b06aafe0a08db568263a87d23"
+    ],
+    "description": "This talk will focus on some of the more advances features built on top of LeakCanary as well as new features coming up: leak detection in tests, much smarter leaktraces as well as improved UI, memory leak detection in production, etc.",
+    "language": "English or French",
+    "title": "LeakCanary.next",
     "tags": [
       "Android Development"
     ]
@@ -123,6 +160,31 @@
       "Android Development"
     ]
   },
+  "comedy": {
+    "complexity": "Beginner",
+    "speakers": [
+      "379c162aac12eca2deca690287b54ad270cc2e40",
+      "4a7ca4c16cbe81a612bf3011a3d3439f85408103"
+    ],
+    "description": "",
+    "language": "English",
+    "title": "Closing conference",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "BXQ-5942": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "577e9daa13bf52cf00a48a6304fc2332e060d73d"
+    ],
+    "description": "Android is a marvelous platform that has been evolving for more than 10 years now. Having such a large framework and so many APIs, some of thme comes with their questions and puzzlers. In this talk, we will present some of the weirdest API usage/results and give an explanation for each of them.",
+    "language": "English",
+    "title": "Android Puzzlers",
+    "tags": [
+      "Android Development"
+    ]
+  },
   "XPP-1467": {
     "complexity": "Beginner",
     "speakers": [
@@ -144,6 +206,30 @@
     "description": "Deploying an Android app to the play store always contains some cost in it. Furthermore the user isn't always keen to download (again) our latest versioned app. How about doubling the cost of development with the iOS app into account (or Web)?  \r\nAt Square, we came up with a system in which the server owns the workflow of the client. This means the client doesn't know before hand which screen, which image or text it's gonna show next.\r\n\r\nIn this talk, we'll:\r\n\r\n- Know why Square ended up choosing this system.\r\n- Discover how we built it.\r\n- Look at the challenges, the pros and cons of such an architecture.\r\n- Talk about how we want to alter it for the future.\r\n\r\nAttendees to this talk will be expose to solutions for problems every company is facing but don't address.",
     "language": "English or French",
     "title": "Server Driven UI Workflow",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "QMW-7145": {
+    "complexity": "Expert",
+    "speakers": [
+      "96c6201599b5aea0e119a60ab9ebbf185be421b5"
+    ],
+    "description": "If you’ve used Firebase Performance Monitoring, you know that it automatically discovers and reports performance metrics for all the HTTP transactions in your app.  But have you ever wondered how it does that?  Android doesn’t provide any APIs to listen in on an arbitrary connection (that would be a security problem!), and Firebase supports URLConnection, Apache, and OKHTTP APIs.  The secret here is bytecode manipulation at build time using the Transform API provided by the Android build tools.  Join this session to find out how the Firebase Performance Monitoring Gradle plugin intercepts and measures HTTP transactions at runtime with some assistance from bytecode manipulation at build time.\r\n",
+    "language": "English",
+    "title": "(Android) Transformers - bytecode in disguise!",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "DCF-5057": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "4da226db53a14dcc70be061a323bc3afd6d9146d"
+    ],
+    "description": "In 2018 Android App Bundles were introduced as the publishing format for Android. Alongside this dynamic delivery enable shipping features to users on demand.\r\nIn this session you'll learn about Android App Bundles, Dynamic Delivery and how to structure code and resources based on publicly available code samples.\r\nAlso you'll learn how to make an instant experience available for your app.",
+    "language": "English",
+    "title": "Best practices for a modularized app",
     "tags": [
       "Android Development"
     ]
@@ -174,6 +260,18 @@
       "Android Development"
     ]
   },
+  "REB-6912": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
+    ],
+    "description": "In this session, we'll cover how elevation works on Android. From an overview of the available APIs, seeing what is new in Android P, and getting to the nitty gritty of how shadows are rendered on HWUI and Skia. Lastly, we'll learn how to take advantage of the existing APIs and work within their limitations to obtain original and unique results.\r\n\r\nThis talk follows the track of existing blog article(s) on the topic: https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596 and another upcoming article. There is also an open source app, Uplift, which will be used to showcase the effects as we talk about them: https://github.com/rock3r/uplift",
+    "language": "English",
+    "title": "Uplift — Material shadows on Android",
+    "tags": [
+      "Android Development"
+    ]
+  },
   "RBP-6855": {
     "complexity": "Beginner",
     "speakers": [
@@ -194,6 +292,30 @@
     "description": "Sharing code between platforms is a powerful technique, but it may be hard to accomplish without rich APIs that we have in Android, JVM, or iOS platforms. Kotlin Multiplatform libraries can be used to fix that, bringing rich APIs directly in the common Kotlin code. \r\n\r\nWhat an exciting frontier!\r\n\r\nIn this talk we'll go over the creation of a Kotlin Multiplatform library. You'll learn how modules for each platform work, decide what parts of the code makes sense to share and what doesn't. All based in the experiences gathered after creating a library at Mixtiles used to fetch images from different cloud providers.",
     "language": "English",
     "title": "Building a library for Android and iOS using Kotlin Multiplatform",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "VOJ-6007": {
+    "complexity": "Beginner",
+    "speakers": [
+      "d2a0ee8397721dab722a6f969532df215dad171c"
+    ],
+    "description": "You want to style the title of dialogs throughout your app and you think it should be simple enough. However, once you dive into it, you might start asking questions - should I use alertDialogTheme or alertDialogStyle? Should I use windowTitle or dialogTitle? It is no secret that the styling and theming system in Android is complex, but I promise there is some method to the madness! We can avoid writing custom components just to achieve pixel perfection if we know how tame to the beast.\r\n\r\nIn this talk, we will learn about the difference between themes and styles, the hierarchy of different styling techniques and how to use them effectively. We will also learn how they work internally, and the best practices of how to apply them. We will wrap up by discussing the newest app theme in town - the Material Components Theme and the attributes that come with it, like “colorOnSurface”.  \r\n\r\nAt the end of this talk, you will know how to style your app like a pro with the correct use of Styles, Themes, TextAppearance and sensible defaults while specifying colour, shape and typography through Material Theming.\u2028",
+    "language": "English",
+    "title": "Styles, Themes, Material Theming, Oh My!",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "MKQ-2052": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "7d6c66f700e20f82bdfa02c954a83d13f05d63df"
+    ],
+    "description": "Data binding is great for eliminating boilerplate and keeping UIs in sync with your state… but there's a lot more that it can do. This talk will take you through the more advanced features of Data Binding, beyond the basics. It will cover using custom binding adapters, two-way binding, animations and testing considerations. Moreover it examines how using Data Binding influences your app's architecture. You'll learn how to get the most out of Data Binding so that you can write less repetitive, safer, efficient apps.",
+    "language": "English",
+    "title": "Advanced Android Data Binding",
     "tags": [
       "Android Development"
     ]
@@ -234,6 +356,30 @@
       "Android Development"
     ]
   },
+  "GAO-2888": {
+    "complexity": "Beginner",
+    "speakers": [
+      "822864bbbee048b2f933cbe80197c80b36e291a3"
+    ],
+    "description": "In this talk, you will learn about best practices to gather insights,  mixed with real life experiences and anecdotes. Understand why people are doing certain tasks, not only what they are doing. \r\nBasically, improve your apps, by asking the right questions.\r\n\r\nNo budget for user research? Learn what you can do under the radar to understand the user behaviour better. You will get examples on how it can be done, regardless if you are a bigger company, or an indie developer! ",
+    "language": "English",
+    "title": "The difference between what and why.",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "HJM-2968": {
+    "complexity": "Beginner",
+    "speakers": [
+      "a14457ee24a86a604c55d6774bed5483b630e78f"
+    ],
+    "description": "A bunch of Google Developers Experts will come on stage, discovering a few applications in live, they will provide feedback and advices to the developers.\r\nPropose your application for the review by sending the Play Store link or the APK to contact@androidmakers.fr",
+    "language": "English",
+    "title": "App Clinic",
+    "tags": [
+      "Android Development"
+    ]
+  },
   "DFO-2916": {
     "complexity": "Beginner",
     "description": "Functions that take a long time to return are a problem because they block the calling thread, which could be the main thread, where your UI runs.\r\nYou can workaround this issue by using callbacks instead, but it introduces other issues:\r\n\r\n- Mangled functions signatures\r\n- Inability to use even simple language constructs like `if`, `while` or local variables\r\n- More verbose usage (boilerplate never scales well)\r\n- Harder error/exception handling\r\n\r\nSeeing it brings more problems than it solves helps us understand why people refer to **callback hells**.\r\n\r\nThere's been attempts to circumvent these issues with AsyncTask (no comment), Futures (from JDK, Guava, and more), Tasks API (from Google Play Services), reactive programming (e.g. RxJava used for threading and callbacks), and none solves all the issues mentioned above.\r\n\r\n**Kotlin coroutines are changing the game** with an implementation of the nearly 60 years old concept that **brings back the simplicity of blocking code**, without the blocking issue.\r\n\r\nIn this talk, you'll see how any waiting or blocking code can be made easier to write and read.\r\nYou'll learn how to use kotlinx.coroutines correctly in Android, and peek at how it all works.",
@@ -254,6 +400,18 @@
     "description": "Kotlin changed the way we code!\r\nBut did you already adapt the way you test?\r\nThe language offers new possibilities but also offers challenges, just think of Coroutines.\r\nLet's write nice and clean Kotlin tests together.\r\n",
     "language": "English",
     "title": "Effective Unit testing with Kotlin",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "VQS-5461": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "bee9073d3e8e1f966338d0cf74c4d34708270008"
+    ],
+    "description": "Writing multi-threaded software is hard. Debugging and chasing down problems like deadlocks, race conditions, and memory leaks is even harder.\r\nKotlin takes a different approach. It doesn't have to be so hard. Learn how you can write concurrent and asynchronous software using coroutines. And stop sharing memory to communicate mutable data. Leverage channels to safely communicate across coroutines.",
+    "language": "English",
+    "title": "Concurrency doesn't have to be hard: Kotlin Coroutines and Channels",
     "tags": [
       "Android Development"
     ]
@@ -332,6 +490,18 @@
       "Android Development"
     ]
   },
+  "NTE-5380": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "e05f104edbea6da8b8627427dafc4d7a141d699f"
+    ],
+    "description": "Let’s face it, we waste a lot of time on things that don't add any value. Maybe you use the same pattern in different places and copy&paste the same files over and over. Probably the same happens whenever you create a new app or module. What about all the time that you spend in Jira or other tools on tasks like moving tickets or logging time?. What if you could automate all that? Well, you can, and I’m going to show you how by writing your own Android Studio Plugin.\r\n\r\nIn this talk you will learn how to create a new Android Studio Plugin using Kotlin, create templates to generate code automatically, write live templates to insert frequently-used constructors in your code, easily integrate Android Studio with Jira or other tools, create a brand new full App in minutes using feature modules and much more.",
+    "language": "English",
+    "title": "Write your own Android Studio Plugin and automate everything",
+    "tags": [
+      "Android Development"
+    ]
+  },
   "TGV-6847": {
     "complexity": "Beginner",
     "speakers": [
@@ -340,6 +510,30 @@
     "description": "Is your team not reviewing code? You should be! Does it feel like you could be getting more out of code reviews? Absolutely! Code reviews are severely underutilized.  Let me show you some approaches to get more value from code reviews for you and your team.  \r\n\r\nI will emphasize code review best practices starting with why you should be performing code reviews.  Some teams don't perform reviews and this is really hurting them in the long run. I will attempt to sell the review process and explain why it is fundamental to our roles as developers.  \r\n\r\nTeams that are performing reviews may feel burdened by doing so and see it as chore. This also is not ideal and I will dig a little deeper and discuss why we feel this way sometimes. What are the strategies to overcome this feeling? Is it possible to enjoy code review?\r\n\r\nAre there shortcuts to work more efficiently at reviewing code? Absolutely! Can some things be automated? What can't? Let me show you some great approaches to making the review process streamlined and efficient. \r\n",
     "language": "English",
     "title": "Getting the most out of code review",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "YYF-6635": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "4c0e1e68242b0243ee0937ba11054aeda38c87ff"
+    ],
+    "description": "Dagger is a complex tool, we can all agree on that. It's also the most performant and scalable dependency injector we have available -- no wonder it's the official recommendation from Google when it comes to dependency injection for Android apps. And yet, we keep looking for simpler alternatives (usually service locators) just so we don't have to deal with it.\r\n\r\nEven thought Dagger is complex, it doesn't have to be complicated. It's possible to keep things simple and still take advantage of what it offers at its core. There are many ways to setup Dagger, and believe it or not, some of them are quite simple. The goal of this talk is to present a simplistic approach to Dagger, where we can take advantage of dependency injection with minimal boilerplate and optimum performance. On top of that, we'll be looking in details on best practices and how to ensure you're taking the most out of Dagger.\r\n\r\nJoin me if you've had unpleasant experiences with Dagger -- or even if you're happy with your current setup -- so we can take a fresh look on how we can work with it. And if you haven't worked with Dagger before, this is the perfect opportunity to get off on the right foot!",
+    "language": "English",
+    "title": "It's complicated, but it doesn't have to be: a Dagger adventure",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "ODA-3499": {
+    "complexity": "Beginner",
+    "speakers": [
+      "ebe349a84d93b180def160c8a4731efd3b4a44f4"
+    ],
+    "description": "Do you exactly know what's your app doing when you deliver it to your users? Are you 100% sure? Would you bet on this? You're probably confident with the code you wrote and you know what is doing. \r\n\r\nBut what about the code that others wrote? \r\n\r\nWe pull dependencies from the online repositories every day. Our applications strongly rely on external libraries that are hosted on public Maven repositories. What if one of those library contains some malicious code? Imagine a library that starts harvesting your user data without you knowing it.\r\n\r\nIn this talk we will see how to monitor and protect your application from malicious dependency on the web that might end up in your final compiled App.",
+    "language": "English",
+    "title": "I have no idea what my app is doing ¯\\_(ツ)_/¯",
     "tags": [
       "Android Development"
     ]
@@ -364,127 +558,6 @@
     "description": "`Android` developers are facing a common problem: how to test our applications on many devices without sacrificing too much time or money?\r\n\r\n    How to build and test automatically our applications for each commit?\r\n    How can we find those devices inside the company, whatever its size may be?\r\n    Could there be a directory somewhere that lists those available devices?\r\n    Could we use a device remotely and share it with other developers as if it were in the cloud?\r\n\r\nWhat if you could answer all these questions with the help of a low cost device farm that fits into a pocket? A pocket full of clouds…\r\n\r\nPoddingue, our proposal, aims to tackle this problem thanks to Docker, HypriotOS, Armbian, Gitlab CI and OpenSTF. It’s an internal solution made of OSS readily available, but it has not yet been publicly announced as a whole.\r\n\r\nThis is a feedback about an idea on its way to production, a long journey full of different feelings.\r\n\r\nAt the end of the talk, you should know how to build your own cloudy pocket farm of Android devices and how to use it to test your applications within your ci pipeline.\r\n\r\nAnd as I am cheap, you will also be surprised at how little money you need to build it.",
     "language": "English or French",
     "title": "The Android device farm that fits in a (cloudy) pocket",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "KOV-9403": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "5978cd774e924d51f2923d8620f1346a3392263c"
-    ],
-    "description": "Animations bring your app to life but often we write them as pre-canned sequences that once started can’t be interrupted or redirected. Modern Android apps are reactive to state changes… your animations should be as well. This talk looks at techniques for writing animations that work like state machines, that can be interrupted or retargeted while running. We’ll look at ways to architect your animations to achieve this, and libraries and classes that we can utilize.",
-    "language": "English",
-    "title": "Motional Intelligence: Build smarter animations",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "comedy": {
-    "complexity": "Beginner",
-    "speakers": [
-      "379c162aac12eca2deca690287b54ad270cc2e40",
-      "4a7ca4c16cbe81a612bf3011a3d3439f85408103"
-    ],
-    "description": "",
-    "language": "English",
-    "title": "Closing conference",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "BXQ-5942": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "577e9daa13bf52cf00a48a6304fc2332e060d73d"
-    ],
-    "description": "Android is a marvelous platform that has been evolving for more than 10 years now. Having such a large framework and so many APIs, some of thme comes with their questions and puzzlers. In this talk, we will present some of the weirdest API usage/results and give an explanation for each of them.",
-    "language": "English",
-    "title": "Android Puzzlers",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "QMW-7145": {
-    "complexity": "Expert",
-    "speakers": [
-      "96c6201599b5aea0e119a60ab9ebbf185be421b5"
-    ],
-    "description": "If you’ve used Firebase Performance Monitoring, you know that it automatically discovers and reports performance metrics for all the HTTP transactions in your app.  But have you ever wondered how it does that?  Android doesn’t provide any APIs to listen in on an arbitrary connection (that would be a security problem!), and Firebase supports URLConnection, Apache, and OKHTTP APIs.  The secret here is bytecode manipulation at build time using the Transform API provided by the Android build tools.  Join this session to find out how the Firebase Performance Monitoring Gradle plugin intercepts and measures HTTP transactions at runtime with some assistance from bytecode manipulation at build time.\r\n",
-    "language": "English",
-    "title": "(Android) Transformers - bytecode in disguise!",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "VOJ-6007": {
-    "complexity": "Beginner",
-    "speakers": [
-      "d2a0ee8397721dab722a6f969532df215dad171c"
-    ],
-    "description": "You want to style the title of dialogs throughout your app and you think it should be simple enough. However, once you dive into it, you might start asking questions - should I use alertDialogTheme or alertDialogStyle? Should I use windowTitle or dialogTitle? It is no secret that the styling and theming system in Android is complex, but I promise there is some method to the madness! We can avoid writing custom components just to achieve pixel perfection if we know how tame to the beast.\r\n\r\nIn this talk, we will learn about the difference between themes and styles, the hierarchy of different styling techniques and how to use them effectively. We will also learn how they work internally, and the best practices of how to apply them. We will wrap up by discussing the newest app theme in town - the Material Components Theme and the attributes that come with it, like “colorOnSurface”.  \r\n\r\nAt the end of this talk, you will know how to style your app like a pro with the correct use of Styles, Themes, TextAppearance and sensible defaults while specifying colour, shape and typography through Material Theming.\u2028",
-    "language": "English",
-    "title": "Styles, Themes, Material Theming, Oh My!",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "MKQ-2052": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "7d6c66f700e20f82bdfa02c954a83d13f05d63df"
-    ],
-    "description": "Data binding is great for eliminating boilerplate and keeping UIs in sync with your state… but there's a lot more that it can do. This talk will take you through the more advanced features of Data Binding, beyond the basics. It will cover using custom binding adapters, two-way binding, animations and testing considerations. Moreover it examines how using Data Binding influences your app's architecture. You'll learn how to get the most out of Data Binding so that you can write less repetitive, safer, efficient apps.",
-    "language": "English",
-    "title": "Advanced Android Data Binding",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "GAO-2888": {
-    "complexity": "Beginner",
-    "speakers": [
-      "822864bbbee048b2f933cbe80197c80b36e291a3"
-    ],
-    "description": "In this talk, you will learn about best practices to gather insights,  mixed with real life experiences and anecdotes. Understand why people are doing certain tasks, not only what they are doing. \r\nBasically, improve your apps, by asking the right questions.\r\n\r\nNo budget for user research? Learn what you can do under the radar to understand the user behaviour better. You will get examples on how it can be done, regardless if you are a bigger company, or an indie developer! ",
-    "language": "English",
-    "title": "The difference between what and why.",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "HJM-2968": {
-    "complexity": "Beginner",
-    "speakers": [
-      "a14457ee24a86a604c55d6774bed5483b630e78f"
-    ],
-    "description": "A bunch of Google Developers Experts will come on stage, discovering a few applications in live, they will provide feedback and advices to the developers.\r\nPropose your application for the review by sending the Play Store link or the APK to contact@androidmakers.fr",
-    "language": "English",
-    "title": "App Clinic",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "VQS-5461": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "bee9073d3e8e1f966338d0cf74c4d34708270008"
-    ],
-    "description": "Writing multi-threaded software is hard. Debugging and chasing down problems like deadlocks, race conditions, and memory leaks is even harder.\r\nKotlin takes a different approach. It doesn't have to be so hard. Learn how you can write concurrent and asynchronous software using coroutines. And stop sharing memory to communicate mutable data. Leverage channels to safely communicate across coroutines.",
-    "language": "English",
-    "title": "Concurrency doesn't have to be hard: Kotlin Coroutines and Channels",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "ODA-3499": {
-    "complexity": "Beginner",
-    "speakers": [
-      "ebe349a84d93b180def160c8a4731efd3b4a44f4"
-    ],
-    "description": "Do you exactly know what's your app doing when you deliver it to your users? Are you 100% sure? Would you bet on this? You're probably confident with the code you wrote and you know what is doing. \r\n\r\nBut what about the code that others wrote? \r\n\r\nWe pull dependencies from the online repositories every day. Our applications strongly rely on external libraries that are hosted on public Maven repositories. What if one of those library contains some malicious code? Imagine a library that starts harvesting your user data without you knowing it.\r\n\r\nIn this talk we will see how to monitor and protect your application from malicious dependency on the web that might end up in your final compiled App.",
-    "language": "English",
-    "title": "I have no idea what my app is doing ¯\\_(ツ)_/¯",
     "tags": [
       "Android Development"
     ]
@@ -695,6 +768,18 @@
       "Android Development"
     ]
   },
+  "VOK-7028": {
+    "complexity": "Beginer",
+    "speakers": [
+      "31cb1315078d707f1abda7a29d7309474e9ec0d4"
+    ],
+    "description": "Developer tools for pixel pushing are one of the more under-developed areas when it comes to Android. Pixel pushing itself is such a tedious process that eats up a lot of development time. Some teams are lucky enough to utilize tools like Figma and Zeplin, which help reduce time when translating designs into something tangible. Others still use the tried and true method of using redlines, screenshots, and photoshop! \r\n\r\nIn this talk we'll go through the journey of pixel pushing, the pain points, and some tips and tricks to help developers and designers speed things up. We'll then talk about Window, a new tool to help you master the art of pixel pushing.\r\nWindow is a new free open source tool with the goal of enhancing the process of pixel pushing.\r\n\r\nFirst is the Window Android App. It lets developers and designers measure, add rulers / grids, and verify placement of what you're seeing on screen. \r\n\r\nThe second is the Window Android library, to integrate into your projects. This library lets you export your Android UI and view it tools like Figma & Sketch. \r\n\r\nWe'll talk about how you can integrate two tools to help you simplify your workload and speed up development time!",
+    "language": "English",
+    "title": "A New Window Into Pixel Pushing - Discussing new tools to help developers save time when implementing designs!",
+    "tags": [
+      "Android Development"
+    ]
+  },
   "GBA-2488": {
     "complexity": "Intermediate",
     "speakers": [
@@ -716,67 +801,6 @@
     "description": "As developers, more often than not, you have access to fast and reliable internet connection, all day long. But the users you target won't. Limited data plans, unreliable network coverage, commuting : those are real obstacle that your users will see daily. This means that network will only be available at some times, and not necessarily when the user wants to interact with your application.\r\n\r\nOur talk will focus on creating a user experience with ‘offline’ being the default working state, and having access to the internet being a bonus for your users. We’ll see how to design your UI/UX to make offline more than an edge case scenario, as well as how to architecture your application, and which tools and libraries can help you to implement it.\r\n",
     "language": "English or French",
     "title": "“Make your app work perfectly offl…” — Connection Interrupted",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "LWJ-6534": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "9294a55b442b986b06aafe0a08db568263a87d23"
-    ],
-    "description": "This talk will focus on some of the more advances features built on top of LeakCanary as well as new features coming up: leak detection in tests, much smarter leaktraces as well as improved UI, memory leak detection in production, etc.",
-    "language": "English or French",
-    "title": "LeakCanary.next",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "REB-6912": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "4227e79e90c24f18fa5d21d0f583b1ee263216bd"
-    ],
-    "description": "In this session, we'll cover how elevation works on Android. From an overview of the available APIs, seeing what is new in Android P, and getting to the nitty gritty of how shadows are rendered on HWUI and Skia. Lastly, we'll learn how to take advantage of the existing APIs and work within their limitations to obtain original and unique results.\r\n\r\nThis talk follows the track of existing blog article(s) on the topic: https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596 and another upcoming article. There is also an open source app, Uplift, which will be used to showcase the effects as we talk about them: https://github.com/rock3r/uplift",
-    "language": "English",
-    "title": "Uplift — Material shadows on Android",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "VJG-9207": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "b86ae9dac45f40c077bbc700eb1af765c11031a5",
-      "072cc4fde1730b8c940eb745e3ab284174184cfd"
-    ],
-    "description": "ConstraintLayout is a popular library for UI development on Android. It is deeply integrated with the Android Studio design tools, allowing developers to quickly create complex and reactive UIs. We recently released ConstraintLayout 2.0, which brings even more layout capabilities, virtual viewgroups, performance improvements and flexible ways to organize your UI. More uniquely, the library also provides powerful animation and motion handling capabilities via MotionLayout, a subclass of ConstraintLayout. All together, this new declarative approach makes it very easy to create modern, motion-enabled UIs for your application.\r\n\r\nThis talk will cover the new capabilities of the library, common pitfalls and solutions to UI patterns, performance aspects, integrating motion, and how to best take advantage of the library in your own application via a series of use cases and examples.",
-    "language": "English",
-    "title": "ConstraintLayout 2.0",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "NTE-5380": {
-    "complexity": "Intermediate",
-    "speakers": [
-      "e05f104edbea6da8b8627427dafc4d7a141d699f"
-    ],
-    "description": "Let’s face it, we waste a lot of time on things that don't add any value. Maybe you use the same pattern in different places and copy&paste the same files over and over. Probably the same happens whenever you create a new app or module. What about all the time that you spend in Jira or other tools on tasks like moving tickets or logging time?. What if you could automate all that? Well, you can, and I’m going to show you how by writing your own Android Studio Plugin.\r\n\r\nIn this talk you will learn how to create a new Android Studio Plugin using Kotlin, create templates to generate code automatically, write live templates to insert frequently-used constructors in your code, easily integrate Android Studio with Jira or other tools, create a brand new full App in minutes using feature modules and much more.",
-    "language": "English",
-    "title": "Write your own Android Studio Plugin and automate everything",
-    "tags": [
-      "Android Development"
-    ]
-  },
-  "VOK-7028": {
-    "complexity": "Beginer",
-    "speakers": [
-      "31cb1315078d707f1abda7a29d7309474e9ec0d4"
-    ],
-    "description": "Developer tools for pixel pushing are one of the more under-developed areas when it comes to Android. Pixel pushing itself is such a tedious process that eats up a lot of development time. Some teams are lucky enough to utilize tools like Figma and Zeplin, which help reduce time when translating designs into something tangible. Others still use the tried and true method of using redlines, screenshots, and photoshop! \r\n\r\nIn this talk we'll go through the journey of pixel pushing, the pain points, and some tips and tricks to help developers and designers speed things up. We'll then talk about Window, a new tool to help you master the art of pixel pushing.\r\nWindow is a new free open source tool with the goal of enhancing the process of pixel pushing.\r\n\r\nFirst is the Window Android App. It lets developers and designers measure, add rulers / grids, and verify placement of what you're seeing on screen. \r\n\r\nThe second is the Window Android library, to integrate into your projects. This library lets you export your Android UI and view it tools like Figma & Sketch. \r\n\r\nWe'll talk about how you can integrate two tools to help you simplify your workload and speed up development time!",
-    "language": "English",
-    "title": "A New Window Into Pixel Pushing - Discussing new tools to help developers save time when implementing designs!",
     "tags": [
       "Android Development"
     ]
