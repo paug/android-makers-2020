@@ -769,7 +769,7 @@
     ]
   },
   "VOK-7028": {
-    "complexity": "Beginer",
+    "complexity": "Beginner",
     "speakers": [
       "31cb1315078d707f1abda7a29d7309474e9ec0d4"
     ],
@@ -801,6 +801,18 @@
     "description": "As developers, more often than not, you have access to fast and reliable internet connection, all day long. But the users you target won't. Limited data plans, unreliable network coverage, commuting : those are real obstacle that your users will see daily. This means that network will only be available at some times, and not necessarily when the user wants to interact with your application.\r\n\r\nOur talk will focus on creating a user experience with ‘offline’ being the default working state, and having access to the internet being a bonus for your users. We’ll see how to design your UI/UX to make offline more than an edge case scenario, as well as how to architecture your application, and which tools and libraries can help you to implement it.\r\n",
     "language": "English or French",
     "title": "“Make your app work perfectly offl…” — Connection Interrupted",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "JOO-6049": {
+    "complexity": "Beginner",
+    "speakers": [
+      "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce"
+    ],
+    "description": "Koin (https://insert-koin.io) is a pragmatic dependency injection framework for Kotlin/Android developers. Let's see how it will make your life easier thanks to the power of Kotlin language: from basics to the setup of Android architecture's components, without forgetting the testing part... And of course, how to migrate your “old” Dagger project.\r\n\r\nAt the menu also, the presentation of the new 2.0 release and some advanced APIs!",
+    "language": "English",
+    "title": "Dependency injection from zero to hero with Koin",
     "tags": [
       "Android Development"
     ]
