@@ -77,10 +77,14 @@
         "name": "Remy Barbosa"
       },
       {
-        "name": "Thomas Barthélémy"
+        "title": "Organizer",
+        "name": "Thomas Barthélémy",
+        "photoUrl": "https://media.licdn.com/dms/image/C5603AQEWg201L6Kgog/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=4ux7-G4vWdJkGWaOMY4m47vAXvhZN-qgq2mkENOrabw"
       },
       {
-        "name": "Gaël Jestin"
+        "title": "Organizer",
+        "name": "Gaël Jestin",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFvzldX_36llA/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=aIwOeeJGj4txaBTpezbt3qt3KZaVcZy_d-veEy7t4oA"
       }
     ],
     "order": 0,
@@ -90,13 +94,16 @@
     "members": [
       {
         "name": "John Karp",
+        "title": "",
         "photoUrl": "https://pbs.twimg.com/profile_images/803900316051718144/lDK8E_p9_400x400.jpg"
       },
       {
-        "name": "Camille Fabre"
+        "name": "Camille Fabre",
+        "title": ""
       },
       {
         "name": "Olivier Levelt",
+        "title": "",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Folivier_levelt.jpg?alt=media&token=b78d05f1-ffa5-409b-af86-716859fdff31"
       }
     ],
