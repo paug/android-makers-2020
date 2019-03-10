@@ -216,5 +216,9 @@ service cloud.firestore {
       // Disallow writes
       allow write: if false;
     }
+
+    match /venues/{id} {
+    	allow read;
+    }
   }
 }
