@@ -85,9 +85,14 @@
         "title": "Organizer",
         "name": "Gaël Jestin",
         "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFvzldX_36llA/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=aIwOeeJGj4txaBTpezbt3qt3KZaVcZy_d-veEy7t4oA"
+      },
+      {
+        "title": "Organizer",
+        "name": "Qian Jin",
+        "photoUrl": ""
       }
     ],
-    "order": 0,
+    "order": 1,
     "title": "PAUG"
   },
   {
@@ -107,7 +112,7 @@
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Folivier_levelt.jpg?alt=media&token=b78d05f1-ffa5-409b-af86-716859fdff31"
       }
     ],
-    "order": 1,
+    "order": 0,
     "title": "BeMyApp"
   }
 ]
