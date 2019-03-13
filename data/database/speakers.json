@@ -2106,7 +2106,7 @@
     "name": "Arnaud Giuliani",
     "country": "Paris, France",
     "photo": "/images/people/arnaud_giuliani.jpg",
-    "photoUrl": "TODOhttps://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Froberto_orgiu.jpg?alt=media&token=908430a2-d38b-4b06-94f7-ec83940b87b4",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Farnaud_giuliani.jpg?alt=media&token=8f6fce0e-f01e-4bd0-8615-a16879d00011",
     "bio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff. I'm the Koin project lead developer, a lightweight dependency injection framework for Kotlin - https://insert-koin.io \r\n\r\nI'm a speaker since 2016. I talk mostly about Kotlin & Koin: https://medium.com/@giuliani.arnaud/presentations-6b91f53899ac \r\n\r\nI regularly write articles on medium https://medium.com/@giuliani.arnaud/",
     "shortBio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff. I'm the Koin project lead developer...",
     "socials": [
@@ -2114,6 +2114,11 @@
         "icon": "website",
         "link": "https://medium.com/@giuliani.arnaud",
         "name": "Medium"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arnogiu",
+        "name": "Twitter"
       }
     ]
   }
