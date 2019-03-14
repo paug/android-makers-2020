@@ -2106,7 +2106,7 @@
     "name": "Arnaud Giuliani",
     "country": "Paris, France",
     "photo": "/images/people/arnaud_giuliani.jpg",
-    "photoUrl": "TODOhttps://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Froberto_orgiu.jpg?alt=media&token=908430a2-d38b-4b06-94f7-ec83940b87b4",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Farnaud_giuliani.jpg?alt=media&token=8f6fce0e-f01e-4bd0-8615-a16879d00011",
     "bio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff. I'm the Koin project lead developer, a lightweight dependency injection framework for Kotlin - https://insert-koin.io \r\n\r\nI'm a speaker since 2016. I talk mostly about Kotlin & Koin: https://medium.com/@giuliani.arnaud/presentations-6b91f53899ac \r\n\r\nI regularly write articles on medium https://medium.com/@giuliani.arnaud/",
     "shortBio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff. I'm the Koin project lead developer...",
     "socials": [
@@ -2114,6 +2114,56 @@
         "icon": "website",
         "link": "https://medium.com/@giuliani.arnaud",
         "name": "Medium"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arnogiu",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "9ff300424fdd88be60cb1679c4e5c0fa1930f537": {
+    "order": 132,
+    "featured": false,
+    "badges": [],
+    "company": "Kapten",
+    "companyLogo": "/images/logos/kapten.svg",
+    "name": "Quentin HUET",
+    "country": "Paris, France",
+    "photo": "/images/people/quentin_huet.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fquentin_huet.jpeg?alt=media&token=8858c6f4-18ca-43b9-823d-b8acdce86dcf",
+    "bio": "Android Developer at Kapten - Working for 5 years in the ride-sharing industry, I’m currently improving our drivers’ life working on the “Kapten Driver” application.",
+    "shortBio": "Android Developer at Kapten - Working for 5 years in the ride-sharing industry, I’m currently improving our drivers’ life working on the “Kapten Driver” application.",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://medium.com/@quent_huet",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/quentinhuet",
+        "name": "Linkedin"
+      }
+    ]
+  },
+  "a59ea6616d4146018fdd4416fa764b15e3afe3ed": {
+    "order": 133,
+    "featured": false,
+    "badges": [],
+    "company": "Kapten",
+    "companyLogo": "/images/logos/kapten.svg",
+    "name": "Yann Vaillant",
+    "country": "Paris, France",
+    "photo": "/images/people/yann_vaillant.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fyann_vaillant.jpeg?alt=media&token=777feb5a-9297-447d-965c-779033a01f27",
+    "bio": "Software Engineer at Kapten in Paris. Recently switched from backend development to Android and enjoying my journey with Kotlin.",
+    "shortBio": "Software Engineer at Kapten in Paris. Recently switched from backend development to Android and enjoying my journey with Kotlin.",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://engineering.kapten.com",
+        "name": "Website"
       }
     ]
   },

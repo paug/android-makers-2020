@@ -69,6 +69,17 @@
     ]
   },
   {
+    "order": 4,
+    "title": "Individual Speaker Sponsor",
+    "logos": [
+      {
+        "logoUrl": "../images/logos/blinkist.png",
+        "name": "Blinkist",
+        "url": "https://www.blinkist.com/en/jobs/"
+      }
+    ]
+  },
+  {
     "order": 99,
     "title": "Website Template Creator",
     "logos": [
