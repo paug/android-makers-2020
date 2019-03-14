@@ -2168,15 +2168,15 @@
     ]
   },
   "419628cf1742b410881c5661f0cc579944989a00": {
-    "order": 132,
+    "order": 134,
     "featured": false,
     "badges": [],
     "company": "Badoo",
-    "companyLogo": "",
+    "companyLogo": "/images/logos/badoo.svg",
     "name": "Zsolt Kocsi",
     "country": "London, UK",
     "photo": "/images/people/zsolt_kocsi.jpg",
-    "photoUrl": "TODOhttps://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Froberto_orgiu.jpg?alt=media&token=908430a2-d38b-4b06-94f7-ec83940b87b4",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fzsolt_kocsi.jpg?alt=media&token=bcadab38-5f67-4bea-be12-5c6a077183f8",
     "bio": "Zsolt is an Android engineer at Badoo with a passion for clean and elegant code. He’s currently focused on the architecture of self-contained components shared between the many apps of the Badoo group.",
     "shortBio": "Zsolt is an Android engineer at Badoo with a passion for clean and elegant code. He’s currently focused on the architecture of self-contained components shared between the...",
     "socials": [
