@@ -18,19 +18,21 @@
     "bio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen. And sometimes, just sometimes, he takes a break from comedy to give a technical talk.",
     "companyLogo": "/images/logos/google.svg",
     "photo": "/images/people/chet_haase.jpg",
-    "socials" : [
+    "socials": [
       {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/chethaase",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/117594266474214732305",
-        "name" : "Google+"
-      }, {
-        "icon" : "website",
-        "link" : "https://medium.com/@chethaase",
-        "name" : "Website"
+        "icon": "twitter",
+        "link": "https://twitter.com/chethaase",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/117594266474214732305",
+        "name": "Google+"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@chethaase",
+        "name": "Website"
       }
     ]
   },
@@ -53,23 +55,26 @@
     "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
     "companyLogo": "/images/logos/google.svg",
     "photo": "/images/people/romain_guy.jpg",
-    "socials" : [ 
+    "socials": [
       {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/romainguy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+RomainGuy",
-        "name" : "Google+"
-      }, {
-        "icon" : "website",
-        "link" : "https://www.flickr.com/photos/romainguy/",
-        "name" : "Website"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/romainguy",
-        "name" : "GitHub"
+        "icon": "twitter",
+        "link": "https://twitter.com/romainguy",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+RomainGuy",
+        "name": "Google+"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.flickr.com/photos/romainguy/",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/romainguy",
+        "name": "GitHub"
       }
     ]
   },
@@ -663,7 +668,6 @@
         "link": "https://www.meetup.com/sfandroid/",
         "name": "gdg"
       }
-    
     ],
     "company": "Uber",
     "companyLogo": "/images/logos/uber.svg",
@@ -2186,5 +2190,94 @@
         "name": "Twitter"
       }
     ]
+  },
+  "0b9544cbf61ccb54d24bc45ca07a6d8c17d9e220": {
+    "order": 135,
+    "featured": false,
+    "badges": [],
+    "company": "2net Ltd",
+    "companyLogo": "",
+    "name": "Chris Simmonds",
+    "country": "Southampton, UK",
+    "photo": "",
+    "photoUrl": "https://s.gravatar.com/avatar/ebfa12c187b003d99f958381932a89c3",
+    "bio": "Chris Simmonds is a software consultant and trainer living in southern England. He has spent almost two decades designing and building open-source embedded systems of all shapes and sizes, and he has encapsulated much of that experience in his book, “Mastering Embedded Linux Programming”.\n\nHe is a frequent presenter at open source and embedded conferences, including the Embedded Linux Conference and Embedded World. You can see some of his work on the “Inner Penguin” blog at www.2net.co.uk",
+    "shortBio": "Chris Simmonds is a software consultant and trainer living in southern England. He has spent almost two decades designing and building open-source embedded systems of all...",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/2net_software",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://2net.co.uk",
+        "name": "Blog"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/chrisdsimmonds",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "4c6f093c88506849f3e562f0f814df18cd07ee99": {
+    "order": 136,
+    "featured": false,
+    "badges": [
+      {
+      "description": "GDG Wellington",
+      "link": "https://www.meetup.com/GDG-Wellington/members/?op=leaders",
+      "name": "gdg"
+    }
+  ],
+    "company": "Ventego Creative",
+    "companyLogo": "",
+    "name": "Kai Koenig",
+    "country": "Wellington, New Zealand",
+    "photo": "",
+    "photoUrl": "https://media.licdn.com/dms/image/C5103AQFO42HzTn21tQ/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=7sRhQIxiXt2c120P43PL0O7CYWBc78bfyWKjF0HYZSI",
+    "bio": "I am a software solutions architect specialised in web and mobile technology consulting using client-side platforms such as Mobile Web, Flutter and Android. Another focus of my work is building and the integration with JVM-backend platforms such as Java, Kotlin, ColdFusion, Lucee and others like Go and Python. I spend most of my work time contributing to projects of various clients and sizes, fulfilling the role of an architect, principal developer, consultant or mentor/instructor.",
+    "shortBio": "I am a software solutions architect specialised in web and mobile technology consulting using client-side platforms such as Mobile Web, Flutter and Android. Another focus of...",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://medium.com/@kaikoenig",
+        "name": "Blog"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/kaikoenig/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
+  "4e367c4cc3f6544d04479533a6745780c0bb072f": {
+    "order": 137,
+    "featured": false,
+    "badges": [],
+    "company": "Le Bon Coin",
+    "companyLogo": "/images/logos/leboncoin.svg",
+    "name": "Cristian Garrido",
+    "country": "Paris, France",
+    "photo": "/images/people/cristian_garrido.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fcristian_garrido.jpg?alt=media&token=f2bb254c-31ea-4ce9-a12b-5e6dad0fbc37",
+    "bio": "Cristian Garrido a débuté dans le développement d’Android depuis la version Eclair 2.1. Il est un ingénieur logiciel passionné, qui cherche constamment à trouver des solutions adaptées pour évoluer sans friction et qui parlent par elles-mêmes. Il commence à partager ses connaissances avec la communauté, notamment en ce qui concerne les réflexions à faire avant d’écrire du nouveau code. Il se auto-définit comme un « software philosopher »",
+    "shortBio": "Cristian Garrido a débuté dans le développement d’Android depuis la version Eclair 2.1. Il est un ingénieur logiciel passionné, qui cherche constamment à trouver des solutions ...",
+    "socials": []
+  },
+  "6e56d272b255d2e5b390a819214552e307e3c2ed": {
+    "order": 138,
+    "featured": false,
+    "badges": [],
+    "company": "Le Bon Coin",
+    "companyLogo": "/images/logos/leboncoin.svg",
+    "name": "Eliott Lujan",
+    "country": "Paris, France",
+    "photo": "/images/people/eliott_lujan.jpg",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feliott_lujan.jpg?alt=media&token=39882aaa-fae7-4cde-bb33-61e7be474f9b",
+    "bio": "Eliott Lujan travaille sur Android depuis 3 ans et est développeur chez Leboncoin.\n\nIl s’intéresse à tout l’écosystème de la plateforme ainsi que l’art de créer des solutions techniques élégantes, pratiques et maintenables.",
+    "shortBio": "Eliott Lujan travaille sur Android depuis 3 ans et est développeur chez Leboncoin.",
+    "socials": []
   }
 }
