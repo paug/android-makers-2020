@@ -65,6 +65,11 @@
         "logoUrl": "../images/logos/trainline.svg",
         "name": "Trainline",
         "url": "https://www.trainline.fr"
+      },
+      {
+        "logoUrl": "../images/logos/octo.svg",
+        "name": "Octo",
+        "url": "https://www.octo.com/"
       }
     ]
   },
