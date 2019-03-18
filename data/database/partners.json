@@ -69,7 +69,7 @@
       {
         "logoUrl": "../images/logos/octo.svg",
         "name": "Octo",
-        "url": "https://www.octo.com/"
+        "url": "https://rejoins.octo.com/"
       }
     ]
   },
@@ -91,7 +91,7 @@
   },
   {
     "order": 99,
-    "title": "Website Template Creator",
+    "title": "Website Template",
     "logos": [
       {
         "logoUrl": "../images/logos/gdg-lviv.svg",
