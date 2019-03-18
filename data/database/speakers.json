@@ -2226,11 +2226,11 @@
     "featured": false,
     "badges": [
       {
-      "description": "GDG Wellington",
-      "link": "https://www.meetup.com/GDG-Wellington/members/?op=leaders",
-      "name": "gdg"
-    }
-  ],
+        "description": "GDG Wellington",
+        "link": "https://www.meetup.com/GDG-Wellington/members/?op=leaders",
+        "name": "gdg"
+      }
+    ],
     "company": "Ventego Creative",
     "companyLogo": "",
     "name": "Kai Koenig",

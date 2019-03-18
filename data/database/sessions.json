@@ -834,11 +834,47 @@
     "speakers": [
       "9ff300424fdd88be60cb1679c4e5c0fa1930f537",
       "a59ea6616d4146018fdd4416fa764b15e3afe3ed"
-
     ],
     "description": "L’internationalisation est un sujet complexe comprenant de nombreuses problématiques que beaucoup de startups rencontrent mais priorisent peu dans leurs premières années d'existence.\n\nRejoignez nous pour découvrir comment nous sommes passés d’une app pensée pour la France à une app prête à être utilisée dans le monde entier.\n\nNous verrons entre autre comment gérer intelligemment les devises, traductions, timezones/dates et distances, ou encore comment activer ou non des fonctionnalités en fonction de la location des utilisateurs",
     "language": "French",
     "title": "Internationalisation à Kapten",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "JEH-1710": {
+    "complexity": "Intermediate",
+    "speakers": [
+      "0b9544cbf61ccb54d24bc45ca07a6d8c17d9e220"
+    ],
+    "description": "You can run Android on a wide range of devices, not just phones and tablets. Building Android from scratch is fun and a great way to learn about the lower levels of the operating system. Imagine - here is a chance to create ANY Android configuration you want.\n\nIn this presentation, I will show you how to take a Raspberry Pi 3 and build Android completely from scratch, using source code from the AOSP (Android Open Source Project). We will need a few things to make this work A Linux kernel that has been configured with the options that Android expects OpenGL ES graphics drivers HAL layers for graphics and networking, amongst other things\n\nThe final hurdle is understanding the way that the RPi boots and adapting it to boot Android. Then, at last, we get to the point where we can write the images to a microSD card and boot up the RPi. One last problem: the Raspberry Pi 3 doesn’t have a USB OTG port, so we can’t use ADB in the normal way. No problem, we can use ADB over Ethernet instead.\n\nThis presentation focuses on the Raspberry Pi, but in a similar way you can port Android to many other devices. If it can run Linux, there is a good chance it can run Android.",
+    "language": "English",
+    "title": "Building Android for the Raspberry Pi",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "ZNT-7569": {
+    "complexity": "Beginner",
+    "speakers": [
+      "4c6f093c88506849f3e562f0f814df18cd07ee99"
+    ],
+    "description": "So, you’ve built an app. It'd be nice to make some money with it and instead of only charging a one-off purchase price you’re maybe considering a free app with extra features. Or you might think about a subscription model to create an ongoing cashflow by selling a service.\n\nDepending on your actual occupation in the Android-ecosystem you might never had the need to look into monetisation of an app. In a nutshell, it’s a Google Play service - implementation should be smooth and easy and super-straight-forward, right? RIGHT?\n\nIn this talk we're going to cover:\n- Google's various in-app billing offerings and their differences\n- Play Billing and how to implement a working billing flow\n- Dealing with subscriptions in your app and the backend\n- Testing and 3rd party support libraries like Register and BillingX\n- Managing your products in Google Play and Firebase Analytics\n",
+    "language": "English",
+    "title": "Taking your users’ money: In-app billing from start to best practices",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "LBC-1587": {
+    "complexity": "Beginner",
+    "speakers": [
+      "4e367c4cc3f6544d04479533a6745780c0bb072f0",
+      "6e56d272b255d2e5b390a819214552e307e3c2ed"
+    ],
+    "description": "Toute application logicielle, lorsqu’elle atteinte une certain taille, se retrouve remplie d’anti patterns, de code smell et de technologies obsolètes.\nCette présentation a pour but de comprendre les problèmes les plus fréquemment rencontrés au sein des applications Android, d’en évaluer les enjeux et de les résoudre grâce à des technologies, librairies et moyens plus modernes. Cependant, la résolution de ces problèmes et l’intégration de nouvelles solutions peuvent être délicats lorsque l’application impact des millions d’utilisateurs.\nChez Leboncoin, nous vivons cette modernisation technique au quotidien et en avons fait un enjeu majeure pour notre équipe mobile. Nous allons vous présenter notre retour d’expérience ainsi que les stratégies adoptées au cours de la modernisation de notre application sur ces dernières années.",
+    "language": "French",
+    "title": "Retour d’expérience sur la modernisation technique d’une Top App",
     "tags": [
       "Android Development"
     ]
