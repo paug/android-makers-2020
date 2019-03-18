@@ -526,12 +526,12 @@
       }
     ],
     "company": "Qonto",
-    "companyLogo": "/images/logos/qonto.svg",
+    "companyLogo": "/images/logos/tag-heuer.png",
     "name": "Eyal LEZMY",
     "country": "Paris, France",
     "photo": "/images/people/eyal_lezmy.jpg",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feyal_lezmy.jpg?alt=media&token=abfa1647-9d8d-4e12-bcb0-ced0670502cc",
-    "bio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert Android and IoT\r\n\r\nI’ve been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. Then I joined Qonto a bank for freelancers, startups and SMBs.",
+    "bio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert Android and IoT\r\n\r\nI’ve been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. Then I joined Qonto a bank for freelancers, startups and SMBs. I am now working for Tag Heuer.",
     "shortBio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert Android and IoT...",
     "socials": [
       {
@@ -795,7 +795,7 @@
       }
     ],
     "company": "Disney Streaming Services",
-    "companyLogo": "/images/logos/disneystreamingservices.png",
+    "companyLogo": "/images/logos/disney-streaming-services.svg",
     "name": "Sandra Dupré",
     "country": "Amsterdam, The Netherlands",
     "photo": "/images/people/dupre_sandra.jpg",
