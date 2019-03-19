@@ -869,7 +869,7 @@
   "LBC-1587": {
     "complexity": "Beginner",
     "speakers": [
-      "4e367c4cc3f6544d04479533a6745780c0bb072f0",
+      "4e367c4cc3f6544d04479533a6745780c0bb072f",
       "6e56d272b255d2e5b390a819214552e307e3c2ed"
     ],
     "description": "Toute application logicielle, lorsqu’elle atteinte une certain taille, se retrouve remplie d’anti patterns, de code smell et de technologies obsolètes.\nCette présentation a pour but de comprendre les problèmes les plus fréquemment rencontrés au sein des applications Android, d’en évaluer les enjeux et de les résoudre grâce à des technologies, librairies et moyens plus modernes. Cependant, la résolution de ces problèmes et l’intégration de nouvelles solutions peuvent être délicats lorsque l’application impact des millions d’utilisateurs.\nChez Leboncoin, nous vivons cette modernisation technique au quotidien et en avons fait un enjeu majeure pour notre équipe mobile. Nous allons vous présenter notre retour d’expérience ainsi que les stratégies adoptées au cours de la modernisation de notre application sur ces dernières années.",
