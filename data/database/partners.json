@@ -70,6 +70,11 @@
         "logoUrl": "../images/logos/octo.svg",
         "name": "Octo",
         "url": "https://rejoins.octo.com/"
+      },
+      {
+        "logoUrl": "../images/logos/vptech.png",
+        "name": "Veepee",
+        "url": "https://careers.veepee.com/en/vptech/"
       }
     ]
   },
