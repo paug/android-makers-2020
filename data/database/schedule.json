@@ -1,2 +1,112 @@
 {
+  "2019-04-23": {
+    "dateReadable": "April 23rd",
+    "timeslots": [
+      {
+        "startTime": "8:00",
+        "endTime": "9:00",
+        "sessions": [
+          {
+            "items": [
+              "registration"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "9:00",
+        "endTime": "9:55",
+        "sessions": [
+          {
+            "items": [
+              "XEB-2115"
+            ]
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "9:55",
+        "endTime": "10:05",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "10:05",
+        "endTime": "10:25",
+        "sessions": [
+          {
+            "items": [
+              "HZY-9508"
+            ],
+          	"extend" : 2
+          },
+          {
+            "items": [
+              "NTE-5380"
+            ],
+          	"extend" : 2
+          },
+          {
+            "items": [
+              "MKQ-2052"
+            ]
+          },
+          {
+            "items": [
+              "NYI-1720"
+            ],
+          	"extend" : 2
+          }
+        ]
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "10:50",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "tbd"
+            ]
+          },
+          {
+            "items": []
+          }
+        ]
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Moebius"
+      },
+      {
+        "title": "Room A. & L. Blin"
+      },
+      {
+        "title": "Room 2.02"
+      },
+      {
+        "title": "Room 2.04"
+      }
+    ]
+  }
 }
