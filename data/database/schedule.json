@@ -46,19 +46,78 @@
       },
       {
         "startTime": "10:05",
-        "endTime": "10:25",
+        "endTime": "10:45",
         "sessions": [
           {
             "items": [
               "HZY-9508"
-            ],
-          	"extend" : 2
+            ]
+          },
+          {
+            "items": [
+              "tbd"
+            ]
           },
           {
             "items": [
               "NTE-5380"
+            ]
+          },
+          {
+            "items": [
+              "NYI-1720"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "10:45",
+        "endTime": "11:15",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "11:15",
+        "endTime": "11:35",
+        "sessions": [
+          {
+            "items": [
+              "FVI-2317"
             ],
-          	"extend" : 2
+            "extend": 2
+          },
+          {
+            "items": [
+              "LNH-0175"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "tbd"
+            ]
+          },
+          {
+            "items": [
+              "LQF-6083"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "11:40",
+        "endTime": "12:00",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
           },
           {
             "items": [
@@ -67,15 +126,202 @@
           },
           {
             "items": [
-              "NYI-1720"
-            ],
-          	"extend" : 2
+              "NOG-9878"
+            ]
           }
         ]
       },
       {
-        "startTime": "10:30",
-        "endTime": "10:50",
+        "startTime": "12:05",
+        "endTime": "12:45",
+        "sessions": [
+          {
+            "items": [
+              "DFO-2916"
+            ]
+          },
+          {
+            "items": [
+              "LWJ-6534"
+            ]
+          },
+          {
+            "items": [
+              "OVK-2477"
+            ]
+          },
+          {
+            "items": [
+              "ZCO-9565"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "12:45",
+        "endTime": "14:00",
+        "sessions": [
+          {
+            "items": [
+              "lunch"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:40",
+        "sessions": [
+          {
+            "items": [
+              "VJG-9207"
+            ]
+          },
+          {
+            "items": [
+              "REB-6912"
+            ]
+          },
+          {
+            "items": [
+              "MAW-7262"
+            ],
+            "extend": 3
+          },
+          {
+            "items": [
+              "PJX-9369"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "14:50",
+        "endTime": "15:30",
+        "sessions": [
+          {
+            "items": [
+              "VOJ-6007"
+            ]
+          },
+          {
+            "items": [
+              "QMW-7145"
+            ]
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "VTN-7485"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "15:30",
+        "endTime": "16:00",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "16:40",
+        "sessions": [
+          {
+            "items": [
+              "KOV-9403"
+            ]
+          },
+          {
+            "items": [
+              "SCS-0941"
+            ]
+          },
+          {
+            "items": [
+              "VUR-7482"
+            ]
+          },
+          {
+            "items": [
+              "XWA-9893"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "16:50",
+        "endTime": "17:30",
+        "sessions": [
+          {
+            "items": [
+              "XQK-8719"
+            ]
+          },
+          {
+            "items": [
+              "DCF-5057"
+            ]
+          },
+          {
+            "items": [
+              "YYF-6635"
+            ]
+          },
+          {
+            "items": [
+              "HXB-5769"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "18:00",
+        "endTime": "18:20",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "QIW-9288"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "JEH-1710"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "XVO-2305"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "18:25",
+        "endTime": "18:45",
         "sessions": [
           {
             "items": []
@@ -84,12 +330,23 @@
             "items": []
           },
           {
-            "items": [
-              "tbd"
-            ]
+            "items": []
           },
           {
-            "items": []
+            "items": [
+              "ZDM-8801"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "18:45",
+        "endTime": "23:00",
+        "sessions": [
+          {
+            "items": [
+              "party"
+            ]
           }
         ]
       }
