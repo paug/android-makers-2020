@@ -51,16 +51,6 @@
       "Service"
     ]
   },
-  "tbd": {
-    "speakers": [],
-    "description": "TBD",
-    "language": "TBD",
-    "title": "TBD",
-    "complexity": "TBD",
-    "tags": [
-      "Android Development"
-    ]
-  },
   "VJG-9207": {
     "complexity": "Intermediate",
     "speakers": [
@@ -82,7 +72,7 @@
     "title": "Kotlin Under the Covers",
     "language": "English",
     "description": "Kotlin offers many powerful language features that make it a welcome addition to the Android developer's toolkit. But some of these features may do significant work behind the scenes, including allocating object and reflection. This dynamic is not obvious from the Kotlin code, so how do we know when this is happening? This talk will go over some of these areas that you should be aware of, as well as the tools that help us discover this kind of information about our code.",
-    "complexity": "Intermédiaire",
+    "complexity": "Intermediate",
     "tags": [
       "Android Development"
     ]
