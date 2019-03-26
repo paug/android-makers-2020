@@ -63,18 +63,6 @@
         padding-bottom: 40px;
       }
 
-      .bookmark-session {
-        color: var(--secondary-text-color);
-      }
-
-      .session[featured] .bookmark-session {
-        color: var(--default-primary-color);
-      }
-
-      .bookmark-session:hover {
-        color: var(--default-primary-color);
-      }
-
       .session-title {
         font-size: 20px;
         line-height: 1.2;
@@ -162,11 +150,6 @@
         <div class="session-meta">
           <div hidden$="[[!session.complexity]]">[[session.complexity]]</div>
         </div>
-        <iron-icon
-          class="bookmark-session"
-          icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
-          on-tap="_toggleFeaturedSession"
-        ></iron-icon>
       </div>
 
       <div class="session-footer">
