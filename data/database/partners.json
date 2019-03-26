@@ -75,6 +75,16 @@
         "logoUrl": "../images/logos/vptech.png",
         "name": "Veepee",
         "url": "https://careers.veepee.com/en/vptech/"
+      },
+      {
+        "logoUrl": "../images/logos/esens.jpg",
+        "name": "Esens",
+        "url": "http://www.esensconsulting.com/"
+      },
+      {
+        "logoUrl": "../images/logos/lesjeudis.png",
+        "name": "Les Jeudis",
+        "url": "https://www.lesjeudis.com/"
       }
     ]
   },
