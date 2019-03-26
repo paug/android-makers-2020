@@ -95,6 +95,32 @@
     ]
   },
   {
+    "order": 5,
+    "title": "Makers",
+    "logos": [
+      {
+        "logoUrl": "../images/logos/MWM.png",
+        "name": "MWM",
+        "url": "http://musicworldmedia.com/"
+      },
+      {
+        "logoUrl": "../images/logos/SBR.png",
+        "name": "SoftBank Robotics Europe",
+        "url": "https://www.softbankrobotics.com"
+      },
+      {
+        "logoUrl": "../images/logos/Immersiv.png",
+        "name": "Immersiv",
+        "url": "https://www.immersiv.io"
+      },
+      {
+        "logoUrl": "../images/logos/cinemur.png",
+        "name": "CINEMUR",
+        "url": "https://hello.cinemur.fr/en"
+      }
+    ]
+  },
+  {
     "order": 99,
     "title": "Website Template",
     "logos": [
