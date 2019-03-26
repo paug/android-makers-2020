@@ -25,6 +25,12 @@
       .section {
         cursor: pointer;
       }
+
+      .session-language {
+        align-content: right;
+        font-size: 14px;
+        margin-right: 20px;
+      }
     </style>
 
     <polymer-helmet
@@ -48,11 +54,6 @@
         <app-toolbar>
           <div class="dialog-container header-content" layout vertical end-justified>
             <h2 class="name">[[session.title]]</h2>
-            <div class="tags" hidden$="[[!session.tags.length]]">
-              <template is="dom-repeat" items="[[session.tags]]" as="tag">
-                <span class="tag" style$="color: [[getVariableColor(tag)]]">[[tag]]</span>
-              </template>
-            </div>
           </div>
         </app-toolbar>
       </app-header>
@@ -69,6 +70,7 @@
         <h3 class="meta-info" hidden$="[[disabledSchedule]]">[[session.track.title]]</h3>
         <h3 class="meta-info" hidden$="[[!session.complexity]]">{$ sessionDetails.contentLevel $}:
           [[session.complexity]]</h3>
+        <span class="session-language">[[session.language]]</span>
 
         <marked-element class="description" markdown="[[session.description]]">
           <div slot="markdown-html"></div>

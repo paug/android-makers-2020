@@ -216,16 +216,15 @@
         if (!selectedFilters) return sessions;
         return sessions.filter((session) => {
           return (
-            !selectedFilters.tag
-            || !selectedFilters.tag.length
-            || session.tags
-            && !!session.tags.filter((tag) =>
-              selectedFilters.tag.includes(this.generateClassName(tag))).length
-          ) && (
             !selectedFilters.complexity
             || !selectedFilters.complexity.length
             || session.complexity
             && selectedFilters.complexity.includes(this.generateClassName(session.complexity))
+          ) && (
+            !selectedFilters.languages
+            || !selectedFilters.languages.length
+            || session.language
+            && selectedFilters.languages.includes(this.generateClassName(session.language))
           );
         });
       }

@@ -336,14 +336,14 @@ const sessionsActions = {
           const list = [];
           const obj = {};
           const objBySpeaker = {};
-          const tagFilters = new Set();
+          const languageFilters = new Set();
           const complexityFilters = new Set();
 
           snaps.docs.forEach((doc) => {
             const session = Object.assign({}, doc.data());
             list.push(session);
-            session.tags && session.tags.map((tag) => tagFilters.add(tag.trim()));
             session.complexity && complexityFilters.add(session.complexity.trim());
+            session.language && languageFilters.add(session.language.trim());
             obj[doc.id] = session;
           });
 
@@ -361,8 +361,8 @@ const sessionsActions = {
           dispatch({
             type: SET_FILTERS,
             payload: {
-              tags: [...tagFilters],
               complexity: [...complexityFilters],
+              languages: [...languageFilters],
             },
           });
 

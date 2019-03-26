@@ -177,11 +177,6 @@
             <span
               class="session-track" hidden$="[[_hideTrack(session.tags)]]">, [[session.track.title]]</span>
           </div>
-          <div hidden$="[[!session.tags.length]]">
-            <template is="dom-repeat" items="[[session.tags]]" as="tag">
-              <span class="tag" style$="color: [[getVariableColor(tag)]]">[[tag]]</span>
-            </template>
-          </div>
         </div>
 
         <div class="speakers" hidden$="[[!session.speakers.length]]">
