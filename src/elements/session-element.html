@@ -58,6 +58,13 @@
         color: var(--secondary-text-color);
       }
 
+      .session-track {
+        margin-left: 8px;
+        font-size: 12px;
+        text-transform: uppercase;
+        color: var(--secondary-text-color);
+      }
+
       .session-content {
         padding-top: 0;
         padding-bottom: 40px;
@@ -77,6 +84,10 @@
         padding: 0;
         font-size: 12px;
         color: var(--secondary-text-color);
+      }
+
+      .session-track {
+        visibility: visible;
       }
 
       .session-footer {
@@ -122,6 +133,10 @@
         :host {
           border: 1px solid var(--border-light-color);
         }
+
+        .session-track {
+          visibility: hidden;
+        }
       }
 
     </style>
@@ -159,6 +174,8 @@
               hidden$="[[!session.duration.hh]]">[[session.duration.hh]] hour[[_getEnding(session.duration.hh)]]</span>
             <span
               hidden$="[[!session.duration.mm]]">[[session.duration.mm]] min[[_getEnding(session.duration.mm)]]</span>
+            <span
+              class="session-track" hidden$="[[_hideTrack(session.tags)]]">, [[session.track.title]]</span>
           </div>
           <div hidden$="[[!session.tags.length]]">
             <template is="dom-repeat" items="[[session.tags]]" as="tag">
@@ -233,6 +250,10 @@
 
       _hideSessionAbstract(sesionAbstract) {
         return !this.showSessionShortAbstract || !sesionAbstract;
+      }
+
+      _hideTrack(tags) {
+        return tags[0] == 'Service';
       }
 
       _getFeaturedSessionIcon(featuredSessions, sessionId) {

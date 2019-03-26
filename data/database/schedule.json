@@ -354,16 +354,20 @@
     ],
     "tracks": [
       {
-        "title": "Moebius"
+        "title": "Moebius",
+        "infos": "1st floor"
       },
       {
-        "title": "Room A. & L. Blin"
+        "title": "Room A. & L. Blin",
+        "infos": "Basement"
       },
       {
-        "title": "Room 2.02"
+        "title": "Room 2.02",
+        "infos": "2nd floor"
       },
       {
-        "title": "Room 2.04"
+        "title": "Room 2.04",
+        "infos": "2nd floor"
       }
     ]
   },
@@ -709,16 +713,20 @@
     ],
     "tracks": [
       {
-        "title": "Moebius"
+        "title": "Moebius",
+        "infos": "1st floor"
       },
       {
-        "title": "Room A. & L. Blin"
+        "title": "Room A. & L. Blin",
+        "infos": "Basement"
       },
       {
-        "title": "Room 2.02"
+        "title": "Room 2.02",
+        "infos": "2nd floor"
       },
       {
-        "title": "Room 2.04"
+        "title": "Room 2.04",
+        "infos": "2nd floor"
       }
     ]
   }

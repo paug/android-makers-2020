@@ -33,6 +33,10 @@
         font-size: 16px;
       }
 
+      .tracks {
+        visibility: collapse;
+      }
+
       @media (min-width: 812px) {
         :host {
           margin-left: auto;
@@ -45,6 +49,32 @@
           grid-column-gap: 16px;
           grid-row-gap: 32px;
           grid-template-columns: repeat(var(--tracks-number), 1fr);
+        }
+
+        .tracks {
+          margin-bottom: 8px;
+          visibility: visible;
+        }
+
+        .track {
+          display: block;
+          background-color: var(--primary-background-color);
+          border: 1px solid var(--border-light-color);
+          height: 100%;
+          overflow: hidden;
+          padding: 16px;
+          z-index: 1;
+          line-height: 1.2;
+        }
+
+        .track-title {
+          color: var(--primary-text-color);
+          font-size: 20px;
+        }
+
+        .track-infos {
+          color: var(--secondary-text-color);
+          font-size: 14px;
         }
 
         .start-time {
@@ -65,6 +95,21 @@
       }
 
     </style>
+
+    <div class="grid tracks" style$="--tracks-number: [[day.tracks.length]];">
+
+        <template
+          is="dom-repeat"
+          items="[[day.tracks]]"
+          as="track"
+        >
+          <div class="track">
+            <span class="track-title">[[track.title]]</span>
+            <span class="track-infos" hidden$="[[!track.infos]]">, [[track.infos]]</span>
+          </div>
+
+        </template>
+      </div>
 
     <div class="grid" style$="--tracks-number: [[day.tracks.length]];">
       <template is="dom-repeat" items="[[day.timeslots]]" as="timeslot" index-as="timeslotIndex">
