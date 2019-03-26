@@ -34,6 +34,11 @@
       "label": "Speakers"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -65,6 +70,15 @@
       "title": "Speakers",
       "metaDescription": "Hear from Speakers who are building the future of Android. Check back often as we add more speakers everyday.",
       "description": "Hear from Speakers who are building the future of Android. Check back often as we add more speakers everyday.",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "schedule": {
+      "title": "Schedule",
+      "metaDescription": "Here is the full event agenda.",
+      "description": "Here is the full event agenda.",
       "background": {
         "color": "#FFF"
       },
