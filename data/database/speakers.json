@@ -2279,5 +2279,40 @@
     "bio": "Eliott Lujan travaille sur Android depuis 3 ans et est développeur chez Leboncoin.\n\nIl s’intéresse à tout l’écosystème de la plateforme ainsi que l’art de créer des solutions techniques élégantes, pratiques et maintenables.",
     "shortBio": "Eliott Lujan travaille sur Android depuis 3 ans et est développeur chez Leboncoin.",
     "socials": []
+  },
+  "c0974f7190ab4ccd9d3c20473e8bef6b1685381e": {
+    "order": 139,
+    "featured": false,
+    "badges": [],
+    "company": "Trainline",
+    "companyLogo": "/images/logos/trainline.svg",
+    "name": "Róbert Papp",
+    "country": "London, UK",
+    "photo": "/images/people/robert_papp.jpg",
+    "photoUrl": "TODOhttps://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feliott_lujan.jpg?alt=media&token=39882aaa-fae7-4cde-bb33-61e7be474f9b",
+    "bio": "Polyglot with current focus on Kotlin, Android and Gradle. Spends a lot of time on numerous hobby projects and open source contributions in spare time. Passionate about static analysis to keep the code clean and problem free.",
+    "shortBio": "Polyglot with current focus on Kotlin, Android and Gradle.",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "http://www.twisterrob.net/",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/TWiStErRob",
+        "name": "GitHub"
+      },
+      {
+        "icon": "linkedin",
+        "link": "http://uk.linkedin.com/in/papproberts",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "http://twitter.com/TWiStErRob",
+        "name": "Twitter"
+      }
+    ]
   }
 }

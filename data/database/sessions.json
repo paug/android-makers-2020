@@ -878,5 +878,17 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "TLN-9826": {
+    "complexity": "Beginner",
+    "speakers": [
+      "c0974f7190ab4ccd9d3c20473e8bef6b1685381e"
+    ],
+    "description": "A presentation on how we are using Kotlin features to help our team write Espresso integration tests. Explaining how to make test setup independent of backend. Striving to get to high-level, clean tests using Kotlin DSL and extension methods.",
+    "language": "English",
+    "title": "Leveraging Kotlin to write maintainable UI tests",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
