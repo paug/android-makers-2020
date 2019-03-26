@@ -11,8 +11,7 @@
     ],
     "shortBio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen...",
     "company": "Google",
-    "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=20de7afb-f209-4ebe-a23e-027a5ee6fe28",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fchet_haase.jpg?alt=media&token=2f62c715-8a42-4c52-a51b-cc65e5f91432",
+    "companyLogo": "/images/logos/google.svg",
     "name": "Chet Haase",
     "country": "Mountain View, United States",
     "bio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen. And sometimes, just sometimes, he takes a break from comedy to give a technical talk.",
@@ -48,8 +47,7 @@
     ],
     "shortBio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team...",
     "company": "Google",
-    "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=20de7afb-f209-4ebe-a23e-027a5ee6fe28",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fromain_guy.jpg?alt=media&token=8f4b36fe-97bf-4266-a9cd-2e699dd85f56",
+    "companyLogo": "/images/logos/google.svg",
     "name": "Romain Guy",
     "country": "San Francisco, United States",
     "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
@@ -93,7 +91,6 @@
     "name": "Florina Muntenescu",
     "country": "London, UK",
     "photo": "/images/people/florina_muntenescu.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fflorina_muntenescu.jpg?alt=media&token=f8f1e35e-a189-43b2-bc4c-7b23fe323b41",
     "bio": "Florina is working as an Android Developer Advocate at Google, helping developers architect clean, testable apps using the Architecture Components libraries and Kotlin. She has been working with Android for 8 years, previous work covering news at upday, payment solutions at payleven and navigation services at Garmin.",
     "shortBio": "Florina is working as an Android Developer Advocate at Google, helping developers architect clean, testable apps using the Architecture Comp...",
     "socials": [
@@ -124,7 +121,6 @@
     "name": "Rebecca Franks",
     "country": "Johannesburg, South Africa",
     "photo": "/images/people/rebecca_franks.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Frebecca_franks.jpg?alt=media&token=6df45cf1-0f63-4f69-901b-d92dd5eaa174",
     "bio": "Rebecca is an Android Engineer from South Africa. She is a Google Developer Expert in Android and loves helping other developers learn new things. During the day, she works for a company called Over, where she helps contribute to the graphic design app on a day to day basis. She loves travelling and baking. ",
     "shortBio": "Rebecca is an Android Engineer from South Africa. She is a Google Developer Expert in Android and loves helping other developers learn new things...",
     "socials": [
@@ -155,7 +151,6 @@
     "name": "Danny Preussler",
     "country": "Berlin, Germany",
     "photo": "/images/people/danny_preussler.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdanny_preussler.jpg?alt=media&token=84f6de43-0560-415d-99d5-cce10bc0823d",
     "bio": "Danny writes and talks about mobile development and testing regularly and is a Google Developer Expert for Android and Kotlin. He was in charge for Android for eBay’s classifieds business in Germany before moving to Groupon to build a team there bringing mobile to the life of merchants. Even before Android came along he programmed for mobile phones and every device that could run some kind of Java. Lately, he is looking at TV entertainment working for brands like MTV, VH1, Comedy Central and recently sports streaming.",
     "shortBio": "Danny writes and talks about mobile development and testing regularly and is a Google Developer Expert for Android and Kotlin. He was in charge for...",
     "socials": [
@@ -201,7 +196,6 @@
     "name": "Yacine Rezgui",
     "country": "London, UK",
     "photo": "/images/people/yacine_rezgui.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fyacine_rezgui.jpg?alt=media&token=1c56a996-1a35-47cd-bd55-36f5a3e4a658",
     "bio": "Yacine is an Android developer advocate at Google. He has a background on front end development and got curious to deep dive into the mobile ecosystem. He was previously an AI developer advocate at IBM. He likes coding mentoring and debates about impact of tech on the world. He speaks French, English, Arabic and learning (slowly but surely) Korean.",
     "shortBio": "Yacine is an Android developer advocate at Google. He has a background on front end development and got curious to deep dive into the mobile ecosystem. He was previously...",
     "socials": [
@@ -232,7 +226,6 @@
     "name": "Nick Butcher",
     "country": "London, UK",
     "photo": "/images/people/nick_butcher.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fnick_butcher.jpg?alt=media&token=f770d87f-43da-4669-a681-7e47c33267ce",
     "bio": "Nick is an Android Designer and Engineer in Google's London office where he helps designers and developers to create sublime mobile apps.",
     "shortBio": "Nick is an Android Designer and Engineer in Google's London office where he helps designers and developers to create sublime mobile apps...",
     "socials": [
@@ -262,7 +255,6 @@
     "name": "Pierre-Yves Ricau",
     "country": "San Francisco, United States",
     "photo": "/images/people/pierreyves_ricau.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierreyves_ricau.jpg?alt=media&token=11d14c5e-54ce-454c-91d4-23c43c3256e9",
     "bio": "Android @Square, author of LeakCanary & AndroidAnnotations, killer of fragments 🍷⛷",
     "shortBio": "Android @Square, author of LeakCanary & AndroidAnnotations, killer of fragments 🍷⛷...",
     "socials": [
@@ -298,7 +290,6 @@
     "name": "Jeroen Mols",
     "country": "Mol, Belgium",
     "photo": "/images/people/jeroen_mols.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjeroen_mols.jpg?alt=media&token=9555f67e-a693-497d-a3a5-f10cf1c8b214",
     "bio": "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process, he refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he has built his own file-sharing platform (Wi-FileTransfer). Currently, he is an Android GDE and the lead Android developer at Philips Hue.\r\n\r\nOne of a kind, never-been-done-before apps are what he enjoys most. So far Jeroen helped realize four huge connected products, various high profile apps, actively contributes to open source and loves interacting with the Android community. He is a passionate blogger and enjoys speaking at conferences.",
     "shortBio": "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process, he refocussed his master in Electrical...",
     "socials": [
@@ -334,7 +325,6 @@
     "name": "Doug Stevenson",
     "country": "Sunnyvale, United States",
     "photo": "/images/people/doug_stevenson.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdoug_stevenson.jpg?alt=media&token=8d65f6d9-7200-4a51-b00e-ba3b1ae932e7",
     "bio": "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He's been developing for Android since the very first Android device was on the market, and has bootstrapped the efforts of silicon valley startups.  Outside of work, Doug follows professional ice hockey and enjoys craft beer.\r\n",
     "shortBio": "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He's been developing for Android since the very first...",
     "socials": [
@@ -370,7 +360,6 @@
     "name": "Alex Lockwood",
     "country": "San Francisco, United States",
     "photo": "/images/people/alex_lockwood.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Falex_lockwood.jpg?alt=media&token=1d107b6a-ca67-4c72-a848-7e512c35adc2",
     "bio": "Alex is an Android designer & developer who helps other designers and developers to understand and create beautiful material design apps. He has been writing about Android since 2012 on his blog, Android Design Patterns. He is also the creator of several popular open source libraries, such as Shape Shifter, Kyrie, and Avocado.",
     "shortBio": "Alex is an Android designer & developer who helps other designers and developers to understand and create beautiful material design apps...",
     "socials": [
@@ -401,7 +390,6 @@
     "name": "Juhani Lehtimäki",
     "country": "Munich, Germany",
     "photo": "/images/people/juhani_lehtimaki.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjuhani_lehtimaki.jpg?alt=media&token=5d326173-80b4-446b-9f77-1da54268df0d",
     "bio": "Android Lead, Founder, Partner at Snapp Mobile\r\nI'm an Android developer, design fanboy and Android GDE. I blog, talk and rave about needs for engineers to appreciate design and preach about way for multi-discipline teams to work together to create great real-world products.\r\n",
     "shortBio": "Android Lead, Founder, Partner at Snapp Mobile\r\nI'm an Android developer, design fanboy and Android GDE. I blog, talk and rave about needs...",
     "socials": [
@@ -432,7 +420,6 @@
     "name": "Sebastiano Poggi",
     "country": "London, UK",
     "photo": "/images/people/sebastiano_poggi.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fsebastiano_poggi.jpg?alt=media&token=47050538-5cf1-4629-816a-96f3064d41ab",
     "bio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA and then Novoda. \r\n\r\nRegularly speaking at conferences and brain-dumping on the 'net got him into the Google Developers Experts programme in 2014. Nowadays he's working on some rather cool Kotlin stuff for JetBrains.",
     "shortBio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA...",
     "socials": [
@@ -468,7 +455,6 @@
     "name": "Nicolas Roard",
     "country": "San Francisco, US",
     "photo": "/images/people/nicolas_roard.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fnicolas_roard.jpg?alt=media&token=65b713f6-75c4-4d00-bda9-25dc5632809f",
     "bio": "Tech Lead Android Studio Design Tools & ConstraintLayout",
     "shortBio": "Tech Lead Android Studio Design Tools & ConstraintLayout...",
     "socials": [
@@ -504,7 +490,6 @@
     "name": "John Hoford",
     "country": "Mountain View, US",
     "photo": "/images/people/john_hoford.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjohn_hoford.jpg?alt=media&token=fd4ecd31-fd99-42a8-8cff-3d40efd53edd",
     "bio": "John is a developer on Android working on Android Studio, ConstraintLayout and MotionLayout. He has worked on Android Studio, RenderScript, Vector Drawables, computed shadows and photo editor filters.",
     "shortBio": "John is a developer on Android working on Android Studio, ConstraintLayout and MotionLayout. He has worked on Android Studio, RenderScript, Vector Drawables...",
     "socials": [
@@ -535,7 +520,6 @@
     "name": "Eyal LEZMY",
     "country": "Paris, France",
     "photo": "/images/people/eyal_lezmy.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feyal_lezmy.jpg?alt=media&token=abfa1647-9d8d-4e12-bcb0-ced0670502cc",
     "bio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert Android and IoT\r\n\r\nI’ve been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. Then I joined Qonto a bank for freelancers, startups and SMBs. I am now working for Tag Heuer.",
     "shortBio": "\r\n- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert Android and IoT...",
     "socials": [
@@ -571,7 +555,6 @@
     "name": "Jose Alcérreca",
     "country": "Madrid, Spain",
     "photo": "/images/people/jose_alcerreca.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjose_alcerreca.jpg?alt=media&token=60e5f34d-75cc-44c3-90c5-f3d7010acae8",
     "bio": "Jose is a Developer Programs Engineer at Google where he works to make the Android developer experience better, focusing on architecture and testing. He works on open-source projects such as Architecture Blueprints and the Jetpack architecture samples. He also writes documentation, codelabs, articles and does outreach.\r\nRecently, he's been focusing on the Architecture Components and Jetpack releases, and the Data Binding library.\r\n",
     "shortBio": "Jose is a Developer Programs Engineer at Google where he works to make the Android developer experience better, focusing on architecture and testing. He works on...",
     "socials": [
@@ -602,7 +585,6 @@
     "name": "Vadim Caen",
     "country": "London, UK",
     "photo": "/images/people/vadim_caen.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fvadim_caen.jpg?alt=media&token=418d658c-cdce-40f7-91f9-06662c16b339",
     "bio": "Vadim is a software engineer in the Android Studio team at Google London. He is working on the Design Tools, mainly on the resource manager and the layout editor.",
     "shortBio": "Vadim is a software engineer in the Android Studio team at Google London. He is working on the Design Tools, mainly on the resource manager and the layout...",
     "socials": [
@@ -633,7 +615,6 @@
     "name": "Cyril Mottier",
     "country": "Nantes, France",
     "photo": "/images/people/cyril_mottier.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fcyril_mottier.jpg?alt=media&token=819412e8-6fc8-4cc7-bae3-6eb03bdc9e9e",
     "bio": "An Android developer that is a bit nostalgic about Android 1.0 😂",
     "shortBio": "An Android developer that is a bit nostalgic about Android 1.0 😂...",
     "socials": [
@@ -674,7 +655,6 @@
     "name": "Ty Smith",
     "country": "San Francisco, United States",
     "photo": "/images/people/ty_smith.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fty_smith.jpg?alt=media&token=2ccf56c4-b96a-4c19-bd97-2eb663b40ead",
     "bio": "Ty has been working on Android since 2009. He is a Tech Lead Manager at Uber, focused on the frameworks and open-source. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android.",
     "shortBio": "Ty has been working on Android since 2009. He is a Tech Lead Manager at Uber, focused on the frameworks and open-source. He is a member of the Google...",
     "socials": [
@@ -705,7 +685,6 @@
     "name": "Etienne Caron",
     "country": "Montreal, Quebec, Canada",
     "photo": "/images/people/etienne_caron.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fetienne_caron.jpg?alt=media&token=e9efff63-1e85-406d-86e6-9fb1777bad92",
     "bio": "Etienne Caron is a developer lead at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert program, and an instructor for Caster.io\r\n\r\nEtienne has been an active member of the Android developer community in Montreal since 2010, and regularly devotes his time to mentoring startups, developers and students in the mobile space.\r\n\r\n3D animation, procedural content generation and VR are some of his hobbies, and he loves introducing other developers to this fascinating field. ",
     "shortBio": "Etienne Caron is a developer lead at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert...",
     "socials": [
@@ -736,7 +715,6 @@
     "name": "Elaine Dias Batista",
     "country": "Bourg-la-Reine, France",
     "photo": "/images/people/elaine_diasbatista.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Felaine_diasbatista.jpg?alt=media&token=e029478d-5e2b-4128-8d8f-1dc93f12c2a3",
     "bio": "Elaine has been working with mobile apps development for the past 6 years. Since the launch of the Google Assistant, she has been following the developments around that area. She truly believes that interacting with technology using natural language will define the future of computing. Born and raised in Brazil, she's been living in France since 2004 and loves everything multicultural. She's a GDE for the Google Assistant.",
     "shortBio": "Elaine has been working with mobile apps development for the past 6 years. Since the launch of the Google Assistant, she has been following...",
     "socials": [
@@ -772,7 +750,6 @@
     "name": "Hoi Lam",
     "country": "London, UK",
     "photo": "/images/people/hoi_lam.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fhoi_lam.jpg?alt=media&token=5dd23135-4367-44b9-975e-abcb64bef2c3",
     "bio": "Hoi is the Head of Developer Relations for Android Machine Learning and also a sector executive for the Institution of Engineering and Technology (IET). He was part of the launch team for Wear OS by Google (previously, Android Wear), Chromecast, Google Glass Enterprise Edition, and the Google Beacon Platform. Prior to Google, he founded Exahive to disrupt the mobile commerce market place. Hoi was an Equity Research VP at Deutsche Bank and Citigroup covering technology companies. Before banking, he was a product manager / application architect at Accenture. Hoi holds a Master and Bachelor degree in Space Engineering from the University of Cambridge.",
     "shortBio": "Hoi is the Head of Developer Relations for Android Machine Learning and also a sector executive for the Institution of Engineering and Technology (IET)...",
     "socials": [
@@ -803,7 +780,6 @@
     "name": "Sandra Dupré",
     "country": "Amsterdam, The Netherlands",
     "photo": "/images/people/dupre_sandra.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdupre_sandra.jpg?alt=media&token=e56d7c2e-7567-463f-82ff-9522dc9657f0",
     "bio": "Android Developer who is crazy to make things even smarter. She works for Disney (where all the dreams come true) Streaming Services. These days, she is passionate about MotionLayout.",
     "shortBio": "Android Developer who is crazy to make things even smarter. She works for Disney (where all the dreams come true) Streaming Services. These days, she is...",
     "socials": [
@@ -834,7 +810,6 @@
     "name": "Ben Weiss",
     "country": "London, UK",
     "photo": "/images/people/ben_weiss.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fben_weiss.jpg?alt=media&token=88eb940b-31d2-47a8-a033-932c811cffa5",
     "bio": "Ben is an engineer on the Android Developer Relations team at Google where he focuses to make developer's lives easier",
     "shortBio": "Ben is an engineer on the Android Developer Relations team at Google where he focuses to make developer's lives easier...",
     "socials": [
@@ -865,7 +840,6 @@
     "name": "David González",
     "country": "London, UK / Brussels, Belgium",
     "photo": "/images/people/david_gonzalez.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdavid_gonzalez.jpg?alt=media&token=b4e8281e-d17d-4b88-ae8f-3aebb0d45a05",
     "bio": "David is the Lead Android Engineer at Mixtiles, and a Google Developer Expert for Android who has been developing with the Android platform since 2009. He's actively involved in the community, organising the Kotlin User Group in Belgium, and helping the GDG Brussels. Hosts @the_remote_dev podcast, advocating for remote work and its numerous advantages. He is also a Google Startup Launchpad mentor, helping startups and companies produce highly desirable and quality products.",
     "shortBio": "David is the Lead Android Engineer at Mixtiles, and a Google Developer Expert for Android who has been developing with the Android platform...",
     "socials": [
@@ -906,7 +880,6 @@
     "name": "Magda Miu",
     "country": "Bucharest, Romania",
     "photo": "/images/people/magda_miu.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmagda_miu.jpg?alt=media&token=07740cc8-1626-42a7-b414-f946d9dea68e",
     "bio": "Magda is an enthusiastic and innovative Mobile Team Leader and Certified Scrum Master with more than 8 years experience in software development. She is very devoted to the technical nature of her work, dedicating specific time for learning, testing and implementing new technologies and using these in her coaching process with her team members. Also, she is one of the promoters of digital communities in different towns of Romania, supporting other technical professionals to constantly improve their knowledge by being co-organiser at GDG Pitești and Women Techmakers Romania.",
     "shortBio": "Magda is an enthusiastic and innovative Mobile Team Leader and Certified Scrum Master with more than 8 years experience in software development...",
     "socials": [
@@ -952,7 +925,6 @@
     "name": "Horacio Gonzalez",
     "country": "Brest, France",
     "photo": "/images/people/horacio_gonzalez.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fhoracio_gonzalez.jpg?alt=media&token=def9ab5d-b191-46e1-8177-2afdbecf5810",
     "bio": "Spaniard lost in Brittany. \r\n\r\nAfter some years as @warp10io frontend leader as Cityzen Data, Horacio currently works as technical evangelist at @OVH. He is the co-founder and leader of the @FinistDevs. \r\n\r\nHoracio is a Google Developer Expert (GDE) en Web Technologies and Flutter. He loves web development in general and everything around Web Components and Polymer in particular.",
     "shortBio": "Spaniard lost in Brittany. \r\n\r\nAfter some years as @warp10io frontend leader as Cityzen Data, Horacio currently works as technical evangelist at @OVH...",
     "socials": [
@@ -988,7 +960,6 @@
     "name": "Léna Ndiaye",
     "country": "Rennes, France",
     "photo": "/images/people/lena_ndiaye.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Flena_ndiaye.jpg?alt=media&token=0f875a08-078c-4e2d-a4fa-1d46ce405668",
     "bio": "Développeuse Web à l'origine, j’ai changé de cap pour me concentrer sur  le développement d'applications mobiles Android.   \r\nJ’ai fondé le GDG Rennes Android  https://www.meetup.com/fr-FR/AndroidRennes/ .\r\nGrande fan de Charles DICKENS, surtout de son insolence\r\n\r\n",
     "shortBio": "Développeuse Web à l'origine, j’ai changé de cap pour me concentrer sur  le développement d'applications mobiles Android.   \r\nJ’ai fondé le GDG Rennes Android...",
     "socials": [
@@ -1014,7 +985,6 @@
     "name": "Pierre Crépieux",
     "country": "Lannion, France",
     "photo": "/images/people/pierre_crepieux.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierre_crepieux.jpg?alt=media&token=9359f64f-ec09-4caa-9480-d5e09d637f18",
     "bio": "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs avec des technos comme H.323, IMS, Réseau Intelligent, je suis passé de l'autre coté du réseau pour faire du développement Android. Aujourd'hui, je cultive et m'appuie sur cette double expérience pour investiguer les problèmes qui se posent à la frontière entre les deux.",
     "shortBio": "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs...",
     "socials": [
@@ -1045,7 +1015,6 @@
     "name": "Yannick Lemin",
     "country": "Brussels, Belgium",
     "photo": "/images/people/yannick_lemin.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fyannick_lemin.jpg?alt=media&token=d4ba519e-531a-4606-a690-9b3b51f055e4",
     "bio": "Yannick is a passionate developer and software craftsman. He started in 2000 with C++ cross-platforms applications, continued with Java back-end and web application and stumbled upon Android development in 2009. Android has become a passion and he now tries to touch every aspects of it. He loves to learn new technologies, especially through conferences and meetup events. He also is the co-host of the french speaking Android development podcast Android Leaks, and lead organizer for the GDG Brussels in Belgium.",
     "shortBio": "Yannick is a passionate developer and software craftsman. He started in 2000 with C++ cross-platforms applications, continued with Java back-end...",
     "socials": [
@@ -1081,7 +1050,6 @@
     "name": "Nicola Corti",
     "country": "Hamburg, Germany",
     "photo": "/images/people/nicola_corti.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fnicola_corti.jpg?alt=media&token=2c5432de-ccc4-424e-8bbc-6932a26cd48f",
     "bio": "Nicola Corti has been an Android Software Engineer since 2.2, and a Free and Open Source lover for as long as he remembers. He’s currently working as an Android Engineer at Yelp Inc, connecting millions of users with great local businesses worldwide.\r\n\r\nNicola usually calls himself a 'community addict’. He can't survive without learning every day, sharing knowledge, and having fun with other developers. He’s also currently managing the GDG chapter in Pisa.\r\n\r\nIn his free time, he also loves photography, hiking, and cake design.\r\n",
     "shortBio": "Nicola Corti has been an Android Software Engineer since 2.2, and a Free and Open Source lover for as long as he remembers. He’s currently working as an Android...",
     "socials": [
@@ -1117,7 +1085,6 @@
     "name": "Marc Poppleton",
     "country": "Lannion, France",
     "photo": "/images/people/marc_poppleton.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmarc_poppleton.jpg?alt=media&token=e4106b6f-3bcc-443d-a4c2-c92cae1f0d02",
     "bio": "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the co-founder of the GDG Code d'Armor. The rest of the time, I'm Robopop, cyber-father and husband, half flesh and bones, half carbonfiber and steel.",
     "shortBio": "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the co-founder of the GDG Code d'Armor. The rest of...",
     "socials": [
@@ -1143,7 +1110,6 @@
     "name": "Adrien Vitti",
     "country": "",
     "photo": "/images/people/adrien_vitti.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_vitti.jpg?alt=media&token=46f23aa2-413d-4103-8eba-26782e207d7a",
     "bio": "Chef de pôle Android chez Smart&Soft, j'adore bidouiller tout ce qui me passe sous la main : du logiciel (un script Bash pour transcoder via VLC ? Pas de problème) au matériel (modification / réparation). Je suis à moitié responsable des bugs de l'application AndroidMakers. Enfin je fais aussi parti du Paris Android User Group et des plus gros utilisateurs de gifs de lamas ou d'alpagas !",
     "shortBio": "Chef de pôle Android chez Smart&Soft, j'adore bidouiller tout ce qui me passe sous la main : du logiciel (un script Bash pour transcoder via VLC ? Pas de problème)...",
     "socials": [
@@ -1174,7 +1140,6 @@
     "name": "Pierre Tibulle",
     "country": "Nantes, France",
     "photo": "/images/people/pierre_tibulle.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierre_tibulle.jpg?alt=media&token=62e64c0d-e470-40f1-81aa-adbc91b6dd7d",
     "bio": "\"Job Crafter\" en ESN, dev mobile (Android/iOS/Hybride), je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
     "shortBio": "\"Job Crafter\" en ESN, dev mobile (Android/iOS/Hybride), je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation...",
     "socials": [
@@ -1200,7 +1165,6 @@
     "name": "Romain Rastel",
     "country": "Rennes, France",
     "photo": "/images/people/romain_rastel.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fromain_rastel.jpg?alt=media&token=623750d9-5498-4be4-bdd2-aa40fab04723",
     "bio": "Développeur passionné depuis plus de 10 ans. Pendant longtemps j'ai utilisé les technologies de Microsoft (.Net, C#, Xamarin). Aujourd'hui je suis passé à Dart et je suis devenu très impliqué dans la communauté de Flutter.\r\nJe co-organise notamment le meetup Flutter-Rennes.",
     "shortBio": "Développeur passionné depuis plus de 10 ans. Pendant longtemps j'ai utilisé les technologies de Microsoft (.Net, C#, Xamarin). Aujourd'hui je suis passé à Dart...",
     "socials": [
@@ -1216,6 +1180,36 @@
       }
     ]
   },
+  "4c6f093c88506849f3e562f0f814df18cd07ee99": {
+    "order": 58,
+    "featured": false,
+    "badges": [
+      {
+        "description": "GDG Wellington",
+        "link": "https://www.meetup.com/GDG-Wellington/members/?op=leaders",
+        "name": "gdg"
+      }
+    ],
+    "company": "Ventego Creative",
+    "companyLogo": "",
+    "name": "Kai Koenig",
+    "country": "Wellington, New Zealand",
+    "photo": "/images/people/kai_koenig.jpg",
+    "bio": "I am a software solutions architect specialised in web and mobile technology consulting using client-side platforms such as Mobile Web, Flutter and Android. Another focus of my work is building and the integration with JVM-backend platforms such as Java, Kotlin, ColdFusion, Lucee and others like Go and Python. I spend most of my work time contributing to projects of various clients and sizes, fulfilling the role of an architect, principal developer, consultant or mentor/instructor.",
+    "shortBio": "I am a software solutions architect specialised in web and mobile technology consulting using client-side platforms such as Mobile Web, Flutter and Android. Another focus of...",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://medium.com/@kaikoenig",
+        "name": "Blog"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/kaikoenig/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
   "cb2e16407c778831b4f990bfbd556135c507867f": {
     "order": 100,
     "featured": false,
@@ -1225,7 +1219,6 @@
     "name": "Louis CAD",
     "country": "Tours, France",
     "photo": "/images/people/louis_cad.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Flouis_cad.jpg?alt=media&token=88677d64-796f-46fe-a00b-d87f0c2d42de",
     "bio": "Louis CAD prioritizes efficiency over performance. He has been developing Android apps for more than 4 years, using Kotlin since version 1.0.4, and coroutines since version 1.1.\r\n\r\nAlways trying to innovate, he is interested in a lot of technical subjects of all scales, and how they are linked, directly or not.\r\n\r\nHe is also a proud bike commuter and a velomobile enthusiast, because it is efficient.",
     "shortBio": "Louis CAD prioritizes efficiency over performance. He has been developing Android apps for more than 4 years, using Kotlin since version 1.0.4...",
     "socials": [
@@ -1255,7 +1248,6 @@
     "name": "Jag Saund",
     "country": "San Francisco, United States",
     "photo": "/images/people/jag_saund.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjag_saund.jpg?alt=media&token=7012f563-7730-4cb1-8667-f3b7238aac67",
     "bio": "Jag is a software engineer at Instagram. He has spent a decade developing mobile apps for Android with a focus on various facets of the media pipeline (camera, audio, video, live streaming). More recently he has been focused on coaching engineers and experimenting with the latest frameworks.\r\nIn his spare time, Jag dabbles in landscape photography.",
     "shortBio": "Jag is a software engineer at Instagram. He has spent a decade developing mobile apps for Android with a focus on various facets of the media pipeline...",
     "socials": [
@@ -1285,7 +1277,6 @@
     "name": "Xavier F. Gouchet",
     "country": "Paris, France",
     "photo": "/images/people/xavierf_gouchet.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fxavierf_gouchet.jpg?alt=media&token=745e0537-a294-43f1-a4ea-f28b05215639",
     "bio": "Lead Android Engineer @ Workwell, erstwhile teacher. Music addict, irredeemably curious and adept of pogonotomy",
     "shortBio": "Lead Android Engineer @ Workwell, erstwhile teacher. Music addict, irredeemably curious and adept of pogonotomy...",
     "socials": [
@@ -1315,7 +1306,6 @@
     "name": "Jérémy Bartolomeu Bonze",
     "country": "Paris, France",
     "photo": "/images/people/jeremy_bartolomeubonze.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjeremy_bartolomeubonze.jpg?alt=media&token=b7710a77-1314-4bb1-afd5-1b8a860fb777",
     "bio": "Jérémy Bartolomeu Bonze is Android Developer at Workwell, where he works on the core application. He is a Freshman in the Android world as he has been graduated from his computer engineering school in April 2018.\r\n",
     "shortBio": "Jérémy Bartolomeu Bonze is Android Developer at Workwell, where he works on the core application. He is a Freshman in the Android world as he has been graduated from his...",
     "socials": [
@@ -1340,7 +1330,6 @@
     "name": "Fabien Devos",
     "country": "San Francisco, United States",
     "photo": "/images/people/fabien_devos.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Ffabien_devos.jpg?alt=media&token=487f2bd3-4f04-4c65-9f32-3d8b5ca83fcc",
     "bio": "Fabien Devos has been building mobile apps and games for more than a decade, mainly on Android. In Paris, he worked on some of the top European apps like Dailymotion, Le Monde, or AlloCiné. He then moved to London to join Lightbox which was acquired by Facebook. There, he worked on Facebook’s core Android team. He later joined Wealthfront as their Android Lead, went on to be the Android manager, and was eventually promoted to Director of Mobile. He also created Hacked with Joaquim Vergès, a mobile coding game with close to 1M downloads. ",
     "shortBio": "Fabien Devos has been building mobile apps and games for more than a decade, mainly on Android. In Paris, he worked on some of the top European...",
     "socials": [
@@ -1375,7 +1364,6 @@
     "name": "Brian Plummer",
     "country": "New York City, United States",
     "photo": "/images/people/brian_plummer.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbrian_plummer.jpg?alt=media&token=8eacec8c-4b06-47f2-816f-64b7f8686cc3",
     "bio": "I'm a passionate product focused developer that has been writing Android applications for 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab.",
     "shortBio": "I'm a passionate product focused developer that has been writing Android applications for 8 years. I started working on Android for TouchLab then the The New York...",
     "socials": [
@@ -1400,7 +1388,6 @@
     "name": "David Fournier",
     "country": "Paris, France",
     "photo": "/images/people/david_fournier.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fdavid_fournier.jpg?alt=media&token=8aca38e6-7c40-4f93-ab1a-237976a12586",
     "bio": "Développeur Android (et iOS, à mes heures perdues) passionné, je suis membre du pôle de recherche et développement au sein de Smart&Soft, j’ai pu me confronter à un grand nombre de technologies et problématiques différentes, du front mobile aux APIs en passant par le front web, les chatbots et les back-offices.\r\nDirecteur Technique depuis mai 2018, je suis aujourd’hui en charge de la bonne marche des équipes de développements, des orientations technologiques de la société et du rayonnement de celle-ci à l’extérieur.",
     "shortBio": "Développeur Android (et iOS, à mes heures perdues) passionné, je suis membre du pôle de recherche et développement au sein de Smart&Soft, j’ai pu me confronter à...",
     "socials": [
@@ -1425,7 +1412,6 @@
     "name": "Benjamin Monjoie",
     "country": "Court-Saint-Etienne, Belgium",
     "photo": "/images/people/benjamin_monjoie.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbenjamin_monjoie.jpg?alt=media&token=b8e368e9-ca1f-42d2-88f2-1e84c2f583c2",
     "bio": "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his career as a freelancer. Through his work, he does his best to share his passion for the platform and ensure Android applications are not copied/pasted from their iOS counterpart. He stays closely up-to-date with Google's guidelines and innovations to advise and make decisions that would fit best in an Android application.",
     "shortBio": "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina...",
     "socials": [
@@ -1460,7 +1446,6 @@
     "name": "Pierluigi Rufo",
     "country": "Berlin, Germany",
     "photo": "/images/people/pierluigi_rufo.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierluigi_rufo.jpg?alt=media&token=a712e07b-f302-40d8-8bfe-1a40052f04bc",
     "bio": "I'm a Product Designer based in Berlin. I like to bring new products to life through a human centered approach and a problem-solving mindset. I've been working for different product companies like Kuponjo and Onefootball. I'm currently tackling new challenges at Snapp Mobile Germany.",
     "shortBio": "I'm a Product Designer based in Berlin. I like to bring new products to life through a human centered approach and a problem-solving mindset...",
     "socials": [
@@ -1495,7 +1480,6 @@
     "name": "Lorica Claesson",
     "country": "Zurich, Switzerland",
     "photo": "/images/people/lorica_claesson.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Florica_claesson.jpg?alt=media&token=1a9ed4bf-885c-4ebd-8b2d-4cc09a160c38",
     "bio": "Lorica is a UX Designer with a twist, having both a design and technical background.\r\n\r\nShe is passionate about innovative desktop, web and mobile applications that are tailored for real users. Designing engaging and easy-to-use interfaces backed up by a solid technical understanding of what is feasible and using a range of methods for understanding what users really want and need.\r\n",
     "shortBio": "Lorica is a UX Designer with a twist, having both a design and technical background.\r\n\r\nShe is passionate about innovative desktop, web and mobile applications...",
     "socials": [
@@ -1520,7 +1504,6 @@
     "name": "Anita Singh",
     "country": "Berlin, Germany",
     "photo": "/images/people/anita_singh.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fanita_singh.jpg?alt=media&token=482cffad-5dac-46a0-b448-b35e3f6d0c76",
     "bio": "Anita Singh is a Senior Android Engineer at Blinkist who recently moved to Berlin from Silicon Valley, where she lead mobile development at an early-stage startup. She transitioned from backend to Android development four years ago, and has never looked back! She is passionate about building beautiful and responsive apps, and making Android development more approachable for everybody.\u2028",
     "shortBio": "Anita Singh is a Senior Android Engineer at Blinkist who recently moved to Berlin from Silicon Valley, where she lead mobile development at an early-stage startup...",
     "socials": [
@@ -1560,7 +1543,6 @@
     "name": "Florent Champigny",
     "country": "Montpellier, France",
     "photo": "/images/people/florent_champigny.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fflorent_champigny.jpg?alt=media&token=3e9f2ce6-6a12-407b-aee3-2f9bf3a694c5",
     "bio": "Développeur Android Passionné",
     "shortBio": "Développeur Android Passionné...",
     "socials": [
@@ -1590,7 +1572,6 @@
     "name": "Adrien Grassein",
     "country": "Paris, France",
     "photo": "/images/people/adrien_grassein.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_grassein.jpg?alt=media&token=c2380459-a2ad-435f-b52f-399497f9d625",
     "bio": "Expert bas niveau sur Android depuis maintenant plus de 8 ans.\r\nJe connais toutes les versions d'Android entre 1.5 et 9.\r\nExpert technique et formateur chez Smile Open Source Solution. ",
     "shortBio": "Expert bas niveau sur Android depuis maintenant plus de 8 ans.\r\nJe connais toutes les versions d'Android entre 1.5 et 9.\r\nExpert technique et formateur chez Smile...",
     "socials": [
@@ -1615,7 +1596,6 @@
     "name": "Michaël Ohayon",
     "country": "Paris, France",
     "photo": "/images/people/michael_ohayon.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmichael_ohayon.jpg?alt=media&token=bb4aa5b1-dcce-4b94-b358-19502bbfa6a7",
     "bio": "Développeur Kotlin et Android, je suis consultant chez Xebia.\r\nJe suis mentor et contributeur Open-Source depuis 4 ans pour SugarLabs dans le cadre du Google Summer of Code.\r\nJ'anime des conférence et organise certains Meetup comme \"Mobile Things\" ainsi que le XKE de Xebia.\r\nJ'aime aussi utiliser d'autres technologies, Docker, Kotlin sur Serverless, Node.\r\nVous avez pu me voir créer et animer des projets IoT avec Android Things au cours des deux dernières Android Makers sur le stand Xebia.",
     "shortBio": "Développeur Kotlin et Android, je suis consultant chez Xebia.\r\nJe suis mentor et contributeur Open-Source depuis 4 ans pour SugarLabs dans le cadre du Google...",
     "socials": [
@@ -1635,7 +1615,6 @@
     "name": "Jonathan Salamon",
     "country": "Paris, France",
     "photo": "/images/people/jonathan_salamon.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjonathan_salamon.jpg?alt=media&token=356ec1e0-3dd3-4829-8255-62b268ca4346",
     "bio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue.\r\n\r\nFan de nouvelles technologies (Réalité virtuelle, objets connectés, etc..) j'ai pu participé, en tant qu'auto-entrepreneur ou bénévole, au développement de projets innovants utilisant des nouvelles technologies et divers objets tels que le Bluetooth Low Energy, le NFC, du Geofencing, des montres sous Android Wear et même des Google Glass.\r\n\r\nJ'aime apprendre et je suis heureux d'avoir déjà pu toucher à de nombreux domaines allant du développement d'applications web front-end/back-end, au développement de jeux, en passant par des applications Android B2B/B2C et la conception d'objets connectés",
     "shortBio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue...",
     "socials": [
@@ -1665,7 +1644,6 @@
     "name": "Karapet Gyumjibashyan, PMP",
     "country": "Armenia",
     "photo": "/images/people/karapet_gyumjibashyanpmp.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fkarapet_gyumjibashyanpmp.jpg?alt=media&token=32a1e13e-b84c-4074-a05c-a885752744f0",
     "bio": "I'm interactive, I'm hyperactive and from time to time I'm radioactive\r\n\r\nI'm leading the technology innovation team at Ginosi Apartels, working on building the new type of hotels which provide amazing guest experience enabled by technology. \r\n",
     "shortBio": "I'm interactive, I'm hyperactive and from time to time I'm radioactive\r\n\r\nI'm leading the technology innovation team at Ginosi Apartels, working on building the new...",
     "socials": [
@@ -1685,7 +1663,6 @@
     "name": "Maria Neumayer",
     "country": "London, UK",
     "photo": "/images/people/maria_neumayer.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmaria_neumayer.jpg?alt=media&token=cf78dd1a-572c-43d5-82f7-71dcb2d0022e",
     "bio": "Maria Neumayer is an Android Developer working at Deliveroo. She's been developing for Android since 2010 with a focus on UI work. Austrian expat living in London. Previously at Citymapper, Path, Saffron Digital and Rummble.",
     "shortBio": "Maria Neumayer is an Android Developer working at Deliveroo. She's been developing for Android since 2010 with a focus on UI work. Austrian expat living in London...",
     "socials": [
@@ -1710,7 +1687,6 @@
     "name": "Wojciech Dziemianczyk",
     "country": "New York City, US",
     "photo": "/images/people/wojciech_dziemianczyk.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fwojciech_dziemianczyk.jpg?alt=media&token=74e2b57b-3b11-4d79-8968-aa25e81e1ae8",
     "bio": "Originally from Poland, passionate with Android development and UI. Software Engineer with a love of pixel pushing, doodling concepts in my note book, or working on iterating and improving UX of our Reader app at The New York Times. In the winter you can find me snowboarding while in the summer you can find me at the beach.",
     "shortBio": "Originally from Poland, passionate with Android development and UI. Software Engineer with a love of pixel pushing, doodling concepts in my note book, or working on...",
     "socials": [
@@ -1735,7 +1711,6 @@
     "name": "Marcos Holgado",
     "country": "Leeds, UK",
     "photo": "/images/people/marcos_holgado.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmarcos_holgado.jpg?alt=media&token=de837ca0-7062-4541-bc45-ecb504274973",
     "bio": "Marcos is a Senior Android developer at Sky and has been working with Android since 2010. At Sky he has been leading the migration and modularization of the SkySports and SkyNews Android apps. He loves automating stuff and is constantly trying to find ways to reuse code and features without having to write a single line of code more than once. When he is not coding he is flying a PA28 across the UK.",
     "shortBio": "Marcos is a Senior Android developer at Sky and has been working with Android since 2010. At Sky he has been leading the migration and modularization of the SkySports...",
     "socials": [
@@ -1775,7 +1750,6 @@
     "name": "Pierre-Antoine LaFayette",
     "country": "Sunnyvale, US",
     "photo": "/images/people/pierreantoine_lafayette.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fpierreantoine_lafayette.jpg?alt=media&token=dfb0039c-da72-4d6e-9493-0df5d9ddc893",
     "bio": "Pierre is an Android VR Engineer at Facebook on the AR/VR Media team. Currently working on rendering Oculus Quill VR art on mobile. Previously worked on 360 videos/photos in Facebook for Android, Oculus Video & Facebook 360 for GearVR, and a bit on 3D Posts on Facebook for Android. Pierre is known internally as the Face of VR thanks to his iconic Oculus Rift photo. Outside of work, he has competed in basketball, trained in Muay Thai, and performed as a latin dancer.",
     "shortBio": "Pierre is an Android VR Engineer at Facebook on the AR/VR Media team. Currently working on rendering Oculus Quill VR art on mobile. Previously worked on 360 videos/photos...",
     "socials": [
@@ -1800,7 +1774,6 @@
     "name": "Benoît Quenaudon",
     "country": "Waterloo, Ontario, Canada",
     "photo": "/images/people/benoit_quenaudon.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbenoit_quenaudon.jpg?alt=media&token=8fe20fca-72e1-4f58-b070-9c85dc1bd749",
     "bio": "Benoît is an Android developer at Square. He focuses on providing the best Android experience possible, both to customers and fellow developers.",
     "shortBio": "Benoît is an Android developer at Square. He focuses on providing the best Android experience possible, both to customers and fellow developers...",
     "socials": [
@@ -1830,7 +1803,6 @@
     "name": "Fred Porciúncula",
     "country": "Berlin, Germany",
     "photo": "/images/people/fred_porciuncula.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Ffred_porciuncula.jpg?alt=media&token=710e4f26-2df2-40ab-9795-a154a5c97801",
     "bio": "Android developer from Brazil who just moved to Berlin to work at Blinkist. I started playing with Android with friends back in college when we created an app for the university bus schedule. We published many other apps after that and then I had the opportunity to work for Disney on their ABC app and later for Quizlet. I love talking about Kotlin, architecture, and the little details about the apps we build.",
     "shortBio": "Android developer from Brazil who just moved to Berlin to work at Blinkist. I started playing with Android with friends back in college when we created an app...",
     "socials": [
@@ -1865,7 +1837,6 @@
     "name": "Hugo Hache",
     "country": "New York City, United States",
     "photo": "/images/people/hugo_hache.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fhugo_hache.jpg?alt=media&token=26612cfd-9ee8-420a-a15a-f9b19bf34800",
     "bio": "Des images de synthèse pendant mes études, au développement iOS de mes premières années de développeur, en passant par le création d'une équipe back Ruby on Rails, ma curiosité déraisonnable m'a permis de toucher à des domaines assez différents. \r\n\r\nJe passe beaucoup trop de temps sur Hacker News à m'informer sur des sujets auxquels je ne connais rien, mais ça a l'avantage de donner matière à conversation avec son voisin de conférence.\r\n\r\nAujourd'hui CTO chez FABERNOVEL TECHNOLOGIES, j'ai la chance de pouvoir venir vous parler de tous ces sujets qui me passionnent.",
     "shortBio": "Des images de synthèse pendant mes études, au développement iOS de mes premières années de développeur, en passant par le création d'une équipe back...",
     "socials": [
@@ -1890,7 +1861,6 @@
     "name": "Bruno Verachten",
     "country": "Seclin, France",
     "photo": "/images/people/bruno_verachten.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fbruno_verachten.jpg?alt=media&token=383523a8-e122-42eb-bfe2-393f89c2523f",
     "bio": "Father of *two*, husband of *one*, geek in denial, fond of handheld devices since 1989, beekeepeer and [permie].\r\n`#Linux #Android #Docker #ARMV8 #IOT`\r\n\r\n* Joined [Worldline] in 1999.\r\n* Currently works as an continuous integration for mobile development specialist in a transversal unit. \r\n* Fond of Linux and open source, hand-held devices ([SBC]...).\r\n* Also interested in new techniques in gardening, woodworking by hand, bike commuting and tons of other subjects.\r\n* Disguised as taciturn, but a chatterbox.\r\n\r\nTrying to push the use of ARM Socs in his job and everywhere [else]...\r\n\r\n[permie]: https://www.credential.net/5ufvm4zp\r\n[Worldline]: https://worldline.com/\r\n[SBC]: https://www.armbian.com/download/\r\n[else]: https://github.com/gounthar",
     "shortBio": "Father of *two*, husband of *one*, geek in denial, fond of handheld devices since 1989, beekeepeer and [permie].\r\n`#Linux #Android #Docker #ARMV8 #IOT`...",
     "socials": [
@@ -1920,7 +1890,6 @@
     "name": "Mounir Boudraa",
     "country": "Toronto, Canada",
     "photo": "/images/people/mounir_boudraa.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmounir_boudraa.jpg?alt=media&token=ee8b5440-e995-43ee-aba3-58c480379926",
     "bio": "Speaker, Android Dev, Dad not necessary in that order",
     "shortBio": "Speaker, Android Dev, Dad not necessary in that order...",
     "socials": [
@@ -1945,7 +1914,6 @@
     "name": "Martin Devillers",
     "country": "Paris, France",
     "photo": "/images/people/martin_devillers.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fmartin_devillers.jpg?alt=media&token=dd746944-c331-4ec0-913f-e49f9733941f",
     "bio": "I've been working in mobile development for the past 5 years, but only focused on Android since I started at Dashlane over a year ago.",
     "shortBio": "I've been working in mobile development for the past 5 years, but only focused on Android since I started at Dashlane over a year ago...",
     "socials": [
@@ -1985,7 +1953,6 @@
     "name": "Jordan Tuffery",
     "country": "Nemours, France",
     "photo": "/images/people/jordan_tuffery.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjordan_tuffery.jpg?alt=media&token=5aee2da0-dbc6-46ec-8374-6f3a64a8503e",
     "bio": "Jordan est intéressé par le monde du développement informatique depuis son adolescence. Il découvre le développement en créant un jeu vidéo grâce au logiciel RPG Maker.\r\nQuelques années plus tard, malgré une première tentative décourageante, Jordan redécouvre le développement Android lorsqu’il entre chez Lagardère. Il tombe sous le charme de cette plateforme.\r\nCurieux de nature, Jordan essaie plusieurs façon de pratiquer son métier. D’abord freelance, puis développeur pour un éditeur de logiciel, il est maintenant consultant chez Xebia. Fort de ces expériences, il vise un nouveau challenge pour l’année 2019, pouvoir speaker sur le dernier framework qu’il a essayé: Kotlin / Native.",
     "shortBio": "Jordan est intéressé par le monde du développement informatique depuis son adolescence. Il découvre le développement en créant un jeu vidéo grâce au logiciel RPG Maker...",
     "socials": [
@@ -2010,7 +1977,6 @@
     "name": "Julien Datour",
     "country": "Paris, France",
     "photo": "/images/people/julien_datour.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fjulien_datour.jpg?alt=media&token=f55f1249-c481-47b9-9f80-2dd0417d6a7e",
     "bio": "Julien a commencé par être développeur mobile et s'est ensuite spécialisé sur une seule plate-forme: iOS\r\nIl est depuis passionné par le monde de la mobilité, les sujets d'architecture ainsi que les sujets tendance du moment: la réalité augmentée, le machine learning sur smartphone et le partage de code entre plateformes. ",
     "shortBio": "Julien a commencé par être développeur mobile et s'est ensuite spécialisé sur une seule plate-forme: iOS\r\nIl est depuis passionné par le monde de la mobilité...",
     "socials": [
@@ -2045,7 +2011,6 @@
     "name": "Simone Civetta",
     "country": "Paris, France",
     "photo": "/images/people/simone_civetta.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fsimone_civetta.jpg?alt=media&token=c8b632ec-d1d2-48e8-8864-29142f9a254a",
     "bio": "Simone is a developer currently working in France and making iOS apps since 2010. He is currently working with great people at Xebia IT Architects in Paris, where he helps teams craft a wide range of mobile software. He devotes his spare time to organising the FrenchKit conference and flying across the World for visiting and conferencing. \r\n@viteinfinite / viteinfinite.com",
     "shortBio": "Simone is a developer currently working in France and making iOS apps since 2010. He is currently working with great people at Xebia IT Architects in Paris, where...",
     "socials": [
@@ -2070,7 +2035,6 @@
     "name": "Arnaud Piroelle",
     "country": "Paris, France",
     "photo": "/images/people/arnaud_piroelle.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Farnaud_piroelle.jpg?alt=media&token=9abfd31f-6917-415a-b25b-723721b1555c",
     "bio": "Originaire du monde Java, maintenant développeur Android et adepte de Kotlin, Arnaud est passionné par tout ce qui tourne autour de la plateforme Android.",
     "shortBio": "Originaire du monde Java, maintenant développeur Android et adepte de Kotlin, Arnaud est passionné par tout ce qui tourne autour de la plateforme Android...",
     "socials": [
@@ -2090,7 +2054,6 @@
     "name": "Roberto Orgiu",
     "country": "Torino, Italy",
     "photo": "/images/people/roberto_orgiu.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Froberto_orgiu.jpg?alt=media&token=908430a2-d38b-4b06-94f7-ec83940b87b4",
     "bio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such as Kotlin, patterns and everything Android-related. I am now working in The New York Times Android team as Android Engineer.",
     "shortBio": "Born in Italy in 1987, passionate for everything that switches on and off and particularly for handheld and wearable devices.\r\nI love to learn new languages such...",
     "socials": [
@@ -2110,7 +2073,6 @@
     "name": "Arnaud Giuliani",
     "country": "Paris, France",
     "photo": "/images/people/arnaud_giuliani.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Farnaud_giuliani.jpg?alt=media&token=8f6fce0e-f01e-4bd0-8615-a16879d00011",
     "bio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff. I'm the Koin project lead developer, a lightweight dependency injection framework for Kotlin - https://insert-koin.io \r\n\r\nI'm a speaker since 2016. I talk mostly about Kotlin & Koin: https://medium.com/@giuliani.arnaud/presentations-6b91f53899ac \r\n\r\nI regularly write articles on medium https://medium.com/@giuliani.arnaud/",
     "shortBio": "Software developer for more than 12 years. Since a while now, I work as mainly as an Android developer and keep hands in backend stuff. I'm the Koin project lead developer...",
     "socials": [
@@ -2135,7 +2097,6 @@
     "name": "Quentin HUET",
     "country": "Paris, France",
     "photo": "/images/people/quentin_huet.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fquentin_huet.jpeg?alt=media&token=8858c6f4-18ca-43b9-823d-b8acdce86dcf",
     "bio": "Android Developer at Kapten - Working for 5 years in the ride-sharing industry, I’m currently improving our drivers’ life working on the “Kapten Driver” application.",
     "shortBio": "Android Developer at Kapten - Working for 5 years in the ride-sharing industry, I’m currently improving our drivers’ life working on the “Kapten Driver” application.",
     "socials": [
@@ -2160,7 +2121,6 @@
     "name": "Yann Vaillant",
     "country": "Paris, France",
     "photo": "/images/people/yann_vaillant.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fyann_vaillant.jpeg?alt=media&token=777feb5a-9297-447d-965c-779033a01f27",
     "bio": "Software Engineer at Kapten in Paris. Recently switched from backend development to Android and enjoying my journey with Kotlin.",
     "shortBio": "Software Engineer at Kapten in Paris. Recently switched from backend development to Android and enjoying my journey with Kotlin.",
     "socials": [
@@ -2180,7 +2140,6 @@
     "name": "Zsolt Kocsi",
     "country": "London, UK",
     "photo": "/images/people/zsolt_kocsi.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fzsolt_kocsi.jpg?alt=media&token=bcadab38-5f67-4bea-be12-5c6a077183f8",
     "bio": "Zsolt is an Android engineer at Badoo with a passion for clean and elegant code. He’s currently focused on the architecture of self-contained components shared between the many apps of the Badoo group.",
     "shortBio": "Zsolt is an Android engineer at Badoo with a passion for clean and elegant code. He’s currently focused on the architecture of self-contained components shared between the...",
     "socials": [
@@ -2199,8 +2158,7 @@
     "companyLogo": "",
     "name": "Chris Simmonds",
     "country": "Southampton, UK",
-    "photo": "",
-    "photoUrl": "https://s.gravatar.com/avatar/ebfa12c187b003d99f958381932a89c3",
+    "photo": "/images/people/chris_simmonds.jpg",
     "bio": "Chris Simmonds is a software consultant and trainer living in southern England. He has spent almost two decades designing and building open-source embedded systems of all shapes and sizes, and he has encapsulated much of that experience in his book, “Mastering Embedded Linux Programming”.\n\nHe is a frequent presenter at open source and embedded conferences, including the Embedded Linux Conference and Embedded World. You can see some of his work on the “Inner Penguin” blog at www.2net.co.uk",
     "shortBio": "Chris Simmonds is a software consultant and trainer living in southern England. He has spent almost two decades designing and building open-source embedded systems of all...",
     "socials": [
@@ -2221,39 +2179,8 @@
       }
     ]
   },
-  "4c6f093c88506849f3e562f0f814df18cd07ee99": {
-    "order": 136,
-    "featured": false,
-    "badges": [
-      {
-        "description": "GDG Wellington",
-        "link": "https://www.meetup.com/GDG-Wellington/members/?op=leaders",
-        "name": "gdg"
-      }
-    ],
-    "company": "Ventego Creative",
-    "companyLogo": "",
-    "name": "Kai Koenig",
-    "country": "Wellington, New Zealand",
-    "photo": "",
-    "photoUrl": "https://media.licdn.com/dms/image/C5103AQFO42HzTn21tQ/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=7sRhQIxiXt2c120P43PL0O7CYWBc78bfyWKjF0HYZSI",
-    "bio": "I am a software solutions architect specialised in web and mobile technology consulting using client-side platforms such as Mobile Web, Flutter and Android. Another focus of my work is building and the integration with JVM-backend platforms such as Java, Kotlin, ColdFusion, Lucee and others like Go and Python. I spend most of my work time contributing to projects of various clients and sizes, fulfilling the role of an architect, principal developer, consultant or mentor/instructor.",
-    "shortBio": "I am a software solutions architect specialised in web and mobile technology consulting using client-side platforms such as Mobile Web, Flutter and Android. Another focus of...",
-    "socials": [
-      {
-        "icon": "website",
-        "link": "https://medium.com/@kaikoenig",
-        "name": "Blog"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/kaikoenig/",
-        "name": "LinkedIn"
-      }
-    ]
-  },
   "4e367c4cc3f6544d04479533a6745780c0bb072f": {
-    "order": 137,
+    "order": 136,
     "featured": false,
     "badges": [],
     "company": "Le Bon Coin",
@@ -2261,13 +2188,12 @@
     "name": "Cristian Garrido",
     "country": "Paris, France",
     "photo": "/images/people/cristian_garrido.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fcristian_garrido.jpg?alt=media&token=f2bb254c-31ea-4ce9-a12b-5e6dad0fbc37",
     "bio": "Cristian Garrido a débuté dans le développement d’Android depuis la version Eclair 2.1. Il est un ingénieur logiciel passionné, qui cherche constamment à trouver des solutions adaptées pour évoluer sans friction et qui parlent par elles-mêmes. Il commence à partager ses connaissances avec la communauté, notamment en ce qui concerne les réflexions à faire avant d’écrire du nouveau code. Il se auto-définit comme un « software philosopher »",
     "shortBio": "Cristian Garrido a débuté dans le développement d’Android depuis la version Eclair 2.1. Il est un ingénieur logiciel passionné, qui cherche constamment à trouver des solutions ...",
     "socials": []
   },
   "6e56d272b255d2e5b390a819214552e307e3c2ed": {
-    "order": 138,
+    "order": 137,
     "featured": false,
     "badges": [],
     "company": "Le Bon Coin",
@@ -2275,13 +2201,12 @@
     "name": "Eliott Lujan",
     "country": "Paris, France",
     "photo": "/images/people/eliott_lujan.jpg",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feliott_lujan.jpg?alt=media&token=39882aaa-fae7-4cde-bb33-61e7be474f9b",
     "bio": "Eliott Lujan travaille sur Android depuis 3 ans et est développeur chez Leboncoin.\n\nIl s’intéresse à tout l’écosystème de la plateforme ainsi que l’art de créer des solutions techniques élégantes, pratiques et maintenables.",
     "shortBio": "Eliott Lujan travaille sur Android depuis 3 ans et est développeur chez Leboncoin.",
     "socials": []
   },
   "c0974f7190ab4ccd9d3c20473e8bef6b1685381e": {
-    "order": 139,
+    "order": 138,
     "featured": false,
     "badges": [],
     "company": "Trainline",
@@ -2289,7 +2214,6 @@
     "name": "Róbert Papp",
     "country": "London, UK",
     "photo": "/images/people/robert_papp.jpg",
-    "photoUrl": "TODOhttps://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Feliott_lujan.jpg?alt=media&token=39882aaa-fae7-4cde-bb33-61e7be474f9b",
     "bio": "Polyglot with current focus on Kotlin, Android and Gradle. Spends a lot of time on numerous hobby projects and open source contributions in spare time. Passionate about static analysis to keep the code clean and problem free.",
     "shortBio": "Polyglot with current focus on Kotlin, Android and Gradle.",
     "socials": [

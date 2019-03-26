@@ -30,7 +30,7 @@
     <polymer-helmet
       title="[[session.title]] | {$ title $}"
       description="[[session.description]]"
-      image="[[session.speakers.0.photoUrl]]"
+      image="[[session.speakers.0.photo]]"
       active="[[opened]]"
       label1="{$ time $}"
       data1="[[session.dateReadable]], [[session.startTime]] - [[session.endTime]]"
@@ -117,7 +117,7 @@
               <div layout horizontal center>
                 <plastic-image
                   class="section-photo"
-                  srcset="[[speaker.photoUrl]]"
+                  srcset="[[speaker.photo]]"
                   sizing="cover"
                   lazy-load preload fade
                 ></plastic-image>
