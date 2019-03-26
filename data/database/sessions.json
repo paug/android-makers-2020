@@ -105,7 +105,7 @@
       "9294a55b442b986b06aafe0a08db568263a87d23"
     ],
     "description": "This talk will focus on some of the more advances features built on top of LeakCanary as well as new features coming up: leak detection in tests, much smarter leaktraces as well as improved UI, memory leak detection in production, etc.",
-    "language": "English or French",
+    "language": "English",
     "title": "LeakCanary.next",
     "tags": [
       "Android Development"
@@ -204,7 +204,7 @@
       "786f4ff40c2d8aeef85a8dc997006cae5a4f9dc3"
     ],
     "description": "Deploying an Android app to the play store always contains some cost in it. Furthermore the user isn't always keen to download (again) our latest versioned app. How about doubling the cost of development with the iOS app into account (or Web)?  \r\nAt Square, we came up with a system in which the server owns the workflow of the client. This means the client doesn't know before hand which screen, which image or text it's gonna show next.\r\n\r\nIn this talk, we'll:\r\n\r\n- Know why Square ended up choosing this system.\r\n- Discover how we built it.\r\n- Look at the challenges, the pros and cons of such an architecture.\r\n- Talk about how we want to alter it for the future.\r\n\r\nAttendees to this talk will be expose to solutions for problems every company is facing but don't address.",
-    "language": "English or French",
+    "language": "English",
     "title": "Server Driven UI Workflow",
     "tags": [
       "Android Development"
@@ -434,7 +434,7 @@
       "fb805760b311d7dea7963afcd97f9613303f7722"
     ],
     "description": "After TensorFlow Lite, MLKit promises to be the new tool to make apps smarter. The possibility to integrate a model directly on Firebase is crazy, but the second part (often put aside) deserves attention.\r\nBased in majority on deprecated Mobile Vision, the few models offered by Google already give us something to enjoy. Most of them is available offline: so we can imagine the extent of the possibilities!\r\n\r\nCome with me to discover these APIs: how and why to use them.",
-    "language": "English or French",
+    "language": "English",
     "title": "Do you want an easy way to add Machine Learning into your app?",
     "tags": [
       "Android Development"
@@ -472,7 +472,7 @@
       "bb6d8ab858c76a2ae9bd19825398562f8c36b3d5"
     ],
     "description": "What’s that Flutter everybody in mobile development is talking about these days? Another new thing that will be forgotten by this time next year or a true revolution in mobile apps development? Is it really worth my time?\r\n\r\nFlutter is Google's mobile SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.\r\n\r\nBeyond the commercial pitch, in this codelab you will create a simple Flutter app and discover the features that make Flutter one of the most pleasant and productive development platform.\r\n\r\nYou need to bring your own laptop and validate the following steps :\r\n\r\n* https://flutter.io/docs/get-started/install\r\n* https://flutter.io/docs/get-started/editor\r\n* https://flutter.io/docs/get-started/test-drive\r\n\r\nThe demo app is running on your simulator? Let's go with Flutter!!!\r\n\r\nNB: We can speak in French or in English.",
-    "language": "English or French",
+    "language": "English/French",
     "title": "Write your first Flutter App",
     "tags": [
       "Android Development"
@@ -556,7 +556,7 @@
       "6352b1f89b94a70cb615c7e6ec9af9b97f5e7e16"
     ],
     "description": "`Android` developers are facing a common problem: how to test our applications on many devices without sacrificing too much time or money?\r\n\r\n    How to build and test automatically our applications for each commit?\r\n    How can we find those devices inside the company, whatever its size may be?\r\n    Could there be a directory somewhere that lists those available devices?\r\n    Could we use a device remotely and share it with other developers as if it were in the cloud?\r\n\r\nWhat if you could answer all these questions with the help of a low cost device farm that fits into a pocket? A pocket full of clouds…\r\n\r\nPoddingue, our proposal, aims to tackle this problem thanks to Docker, HypriotOS, Armbian, Gitlab CI and OpenSTF. It’s an internal solution made of OSS readily available, but it has not yet been publicly announced as a whole.\r\n\r\nThis is a feedback about an idea on its way to production, a long journey full of different feelings.\r\n\r\nAt the end of the talk, you should know how to build your own cloudy pocket farm of Android devices and how to use it to test your applications within your ci pipeline.\r\n\r\nAnd as I am cheap, you will also be surprised at how little money you need to build it.",
-    "language": "English or French",
+    "language": "French",
     "title": "The Android device farm that fits in a (cloudy) pocket",
     "tags": [
       "Android Development"
@@ -616,7 +616,7 @@
       "115f4a6f8cecc960e8936c3d4429d26004083556"
     ],
     "description": "We Android developers love desert. We love pie. We can't eat up a whole pie, but we can eat as many slices as we want.\r\nAndroid has a new API called Slices which is part of the AndroidX libraries. I'll show you how you can use it to serve slices of your app to any other apps like Google Search or Assistant but also any other app and in any Android desert you love.\r\n",
-    "language": "English or French",
+    "language": "English",
     "title": "Slices up your app!",
     "tags": [
       "Android Development"
@@ -640,7 +640,7 @@
       "0f5e9b36c145d15e6f4e60b330f978dfe843731a"
     ],
     "description": "You're right, that title seems scary: there are so many complicated words and we all know there's no silver bullet in programming.\r\n\r\nSo instead of explaining why an architecture is better than another, let's discuss some issues we face in our daily Android development job and how we can solve those through 3 examples:\r\n\r\n1. I have crashes I can't reproduce.\r\n2. Integration tests are great and necessary to ensure a complete flow is working as expected, but they are complex to set up, and it takes time to run the whole test suite when using an instrumentation tool such as Espresso\r\n3. My legacy app has some \"startActivity\" calls in activites, fragments, custom views, and even in RecyclerView adapters (who did that !?!). I have no visibility regarding the overall navigation of and the code is sometimes hard to follow.\r\n\r\nWe will see today the concepts underneath and how such an architecture can be implemented using functional programming patterns through writing a Kotlin DSL.\r\n\r\nAt the end of the talk, you will get a new, fresh, vision on how to approach programming on Android, through a unidirectional data flow structure, and maybe you'll be interested in implementing a similar architecture.",
-    "language": "English or French",
+    "language": "French",
     "title": "The Rise Of The State Machines: An introduction to predictable state container based architectures for your Android apps",
     "tags": [
       "Android Development"
@@ -676,7 +676,7 @@
       "370e6c635f61bb5c39e82f411e8a639d0fdaf7ce"
     ],
     "description": "Comment créer un système capable de stocker et partager des fichiers de manière sécurisée dans une architecture Zero-Knowledge (sans faire confiance aux serveurs) ?\r\n\r\nComment gérer le chiffrement de fichiers volumineux et les droits d'accès distants ? Quelles sont les principales limitations ? etc...\r\n\r\nAu travers d'un projet concret (aujourd'hui utilisé par des millions d'utilisateurs), il vous sera détaillé l'architecture choisie et les détails techniques permettant son implémentation côté client et serveur.\r\n\r\n",
-    "language": "English or French",
+    "language": "French",
     "title": "Stockage et partage sécurisé de fichiers volumineux",
     "tags": [
       "Android Development"
@@ -749,7 +749,7 @@
       "93dc8e02bdf1513b877ea04d8d94b83ca00d116c"
     ],
     "description": "Si, il y a 10 ans, à cause d'un écosystème encore en construction, HTTPS était un protocole complexe à mettre en place, aujourd'hui il semble que c'est l'inverse.\r\n\r\nRejouons l'histoire pour découvrir et comprendre ensemble les différentes failles de sécurité qui ont poussé le Web à passer sur HTTPS ainsi que les implémentations associées sur Android.\r\n\r\nÀ travers du code et des analyses, implémentons, cassons et sécurisons ensemble du code réseau pour comprendre comment nous en sommes arrivés aux implémentations actuelles.\r\n\r\nNous découvrirons ensuite les limitations de 2019 : pouvons-nous empêcher tout le monde d'analyser notre traffic ? Qu'est-il possible de faire aujourd'hui, quels sont les risques pour l'utilisateur, le développeur, l'entreprise ? Quels sont les outils et bonnes pratiques pour empêcher ou au moins ralentir et complexifier nos analyses réseau par des personnes malicieuses ?",
-    "language": "English or French",
+    "language": "French",
     "title": "Sécuriser ses appels réseau Android, de 2009 à 2019",
     "tags": [
       "Android Development"
@@ -799,7 +799,7 @@
       "1fabaecfc95e03a8dfa95d783d59c0eb8f52900d"
     ],
     "description": "As developers, more often than not, you have access to fast and reliable internet connection, all day long. But the users you target won't. Limited data plans, unreliable network coverage, commuting : those are real obstacle that your users will see daily. This means that network will only be available at some times, and not necessarily when the user wants to interact with your application.\r\n\r\nOur talk will focus on creating a user experience with ‘offline’ being the default working state, and having access to the internet being a bonus for your users. We’ll see how to design your UI/UX to make offline more than an edge case scenario, as well as how to architecture your application, and which tools and libraries can help you to implement it.\r\n",
-    "language": "English or French",
+    "language": "English",
     "title": "“Make your app work perfectly offl…” — Connection Interrupted",
     "tags": [
       "Android Development"
