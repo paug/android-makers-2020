@@ -55,7 +55,7 @@
           },
           {
             "items": [
-              "tbd"
+              "DZK-4920"
             ]
           },
           {
@@ -99,7 +99,7 @@
           },
           {
             "items": [
-              "tbd"
+              "KAP-5021"
             ]
           },
           {
@@ -308,9 +308,8 @@
           },
           {
             "items": [
-              "JEH-1710"
-            ],
-            "extend": 2
+              "VOK-7028"
+            ]
           },
           {
             "items": [
@@ -330,7 +329,9 @@
             "items": []
           },
           {
-            "items": []
+            "items": [
+              "GAO-2888"
+            ]
           },
           {
             "items": [
@@ -346,6 +347,361 @@
           {
             "items": [
               "party"
+            ]
+          }
+        ]
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Moebius"
+      },
+      {
+        "title": "Room A. & L. Blin"
+      },
+      {
+        "title": "Room 2.02"
+      },
+      {
+        "title": "Room 2.04"
+      }
+    ]
+  },
+  "2019-04-24": {
+    "dateReadable": "April 24th",
+    "timeslots": [
+      {
+        "startTime": "8:30",
+        "endTime": "9:00",
+        "sessions": [
+          {
+            "items": [
+              "opening"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "9:00",
+        "endTime": "9:40",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "JJK-6338"
+            ]
+          },
+          {
+            "items": [
+              "IVS-2334"
+            ]
+          },
+          {
+            "items": [
+              "HDV-6804"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "9:55",
+        "endTime": "10:15",
+        "sessions": [
+          {
+            "items": [
+              "BXQ-5942"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "KSG-3809"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "GMB-7169"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "AMU-5195"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "10:20",
+        "endTime": "10:40",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "NIZ-9897"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "10:40",
+        "endTime": "11:15",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "11:15",
+        "endTime": "11:35",
+        "sessions": [
+          {
+            "items": [
+              "TWY-4180"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "LBC-1587"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "ZNT-7569"
+            ],
+            "extend": 2
+          },
+          {
+            "items": [
+              "GBA-2488"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "11:40",
+        "endTime": "12:00",
+        "sessions": [
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "HJM-2968"
+            ],
+            "extend": 2
+          }
+        ]
+      },
+      {
+        "startTime": "12:05",
+        "endTime": "12:45",
+        "sessions": [
+          {
+            "items": [
+              "VQS-5461"
+            ]
+          },
+          {
+            "items": [
+              "TLN-9826"
+            ]
+          },
+          {
+            "items": [
+              "EHB-6826"
+            ]
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "12:45",
+        "endTime": "14:00",
+        "sessions": [
+          {
+            "items": [
+              "lunch"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:40",
+        "sessions": [
+          {
+            "items": [
+              "TCT-1480"
+            ]
+          },
+          {
+            "items": [
+              "TGV-6847"
+            ]
+          },
+          {
+            "items": [
+              "RBU-3913"
+            ],
+            "extend": 3
+          },
+          {
+            "items": [
+              "JOO-6049"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "14:50",
+        "endTime": "15:30",
+        "sessions": [
+          {
+            "items": [
+              "XPP-1467"
+            ]
+          },
+          {
+            "items": [
+              "RBP-6855"
+            ]
+          },
+          {
+            "items": []
+          },
+          {
+            "items": [
+              "AFF-5103"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "15:30",
+        "endTime": "16:00",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "16:40",
+        "sessions": [
+          {
+            "items": [
+              "JSD-5161"
+            ]
+          },
+          {
+            "items": [
+              "WLQ-5551"
+            ]
+          },
+          {
+            "items": [
+              "ZPO-7428"
+            ]
+          },
+          {
+            "items": [
+              "JEH-1710"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "16:40",
+        "endTime": "17:10",
+        "sessions": [
+          {
+            "items": [
+              "break"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "17:10",
+        "endTime": "17:50",
+        "sessions": [
+          {
+            "items": [
+              "CRY-8750"
+            ]
+          },
+          {
+            "items": [
+              "ODA-3499"
+            ]
+          },
+          {
+            "items": [
+              "ZPP-9970"
+            ]
+          },
+          {
+            "items": [
+              "XQT-5940"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "sessions": [
+          {
+            "items": [
+              "comedy"
+            ]
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          },
+          {
+            "items": []
+          }
+        ]
+      },
+      {
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "sessions": [
+          {
+            "items": [
+              "closing"
             ]
           }
         ]
