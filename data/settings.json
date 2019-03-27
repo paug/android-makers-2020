@@ -77,8 +77,8 @@
     },
     "schedule": {
       "title": "Schedule",
-      "metaDescription": "Here is the full event agenda.",
-      "description": "Here is the full event agenda.",
+      "metaDescription": "Here is the full event agenda. All information may change at any time before and during the event to make this event the best for you.",
+      "description": "Here is the full event agenda. All information may change at any time before and during the event to make this event the best for you.",
       "background": {
         "color": "#FFF"
       },
