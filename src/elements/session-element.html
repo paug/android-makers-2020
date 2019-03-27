@@ -165,6 +165,11 @@
         <div class="session-meta">
           <div hidden$="[[!session.complexity]]">[[session.complexity]]</div>
         </div>
+        <iron-icon
+          class="bookmark-session"
+          icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
+          on-tap="_toggleFeaturedSession"
+        ></iron-icon>
       </div>
 
       <div class="session-footer">
@@ -258,24 +263,7 @@
       _toggleFeaturedSession(event) {
         event.preventDefault();
         event.stopPropagation();
-        if (!this.user.signedIn) {
-          toastActions.showToast({
-            message: '{$ schedule.saveSessionsSignedOut $}',
-            action: {
-              title: 'Sign in',
-              callback: () => {
-                dialogsActions.openDialog(DIALOGS.SIGNIN);
-              },
-            },
-          });
-          return;
-        }
-
-        const sessions = Object.assign({}, this.featuredSessions, {
-          [this.session.id]: !this.featuredSessions[this.session.id] ? true : null,
-        });
-
-        this.dispatch(sessionsActions.setUserFeaturedSessions(this.user.uid, sessions));
+        this.dispatch(sessionsActions.saveSessionInCalendar(this.session));
       }
     }
 

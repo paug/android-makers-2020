@@ -404,28 +404,19 @@ const sessionsActions = {
       });
   },
 
-  setUserFeaturedSessions: (userId, featuredSessions) => (dispatch) => {
-    dispatch({
-      type: SET_USER_FEATURED_SESSIONS,
-      payload: { userId, featuredSessions },
-    });
+  saveSessionInCalendar: (session) => (dispatch) => {
+    var url = 'https://www.google.com/calendar/render?action=TEMPLATE&text=' + session.title;
+    session.speakers.forEach((speaker) => {
+            url += ' [' + speaker.name + ']';
+          });
+    url += '&dates=' + session.day.replace(/-/g, '') + 'T';
+    url += session.startTime.replace('9', '09').replace(':', '') + '00';
+    url += '/' + session.day.replace(/-/g, '') + 'T';
+    url += session.endTime.replace('9', '09').replace(':', '') + '00';
+    url += '&details=' + session.description;
+    url += '&location=' + session.track.title.replace(' &', ',') + ', ' + session.track.infos;
 
-    firebase.firestore()
-      .collection('featuredSessions')
-      .doc(userId)
-      .set(featuredSessions)
-      .then(() => {
-        dispatch({
-          type: SET_USER_FEATURED_SESSIONS_SUCCESS,
-          payload: { featuredSessions },
-        });
-      })
-      .catch((error) => {
-        dispatch({
-          type: SET_USER_FEATURED_SESSIONS_FAILURE,
-          payload: { error },
-        });
-      });
+    window.open(url, '_blank');
   },
 };
 
