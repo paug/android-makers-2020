@@ -168,9 +168,9 @@
     "speakers": [
       "577e9daa13bf52cf00a48a6304fc2332e060d73d"
     ],
-    "description": "Android is a marvelous platform that has been evolving for more than 10 years now. Having such a large framework and so many APIs, some of thme comes with their questions and puzzlers. In this talk, we will present some of the weirdest API usage/results and give an explanation for each of them.",
+    "description": "Android is a marvelous platform that has been evolving for more than 10 years. Having such a large framework, so many methods and classes while maintaining legacy generally ends up with a price to pay: some parts of the SDK comes with their questions and puzzlers.\r\n\r\nIn this talk, we will present some of the most head-scratching API namings/usages/results and give an explanation for each of them.",
     "language": "English",
-    "title": "Android Puzzlers",
+    "title": "Android Puzzlers: Traps, Pitfalls and Corner Cases",
     "tags": [
       "Android Development"
     ]
