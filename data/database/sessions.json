@@ -677,7 +677,7 @@
     "speakers": [
       "48dedc7f7959765bcb75a87297c7232d70a317ee"
     ],
-    "description": "La plupart d'entre vous connait le développement et le cycle de vie des applications Android.\r\nCependant, savez-vous quels mécanismes sont mis en oeuvre par Android pour isoler les applications les une des autres?\r\nVoyons ensemble tout ces mécanismes qui permettent de sécuriser l'OS mobile le plus utilisé au monde.\r\n",
+    "description": "La plupart d'entre vous connait le développement et le cycle de vie des applications Android.\r\nCependant, savez-vous quels mécanismes sont mis en oeuvre par Android pour isoler les applications les unes des autres?\r\nVoyons ensemble tout ces mécanismes qui permettent de sécuriser l'OS mobile le plus utilisé au monde.\r\n",
     "language": "French",
     "title": "Le sandboxing applicatif d'Android",
     "tags": [
