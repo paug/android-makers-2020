@@ -617,7 +617,7 @@
     "speakers": [
       "de70b5c556753d7ea84b24cf96b188e82d2e84ef"
     ],
-    "description": "Many teams are designed so that engineers can take an abstract view of the customer and focus on implementation. But when the customers are other engineers, that entire dynamic is thrown on it's head.\r\n\r\nIn this talk, Ty will walk you through the best practices of building great products for developers, from team processes to the technical delivery.\r\n\r\nTopics covered will include: Building customer personas and product strategies, Developer Experience research and analytics, customer empathy and support structures, API Design and usability, testing, code distribution, and creating great documentation.",
+    "description": "Many teams are designed so that engineers can take an abstract view of the customer and focus on implementation. But when the customers are other engineers, that entire dynamic is thrown on its head.\r\n\r\nIn this talk, Ty will walk you through the best practices of building great products for developers, from team processes to the technical delivery.\r\n\r\nTopics covered will include: Building customer personas and product strategies, Developer Experience research and analytics, customer empathy and support structures, API Design and usability, testing, code distribution, and creating great documentation.",
     "language": "English",
     "title": "Building for Developers",
     "tags": [
