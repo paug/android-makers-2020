@@ -16,5 +16,14 @@
     "published": "2019-03-18",
     "source": "/data/posts/2019-03-18-selecting-speakers.md",
     "title": "Selecting Speakers"
+  },
+  "office-hours" : {
+    "backgroundColor" : "#3647a5",
+    "brief" : "During this year event, we are going to have some Office hours lead by experts on specific topics. You are all invited to join these office hours...",
+    "content" : "",
+    "image" : "/images/posts/IMG_2249.jpg",
+    "published" : "2019-04-08",
+    "source" : "/data/posts/2019-04-08-office-hours.md",
+    "title" : "AndroidMakers 2019 will host some 'Office hours'"
   }
 }
