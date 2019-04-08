@@ -11,24 +11,24 @@ Each session will last 50 minutes and will be lead by two speakers within their 
 
 ## When are they organized?
 
-Wednesday 11h15
-Ben Weiss: Dynamic Delivery, Modularization, Instant Apps
-Adrien Vitti: Analytics
+Wednesday 11h15<br/>
+**Ben Weiss**: Dynamic Delivery, Modularization, Instant Apps<br/>
+**Adrien Vitti**: Analytics
 
-Wednesday 12h05
-Kai Koenig: In-app-billing, Webview, Libraries/Modules
-Lorica Claesson: UX
+Wednesday 12h05<br/>
+**Kai Koenig**: In-app-billing, Webview, Libraries/Modules<br/>
+**Lorica Claesson**: UX
 
-Wednesday 14h00
-Rebecca Franks: Animations
-Nick Butcher: UI, Animation, Vector assets, Material Design, Dark Mode, ConstraintLayout
+Wednesday 14h00<br/>
+**Rebecca Franks**: Animations<br/>
+**Nick Butcher**: UI, Animation, Vector assets, Material Design, Dark Mode, ConstraintLayout
 
-Wednesday 14h50
-John Hoford & Nicolas Roard: ConstraintLayout, MotionLayout
+Wednesday 14h50<br/>
+**John Hoford & Nicolas Roard**: ConstraintLayout, MotionLayout
 
-Wednesday 16h00
-Louis CAD: Coroutines, Gradle Kotlin DSL, library development, Domain Driven Development, Bluetooth Low Energy, Camera2 API, Kotlin Multiplatform
-Eyal LEZMY: Navigation Component, Gradle plugins, ADB, AOSP, CI infrastructure
+Wednesday 16h00<br/>
+**Louis CAD**: Coroutines, Gradle Kotlin DSL, library development, Domain Driven Development, Bluetooth Low Energy, Camera2 API, Kotlin Multiplatform<br/>
+**Eyal LEZMY**: Navigation Component, Gradle plugins, ADB, AOSP, CI infrastructure
 
 As you can see there, one session have multiple experts and each host has a field of expertise.<br/>
 You can go and meet them whenever you want during their sessions.
