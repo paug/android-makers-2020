@@ -6,7 +6,7 @@ During this year event, we are going to have some Office hours lead by experts o
 ## What are the office hours?
 
 The office hours will gather some speakers to answer your questions on specific topics.<br/>
-Each session will last 50 minutes and will be lead by two speakers within their field of expertise. Everyone can join , talk and ask them about specific problems they encountered.
+Each session will last 50 minutes and will be lead by two speakers within their field of expertise. Everyone can join, talk and ask them about specific problems they encountered.
 
 
 ## When are they organized?

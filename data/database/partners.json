@@ -85,6 +85,11 @@
         "logoUrl": "../images/logos/lesjeudis.png",
         "name": "Les Jeudis",
         "url": "https://www.lesjeudis.com/"
+      },
+      {
+        "logoUrl": "../images/logos/Meetic.png",
+        "name": "Meetic",
+        "url": "https://jobs.smartrecruiters.com/MeeticGroup/743999685907620-developpeur-react-h-f-"
       }
     ]
   },
