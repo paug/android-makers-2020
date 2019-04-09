@@ -880,5 +880,70 @@
     "tags": [
       "Android Development"
     ]
+  },
+  "OFH-0001": {
+    "complexity": "Beginner",
+    "speakers": [
+      "4da226db53a14dcc70be061a323bc3afd6d9146d",
+      "a1ffbd4128a49788bb27672ad70bed1233dd1d66"
+    ],
+    "description": "Ben Weiss: Dynamic Delivery, Modularization, Instant Apps\n\nAdrien Vitti: Analytics",
+    "language": "English",
+    "title": "Office Hours",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "OFH-0002": {
+    "complexity": "Beginner",
+    "speakers": [
+      "4c6f093c88506849f3e562f0f814df18cd07ee99",
+      "822864bbbee048b2f933cbe80197c80b36e291a3"
+    ],
+    "description": "Kai Koenig: In-app-billing, Webview, Libraries/Modules\n\nLorica Claesson: UX",
+    "language": "English",
+    "title": "Office Hours",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "OFH-0003": {
+    "complexity": "Beginner",
+    "speakers": [
+      "f0b60b05124ad1a0b3e76cca09dd215645931221",
+      "5978cd774e924d51f2923d8620f1346a3392263c"
+    ],
+    "description": "Rebecca Franks: Animations\n\nNick Butcher: UI, Animation, Vector assets, Material Design, Dark Mode, ConstraintLayout",
+    "language": "English",
+    "title": "Office Hours",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "OFH-0004": {
+    "complexity": "Beginner",
+    "speakers": [
+      "072cc4fde1730b8c940eb745e3ab284174184cfd",
+      "b86ae9dac45f40c077bbc700eb1af765c11031a5"
+    ],
+    "description": "John Hoford & Nicolas Roard: ConstraintLayout, MotionLayout",
+    "language": "English",
+    "title": "Office Hours",
+    "tags": [
+      "Android Development"
+    ]
+  },
+  "OFH-0005": {
+    "complexity": "Beginner",
+    "speakers": [
+      "cb2e16407c778831b4f990bfbd556135c507867f",
+      "a14457ee24a86a604c55d6774bed5483b630e78f"
+    ],
+    "description": "Louis CAD: Coroutines, Gradle Kotlin DSL, library development, Domain Driven Development, Bluetooth Low Energy, Camera2 API, Kotlin Multiplatform\n\nEyal LEZMY: Navigation Component, Gradle plugins, ADB, AOSP, CI infrastructure",
+    "language": "English",
+    "title": "Office Hours",
+    "tags": [
+      "Android Development"
+    ]
   }
 }
