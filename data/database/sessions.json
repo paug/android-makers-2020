@@ -696,18 +696,6 @@
       "Android Development"
     ]
   },
-  "JOO-6049": {
-    "complexity": "Beginner",
-    "speakers": [
-      "6f31d29fa5a6aa10cae357cd9c1125f6018bc9ce"
-    ],
-    "description": "Koin (https://insert-koin.io) is a pragmatic dependency injection framework for Kotlin/Android developers. Let's see how it will make your life easier thanks to the power of Kotlin language: from basics to the setup of Android architecture's components, without forgetting the testing part...  And of course, how to migrate your \"old\" Dagger project. \r\n\r\nAt the menu also, the presentation of the new 2.0 release and some advanced APIs!",
-    "language": "English",
-    "title": "Dependency injection from zero to hero with Koin",
-    "tags": [
-      "Android Development"
-    ]
-  },
   "NOG-9878": {
     "complexity": "Beginner",
     "speakers": [
