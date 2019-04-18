@@ -108,6 +108,14 @@
       },
       "fontColor": "#424242"
     },
+    "privacy": {
+      "title": "Privacy Policy",
+      "metaDescription": "Everything you want to know about how we handle your data",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
     "team": {
       "title": "Team"
     }
