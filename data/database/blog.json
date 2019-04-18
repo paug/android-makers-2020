@@ -34,5 +34,14 @@
     "published" : "2019-04-15",
     "source" : "/data/posts/2019-04-15-app.md",
     "title" : "Download the Android Makers 2019 app!"
+  },
+  "flutter" : {
+    "backgroundColor" : "#3647a5",
+    "brief" : "Cela fait maintenant 8 ans que je développe des applications mobiles, tant sur Android que sur iOS. C'est vous dire si j'ai vu passer des frameworks...",
+    "content" : "<h1 id="flutterasongofiosandandroid">Flutter : A song of iOS and Android</h1><ul><li>Cela fait maintenant 8 ans que je développe des applications mobiles, tant sur Android que sur iOS. C'est vous dire si j'ai vu passer des frameworks multiplateformes sous mes yeux : Cordova, Xamarin, React Native, etc. J'ai toujours été circonspect vis à vis de ces techniques d'apprentis sorciers mais je me suis aussi toujours intéressé de près à leur évolution et surtout, à leur potentielle plus-value.</li></ul><p>Si on tend souvent à perdre en performance, en qualité de code, et surtout, en cohésion avec les obligations d’affichage de chaque plateforme, il reste cependant indéniable que pour un premier jet, ce type de framework reste une bonne base pour tester un futur produit. Et au risque de m’attirer les foudres de mes pairs, j’avoue avoir toujours porté un vif intérêt pour ces technologies cross-platform. </p><p><plastic-image alt=\"title of your image\" srcset=\"/images/posts/flutter-1.jpg\" lazy-load preload fade></plastic-image></p><p>C’est pour cette raison qu'à l'annonce du lancement de Flutter, je me suis jeté sur la documentation pour découvrir ce nouvel outil.  </p><p>Made by Google, est-il expliqué sur  <a href=\"https://flutter.dev/\">le site officiel</a>. What could go wrong ?</p><p>Au premier abord, Google nous présente évidemment son outil comme révolutionnaire. Des UI faciles à mettre en place, une exploitation intuitive des performances de chaque plateforme, une communauté grandissante autour d’un langage créé par les ingénieurs de Google. Aie. Premier bémol.</p><p>Si vous voulez démarrer sur Flutter, vous allez devoir apprendre un nouveau langage : Dart. Fort heureusement, en 11 ans d’existence, la communauté a essuyé la plupart des plâtres que peut rencontrer un premier langage.  </p><p>Plutôt qu’un discours déjà trop long, voici un petit exemple technique pour découvrir l’outil.</p><p>Lire la suite sur <a href=\"https://www.esensconsulting.com/blog/flutter-ios-android\">le blog Esens</a></p>",
+    "image" : "/images/venues/flutter.png",
+    "published" : "2019-04-18",
+    "source" : "/data/posts/2019-04-18-flutter.md",
+    "title" : "Flutter : A song of iOS and Android"
   }
 }
