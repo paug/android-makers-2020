@@ -410,9 +410,9 @@ const sessionsActions = {
             url += ' [' + speaker.name + ']';
           });
     url += '&dates=' + session.day.replace(/-/g, '') + 'T';
-    url += session.startTime.replace('9', '09').replace(':', '') + '00';
+    url += session.startTime.replace(/^8/, '08').replace(/^9/, '09').replace(':', '') + '00';
     url += '/' + session.day.replace(/-/g, '') + 'T';
-    url += session.endTime.replace('9', '09').replace(':', '') + '00';
+    url += session.endTime.replace(/^8/, '08').replace(/^9/, '09').replace(':', '') + '00';
     url += '&details=' + session.description;
     url += '&location=' + session.track.title.replace(' &', ',') + ', ' + session.track.infos;
 
