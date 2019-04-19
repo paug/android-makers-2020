@@ -94,9 +94,9 @@
     "speakers": [
       "9294a55b442b986b06aafe0a08db568263a87d23"
     ],
-    "description": "This talk will focus on some of the more advances features built on top of LeakCanary as well as new features coming up: leak detection in tests, much smarter leaktraces as well as improved UI, memory leak detection in production, etc.",
+    "description": "**LeakCanary 2 Alpha 1** will be released right before this talk, come learn about **hot new features, crazy improvements** and **gnarly implementation details**!\r\n\r\nLeakCanary 1 helped detect memory leaks but had several issues: constant **freeze of the UI**, **OOM crashes** while analyzing, results **hard to analyze**, a confusing API, and an ugly logo.\r\n\r\nNo more! Come learn about **multiple leak detection**, **leak grouping**, **smarter analysis results**, **counting leaks in production**, **detecting leaks in UI tests**... and much more!\r\n\r\nOh and LeakCanary 2 is **100% Kotlin**, updated to **Android X**, and it even has a **cute new logo**!",
     "language": "English",
-    "title": "LeakCanary.next",
+    "title": "LeakCanary 2: Leaner, Better, Faster, Kotliner!",
     "tags": [
       "Android Development"
     ]
