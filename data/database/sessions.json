@@ -339,9 +339,9 @@
     "speakers": [
       "109d33decd394492fbd5b99a92dd7607d821d27c"
     ],
-    "description": "The first question Android developers ask me when they learn that I do talks about the Google Assistant is: *\"OH! I have this awesome app that has this use case and I totally want to integrate it with the Google Assistant so I can do hands-free actions inside my app\"*. This is a genuine question with a complicated answer. \r\n\r\nThere are several tools out there that you can use to address this problem: Dialogflow, TensorFlow (Mobile, Lite), ML Kit, Cloud APIs, Auto ML. The most impressive thing? They're all Google solutions! If you're not confused yet, take a look at Google Maps that \"integrated\" with the Google Assistant when you're in itinerary mode and App Actions that are supposed to help Android developers take advantage of Actions on Google.\r\n\r\nIn this talk, I'm *not* talking about integrating your app with the Google Assistant, but rather how Android developers can add voice actions in their app (not via the Google Assistant). I'll then talk about both ecosystems (Android and Assistant) and how they interact with each other.",
+    "description": "The fact that \"apps\" for the Google Assistant and for Android are both available on Android smartphones can be the cause of some confusion. Do I have to go to the Play Store to download and install an \"app\" for the Google Assistant? Can I launch a Google Assistant experience from an Android app? How to integrate advanced voice recognition (NLP or other) on existing apps? What experience should I offer on my app?  In this talk I will answer these questions, do a comparison of the ecosystems and how they can work together.",
     "language": "English",
-    "title": "Integrating Android with the Google Assistant",
+    "title": "Google Assistant for Android developers",
     "tags": [
       "Android Development"
     ]
