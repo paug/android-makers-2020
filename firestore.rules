@@ -224,5 +224,9 @@ service cloud.firestore {
     match /schedule-app/{slot} {
     	allow read;
     }
+    
+    match /flash-droid/{userId} {
+      allow read, write: if request.auth.uid == userId;
+    }
   }
 }
