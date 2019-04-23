@@ -361,9 +361,16 @@
   "HJM-2968": {
     "complexity": "Beginner",
     "speakers": [
-      "a14457ee24a86a604c55d6774bed5483b630e78f"
+      "a14457ee24a86a604c55d6774bed5483b630e78f",
+      "4227e79e90c24f18fa5d21d0f583b1ee263216bd",
+      "d2a0ee8397721dab722a6f969532df215dad171c",
+      "f0b60b05124ad1a0b3e76cca09dd215645931221",
+      "de70b5c556753d7ea84b24cf96b188e82d2e84ef",
+      "3e271f509e5ca12cfef7d51e98fde031c124e382",
+      "6655ec55dd5d139ccb4d6f8724017c05c51555c3",
+      "577e9daa13bf52cf00a48a6304fc2332e060d73d"
     ],
-    "description": "A bunch of Google Developers Experts will come on stage, discovering a few applications in live, they will provide feedback and advices to the developers.\r\nPropose your application for the review by sending the Play Store link or the APK to contact@androidmakers.fr",
+    "description": "A bunch of Android experts will come on stage, discovering a few applications in live, they will provide feedback and advices to the developers.\r\nPropose your application for the review by sending the Play Store link or the APK to contact@androidmakers.fr",
     "language": "English",
     "title": "App Clinic",
     "tags": [
