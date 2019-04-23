@@ -912,9 +912,10 @@
     "complexity": "Beginner",
     "speakers": [
       "072cc4fde1730b8c940eb745e3ab284174184cfd",
-      "b86ae9dac45f40c077bbc700eb1af765c11031a5"
+      "b86ae9dac45f40c077bbc700eb1af765c11031a5",
+      "9294a55b442b986b06aafe0a08db568263a87d23"
     ],
-    "description": "John Hoford & Nicolas Roard: ConstraintLayout, MotionLayout",
+    "description": "John Hoford & Nicolas Roard: ConstraintLayout, MotionLayout\n\nPierre-Yves Ricau: LeakCanary",
     "language": "English",
     "title": "Office Hours",
     "tags": [
