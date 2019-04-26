@@ -400,7 +400,8 @@
     "title": "Making any codebase more readable with Kotlin coroutines",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "presentation": "https://androidmakers2019.louiscad.com/assets/player/KeynoteDHTMLPlayer.html#0"
   },
   "SCS-0941": {
     "complexity": "Beginner",
@@ -527,7 +528,8 @@
     "title": "Getting the most out of code review",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "presentation": "https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review"
   },
   "YYF-6635": {
     "complexity": "Intermediate",
@@ -756,7 +758,8 @@
     "title": "Kotlin end to end: du client au serveur",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "presentation": "https://speakerdeck.com/jdatour/android-makers-2019-kotlin-end-to-end-du-client-au-serveur"
   },
   "XWA-9893": {
     "complexity": "Intermediate",
