@@ -63,7 +63,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/camaelon/constraintlayout-2-dot-0"
+    "presentation": "https://speakerdeck.com/camaelon/constraintlayout-2-dot-0",
+    "videoId": "EBke5RoKK0M"
   },
   "FVI-2317": {
     "speakers": [
@@ -101,7 +102,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/pyricau/leakcanary-2-leaner-better-faster-kotliner"
+    "presentation": "https://speakerdeck.com/pyricau/leakcanary-2-leaner-better-faster-kotliner",
+    "videoId": "LEX8dn4BLUw"
   },
   "TCT-1480": {
     "complexity": "Beginner",
@@ -114,7 +116,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "http://bit.ly/nav-component"
+    "presentation": "http://bit.ly/nav-component",
+    "videoId": "fCK36dnNe3Y"
   },
   "TWY-4180": {
     "complexity": "Intermediate",
@@ -127,7 +130,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/marianeum/consistency-is-key-working-with-a-design-system-android-makers"
+    "presentation": "https://speakerdeck.com/marianeum/consistency-is-key-working-with-a-design-system-android-makers",
+    "videoId": "THYqC3ACadQ"
   },
   "XQT-5940": {
     "complexity": "Beginner",
@@ -140,7 +144,8 @@
     "title": "Android Leaks @Android Makers - Épisode 6 : Le retour des poireaux",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "Oo_aOVUGvpI"
   },
   "XEB-2115": {
     "complexity": "Beginner",
@@ -152,7 +157,8 @@
     "title": "Pragmatic crafting",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "Z9h_nLwJuSQ"
   },
   "comedy": {
     "complexity": "Beginner",
@@ -165,7 +171,8 @@
     "title": "Closing conference",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "eag908DSNX0"
   },
   "BXQ-5942": {
     "complexity": "Intermediate",
@@ -178,7 +185,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/cyrilmottier/android-puzzlers-traps-pitfalls-and-corner-cases"
+    "presentation": "https://speakerdeck.com/cyrilmottier/android-puzzlers-traps-pitfalls-and-corner-cases",
+    "videoId": "-XkE7GtCnjI"
   },
   "XPP-1467": {
     "complexity": "Beginner",
@@ -191,7 +199,8 @@
     "title": "Meaningful motion design and how to implement it",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "7LqeFDsi5dQ"
   },
   "WLQ-5551": {
     "complexity": "Beginner",
@@ -204,7 +213,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/oldergod/server-driven-ui-workflow"
+    "presentation": "https://speakerdeck.com/oldergod/server-driven-ui-workflow",
+    "videoId": "TB2b27zsOwc"
   },
   "QMW-7145": {
     "complexity": "Expert",
@@ -217,7 +227,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/codingdoug/android-transformers-bytecode-in-disguise"
+    "presentation": "https://speakerdeck.com/codingdoug/android-transformers-bytecode-in-disguise",
+    "videoId": "cTJEzvUlTSQ"
   },
   "DCF-5057": {
     "complexity": "Intermediate",
@@ -242,7 +253,8 @@
     "title": "Vector Workflows",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "IL6X3NT4os8"
   },
   "MAW-7262": {
     "complexity": "Beginner",
@@ -268,7 +280,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/rock3r/uplift-material-shadows-on-android"
+    "presentation": "https://speakerdeck.com/rock3r/uplift-material-shadows-on-android",
+    "videoId": "ZKJiXmIu06c"
   },
   "RBP-6855": {
     "complexity": "Beginner",
@@ -280,7 +293,8 @@
     "title": "Becoming a Leader in Tech: How to boost your career without losing your mind",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "ufW364Pmldc"
   },
   "KSG-3809": {
     "complexity": "Beginner",
@@ -293,7 +307,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/malmstein/building-a-multiplatform-library-for-ios-and-android"
+    "presentation": "https://speakerdeck.com/malmstein/building-a-multiplatform-library-for-ios-and-android",
+    "videoId": "cyvHWDLsIKQ"
   },
   "VOJ-6007": {
     "complexity": "Beginner",
@@ -306,7 +321,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/anitas3791/styles-themes-material-theming-oh-my"
+    "presentation": "https://speakerdeck.com/anitas3791/styles-themes-material-theming-oh-my",
+    "videoId": "oSSi50Qv9DE"
   },
   "MKQ-2052": {
     "complexity": "Intermediate",
@@ -332,7 +348,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/riggaroo/in-a-world-of-pure-android-animation"
+    "presentation": "https://speakerdeck.com/riggaroo/in-a-world-of-pure-android-animation",
+    "videoId": "Hjs3Dmng6wA"
   },
   "OVK-2477": {
     "complexity": "Intermediate",
@@ -359,7 +376,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/elainedb/google-assistant-for-android-developers"
+    "presentation": "https://speakerdeck.com/elainedb/google-assistant-for-android-developers",
+    "videoId": "kqIRTUZcQ6M"
   },
   "GAO-2888": {
     "complexity": "Beginner",
@@ -391,7 +409,8 @@
     "title": "App Clinic",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "RJC5atfJHwE"
   },
   "DFO-2916": {
     "complexity": "Beginner",
@@ -404,7 +423,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://androidmakers2019.louiscad.com/assets/player/KeynoteDHTMLPlayer.html#0"
+    "presentation": "https://androidmakers2019.louiscad.com/assets/player/KeynoteDHTMLPlayer.html#0",
+    "videoId": "P1eeS6DQ5Uo"
   },
   "SCS-0941": {
     "complexity": "Beginner",
@@ -416,7 +436,8 @@
     "title": "Effective Unit testing with Kotlin",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "Cc69W9c3l-c"
   },
   "VQS-5461": {
     "complexity": "Intermediate",
@@ -429,7 +450,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/jsaund/android-makers-concurrency-doesnt-have-to-be-hard-kotlin-coroutines-and-channels"
+    "presentation": "https://speakerdeck.com/jsaund/android-makers-concurrency-doesnt-have-to-be-hard-kotlin-coroutines-and-channels",
+    "videoId": "3WGM-_MnPQA"
   },
   "VUR-7482": {
     "complexity": "Beginner",
@@ -455,7 +477,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/sandraddev/do-you-want-an-easy-way-to-add-machine-learning-into-your-app"
+    "presentation": "https://speakerdeck.com/sandraddev/do-you-want-an-easy-way-to-add-machine-learning-into-your-app",
+    "videoId": "7JY_R3ywXBA"
   },
   "QIW-9288": {
     "complexity": "Intermediate",
@@ -468,7 +491,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/magdamiu/workout-your-tasks-with-workmanager"
+    "presentation": "https://speakerdeck.com/magdamiu/workout-your-tasks-with-workmanager",
+    "videoId": "D3FE3hLB9CY"
   },
   "XQK-8719": {
     "complexity": "Beginner",
@@ -480,7 +504,8 @@
     "title": "A resourceful talk about Android Resources",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "sdvZ4XLTdxQ"
   },
   "RBU-3913": {
     "complexity": "Beginner",
@@ -508,7 +533,8 @@
     "title": "Locking, blocking and rocking Android for Self-service Kiosks",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "fcipc2dRVRA"
   },
   "NTE-5380": {
     "complexity": "Intermediate",
@@ -535,7 +561,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review"
+    "presentation": "https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review",
+    "videoId": "iQEZQ4AYGIg"
   },
   "YYF-6635": {
     "complexity": "Intermediate",
@@ -562,7 +589,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/cortinico/i-have-no-idea-what-my-app-is-doing-nicola-corti-android-dev"
+    "presentation": "https://speakerdeck.com/cortinico/i-have-no-idea-what-my-app-is-doing-nicola-corti-android-dev",
+    "videoId": "GtZ-WZWoneQ"
   },
   "ZDM-8801": {
     "complexity": "Beginner",
@@ -574,7 +602,8 @@
     "title": "Embarquez dans l'aventure Kotlin avec Advent Of Code",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "yHtwRP8z_zw"
   },
   "NYI-1720": {
     "complexity": "Intermediate",
@@ -587,7 +616,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/gounthar/the-android-device-farm-that-fits-in-a-cloudy-pocket-d6e0efde-82a3-4a05-89d2-4f51051ad315"
+    "presentation": "https://speakerdeck.com/gounthar/the-android-device-farm-that-fits-in-a-cloudy-pocket-d6e0efde-82a3-4a05-89d2-4f51051ad315",
+    "videoId": "UJE7cQSC-4M"
   },
   "HXB-5769": {
     "complexity": "Intermediate",
@@ -600,7 +630,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/pcrepieux/energie-latence-je-taime-moi-non-plus"
+    "presentation": "https://speakerdeck.com/pcrepieux/energie-latence-je-taime-moi-non-plus",
+    "videoId": "dbp6vmb9l14"
   },
   "XVO-2305": {
     "complexity": "Intermediate",
@@ -612,7 +643,8 @@
     "title": "Recruteurs, développeurs, bonne humeur",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "OW1jHVsBJZo"
   },
   "IVS-2334": {
     "complexity": "Intermediate",
@@ -638,7 +670,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/jeroenmols/journey-to-painless-releases-continuous-delivery-for-philips-hue-android"
+    "presentation": "https://speakerdeck.com/jeroenmols/journey-to-painless-releases-continuous-delivery-for-philips-hue-android",
+    "videoId": "VkFcJZWtufA"
   },
   "LQF-6083": {
     "complexity": "Beginner",
@@ -651,7 +684,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/marcpoppleton/slices-up-your-app"
+    "presentation": "https://speakerdeck.com/marcpoppleton/slices-up-your-app",
+    "videoId": "r1NqxigqjLA"
   },
   "HZY-9508": {
     "complexity": "Intermediate",
@@ -663,7 +697,8 @@
     "title": "Building for Developers",
     "tags": [
       "Android Development"
-    ]
+    ],
+    "videoId": "O-brn0YZzfU"
   },
   "EHB-6826": {
     "complexity": "Intermediate",
@@ -689,7 +724,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/martindevillers/state-restoration-the-full-picture-with-coroutines"
+    "presentation": "https://speakerdeck.com/martindevillers/state-restoration-the-full-picture-with-coroutines",
+    "videoId": "BTTkbPyrd1w"
   },
   "PJX-9369": {
     "complexity": "Beginner",
@@ -702,7 +738,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://docs.google.com/presentation/d/1zBn4JHEnVZuZaLexq06PsRJ2wxd6xXfNIV5bTxWD66I/edit#slide=id.g510c1a25bf_0_0"
+    "presentation": "https://docs.google.com/presentation/d/1zBn4JHEnVZuZaLexq06PsRJ2wxd6xXfNIV5bTxWD66I/edit#slide=id.g510c1a25bf_0_0",
+    "videoId": "I_G8G2J-Dww"
   },
   "VTN-7485": {
     "complexity": "Intermediate",
@@ -715,7 +752,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://drive.google.com/open?id=17Hk6ktZ9iL0XzXeqtzsmyakaEW6PPI5yRNgjxKUaDLg"
+    "presentation": "https://drive.google.com/open?id=17Hk6ktZ9iL0XzXeqtzsmyakaEW6PPI5yRNgjxKUaDLg",
+    "videoId": "0W186avJRUU"
   },
   "ZCO-9565": {
     "complexity": "Beginner",
@@ -728,7 +766,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://fr.slideshare.net/AdrienGrassein/le-sandboxing-applicatif-dandroid"
+    "presentation": "https://fr.slideshare.net/AdrienGrassein/le-sandboxing-applicatif-dandroid",
+    "videoId": "iPPBG1dij1w"
   },
   "GMB-7169": {
     "complexity": "Beginner",
@@ -755,7 +794,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/n0tnull/les-analytics-cest-bon-mangez-en"
+    "presentation": "https://speakerdeck.com/n0tnull/les-analytics-cest-bon-mangez-en",
+    "videoId": "fi7_NdnxXAU"
   },
   "ZPO-7428": {
     "complexity": "Intermediate",
@@ -783,7 +823,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/mikklfr/securing-network-calls-on-android-from-2009-to-2019"
+    "presentation": "https://speakerdeck.com/mikklfr/securing-network-calls-on-android-from-2009-to-2019",
+    "videoId": "rhXzc3X0KI0"
   },
   "HDV-6804": {
     "complexity": "Intermediate",
@@ -797,7 +838,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/viteinfinite/mvi-une-architecture-robuste-et-moderne-pour-vos-applications-mobiles"
+    "presentation": "https://speakerdeck.com/viteinfinite/mvi-une-architecture-robuste-et-moderne-pour-vos-applications-mobiles",
+    "videoId": "Qoa3ZjfbUBA"
   },
   "VOK-7028": {
     "complexity": "Beginner",
@@ -824,7 +866,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/tiwiz/graphql-irl-android-makers"
+    "presentation": "https://speakerdeck.com/tiwiz/graphql-irl-android-makers",
+    "videoId": "ykcSnSSlhpU"
   },
   "ZPP-9970": {
     "complexity": "Intermediate",
@@ -852,7 +895,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/agiuliani/dependency-injection-from-zero-to-hero-with-koin"
+    "presentation": "https://speakerdeck.com/agiuliani/dependency-injection-from-zero-to-hero-with-koin",
+    "videoId": "chCsNkjotfc"
   },
   "DZK-4920": {
     "complexity": "Intermediate",
@@ -865,7 +909,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/zsoltkocsi/architectural-journey"
+    "presentation": "https://speakerdeck.com/zsoltkocsi/architectural-journey",
+    "videoId": "pXw6r2kAvq8"
   },
   "KAP-5021": {
     "complexity": "Beginner",
@@ -893,7 +938,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://www.slideshare.net/chrissimmonds/running-android-on-the-raspberry-pi-android-pie-meets-raspberry-pi"
+    "presentation": "https://www.slideshare.net/chrissimmonds/running-android-on-the-raspberry-pi-android-pie-meets-raspberry-pi",
+    "videoId": "gPMfzgLUtKk"
   },
   "ZNT-7569": {
     "complexity": "Beginner",
@@ -921,7 +967,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://speakerdeck.com/crgarridos/retour-dexperience-sur-la-modernisation-technique-dune-top-app"
+    "presentation": "https://speakerdeck.com/crgarridos/retour-dexperience-sur-la-modernisation-technique-dune-top-app",
+    "videoId": "L3EFcwfSJ3U"
   },
   "TLN-9826": {
     "complexity": "Beginner",
@@ -934,7 +981,8 @@
     "tags": [
       "Android Development"
     ],
-    "presentation": "https://docs.google.com/presentation/d/1dNld_wDZbTKzPY3FVbAVineuvuF8XSRuxjZu3UsyltQ/edit#slide=id.g5594babf55_0_80"
+    "presentation": "https://docs.google.com/presentation/d/1dNld_wDZbTKzPY3FVbAVineuvuF8XSRuxjZu3UsyltQ/edit#slide=id.g5594babf55_0_80",
+    "videoId": "wlb3lg5JocA"
   },
   "OFH-0001": {
     "complexity": "Beginner",
