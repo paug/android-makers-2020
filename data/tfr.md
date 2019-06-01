@@ -1,7 +1,7 @@
 ## Congratulations!
 
-Your registration to Android Makers, April 23rd-24th april 2019 has been confirmed.
+Your registration to Android Makers 2020 has been confirmed.
 
 For any other information, shoot us an email at [contact@androidmakers.fr](mailto:contact@androidmakers.fr)
 
-See you soon!
+See you on 20-21 April 2020!
