@@ -64,6 +64,11 @@
       "title": "Explore past events",
       "links": [
         {
+          "name": "Android Makers Paris 2019",
+          "url": "https://android-makers-2019.firebaseapp.com/",
+          "newTab": true
+        },
+        {
           "name": "Android Makers Paris 2018",
           "url": "https://paug.github.io/android-makers-2018/",
           "newTab": true
