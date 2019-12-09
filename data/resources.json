@@ -149,10 +149,10 @@
     "link":"mailto:contact@androidmakers.fr"
   },
   "featuredVideos": {
-    "title": "Android Makers 2018 featured videos",
+    "title": "Android Makers 2019 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLn7H9CUCuXAus0YgFW7QiIpnwHJd3Yinw"
+      "link": "https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3"
     }
   },
   "blog": {
@@ -186,11 +186,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#AndroidMakers2 highlights",
+    "title": "#AndroidMakers2019 highlights",
     "description": "Check out photos from featured talks, hands-on learning sessions, and party-hours.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.app.goo.gl/WDhmy1iGabI651163"
+      "link": "https://photos.app.goo.gl/Q7XhC8uRQKdKArgp9"
     }
   },
   "mapBlock": {
