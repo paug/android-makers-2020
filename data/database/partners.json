@@ -16,6 +16,17 @@
     ]
   },
   {
+    "order": 1,
+    "title": "Gold Sponsors",
+    "logos": [
+      {
+        "logoUrl": "../images/logos/leboncoin.svg",
+        "name": "Le Bon Coin",
+        "url": "https://www.leboncoin.fr/"
+      }
+    ]
+  },
+  {
     "order": 99,
     "title": "Website Template",
     "logos": [
