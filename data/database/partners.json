@@ -23,6 +23,11 @@
         "logoUrl": "../images/logos/leboncoin.svg",
         "name": "Le Bon Coin",
         "url": "https://www.leboncoin.fr/"
+      },
+      {
+        "logoUrl": "../images/logos/bitrise.png",
+        "name": "Bitrise",
+        "url": "https://www.bitrise.io/"
       }
     ]
   },
