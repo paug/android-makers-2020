@@ -3,8 +3,13 @@
     "members": [
       {
         "title": "Website, Android app, photos",
-        "photoUrl": "https://pbs.twimg.com/profile_images/862422706016399361/KVX-WOT7_400x400.jpg",
-        "name": "Benjamin Gonin"
+        "photoUrl": "https://pbs.twimg.com/profile_images/1177335817104175109/MGPT17XV_400x400.jpg",
+        "name": "Benjamin Gonin",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/_benju_",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
@@ -22,13 +27,18 @@
         "name": "Eyal Lezmy"
       },
       {
-        "photoUrl": "https://pbs.twimg.com/profile_images/673457436880146432/_ms7xAJA_400x400.jpg",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1193168545221238790/2TxOlQ51_400x400.jpg",
         "name": "Stéphane Guérin",
-        "title": "Organizer"
+        "title": "Organizer",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/guerwan",
+          "name" : "Twitter"
+        }]
       },
       {
-        "title": "Cfp site",
-        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQHEwZ1EYbkLOA/profile-displayphoto-shrink_800_800/0?e=1553126400&v=beta&t=XiY9KpyvgyNr6A9EVoMv0AfZgoidMFdLV1MUzded1d4",
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1196821614765264900/S6DegBlg_400x400.jpg",
         "name": "Martin Bonnin"
       },
       {
@@ -40,11 +50,6 @@
         "name": "Adrien Vitti",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_vitti.jpg?alt=media&token=46f23aa2-413d-4103-8eba-26782e207d7a",
         "title": "Android app"
-      },
-      {
-        "title": "Community Manager",
-        "photoUrl": "https://pbs.twimg.com/profile_images/970727772409749505/P1v_kA8P_400x400.jpg",
-        "name": "Amael"
       },
       {
         "title": "Organizer",
@@ -98,6 +103,11 @@
   {
     "members": [
       {
+        "name": "Maxime",
+        "title": "",
+        "photoUrl": ""
+      },
+      {
         "name": "John Karp",
         "title": "",
         "photoUrl": "https://pbs.twimg.com/profile_images/803900316051718144/lDK8E_p9_400x400.jpg"
@@ -105,11 +115,6 @@
       {
         "name": "Camille Fabre",
         "title": ""
-      },
-      {
-        "name": "Olivier Levelt",
-        "title": "",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Folivier_levelt.jpg?alt=media&token=b78d05f1-ffa5-409b-af86-716859fdff31"
       }
     ],
     "order": 0,
