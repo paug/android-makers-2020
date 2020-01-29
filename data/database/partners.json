@@ -33,6 +33,17 @@
   },
   {
     "order": 2,
+    "title": "Silver Sponsors",
+    "logos": [
+      {
+        "logoUrl": "../images/logos/hiway.svg",
+        "name": "Hiway",
+        "url": "https://hiway-freelance.com/"
+      }
+    ]
+  },
+  {
+    "order": 2,
     "title": "Website Template",
     "logos": [
       {
