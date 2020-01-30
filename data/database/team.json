@@ -14,17 +14,32 @@
       {
         "title": "Organizer",
         "photoUrl": "https://pbs.twimg.com/profile_images/910937517578424320/da8z8FL0_400x400.jpg",
-        "name": "Marion Hayoun"
+        "name": "Marion Hayoun",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/loutry",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Website",
         "photoUrl": "https://pbs.twimg.com/profile_images/989475350953553921/aqXeK-YO_400x400.jpg",
-        "name": "Antonin Fouques"
+        "name": "Antonin Fouques",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/cmoatoto",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
         "photoUrl": "https://pbs.twimg.com/profile_images/1810811721/11_-_1_400x400.jpg",
-        "name": "Eyal Lezmy"
+        "name": "Eyal Lezmy",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/Eyal_Lezmy",
+          "name" : "Twitter"
+        }]
       },
       {
         "photoUrl": "https://pbs.twimg.com/profile_images/1193168545221238790/2TxOlQ51_400x400.jpg",
@@ -39,12 +54,22 @@
       {
         "title": "Organizer",
         "photoUrl": "https://pbs.twimg.com/profile_images/1196821614765264900/S6DegBlg_400x400.jpg",
-        "name": "Martin Bonnin"
+        "name": "Martin Bonnin",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/martinbonnin",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer, photos",
         "photoUrl": "https://pbs.twimg.com/profile_images/1013865859880759297/s0cSh-qU_400x400.jpg",
-        "name": "Stan Kocken"
+        "name": "Stan Kocken",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/stan_kocken",
+          "name" : "Twitter"
+        }]
       },
       {
         "name": "Adrien Vitti",
@@ -53,17 +78,27 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/916204922349215744/FP5gGiZe_400x400.jpg",
-        "name": "Alexandre Bruneau"
+        "photoUrl": "https://pbs.twimg.com/profile_images/1125788610215550977/X-lykdEY_400x400.jpg",
+        "name": "Alexandre Bruneau",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/bruneau_alex",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQGMPm4NaQ2bHg/profile-displayphoto-shrink_800_800/0?e=1553126400&v=beta&t=t9zhW_ZXBc3tk-j_hZzOJTpf_OX_oD8HDcyOPBIZegM",
-        "name": "Edouard Marquez"
+        "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGMPm4NaQ2bHg/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=g3zVJUAnSYvlc4VQZYDcqeFTa3OROYVh_30AKygBxOk",
+        "name": "Edouard Marquez",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/g123k",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQHqydLKzRheMA/profile-displayphoto-shrink_800_800/0?e=1553126400&v=beta&t=owLshHaLV5_1DmW1FHdp1LS9EMm1SsSBFavejLOWZEg",
+        "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF5mqkj69Lx5w/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=m4vanPy7ni0EcAOcP5K_6tn84YkSIwGDnvu48JRHY0E",
         "name": "Romain Ménétrier"
       },
       {
@@ -73,8 +108,13 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFP28JHgfHyww/profile-displayphoto-shrink_800_800/0?e=1552521600&v=beta&t=da2BVsb18LTsVvwRSHPfiAjPphmqpGit0XpaeIEHgfw",
-        "name": "Djavan Bertrand"
+        "photoUrl": "https://pbs.twimg.com/profile_images/1526573324/photo_400x400.jpg",
+        "name": "Djavan Bertrand",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/djava7",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
@@ -83,18 +123,23 @@
       },
       {
         "title": "Organizer",
-        "name": "Thomas Barthélémy",
-        "photoUrl": "https://media.licdn.com/dms/image/C5603AQEWg201L6Kgog/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=4ux7-G4vWdJkGWaOMY4m47vAXvhZN-qgq2mkENOrabw"
+        "photoUrl": "https://media.licdn.com/dms/image/C5603AQEWg201L6Kgog/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=4ux7-G4vWdJkGWaOMY4m47vAXvhZN-qgq2mkENOrabw",
+        "name": "Thomas Barthélémy"
       },
       {
         "title": "Organizer",
-        "name": "Gaël Jestin",
-        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFvzldX_36llA/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=aIwOeeJGj4txaBTpezbt3qt3KZaVcZy_d-veEy7t4oA"
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFvzldX_36llA/profile-displayphoto-shrink_800_800/0?e=1557360000&v=beta&t=aIwOeeJGj4txaBTpezbt3qt3KZaVcZy_d-veEy7t4oA",
+        "name": "Gaël Jestin"
       },
       {
         "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fqian_jin.jpeg?alt=media&token=78229709-2b09-4ae3-a627-51f6b7e33da4",
         "name": "Qian Jin",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fqian_jin.jpeg?alt=media&token=78229709-2b09-4ae3-a627-51f6b7e33da4"
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/bonbonking",
+          "name" : "Twitter"
+        }]
       }
     ],
     "order": 1,
@@ -103,14 +148,14 @@
   {
     "members": [
       {
-        "name": "Maxime",
-        "title": "",
-        "photoUrl": ""
+        "name": "Maxime Guillaume",
+        "photoUrl": "",
+        "title": ""
       },
       {
         "name": "John Karp",
-        "title": "",
-        "photoUrl": "https://pbs.twimg.com/profile_images/803900316051718144/lDK8E_p9_400x400.jpg"
+        "photoUrl": "https://pbs.twimg.com/profile_images/803900316051718144/lDK8E_p9_400x400.jpg",
+        "title": ""
       },
       {
         "name": "Camille Fabre",
