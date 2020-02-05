@@ -29,6 +29,11 @@
       "label": "Home"
     },
     {
+      "route": "speakers",
+      "permalink": "/",
+      "label": "Speakers"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -52,7 +57,7 @@
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers from last year",
+      "title": "Speakers",
       "metaDescription": "Hear from Speakers who are building the future of Android. Check back often as we add more speakers everyday.",
       "description": "Hear from Speakers who are building the future of Android. Check back often as we add more speakers everyday.",
       "background": {
