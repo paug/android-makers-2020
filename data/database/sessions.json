@@ -50,5 +50,18 @@
     "tags": [
       "Service"
     ]
+  },
+  "176356": {
+    "speakers": [
+      "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775",
+      "f2c947c4-393b-4476-b6b3-b2507e6137dc"
+    ],
+    "title": "Putting The Pieces Back Together : Our Broken Industry",
+    "language": "English",
+    "description": "There are amazing aspects of being in tech - such as communities that are always willing to help and learn from each other, the ability to create positive change in people’s lives and of course, it’s a well-paid profession. I’d rather not do anything else, but there are factors that make me reconsider sometimes. \r\n\r\nIn this talk, we are going to learn how we can do better. The not-so-good side of tech includes gatekeeping (Dagger vs Koin anyone?), de-prioritising privacy and accessibility, devaluing emotional intelligence, increasing rates of burn-out, being allergic to hiring juniors and the list goes on.\r\n\r\nWe will reflect on how we can do better as an industry with actions we can start taking right away, like how to practice compassionate coding, how to avoid creating emotional labor, how to achieve inclusivity in our tech communities, how to hold our organisations accountable and more. \r\n\r\nWith increased awareness and ideas for action, we can put the pieces back together. ",
+    "complexity": "Introductory and overview",
+    "tags": [
+      "Soft skills"
+    ]
   }
 }
