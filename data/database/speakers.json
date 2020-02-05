@@ -1,5 +1,5 @@
 {
-  "379c162aac12eca2deca690287b54ad270cc2e40": {
+  "05fa719f-1528-43ef-adf9-eca92f383262": {
     "order": 0,
     "featured": true,
     "badges": [
@@ -9,7 +9,7 @@
         "description": "Android Toolkit"
       }
     ],
-    "shortBio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen...",
+    "shortBio": "Developer Advocate for Android",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "name": "Chet Haase",
@@ -29,7 +29,7 @@
       }
     ]
   },
-  "4a7ca4c16cbe81a612bf3011a3d3439f85408103": {
+  "152f613f-841b-407d-9a65-3703ec2dfae2": {
     "order": 1,
     "featured": true,
     "badges": [
@@ -39,12 +39,12 @@
         "description": "Android 3D real-time graphics and Kotlin"
       }
     ],
-    "shortBio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team...",
+    "shortBio": "Android Toolkit",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "name": "Romain Guy",
     "country": "San Francisco, United States",
-    "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
+    "bio": "Romain manages the Android Toolkit team. The team's projects included AndroidX/Jetpack, the UI toolkit, Kotlin support and graphics.",
     "photo": "/images/people/romain_guy.jpg",
     "socials": [
       {
@@ -66,9 +66,11 @@
   },
   "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775": {
     "order": 2,
+    "featured": true,
     "name": "Anita Singh",
     "bio": "Anita Singh is a Senior Android Engineer at Blinkist who recently moved to Berlin from Silicon Valley, where she lead mobile development at an early-stage startup. She is passionate about building beautiful and responsive apps, and making Android development more approachable for everybody.",
     "shortBio": "Senior Android Engineer at Blinkist",
+    "company": "Blinkist",
     "photo": "https://sessionize.com/image?f=95149696aee9cc795af36040ac26f66b,400,400,1,0,8e-80ac-4ce2-a3db-a03b41ba8775.a5eb1027-14dc-4721-b63c-ac4431713495.jpg",
     "country": "Berlin, Germany",
     "socials": [
@@ -76,11 +78,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/anitas3791",
         "name": "Twitter"
-      },
-      {
-        "icon": "linkedIn",
-        "link": "https://www.linkedin.com/in/anitasinghusc",
-        "name": "LinkedIn"
       },
       {
         "icon": "website",
@@ -91,9 +88,11 @@
   },
   "f2c947c4-393b-4476-b6b3-b2507e6137dc": {
     "order": 3,
+    "featured": true,
     "name": "David Lázaro",
     "bio": "David is a Spanish Android engineer, currently working at Blinkist. He has been focused on Android development since 2012 and has always been working for small product-based companies. He is interested in creating high-quality user experiences and delivering real value in the apps he works on. He also loves music and playing the guitar in his spare time.",
     "shortBio": "Senior Android Engineer at Blinkist",
+    "company": "Blinkist",
     "photo": "https://sessionize.com/image?f=9531af0e7e475400a960b583e4706d29,400,400,1,0,c4-393b-4476-b6b3-b2507e6137dc.d6195a7e-e951-4966-8907-6c2578352719.jpg",
     "country": "Granada, Spain",
     "socials": [
@@ -102,11 +101,6 @@
         "link": "https://twitter.com/_dlazaro",
         "name": "Twitter"
       },
-      {
-        "icon": "LinkedIn",
-        "link": "https://www.linkedin.com/in/david-lazaro-esparcia/",
-        "name": "LinkedIn"
-      }
     ]
   }
 }
