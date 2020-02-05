@@ -15,18 +15,12 @@
     "name": "Chet Haase",
     "country": "Mountain View, United States",
     "bio": "Chet leads the Android Toolkit, working on animations, graphics, UI, performance, and anything else that puts the pixels on the screen. And sometimes, just sometimes, he takes a break from comedy to give a technical talk.",
-    "companyLogo": "/images/logos/google.svg",
     "photo": "/images/people/chet_haase.jpg",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/chethaase",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/117594266474214732305",
-        "name": "Google+"
       },
       {
         "icon": "website",
@@ -51,18 +45,12 @@
     "name": "Romain Guy",
     "country": "San Francisco, United States",
     "bio": "Romain works on 3D real-time graphics and Kotlin on the Android team at Google. He previously managed the UI toolkit team and the graphics team.",
-    "companyLogo": "/images/logos/google.svg",
     "photo": "/images/people/romain_guy.jpg",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/romainguy",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+RomainGuy",
-        "name": "Google+"
       },
       {
         "icon": "website",
@@ -98,11 +86,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/FMuntenescu",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+FlorinaMuntenescu",
-        "name": "Google+"
       }
     ]
   },
@@ -529,11 +512,6 @@
         "name": "Twitter"
       },
       {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+EyalLEZMY",
-        "name": "Google+"
-      },
-      {
         "icon": "github",
         "link": "https://github.com/eyal-lezmy",
         "name": "GitHub"
@@ -562,11 +540,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/ppvi",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+JoseAlcerreca",
-        "name": "Google+"
       }
     ]
   },
@@ -692,11 +665,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/kanawish",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+EtienneCaron",
-        "name": "Google+"
       }
     ]
   },
@@ -757,11 +725,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/hoitab",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/116428109613831009632",
-        "name": "Google+"
       }
     ]
   },
@@ -1027,11 +990,6 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/yannicklemin/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+YannickLemin",
-        "name": "Google+"
       }
     ]
   },
@@ -1117,11 +1075,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/n0tnull",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+AdrienVitti",
-        "name": "Google+"
       }
     ]
   },
@@ -1228,11 +1181,6 @@
         "name": "Twitter"
       },
       {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+LouisCognault",
-        "name": "Google+"
-      },
-      {
         "icon": "github",
         "link": "https://github.com/LouisCAD",
         "name": "Github"
@@ -1289,11 +1237,6 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/xgouchet/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+XavierGouchet",
-        "name": "Google+"
       }
     ]
   },
@@ -1897,11 +1840,6 @@
         "icon": "twitter",
         "link": "https://twitter.com/_mboudraa",
         "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/101079866497704610685",
-        "name": "Google+"
       }
     ]
   },
