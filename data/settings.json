@@ -30,7 +30,7 @@
     },
     {
       "route": "speakers",
-      "permalink": "/",
+      "permalink": "/speakers/",
       "label": "Speakers"
     },
     {
