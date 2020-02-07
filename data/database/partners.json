@@ -39,6 +39,11 @@
         "logoUrl": "../images/logos/hiway.svg",
         "name": "Hiway",
         "url": "https://hiway-freelance.com/"
+      },
+      {
+        "logoUrl": "../images/logos/coyote.png",
+        "name": "Coyotte",
+        "url": "https://www.moncoyote.com/"
       }
     ]
   },
