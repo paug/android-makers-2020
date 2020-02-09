@@ -19,7 +19,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "AndroidMakers3",
+  "hashtag": "AndroidMakers",
   "disabledSchedule": true,
   "showSessionShortAbstract": false,
   "navigation": [
@@ -188,7 +188,7 @@
       "itemsCount": 3
     },
     "speakers": {
-      "itemsCount": 4
+      "itemsCount": 8
     }
   }
 }
