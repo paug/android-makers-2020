@@ -63,5 +63,25 @@
     "tags": [
       "Soft skills"
     ]
+  },
+  "172069": {
+    "title": "Something Something Comedy Something Something",
+    "description": "(we'll develop some new satire talk for this event, in the general area of tech/business/management)",
+    "speakers": [
+      "05fa719f-1528-43ef-adf9-eca92f383262",
+      "152f613f-841b-407d-9a65-3703ec2dfae2"
+    ],
+    "language": "English",
+    "complexity": "Introductory and overview"
+  },
+  "172068": {
+    "title": "Graphics Programming for Android Programmers",
+    "description": "In this session you will learn about the different rendering techniques used in graphics programming: raster/bitmaps, 2D vectors, 3D rasterization, ray-marching, ray-tracing, etc. You will understand when to use which technique and what APIs Android provides to use those techniques in your applications.",
+    "speakers": [
+      "05fa719f-1528-43ef-adf9-eca92f383262",
+      "152f613f-841b-407d-9a65-3703ec2dfae2"
+    ],
+    "language": "English",
+    "complexity": "Introductory and overview"
   }
 }
