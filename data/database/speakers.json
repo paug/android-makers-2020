@@ -333,7 +333,7 @@
     ]
   },
   "05fa719f-1528-43ef-adf9-eca92f383262": {
-    "order": 1,
+    "order": 0,
     "featured": true,
     "name": "Chet Haase",
     "bio": "Chet has been on the Android team since 2010, mostly working on and leading the UI Toolkit team, but recently as a part of the Developer Relations team. He enjoys hacking code for graphics, UI, performance, and then talking to developers about it at conferences like this.",
@@ -1525,8 +1525,8 @@
     ]
   },
   "152f613f-841b-407d-9a65-3703ec2dfae2": {
-    "order":1,
-    "featured":true,
+    "order": 1,
+    "featured": true,
     "badges": [
       {
         "name": "google",
