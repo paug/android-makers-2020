@@ -1,6 +1,6 @@
 {
   "a8fd2a73-d62b-4a05-a52b-9be52909a462": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Adnan A M",
     "bio": "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge, experience and exposure with E-Commerce and used to previously work with BookMyShow(India's largest entertainment/ticketing portal with a 14M+ user base), where he went on to rewrite the entire app from scratch.",
@@ -15,7 +15,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/adnan-a-m-9b378955/",
         "name": "LinkedIn"
       },
@@ -27,7 +27,7 @@
     ]
   },
   "6e75d5a7-6616-4fe1-8681-a4a78db7b62e": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Alex Zhukovich",
     "bio": "Alex Zhukovich has been developing Android since 2011. Currently, he is working in Takeaway.com. He is a public speaker and software enthusiast with a passion for technologies, which share thoughts & experiences on the private technical blog at http://alexzh.com and YouTube channel: bit.ly/AlexZhYouTube",
@@ -54,7 +54,7 @@
     ]
   },
   "74240ec1-9924-499e-9a8b-8c2640b02648": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Andrea Falcone",
     "bio": "Andrea Falcone is a Senior Software Engineer at Google. Currently she is working on Androidx building libraries and tooling for internal and external developers as part of Android Jetpack. She previously built Crashlytics, Fabric and fastlane (first at Crashlytics, then Twitter, then Google!) She is an accomplished mobile/mobile tools developer with experience in building not only iOS and Android apps but also Android Studio Plugins, Android SDKs, Gradle plugins, and CI/CD systems like fastlane.",
@@ -69,7 +69,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/asfalcone/",
         "name": "LinkedIn"
       },
@@ -86,8 +86,8 @@
     ]
   },
   "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775": {
-    "order": 0,
-    "featured": false,
+    "order": 2,
+    "featured": true,
     "name": "Anita Singh",
     "bio": "Anita Singh is a Senior Android Engineer at Blinkist who recently moved to Berlin from Silicon Valley, where she lead mobile development at an early-stage startup. She is passionate about building beautiful and responsive apps, and making Android development more approachable for everybody.",
     "shortBio": "Senior Android Engineer at Blinkist",
@@ -102,7 +102,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/anitasinghusc",
         "name": "LinkedIn"
       },
@@ -119,7 +119,7 @@
     ]
   },
   "f3facba0-c34d-4c87-a7e7-a81a67c8029d": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Antoine Danois",
     "bio": "Antoine is an Android Developer at Citymapper based in London. Before that, he worked at Canal+ in Paris. When he's not working to help people catch their buses in big cities, he's watching videos of rockets and space related things, also his desk is named \"Legoland\" by his colleagues. Part of the Droidcon London Program Committee, and organiser for GDG London, he's doing his best to have amazing conferences in London, because the community is really important in the world of Android. And otherwise, he's just eating cheese.",
@@ -134,7 +134,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/antoinedanois/",
         "name": "LinkedIn"
       },
@@ -151,7 +151,7 @@
     ]
   },
   "9b593465-3930-4605-8f4d-4dacc490a7e5": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Antoine Gerard",
     "bio": "Ingénieur logiciel chez Syntony GNSS, passionné d'informatique et de trucs de nerds. Fan de Kotlin et toujours friand de Java.\r\n\r\nDéveloppeur Android depuis quelques années, j'ai exporté mon savoir d'Android en dehors du monde de l'agence afin de travailler avec des chercheurs en GNSS et plein de formules mathématiques. J'explore des coins du framework Android uniquement cités dans des papiers obscures de Google Scholar.\r\n\r\nSoftware Engineer at Syntony GNSS, complete computer enthusiast and like nerdy stuff. Kotlin's fan and still a Java lover.\r\n\r\nAndroid developer for several years, I exported my Android knowledge outside of the agency world for working with GNSS reasearchers which require a lot of mathematical formula. I explore sides of the Android Frameworks that are only quoted in niche Google Scholar's papers.",
@@ -161,7 +161,7 @@
     "photo": "https://sessionize.com/image?f=e3b59527db1eafc5131509052ad67e82,400,400,1,0,65-3930-4605-8f4d-4dacc490a7e5.4d4482d7-6dc0-4efc-9c22-0d146e1eab12.jpg",
     "socials": [
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/antoine-gerard-111087b5/",
         "name": "LinkedIn"
       },
@@ -173,7 +173,7 @@
     ]
   },
   "10659767-356c-4cd5-ba9c-12cec7a3ce79": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Ash Davies",
     "bio": "Google Developer Expert for Android, enthusiastic speaker, lead engineer at ImmobilieenScout24, Kotlin aficionado, spends more time travelling than working (he/him)",
@@ -188,7 +188,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/ashowendavies/",
         "name": "LinkedIn"
       },
@@ -210,7 +210,7 @@
     ]
   },
   "e869461e-b6fb-43e5-a89c-033da87008c0": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Ben Weiss",
     "bio": "I go through the painful stuff so you don't have to.",
@@ -237,7 +237,7 @@
     ]
   },
   "96b5b534-e4ad-4cc9-99c9-0bb194633d16": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Benjamin Gonin",
     "bio": "Benjamin est développeur Android, il travaille actuellement chez Lalalab. Fanboy depuis 2011, il a commencé à travailler dans des agences, chez Kartable, puis SeLoger avant cela.",
@@ -254,7 +254,7 @@
     ]
   },
   "2bc1e95f-1243-4ad0-8a11-75541fee10e0": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Carlos Mota",
     "bio": "Android team lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.",
@@ -269,7 +269,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://linkedin.com/in/cafonsomota",
         "name": "LinkedIn"
       },
@@ -296,7 +296,7 @@
     ]
   },
   "e7ace08f-10bc-4e0c-a3f1-2471868b5261": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Chandra Sekhar Nayak",
     "bio": "I am an Android developer since last 7 years. Apart from developing Android apps for my employer, I do organize BlrKotlin (India's biggest Kotlin focused user group). I create YouTube videos for my channel \"Chanse Code\" and sometimes blog at chansek.com",
@@ -311,7 +311,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/chandra-sekhar-nayak-1aba6538",
         "name": "LinkedIn"
       },
@@ -333,8 +333,8 @@
     ]
   },
   "05fa719f-1528-43ef-adf9-eca92f383262": {
-    "order": 0,
-    "featured": false,
+    "order": 1,
+    "featured": true,
     "name": "Chet Haase",
     "bio": "Chet has been on the Android team since 2010, mostly working on and leading the UI Toolkit team, but recently as a part of the Developer Relations team. He enjoys hacking code for graphics, UI, performance, and then talking to developers about it at conferences like this.",
     "badges": [
@@ -356,7 +356,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/chethaase/",
         "name": "LinkedIn"
       },
@@ -373,7 +373,7 @@
     ]
   },
   "fd699fd4-ca8a-4b16-a811-cfb7de9e9b1b": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Chris Banes",
     "bio": "Chris is an engineer working in Android Developer Relations at Google. He previously worked on the Android Support Libraries, most notably AppCompat, Design and Palette. He has worked on Android things for over 8 years, from open source libraries to media apps, social networks and most stuff in between.",
@@ -395,7 +395,7 @@
     ]
   },
   "8e801485-26e6-49a2-b3cd-91e8f481d2d1": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Cristian Garrido",
     "bio": "Développeur Android chez Leboncoin",
@@ -410,14 +410,14 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/cristian-garrido-65259a67/",
         "name": "LinkedIn"
       }
     ]
   },
   "3e135478-0ce2-4d41-bf3a-bdd7ff29d554": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Csaba Kozák",
     "bio": "Csaba leads development of Android projects at Supercharge. His role is to take part of planning, designing, choosing the best architecture for projects, and leading sizeable Android teams during the whole process of development. He also optimises the company’s code review, continuous integration and testing workflows. Csaba is passionate about open source: he was contributing to several high-impact projects related to Android development, including the Android Framework source code itself, and he was the lead developer of the popular GitHub library, AndroidAnnotations.",
@@ -432,7 +432,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/csabakozak/",
         "name": "LinkedIn"
       },
@@ -444,7 +444,7 @@
     ]
   },
   "2e5f6d59-ad04-4d16-a6d7-d9c61aa7304c": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Daniele Bottillo",
     "bio": "Daniele Bottillo is an Android engineer working at Deliveroo in London. He's been developing apps on mobile web, iOS and Android platforms since 2010. Previously at TransferWise, ASOS, Blinkbox and YoYo wallet. ",
@@ -471,8 +471,8 @@
     ]
   },
   "f2c947c4-393b-4476-b6b3-b2507e6137dc": {
-    "order": 0,
-    "featured": false,
+    "order": 3,
+    "featured": true,
     "name": "David Lázaro",
     "bio": "David is a Spanish Android engineer, currently working at Blinkist. He has been focused on Android development since 2012 and has always been working for small product-based companies. He is interested in creating high-quality user experiences and delivering real value in the apps he works on. He also loves music and playing the guitar in his spare time.",
     "shortBio": "Senior Android Engineer at Blinkist",
@@ -487,7 +487,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/david-lazaro-esparcia/",
         "name": "LinkedIn"
       },
@@ -499,7 +499,7 @@
     ]
   },
   "7c888e22-f254-4e04-aa56-1853ab18c000": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Elaine Dias Batista",
     "bio": "Elaine has been working with mobile apps development for the past 6 years. Since the launch of the Google Assistant, she has been following the developments around that area. She truly believes that interacting with technology using natural language will define the future of computing. Born and raised in Brazil, she's been living in France since 2004 and loves everything multicultural. She's a GDE for the Google Assistant.",
@@ -514,7 +514,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/elaine-dias-batista-25517520/",
         "name": "LinkedIn"
       },
@@ -531,7 +531,7 @@
     ]
   },
   "b8e52efe-7709-4af8-8e97-cb07860b8e24": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Enrico Bruno Del Zotto",
     "bio": "After several years working like a mobile consultant, Enrico moved to London working as lead developer @Smartfocus.com developing an indoor positioning system based on beacons. Since May 2017 working @ TUI.co.uk where he's creating the next generation of mobile travel app for TUI customers.",
@@ -546,7 +546,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/lupsyn/",
         "name": "LinkedIn"
       },
@@ -563,7 +563,7 @@
     ]
   },
   "878ec0bb-f4d7-4b83-a9af-ff6e359a35dc": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Etienne Caron",
     "bio": "Etienne Caron is a Staff Developer at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert program, and an instructor for Caster.io\r\n\r\nEtienne has been an active member of the Android developer community in Montreal since 2010, and regularly contributes time to mentoring startups, developers and students in the mobile space.",
@@ -578,7 +578,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/etcaron/",
         "name": "LinkedIn"
       },
@@ -595,7 +595,7 @@
     ]
   },
   "00697e34-7c28-4e6d-a5dc-271203984645": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Eyal LEZMY",
     "bio": "- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert\r\n\r\nI've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, worked several years on Genymotion, an Android emulator. Then I joined Qonto a French B2B bank to build their Android app and I recently joined TAG Heuer to build their connected watches and ecosystem.\r\n",
@@ -612,7 +612,7 @@
     ]
   },
   "0b1323da-2946-49de-be5c-e54d44e12325": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Fabien Devos",
     "bio": "After about a decade of building mobile apps and games at Facebook and various startups in Paris, London and San Francisco, Fabien took over the Android, iOS and Web teams at Wealthfront, a fintech startup in Silicon Valley.  He also co-created Hacked, a mobile coding game with more than a million downloads. ",
@@ -627,7 +627,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/fabiendevos/",
         "name": "LinkedIn"
       },
@@ -639,7 +639,7 @@
     ]
   },
   "2e93a5e7-2037-4d7d-a548-7512f9c14960": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Fabio Collini",
     "bio": "Fabio Collini is a Google Developer Expert for Android and Kotlin. He started Android development in 2009, first as a freelance with two apps on Play Store and then as a developer for some companies and startups. Now he works as a remote engineer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the Italian blog CodingJam and he publishes articles about Android and Kotlin on his medium profile.",
@@ -654,7 +654,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/fabiocollini",
         "name": "LinkedIn"
       },
@@ -671,7 +671,7 @@
     ]
   },
   "0b65f68e-972b-41de-ae7a-92a2f77893c3": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Florian Mierzejewski",
     "bio": "Software engineer with a strong mobile background.\r\nI’ve worked for widely different clients in various countries, on an even wider range of projects. From greenfield to enormous untested legacy codebase, I’ve seen glory and horror while always managing to have a positive impact. Eternal learner, you’ll always find me with a book, listening to a podcast or at a local meetup to improve what I know or discover something I don’t. TDD, clean code, best practices, pair programming but also empathy and compromise. ",
@@ -693,7 +693,7 @@
     ]
   },
   "a16b8efa-a150-45bc-b4e6-243583659c26": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "François Blavoet",
     "bio": "François  works on the Android app at Instacart. He has a good experience getting his hands dirty on the dark corners of Android's UI stack since the ListView days.",
@@ -708,7 +708,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/francoisblavoet/",
         "name": "LinkedIn"
       },
@@ -720,7 +720,7 @@
     ]
   },
   "da213722-3f6b-4f2d-b47f-59bb947ec0e3": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Fred Porciúncula",
     "bio": "Android developer at Blinkist. Previously a contractor at Quizlet and Disney ABC, Fred started playing with Android apps in 2013, when he and his friends developed a few apps for the university that ended up being used by thousands of students. He's been involved with the Android community ever since he gave his first talk about Kotlin in its 1.0 era, and he loves talking and writing about the language, architecture, and anything related to building Android apps -- especially all the tiny little details involved.",
@@ -735,7 +735,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/tfcporciuncula",
         "name": "LinkedIn"
       },
@@ -752,7 +752,7 @@
     ]
   },
   "12f64022-4a11-46a9-9bf2-91da26b6839f": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Gabriel Adgeg",
     "bio": "Développeur Android depuis 8 ans, utilisateur de Dagger depuis 4 ans, j'ai eu la chance de travailler sur différents types de projets, avec ou sans injection de dépendances, avec ou sans outils pour la mettre en place. J'espère réussir à vous apporter la même compréhension que celle que j'ai pu acquérir par l'expérience et par beaucoup de pédagogie de mes différents collègues !",
@@ -763,7 +763,7 @@
     "socials": []
   },
   "78ffd2f4-e52a-4a7d-8ead-8cf072843946": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Geoffrey Métais",
     "bio": "Lead Android developer at VideoLAN and Videolabs",
@@ -778,7 +778,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/geoffreymetais/",
         "name": "LinkedIn"
       },
@@ -795,7 +795,7 @@
     ]
   },
   "6520ad1e-8c4e-45c1-b34d-91ca73db27fe": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Gerard Paligot",
     "bio": "Technical Leader Android des outils mobiles collaborateurs en magasin chez Decathlon depuis 2 ans. Je travaille sur l’architecture logicielle de l’ensemble de nos applications mobiles.\r\n\r\nRéel passionné du développement Android et membre du GDG Lille Android, je co-anime le Lille Android User Group depuis 2018.",
@@ -810,14 +810,14 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/gpaligot/",
         "name": "LinkedIn"
       }
     ]
   },
   "e11a53fd-1cfb-4930-9dfa-42187e94d869": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Hadi Tok",
     "bio": "Hadi Develops Android Applications since Android 1.6 Donut and very passionate about it. Developed a handful of Android applications since then with a variety of technical challenges. I also like to try new things. He developed software for other platforms professionally and personally. Hadi likes to share his experiences so he is writing blog posts in Turkish and English. He is really active in community slack channels to help people out and get helped. He also gives talks about Android development mostly about Kotlin related subjects. Hadi loves to learn new things and share them with people.",
@@ -832,7 +832,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/haditok/",
         "name": "LinkedIn"
       },
@@ -849,7 +849,7 @@
     ]
   },
   "0ef1e55b-29b9-4c4b-938d-c59b6c8ea9d3": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Jamie Adkins",
     "bio": "Jamie is an Android Developer at Pulselive, and was the Android lead on the Cricket World Cup 2019 app.\r\n\r\nBefore Pulselive, Jamie was building CTS tests for Project Tango.",
@@ -864,7 +864,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/jamieadkins95/",
         "name": "LinkedIn"
       },
@@ -881,7 +881,7 @@
     ]
   },
   "b3770b77-c9c8-454d-8b7a-045ca1d66b7b": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Jeroen Mols",
     "bio": "Jeroen Mols is a Google Developer Expert (GDE) in Android, the former lead Android developer at Philips Hue and an internationally recognized speaker. With a passion for complex systems and highly technical apps, Jeroen has helped realize four connected products and over 15 Android applications.\r\n\r\nExperienced in leading large teams, he can step beyond his developer role and provide technical leadership to others. He continuously challenges the status quo and mentors people surrounding him to grow. Shipping apps to millions of users, Jeroen has a thorough understanding of both the Android framework and how maintainable software should be crafted.",
@@ -896,7 +896,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/jeroenmols/",
         "name": "LinkedIn"
       },
@@ -913,7 +913,7 @@
     ]
   },
   "a7d0fcec-49dd-4e65-bcb7-ad3d1901928c": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "John Hoford",
     "bio": "John is a developer on Android working on Android Studio, ConstraintLayout and MotionLayout. He has worked on Android Studio, RenderScript, Vector Drawables, computed shadows and photo editor filters. ",
@@ -928,14 +928,14 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/john-hoford/",
         "name": "LinkedIn"
       }
     ]
   },
   "cda15006-0bbc-47f8-ac5e-5405709c2af9": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Jonathan Salamon",
     "bio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue.\r\n\r\nFan de nouvelles technologies (Réalité virtuelle, objets connectés, etc..) j'ai pu participé, en tant qu'auto-entrepreneur ou bénévole, au développement de projets innovants utilisant des nouvelles technologies et divers objets tels que le Bluetooth Low Energy, le NFC, du Geofencing, des montres sous Android Wear et même des Google Glass.\r\n\r\nJ'aime apprendre et je suis heureux d'avoir déjà pu toucher à de nombreux domaines allant du développement d'applications web front-end/back-end, au développement de jeux, en passant par des applications Android B2B/B2C et la conception d'objets connectés",
@@ -950,7 +950,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/salamonjonathan/",
         "name": "LinkedIn"
       },
@@ -962,7 +962,7 @@
     ]
   },
   "c03a7211-54ff-4819-9789-1a22ed91fafc": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Jossi Wolf",
     "bio": "Jossi is an Android Developer at Snapp Mobile. Jossi graduated high school in 2018 and has been working on many projects, including software for startups as well as car manufacturers. As a GDG Organiser and part of Women Tech Makers Hamburg, he is working on a project bringing coding classes to schools using several new approaches. Jossi also loves Kotlin and Rabbits!",
@@ -989,7 +989,7 @@
     ]
   },
   "462e6b97-01f9-44b1-864c-9d85bedf911b": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Julien Salvi",
     "bio": "Into the Android development since Froyo when Fragment was just a myth, former Android engineer at CINEMUR, I am currently working at InnovOrder as Senior Android Engineer where we are bringing restaurants to the next level.\r\nBesides that, I am a world traveler and a beer lover always looking for the best IPAs!",
@@ -1004,7 +1004,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/salvijulien/",
         "name": "LinkedIn"
       },
@@ -1016,7 +1016,7 @@
     ]
   },
   "b2005329-30d3-4783-9a8c-d2e7b2a75f76": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Lisa Wray",
     "bio": "Lisa Wray is an Android developer, speaker, and advocate specializing in user interfaces.  She currently works at Facebook and lives in Seattle.",
@@ -1033,7 +1033,7 @@
     ]
   },
   "f906557e-b030-481d-ba29-3b1421c43f93": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Lucas Nelaupe",
     "bio": "Android developer at @GrabSG focusing on performance at scale.",
@@ -1048,7 +1048,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/lucasnelaupe/",
         "name": "LinkedIn"
       },
@@ -1065,7 +1065,7 @@
     ]
   },
   "b4cf78c9-623b-4b8f-b676-097fb7802668": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Manuel Vivo",
     "bio": "Manuel is a Developer Relations Engineer at Google. With previous experience at Capital One, he currently focuses on App Architecture, Kotlin & Coroutines, Dependency Injection and Jetpack Compose.",
@@ -1080,7 +1080,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/manuel-vicente-vivo-54498653",
         "name": "LinkedIn"
       },
@@ -1097,7 +1097,7 @@
     ]
   },
   "9c90fc80-8166-4e7a-975c-5b4321000659": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Martin Bonnin",
     "bio": "Martin has been crafting strongly typed software since Android 1.5. After streaming a whole lot of videos in all kind of weird multimedia formats, he's looking lately into strong typing his API requests with GraphQL and automate everything so he can relax more!",
@@ -1114,7 +1114,7 @@
     ]
   },
   "305ca7a0-8158-45a6-8bbf-10f6ad55ef18": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Martin Devillers",
     "bio": "Developing mobile applications since 2014, in Paris and Chicago. Arrived at Dashlane in 2017 and quickly convinced the Android team that Kotlin is the most beautiful language in the world. Passionate about software design.\r\n\r\nRecovering Starcraft addict. Also loves the outdoors.",
@@ -1129,7 +1129,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/martin-devillers-42486549/",
         "name": "LinkedIn"
       },
@@ -1146,7 +1146,7 @@
     ]
   },
   "1916ae1c-96d7-480f-9eed-bf5dce444441": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Márton Braun",
     "bio": "A Kotlin enthusiast since the 1.0 of the language. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of a couple open source Kotlin libraries. Android developer (and self-proclaimed Kotlin evangelist) at AutSoft. Android/Kotlin tech editor at RayWenderlich.com. University student, working on a master's in computer engineering at the Budapest University of Technology and Economics. Instructor at the same university, teaching Kotlin and Android.",
@@ -1161,7 +1161,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/zsmb13/",
         "name": "LinkedIn"
       },
@@ -1178,7 +1178,7 @@
     ]
   },
   "53f01c30-81e8-4895-988a-eb20bad7fb55": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Maxime Mazzone",
     "bio": "Maxime Mazzone is an Android developer at Babylon Health. He specialised in UI aiming to make it as simple as possible for every developer to make great usable apps. Working on declarative UI and Design systems at Babylon Health, he also enjoys playing with modern UI frameworks like Flutter.",
@@ -1195,7 +1195,7 @@
     ]
   },
   "41c0f6ee-e843-4c48-ad80-de88bfaf34ee": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Michael Scamell",
     "bio": "Mike Scamell is a Senior Android Developer at Blinkist.\r\n\r\nYou’ll often find him consumed with UI whether that’s playing with VectorDrawables, SharedElementTransitions or meticulously tweaking an animation. Mike instantly fell in love with MotionLayout and has been finding creative uses for it ever since.",
@@ -1222,7 +1222,7 @@
     ]
   },
   "d904f0ac-0ae8-4405-8223-4f688adef9df": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Michel Gauzins",
     "bio": "Dailymotion - Android Senior Developer",
@@ -1233,7 +1233,7 @@
     "socials": []
   },
   "89694c9d-5de0-4f39-a50a-ed48d6eb56ca": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Nelson Osacky",
     "bio": "Former Square in San Francisco, now working at Soundcloud in Berlin",
@@ -1248,7 +1248,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/nosacky",
         "name": "LinkedIn"
       },
@@ -1265,7 +1265,7 @@
     ]
   },
   "ebf1de28-63a7-4f57-838d-8871f500913b": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Nick Rout",
     "bio": "Nick Rout is an Android Engineer and Google Developer Expert for Android. He is currently employed at Over - the easy app for creating. He is passionate about Material Design and Human-Computer Interaction. He is also the organizer for GDG Cape Town and enjoys blogging, public speaking and contributing to open source projects. He is based in beautiful Cape Town, South Africa.",
@@ -1280,7 +1280,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://linkedin.com/in/nicholasrout",
         "name": "LinkedIn"
       },
@@ -1297,7 +1297,7 @@
     ]
   },
   "3b23cdc0-d0df-45bf-a2f2-cd30791d27b6": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Nicolas Mouchel",
     "bio": "Nicolas leads the Android team at Meetic, where he organises the team and the project to create a great dating app. He has been working with Android for 7 years. He likes technical challenges and good food.",
@@ -1312,7 +1312,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/nicolas-mouchel/",
         "name": "LinkedIn"
       },
@@ -1329,7 +1329,7 @@
     ]
   },
   "ed1e4545-4547-4697-9515-28f4174f09dd": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Nicolas Roard",
     "bio": "Nicolas works on the Android Studio Design Tools and the ConstraintLayout library at Google",
@@ -1351,7 +1351,7 @@
     ]
   },
   "9658fd1d-2e15-45cc-9302-7d29be9f7213": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Nicolas Telera",
     "bio": "Android developer @ OCTO Technology since 2015",
@@ -1366,7 +1366,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/nicolas-telera-70194282/",
         "name": "LinkedIn"
       },
@@ -1383,7 +1383,7 @@
     ]
   },
   "d3841a2b-b09c-41f7-afa6-26734c05a277": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Paulina Sadowska",
     "bio": "I work as an Android Developer at Allegro, largest online marketplace in Poland. Loves to share knowledge through public speaking and blog posts.",
@@ -1393,7 +1393,7 @@
     "photo": "https://sessionize.com/image?f=8deeb6a0ad7d5c68cb4970796052d01c,400,400,1,0,0cf8a6fd-4b7f-46ce-88fe-fe9357dbd1e4.jpg",
     "socials": [
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://pl.linkedin.com/in/paulina-sadowska-135a0791",
         "name": "LinkedIn"
       },
@@ -1405,7 +1405,7 @@
     ]
   },
   "eb4a5e18-e092-4474-b8c6-808fe33cedc0": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Peter Törnhult",
     "bio": "Peter is an Android developer who's worked in mobile app development since early 2000, both professionally and as an Indie developer. He’s not afraid of rolling up his sleeves to work on the backend, pipelines, web or taking on the role of Scrum master. While he focuses on Android and UI work he’s also engaged as a Meetup organizer for Android in Stockholm where he lives",
@@ -1420,7 +1420,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/petertornhult/",
         "name": "LinkedIn"
       },
@@ -1437,7 +1437,7 @@
     ]
   },
   "b8647805-eaff-4885-929f-513d5f1ee728": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Pierre Crepieux",
     "bio": "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs avec des technos comme H.323, IMS, Réseau Intelligent, je suis passé de l'autre coté du réseau pour faire du développement Android. Aujourd'hui, je cultive et m'appuie sur cette double expérience pour investiguer les problèmes qui se posent à la frontière entre les deux.",
@@ -1452,7 +1452,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/pcrepieux/",
         "name": "LinkedIn"
       },
@@ -1464,7 +1464,7 @@
     ]
   },
   "2f909cb1-ca6f-4e25-8442-f67cdc7f2b5c": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Pierre Tibulle",
     "bio": "Job Crafter en ESN, Practice Leader mobile (Android/iOS/Hybride) chez ASI, je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
@@ -1481,7 +1481,7 @@
     ]
   },
   "49ac2635-61c7-4ff0-859a-2e59cf28c615": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Preethi Srinivas",
     "bio": "Preethi is UX Researcher for Android Developer tools. She has passion for understanding needs supporting elegant developer experiences. Prior to Google, she worked on designing products and services influencing delightful behavior change. ",
@@ -1498,7 +1498,7 @@
     ]
   },
   "0f359408-c439-4f1b-986b-f8344d6d60e0": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Quentin Metzler",
     "bio": "Android lead developer writing code between the Alps and Lyon when he's not running in the mountains.",
@@ -1513,7 +1513,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/quentinmetzler",
         "name": "LinkedIn"
       },
@@ -1525,6 +1525,8 @@
     ]
   },
   "152f613f-841b-407d-9a65-3703ec2dfae2": {
+    "order":1,
+    "featured":true,
     "badges": [
       {
         "name": "google",
@@ -1546,7 +1548,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/romainguy/",
         "name": "LinkedIn"
       },
@@ -1563,7 +1565,7 @@
     ]
   },
   "933caffb-2f12-49f0-b438-fcb1e0c6562b": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Romain Menetrier",
     "bio": "Founder @Emblock, proud PAUG member since many years, many experiences as CTO & innovation manager.",
@@ -1578,7 +1580,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/rmenetrier/",
         "name": "LinkedIn"
       },
@@ -1590,7 +1592,7 @@
     ]
   },
   "adadf66f-529c-48fd-ba12-94903187a216": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Salih Guler",
     "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences. ",
@@ -1605,7 +1607,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/msalihguler/",
         "name": "LinkedIn"
       },
@@ -1632,7 +1634,7 @@
     ]
   },
   "c3226ef8-4784-4a3c-a83d-6b70c0dcde1d": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Sandra Dupré",
     "bio": "Sandra is an Android developer for Disney Streaming Services. Subteam lead on DIsney+, she works to give the best UI and animation to the Disney+ users.",
@@ -1659,7 +1661,7 @@
     ]
   },
   "e397fee8-078f-4694-8a1f-35b1d57f1fce": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Sebastiano Poggi",
     "bio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA and then Novoda. \r\n\r\nRegularly speaking at conferences and brain-dumping on the 'net got him into the Google Developers Experts programme in 2014. Nowadays he's working on some rather cool Kotlin stuff for JetBrains.",
@@ -1674,7 +1676,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/sebastianopoggi/",
         "name": "LinkedIn"
       },
@@ -1696,7 +1698,7 @@
     ]
   },
   "783383ee-7b06-415a-9e72-a46a21bb3e92": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Siddhant Panhalkar",
     "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
@@ -1711,7 +1713,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/siddhant-panhalkar-292675ba/",
         "name": "LinkedIn"
       },
@@ -1728,7 +1730,7 @@
     ]
   },
   "eb1a2a18-6b45-46a8-b58e-78dba26ddd74": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Stéphane NICOLAS",
     "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
@@ -1750,7 +1752,7 @@
     ]
   },
   "f8c30c09-8132-4ac8-91a5-9e7b293063a4": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Thomas Ezan",
     "bio": "Thomas is an Android Engineer. For the past 4 years he has been in Lyft’s Growth team. He is currently based in Seattle, WA.",
@@ -1765,7 +1767,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/tezan",
         "name": "LinkedIn"
       },
@@ -1782,7 +1784,7 @@
     ]
   },
   "ca887d91-53e4-4d13-8e94-fbd235e958e0": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Valera Zakharov",
     "bio": "Valera leads the mobile developer experience team at Slack. Prior to Slack, he led the development of Espresso at Google and contributed to the infrastructure that runs hundreds of android tests per second. He is passionate about building (and presenting about!) infrastructure that makes the lives of developers more pleasant and productive.",
@@ -1797,7 +1799,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/vzakharov/",
         "name": "LinkedIn"
       },
@@ -1814,7 +1816,7 @@
     ]
   },
   "bf58d77f-fad3-49b7-a6b3-82b5f46e5549": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Xavier F. Gouchet",
     "bio": "Xavier F. Gouchet is a Senior Software Engineer at Datadog, experienced public speaker, and proud father. Passionate about open source, testing and architecture, he has been dabbling in Android since the Cupcake days and has been working as a professional Android engineer since 2012. \r\n",
@@ -1829,7 +1831,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/xgouchet/",
         "name": "LinkedIn"
       },
@@ -1841,7 +1843,7 @@
     ]
   },
   "c909bc83-2fc0-4607-a71a-6c969f155aeb": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Yacine Rezgui",
     "bio": "Yacine is working as an Android Developer Advocate at Google, helping to make Android the best mobile platform for developers.\r\nHis focus is the developer experience across the whole ecosystem, from the expert to the beginner. He worked previously at IBM\r\nas a developer advocate and as full stack developer in several startups. He's currently living in London, UK.",
@@ -1856,7 +1858,7 @@
         "name": "Twitter"
       },
       {
-        "icon": "linkedIn",
+        "icon": "linkedin",
         "link": "https://www.linkedin.com/in/yrezgui/",
         "name": "LinkedIn"
       },
@@ -1873,7 +1875,7 @@
     ]
   },
   "8ce6cf3a-735e-4a2a-b05f-e2081e5b6741": {
-    "order": 0,
+    "order": 4,
     "featured": false,
     "name": "Zac Sweers",
     "bio": "Zac is a mobile engineer with primary focus areas in Android, code gen, Kotlin, OSS, and avoiding sniffly APIs. He’s the creator of a few open source projects like AutoDispose and CatchUp, and active contributor to several more.",
