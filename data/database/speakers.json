@@ -524,6 +524,14 @@
   "7c888e22-f254-4e04-aa56-1853ab18c000": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-elaine_dias_batista",
+        "name": "gde"
+      }
+    ],
+    "company": "SFEIR",
     "name": "Elaine Dias Batista",
     "bio": "Elaine has been working with mobile apps development for the past 6 years. Since the launch of the Google Assistant, she has been following the developments around that area. She truly believes that interacting with technology using natural language will define the future of computing. Born and raised in Brazil, she's been living in France since 2004 and loves everything multicultural. She's a GDE for the Google Assistant.",
     "shortBio": "Team Leader at SFEIR",
@@ -842,6 +850,13 @@
   "e11a53fd-1cfb-4930-9dfa-42187e94d869": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-hadi_tok",
+        "name": "gde"
+      }
+    ],
     "name": "Hadi Tok",
     "bio": "Hadi Develops Android Applications since Android 1.6 Donut and very passionate about it. Developed a handful of Android applications since then with a variety of technical challenges. I also like to try new things. He developed software for other platforms professionally and personally. Hadi likes to share his experiences so he is writing blog posts in Turkish and English. He is really active in community slack channels to help people out and get helped. He also gives talks about Android development mostly about Kotlin related subjects. Hadi loves to learn new things and share them with people.",
     "shortBio": "GDE on Android, Lead Android dev at Citizenme",
@@ -906,6 +921,13 @@
   "b3770b77-c9c8-454d-8b7a-045ca1d66b7b": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-jeroen_mols",
+        "name": "gde"
+      }
+    ],
     "name": "Jeroen Mols",
     "bio": "Jeroen Mols is a Google Developer Expert (GDE) in Android, the former lead Android developer at Philips Hue and an internationally recognized speaker. With a passion for complex systems and highly technical apps, Jeroen has helped realize four connected products and over 15 Android applications.\r\n\r\nExperienced in leading large teams, he can step beyond his developer role and provide technical leadership to others. He continuously challenges the status quo and mentors people surrounding him to grow. Shipping apps to millions of users, Jeroen has a thorough understanding of both the Android framework and how maintainable software should be crafted.",
     "shortBio": "Android Developer at Plaid and GDE",
@@ -1725,6 +1747,13 @@
   "e397fee8-078f-4694-8a1f-35b1d57f1fce": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-sebastiano_poggi",
+        "name": "gde"
+      }
+    ],
     "name": "Sebastiano Poggi",
     "bio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA and then Novoda. \r\n\r\nRegularly speaking at conferences and brain-dumping on the 'net got him into the Google Developers Experts programme in 2014. Nowadays he's working on some rather cool Kotlin stuff for JetBrains.",
     "shortBio": "Software Engineer at JetBrains; GDE for Android, Flutter and Identity",
