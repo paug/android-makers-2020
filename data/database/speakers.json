@@ -536,7 +536,7 @@
     "name": "Enrico Bruno Del Zotto",
     "bio": "After several years working like a mobile consultant, Enrico moved to London working as lead developer @Smartfocus.com developing an indoor positioning system based on beacons. Since May 2017 working @ TUI.co.uk where he's creating the next generation of mobile travel app for TUI customers.",
     "shortBio": "Senior android developer @ https://www.tui.co.uk/",
-    "country": "Itlay",
+    "country": "London, United Kingdom",
     "companyLogo": "TUI_Logo_2016.svg",
     "photo": "https://sessionize.com/image?f=8ed91c637794d2f043b2b27755ad1aa6,400,400,1,0,9b373a1b-5370-4a1d-8ffb-c735c942c37d.jpg",
     "socials": [
@@ -1267,12 +1267,19 @@
   "ebf1de28-63a7-4f57-838d-8871f500913b": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Developer Advocate"
+      }
+    ],
     "name": "Nick Rout",
-    "bio": "Nick Rout is an Android Engineer and Google Developer Expert for Android. He is currently employed at Over - the easy app for creating. He is passionate about Material Design and Human-Computer Interaction. He is also the organizer for GDG Cape Town and enjoys blogging, public speaking and contributing to open source projects. He is based in beautiful Cape Town, South Africa.",
-    "shortBio": "Android Engineer at Over and GDE",
+    "bio": "Nick Rout is a Developer Advocate for Material Design at Google. Previously he was a full-time Android Engineer and GDE. He is focussed on assisting and working with developers in implementing Material Design on Android. He originates from Cape Town, South Africa and is now based in Munich, Germany.",
+    "shortBio": "Developer Advocate (Material Design) at Google",
     "country": "Munich, Germany",
-    "companyLogo": "googlelogo_clr_312x104px.svg",
-    "photo": "https://sessionize.com/image?f=62da48adb3de789c8c2ce2e7be59241e,400,400,1,0,28-63a7-4f57-838d-8871f500913b.37f5a708-82e5-4a3f-8fcf-4e713e190875.png",
+    "companyLogo": "/images/logos/google.svg",
+    "photo": "https://sessionize.com/image?f=0290c1ba555a28007c5ed4976d5d14b3,0,0,0,0,2c-785e-4ba5-98b4-2d6fd5cd4343.787b90a9-b4bc-4906-9927-c183b19f713e.jpg",
     "socials": [
       {
         "icon": "twitter",
@@ -1845,11 +1852,18 @@
   "c909bc83-2fc0-4607-a71a-6c969f155aeb": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Developer Advocate"
+      }
+    ],
     "name": "Yacine Rezgui",
     "bio": "Yacine is working as an Android Developer Advocate at Google, helping to make Android the best mobile platform for developers.\r\nHis focus is the developer experience across the whole ecosystem, from the expert to the beginner. He worked previously at IBM\r\nas a developer advocate and as full stack developer in several startups. He's currently living in London, UK.",
     "shortBio": "Android developer advocate at Google",
     "country": "London, United Kingdom",
-    "companyLogo": "google.svg",
+    "companyLogo": "/images/logos/google.svg",
     "photo": "https://sessionize.com/image?f=172c8141caec5dbd9c73cbe3976d5f9f,400,400,1,0,2c9382ba-cf29-407c-a3d1-6988f8eb72d7.jpg",
     "socials": [
       {
