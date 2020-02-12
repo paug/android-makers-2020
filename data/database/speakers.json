@@ -56,11 +56,18 @@
   "74240ec1-9924-499e-9a8b-8c2640b02648": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android X"
+      }
+    ],
     "name": "Andrea Falcone",
     "bio": "Andrea Falcone is a Senior Software Engineer at Google. Currently she is working on Androidx building libraries and tooling for internal and external developers as part of Android Jetpack. She previously built Crashlytics, Fabric and fastlane (first at Crashlytics, then Twitter, then Google!) She is an accomplished mobile/mobile tools developer with experience in building not only iOS and Android apps but also Android Studio Plugins, Android SDKs, Gradle plugins, and CI/CD systems like fastlane.",
     "shortBio": "Senior Software Engineer, Google",
     "country": "Boston, MA, USA",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
     "photo": "https://sessionize.com/image?f=d259eaddbea11449cf4cb2ef80af6e66,400,400,1,0,16a89cbe-78e4-48f0-9681-ade9f791e406.jpg",
     "socials": [
       {
@@ -212,11 +219,19 @@
   "e869461e-b6fb-43e5-a89c-033da87008c0": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Studio Design Tools"
+      }
+    ],
     "name": "Ben Weiss",
     "bio": "I go through the painful stuff so you don't have to.",
     "shortBio": "Android Developer Relations at Google",
     "country": "London, UK",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=fadb761b3b59f3285b67a0ec481078de,400,400,1,0,89ca7e1d-4d4e-42ff-b912-a0e21c74ebcc.jpg",
     "socials": [
       {
@@ -375,11 +390,19 @@
   "fd699fd4-ca8a-4b16-a811-cfb7de9e9b1b": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Developer Relations"
+      }
+    ],
     "name": "Chris Banes",
     "bio": "Chris is an engineer working in Android Developer Relations at Google. He previously worked on the Android Support Libraries, most notably AppCompat, Design and Palette. He has worked on Android things for over 8 years, from open source libraries to media apps, social networks and most stuff in between.",
     "shortBio": "Android Engineer at Google",
     "country": "London, UK",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=8eb02ec5203267e9ff00ae82ead17d09,400,400,1,0,f10bb283-81f6-4cca-a4d4-fbbad9086d1c.jpg",
     "socials": [
       {
@@ -505,7 +528,7 @@
     "bio": "Elaine has been working with mobile apps development for the past 6 years. Since the launch of the Google Assistant, she has been following the developments around that area. She truly believes that interacting with technology using natural language will define the future of computing. Born and raised in Brazil, she's been living in France since 2004 and loves everything multicultural. She's a GDE for the Google Assistant.",
     "shortBio": "Team Leader at SFEIR",
     "country": "Paris, France",
-    "companyLogo": "logosfeir.svg",
+    "companyLogo": "/images/logos/sfeir.svg",
     "photo": "https://sessionize.com/image?f=aff23e9b01bf4c46476f522a9494d2ac,400,400,1,0,dbca3b62-3787-48f7-a6c8-2d2b70ddd0e5.jpg",
     "socials": [
       {
@@ -915,11 +938,19 @@
   "a7d0fcec-49dd-4e65-bcb7-ad3d1901928c": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Studio"
+      }
+    ],
     "name": "John Hoford",
     "bio": "John is a developer on Android working on Android Studio, ConstraintLayout and MotionLayout. He has worked on Android Studio, RenderScript, Vector Drawables, computed shadows and photo editor filters. ",
     "shortBio": "Android developer at Google",
     "country": null,
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=6056eda5936b3ec108637857f140d8c3,400,400,1,0,ec-49dd-4e65-bcb7-ad3d1901928c.485a9d64-3913-4421-b715-45adb26574e1.jpg",
     "socials": [
       {
@@ -1068,10 +1099,18 @@
     "order": 4,
     "featured": false,
     "name": "Manuel Vivo",
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Developer Relations"
+      }
+    ],
     "bio": "Manuel is a Developer Relations Engineer at Google. With previous experience at Capital One, he currently focuses on App Architecture, Kotlin & Coroutines, Dependency Injection and Jetpack Compose.",
     "shortBio": "Android DevRel at Google",
     "country": "Madrid - Spain",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=d0658d12088176cdfa52a3b96fece569,400,400,1,0,c9-623b-4b8f-b676-097fb7802668.b2da019d-eaab-4a1a-a64d-ca314642a079.jpg",
     "socials": [
       {
@@ -1338,11 +1377,19 @@
   "ed1e4545-4547-4697-9515-28f4174f09dd": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Studio Design Tools"
+      }
+    ],
     "name": "Nicolas Roard",
     "bio": "Nicolas works on the Android Studio Design Tools and the ConstraintLayout library at Google",
     "shortBio": "Android Studio Design Tools & ConstraintLayout",
     "country": "San Francisco, USA",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=0df7e8a41afdba2339750702675bc3ea,400,400,1,0,275dc363-1403-4697-8520-aa0f7f9b8155.jpg",
     "socials": [
       {
@@ -1490,11 +1537,19 @@
   "49ac2635-61c7-4ff0-859a-2e59cf28c615": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "google",
+        "link": "https://developer.android.com/",
+        "description": "Android Studio"
+      }
+    ],
     "name": "Preethi Srinivas",
     "bio": "Preethi is UX Researcher for Android Developer tools. She has passion for understanding needs supporting elegant developer experiences. Prior to Google, she worked on designing products and services influencing delightful behavior change. ",
     "shortBio": "User Experience Researcher, Google",
     "country": null,
-    "companyLogo": null,
+    "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=b44d71c72e23b362ab6fb2e788c78e1c,400,400,1,0,35-61c7-4ff0-859a-2e59cf28c615.469d2d0e-b1e4-4085-b20d-046e3d2451bc.jpg",
     "socials": [
       {
