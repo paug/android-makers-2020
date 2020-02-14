@@ -424,7 +424,8 @@
     "bio": "Développeur Android chez Leboncoin",
     "shortBio": "Android developper, Leboncoin",
     "country": "Paris, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/leboncoin.svg",
+    "company": "Le Bon Coin",
     "photo": "https://sessionize.com/image?f=65926d4bd8b4cff40c0295bb4aab8982,400,400,1,0,c31ddd18-a8f8-4935-ad69-3d39fed4a5e4.jpg",
     "socials": [
       {
@@ -789,7 +790,8 @@
     "bio": "Développeur Android depuis 8 ans, utilisateur de Dagger depuis 4 ans, j'ai eu la chance de travailler sur différents types de projets, avec ou sans injection de dépendances, avec ou sans outils pour la mettre en place. J'espère réussir à vous apporter la même compréhension que celle que j'ai pu acquérir par l'expérience et par beaucoup de pédagogie de mes différents collègues !",
     "shortBio": "Android Developer @OCTO Technology ",
     "country": "Paris",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/octo.svg",
+    "company": "Octo",
     "photo": "https://sessionize.com/image?f=7b44c4853f744ac639c8262b0289da51,400,400,1,0,2f65d196-9042-450a-bad7-65eb206d7b23.jpg",
     "socials": []
   },
@@ -1371,7 +1373,7 @@
     "bio": "Nicolas leads the Android team at Meetic, where he organises the team and the project to create a great dating app. He has been working with Android for 7 years. He likes technical challenges and good food.",
     "shortBio": "Android tech lead at Meetic",
     "country": "Lille, France",
-    "companyLogo": "meetic-logo.svg",
+    "companyLogo": "/images/logos/Meetic.png",
     "photo": "https://sessionize.com/image?f=389f4f4d6a6f55ba0c12e8f8de5e4fff,400,400,1,0,c0-d0df-45bf-a2f2-cd30791d27b6.cd7dfb1b-259d-4bc6-8a4b-f4c14376d784.jpg",
     "socials": [
       {
@@ -1433,7 +1435,7 @@
     "bio": "Android developer @ OCTO Technology since 2015",
     "shortBio": "Android developer @ OCTO Technology",
     "country": "Paris - France",
-    "companyLogo": "octo.svg",
+    "companyLogo": "/images/logos/octo.svg",
     "photo": "https://sessionize.com/image?f=46e9340cc6676b60f0763a6231f5c14a,400,400,1,0,69d97ec6-e9f0-474a-afed-3668b94ed882.jpg",
     "socials": [
       {
@@ -1466,6 +1468,7 @@
     "shortBio": "Mobile Software Engineer @ Allegro",
     "country": "Poznań, Poland",
     "companyLogo": null,
+    "company": "Allegro",
     "photo": "https://sessionize.com/image?f=8deeb6a0ad7d5c68cb4970796052d01c,400,400,1,0,0cf8a6fd-4b7f-46ce-88fe-fe9357dbd1e4.jpg",
     "socials": [
       {
@@ -1519,7 +1522,8 @@
     "bio": "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs avec des technos comme H.323, IMS, Réseau Intelligent, je suis passé de l'autre coté du réseau pour faire du développement Android. Aujourd'hui, je cultive et m'appuie sur cette double expérience pour investiguer les problèmes qui se posent à la frontière entre les deux.",
     "shortBio": "Orange, Android developer",
     "country": "Lannion",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/orange.svg",
+    "company": "Orange",
     "photo": "https://sessionize.com/image?f=9f494b768a5ae039c8e28f17d611284d,400,400,1,0,72fa563a-f983-45dd-b6bd-b81d1e1f753f.jpg",
     "socials": [
       {
@@ -1588,7 +1592,7 @@
     "bio": "Android lead developer writing code between the Alps and Lyon when he's not running in the mountains.",
     "shortBio": "Android App Master @Lunabee Studio",
     "country": "Lyon, France",
-    "companyLogo": "_dyN2raN_400x400.png",
+    "companyLogo": "/images/logos/lunabee.png",
     "photo": "https://sessionize.com/image?f=8f8a39b841c9808461f005a829903e37,400,400,1,0,08-c439-4f1b-986b-f8344d6d60e0.2dec2c5b-fd08-43d6-b69d-d25e548a1640.jpg",
     "socials": [
       {
@@ -1678,11 +1682,19 @@
   "adadf66f-529c-48fd-ba12-94903187a216": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-muhammed_salih_g_C3_BCler",
+        "name": "gde"
+      }
+    ],
     "name": "Salih Guler",
     "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences. ",
     "shortBio": "Android Engineer at Onefootball",
     "country": "Berlin, Germany",
     "companyLogo": null,
+    "company": "Onefootbal",
     "photo": "https://sessionize.com/image?f=61e7010297cc1fe6a8458929adf7ac31,400,400,1,0,6f-529c-48fd-ba12-94903187a216.0b218d7f-e945-4468-92f7-a4fa30127168.png",
     "socials": [
       {
@@ -1706,14 +1718,14 @@
         "name": "Company Website"
       },
       {
-        "icon": "Github",
+        "icon": "website",
         "link": "https://github.com/salihgueler",
-        "name": "Other"
+        "name": "Github"
       },
       {
-        "icon": "SpeakerDeck",
+        "icon": "website",
         "link": "https://speakerdeck.com/salihgueler",
-        "name": "Other"
+        "name": "SpeakerDeck"
       }
     ]
   },
@@ -1724,7 +1736,8 @@
     "bio": "Sandra is an Android developer for Disney Streaming Services. Subteam lead on DIsney+, she works to give the best UI and animation to the Disney+ users.",
     "shortBio": "DSS Android Developer",
     "country": "Amsterdam, Netherlands",
-    "companyLogo": "Disney_Streaming_Services_profile_pic.svg",
+    "companyLogo": "/images/logos/disney-streaming-services.svg",
+    "company": "Disney Streaming services",
     "photo": "https://sessionize.com/image?f=e666dc8d692fa63a55997436838d8410,400,400,1,0,f8-4784-4a3c-a83d-6b70c0dcde1d.edaeb825-5c28-4bf8-bf8e-a65bec5d8cf6.jpg",
     "socials": [
       {
@@ -1849,7 +1862,7 @@
     "bio": "Thomas is an Android Engineer. For the past 4 years he has been in Lyft’s Growth team. He is currently based in Seattle, WA.",
     "shortBio": "Android Growth Engineer @Lyft",
     "country": "Seattle, USA",
-    "companyLogo": "Lyft logo – pink – rgb.svg",
+    "companyLogo": "/images/logos/lyft.svg",
     "photo": "https://sessionize.com/image?f=74534b88ca180b927651aa4d9ae02967,400,400,1,0,09-8132-4ac8-91a5-9e7b293063a4.5bfff84a-3ddf-47af-a9ca-06baeb80662b.jpg",
     "socials": [
       {
