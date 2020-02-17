@@ -44,6 +44,11 @@
         "logoUrl": "../images/logos/coyote.png",
         "name": "Coyotte",
         "url": "https://www.moncoyote.com/"
+      },
+      {
+        "logoUrl": "../images/logos/PS-engineering.svg",
+        "name": "Publicis Sapient Engineering",
+        "url": "https://blog.engineering.publicissapient.fr/"
       }
     ]
   },
