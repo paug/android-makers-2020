@@ -4,9 +4,10 @@
     "featured": false,
     "name": "Adnan A M",
     "bio": "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge, experience and exposure with E-Commerce and used to previously work with BookMyShow(India's largest entertainment/ticketing portal with a 14M+ user base), where he went on to rewrite the entire app from scratch.",
-    "shortBio": "Redmart",
+    "shortBio": "Android developer @ Redmart",
     "country": "Bangalore, India",
     "companyLogo": null,
+    "company": "Redmart",
     "photo": "https://sessionize.com/image?f=3dc90a7c09429ec1de22bec03b606f5a,400,400,1,0,73-d62b-4a05-a52b-9be52909a462.f491287c-7bad-413e-b0ac-8e7079e20300.jpeg",
     "socials": [
       {
@@ -34,6 +35,7 @@
     "shortBio": "Senior Android developer - Takeaway.com",
     "country": null,
     "companyLogo": null,
+    "company": "Takeaway.com",
     "photo": "https://sessionize.com/image?f=c4d15053716735e9ba46ff0343d9f255,400,400,1,0,a7-6616-4fe1-8681-a4a78db7b62e.72dca92d-f6b7-4432-af52-8ef591242cec.jpeg",
     "socials": [
       {
@@ -68,6 +70,7 @@
     "shortBio": "Senior Software Engineer, Google",
     "country": "Boston, MA, USA",
     "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=d259eaddbea11449cf4cb2ef80af6e66,400,400,1,0,16a89cbe-78e4-48f0-9681-ade9f791e406.jpg",
     "socials": [
       {
@@ -132,7 +135,7 @@
     "bio": "Antoine is an Android Developer at Citymapper based in London. Before that, he worked at Canal+ in Paris. When he's not working to help people catch their buses in big cities, he's watching videos of rockets and space related things, also his desk is named \"Legoland\" by his colleagues. Part of the Droidcon London Program Committee, and organiser for GDG London, he's doing his best to have amazing conferences in London, because the community is really important in the world of Android. And otherwise, he's just eating cheese.",
     "shortBio": "Android Developer at Citymapper, London",
     "country": "London, United-Kingdom",
-    "companyLogo": "2F3VhONK.png",
+    "companyLogo": "/images/logo/citymapper.png",
     "photo": "https://sessionize.com/image?f=7c3bed1394bcc6cd062504ab2b785f1d,400,400,1,0,805cfa80-4e3d-475d-85d9-a7f40baaa31c.jpg",
     "socials": [
       {
@@ -176,6 +179,39 @@
         "icon": "website",
         "link": "https://syntony-gnss.com/",
         "name": "Company Website"
+      }
+    ]
+  },
+  "cb3de15d-e971-496b-bdcf-db23155f3f17": {
+    "order": 4,
+    "featured": false,
+    "name": "Arkadii Ivanov",
+    "bio": "Born in Saint-Petersburg, Russia. Currently live in London, UK. Started working as a Windows developer in 2008. Then switched to Android development in 2012.",
+    "shortBio": "Android Developer, Badoo by MagicLab",
+    "country": "London, UK",
+    "companyLogo": null,
+    "company": "MagicLab",
+    "photo": "https://sessionize.com/image?f=e4e254a314b56c48b7f6f01ba158a3ed,400,400,1,0,fe651526-e255-4dde-9190-0f79ed2ffb40.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arkann1985",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/arkadyivanov/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://badootech.badoo.com/",
+        "name": "Blog"
+      },
+      {
+        "title": "Company Website",
+        "url": "https://magiclab.co",
+        "linkType": "Company_Website"
       }
     ]
   },
@@ -257,8 +293,9 @@
     "name": "Benjamin Gonin",
     "bio": "Benjamin est développeur Android, il travaille actuellement chez Lalalab. Fanboy depuis 2011, il a commencé à travailler dans des agences, chez Kartable, puis SeLoger avant cela.",
     "shortBio": "Senior Android Developer @ LALALAB",
-    "country": "Paris",
+    "country": "Paris, France",
     "companyLogo": null,
+    "company": "LALALAB.",
     "photo": "https://sessionize.com/image?f=9b5b9592de9a54cc94b373a581014071,400,400,1,0,35d83895-80de-4be0-98f0-b1fa33fc652e.jpg",
     "socials": [
       {
@@ -474,7 +511,8 @@
     "bio": "Daniele Bottillo is an Android engineer working at Deliveroo in London. He's been developing apps on mobile web, iOS and Android platforms since 2010. Previously at TransferWise, ASOS, Blinkbox and YoYo wallet. ",
     "shortBio": "Senior Android Engineer",
     "country": "London, United Kingdom",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/deliveroo.svg",
+    "company": "Deliveroo",
     "photo": "https://sessionize.com/image?f=1be5d665d4d7780720a20b56bbc18be4,400,400,1,0,59-ad04-4d16-a6d7-d9c61aa7304c.45a36f9f-c723-4a7e-bc8d-cb7a321c56e8.jpg",
     "socials": [
       {
@@ -519,6 +557,29 @@
         "icon": "website",
         "link": "https://www.blinkist.com/",
         "name": "Company Website"
+      }
+    ]
+  },
+  "a34985cc-f276-4f1a-ba53-db86d084fe93": {
+    "order": 4,
+    "featured": false,
+    "name": "Divya jain",
+    "bio": "I am a mobile developer, currently enhancing the Gametime App and enjoying exploring San Francisco. I have been learning and building Android apps since more than 2 years now.  I am always up for a new challenge and want to create awesome mobile apps with the purpose to make life fun and easy and solve problems. If I am not coding, I am usually traveling or lost in my other world of fictional novels.",
+    "shortBio": "Mobile Developer - Gametime",
+    "country": "San Francisco, USA",
+    "companyLogo": null,
+    "company": "Gametime",
+    "photo": "https://sessionize.com/image?f=0b1fb41dbbee06e18edafbdc049a8358,400,400,1,0,cc-f276-4f1a-ba53-db86d084fe93.fd999ba8-4ec4-408c-8bdc-b15c7e626e8a.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/divyajain2405",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/divyajain2405/",
+        "name": "LinkedIn"
       }
     ]
   },
@@ -601,7 +662,8 @@
     "bio": "Etienne Caron is a Staff Developer at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert program, and an instructor for Caster.io\r\n\r\nEtienne has been an active member of the Android developer community in Montreal since 2010, and regularly contributes time to mentoring startups, developers and students in the mobile space.",
     "shortBio": "Shopify",
     "country": "Canada",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/shopify.svg",
+    "company": "Shopify",
     "photo": "https://sessionize.com/image?f=41a4778607e97eddf9c65745a792fa2c,400,400,1,0,51cd9bfa-ec73-4907-9d26-5d4688229f22.jpg",
     "socials": [
       {
@@ -633,7 +695,8 @@
     "bio": "- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert\r\n\r\nI've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, worked several years on Genymotion, an Android emulator. Then I joined Qonto a French B2B bank to build their Android app and I recently joined TAG Heuer to build their connected watches and ecosystem.\r\n",
     "shortBio": "Tag Heuer",
     "country": "Paris, France",
-    "companyLogo": "tag-heuer-logo.png",
+    "companyLogo": "/images/logos/tag-heuer.png",
+    "company": "Tag Heuer",
     "photo": "https://sessionize.com/image?f=dc1771b8dd570f66fdb2250723911e76,400,400,1,0,34-7c28-4e6d-a5dc-271203984645.0db2beaa-1089-4a33-ba98-d07250074724.jpg",
     "socials": [
       {
@@ -650,7 +713,8 @@
     "bio": "After about a decade of building mobile apps and games at Facebook and various startups in Paris, London and San Francisco, Fabien took over the Android, iOS and Web teams at Wealthfront, a fintech startup in Silicon Valley.  He also co-created Hacked, a mobile coding game with more than a million downloads. ",
     "shortBio": "Director of Mobile and Web Engineering at Wealthfront",
     "country": "San Francisco, US",
-    "companyLogo": "wave-logo-transparent.svg",
+    "companyLogo": "/images/logos/wealthfront.png",
+    "company": "Wealthfront",
     "photo": "https://sessionize.com/image?f=d2284e4be94c8676b3fbe283eba46ff7,400,400,1,0,da-2946-49de-be5c-e54d44e12325.b8a7465d-3ef5-49b0-820b-9763f06b04ec.jpg",
     "socials": [
       {
@@ -677,7 +741,7 @@
     "bio": "Fabio Collini is a Google Developer Expert for Android and Kotlin. He started Android development in 2009, first as a freelance with two apps on Play Store and then as a developer for some companies and startups. Now he works as a remote engineer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the Italian blog CodingJam and he publishes articles about Android and Kotlin on his medium profile.",
     "shortBio": "Android Engineer at The New York Times",
     "country": "Italy - Florence",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/thenewyorktimes.svg",
     "photo": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,1,0,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
     "socials": [
       {
@@ -732,6 +796,7 @@
     "shortBio": "Android @ Instacart",
     "country": "San Francisco, USA",
     "companyLogo": "instacart-vector-logo.svg",
+    "company": "Instacart",
     "photo": "https://sessionize.com/image?f=96959235061b6bce4eb2d6c330586395,400,400,1,0,fa-a150-45bc-b4e6-243583659c26.8ec2b57e-f3a7-44fb-a777-fd67e8b263df.jpg",
     "socials": [
       {
@@ -758,7 +823,8 @@
     "bio": "Android developer at Blinkist. Previously a contractor at Quizlet and Disney ABC, Fred started playing with Android apps in 2013, when he and his friends developed a few apps for the university that ended up being used by thousands of students. He's been involved with the Android community ever since he gave his first talk about Kotlin in its 1.0 era, and he loves talking and writing about the language, architecture, and anything related to building Android apps -- especially all the tiny little details involved.",
     "shortBio": "Android @Blinkist",
     "country": "Berlin, Germany",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/blinkist.png",
+    "company": "Blinkist",
     "photo": "https://sessionize.com/image?f=0abb6e7ff2f280fce0413aa7dd9f723c,400,400,1,0,22-3f6b-4f2d-b47f-59bb947ec0e3.6af8ca2e-b9c5-4dbc-8400-4ff2eedcdbda.jpg",
     "socials": [
       {
@@ -996,7 +1062,7 @@
     "bio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue.\r\n\r\nFan de nouvelles technologies (Réalité virtuelle, objets connectés, etc..) j'ai pu participé, en tant qu'auto-entrepreneur ou bénévole, au développement de projets innovants utilisant des nouvelles technologies et divers objets tels que le Bluetooth Low Energy, le NFC, du Geofencing, des montres sous Android Wear et même des Google Glass.\r\n\r\nJ'aime apprendre et je suis heureux d'avoir déjà pu toucher à de nombreux domaines allant du développement d'applications web front-end/back-end, au développement de jeux, en passant par des applications Android B2B/B2C et la conception d'objets connectés",
     "shortBio": "Android Developer @ Dashlane",
     "country": "Paris, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
     "photo": "https://sessionize.com/image?f=bc8823f9af18b44a6b60a1e31bb76d72,400,400,1,0,a3428905-00ae-4443-8e3b-92d79039f853.jpg",
     "socials": [
       {
@@ -1183,7 +1249,7 @@
     "bio": "Developing mobile applications since 2014, in Paris and Chicago. Arrived at Dashlane in 2017 and quickly convinced the Android team that Kotlin is the most beautiful language in the world. Passionate about software design.\r\n\r\nRecovering Starcraft addict. Also loves the outdoors.",
     "shortBio": "Android Developer at Dashlane",
     "country": "Paris, France",
-    "companyLogo": "Dashlane-App-Icon.png",
+    "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
     "photo": "https://sessionize.com/image?f=c9dbd3ac7486d60159b92292f8dded38,400,400,1,0,a0-8158-45a6-8bbf-10f6ad55ef18.f297498b-0436-4d97-bb22-86d23ff1644f.jpg",
     "socials": [
       {
@@ -1612,6 +1678,39 @@
       }
     ]
   },
+  "75a99392-2d32-4632-9d9b-a70bb700365c": {
+    "order": 4,
+    "featured": false,
+    "name": "Raul Hernandez Lopez",
+    "bio": "I am originally from Valencia (Spain), but so far I've lived in Belgium and for a while now in London (UK).\r\n\r\nI consider myself a continuous learner, very enthusiastic about the Android platform & Kotlin language specifically.\r\n\r\nI work as a Senior Software Engineer at Twitter, and I've participated in both Periscope and Twitter Android apps, being the Technical lead on Dynamic delivery for Twitter Android.\r\n",
+    "shortBio": "Senior Software Engineer - Android @ Twitter",
+    "country": "London, United Kingdom",
+    "companyLogo": "/images/logos/twitter.png",
+    "company": "Twitter",
+    "photo": "https://sessionize.com/image?f=69163d2442880af6421644ad87d193d2,400,400,1,0,92-2d32-4632-9d9b-a70bb700365c.5f218cd1-c978-4ffb-aea0-a18b886a7624.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/RaulHernandezL",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://uk.linkedin.com/in/raulhernandezl",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://raulh82vlc.github.io/",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://twitter.com/",
+        "name": "Company Website"
+      }
+    ]
+  },
   "152f613f-841b-407d-9a65-3703ec2dfae2": {
     "order": 1,
     "featured": true,
@@ -1942,6 +2041,34 @@
       {
         "icon": "website",
         "link": "https://www.datadoghq.com/",
+        "name": "Company Website"
+      }
+    ]
+  },
+  "0cc865f0-2d9d-479d-b247-181ff5b8357a": {
+    "order": 4,
+    "featured": false,
+    "name": "Xiaoyi Li",
+    "bio": "Xiaoyi is an Android engineer working at Dashlane with years of experience. He is focusing on building the best password manager, providing the most smooth UX and the best security solution for millions of users.",
+    "shortBio": "Senior Android Engineer @Dashlane",
+    "country": "Paris, France",
+    "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
+    "company": "Dashlane",
+    "photo": "https://sessionize.com/image?f=0873810aef8c5962dd40c7c442107433,400,400,1,0,f0-2d9d-479d-b247-181ff5b8357a.c550f21f-6a88-4181-96e0-53895f37e23e.png",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/li-xiaoyi-5957a827/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@lixiaoyi",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.dashlane.com/",
         "name": "Company Website"
       }
     ]
