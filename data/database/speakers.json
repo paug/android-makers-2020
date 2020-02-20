@@ -1330,7 +1330,8 @@
     "bio": "Mike Scamell is a Senior Android Developer at Blinkist.\r\n\r\nYou’ll often find him consumed with UI whether that’s playing with VectorDrawables, SharedElementTransitions or meticulously tweaking an animation. Mike instantly fell in love with MotionLayout and has been finding creative uses for it ever since.",
     "shortBio": "Senior Android Developer @Blinkist",
     "country": "Leeds, UK",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/blinkist.png",
+    "company": "Blinkist",
     "photo": "https://sessionize.com/image?f=fb56a7921279ac9709728ef8c770001a,400,400,1,0,bf9de32e-a2fa-41fa-86ad-623398996abf.jpg",
     "socials": [
       {
@@ -1789,11 +1790,11 @@
       }
     ],
     "name": "Salih Guler",
-    "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences. ",
-    "shortBio": "Android Engineer at Onefootball",
+    "bio": "Salih is a Berlin based Senior Mobile Engineer who is a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
+    "shortBio": "Senior Mobile Engineer at Klar",
     "country": "Berlin, Germany",
     "companyLogo": null,
-    "company": "Onefootbal",
+    "company": "Klar",
     "photo": "https://sessionize.com/image?f=61e7010297cc1fe6a8458929adf7ac31,400,400,1,0,6f-529c-48fd-ba12-94903187a216.0b218d7f-e945-4468-92f7-a4fa30127168.png",
     "socials": [
       {
@@ -2117,9 +2118,10 @@
     "featured": false,
     "name": "Zac Sweers",
     "bio": "Zac is a mobile engineer with primary focus areas in Android, code gen, Kotlin, OSS, and avoiding sniffly APIs. He’s the creator of a few open source projects like AutoDispose and CatchUp, and active contributor to several more.",
-    "shortBio": "Mobile @ ???",
+    "shortBio": "Mobile @ Slack",
     "country": "New York City, USA",
     "companyLogo": null,
+    "company": "Slack",
     "photo": "https://sessionize.com/image?f=d5666c8297648122c7d005dcaa1a8861,400,400,1,0,3a-735e-4a2a-b05f-e2081e5b6741.217980d7-51ef-494f-b123-94011276b254.jpg",
     "socials": [
       {
