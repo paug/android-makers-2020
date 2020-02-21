@@ -191,7 +191,7 @@
     "country": "London, UK",
     "companyLogo": null,
     "company": "MagicLab",
-    "photo": "https://sessionize.com/image?f=e4e254a314b56c48b7f6f01ba158a3ed,400,400,1,0,fe651526-e255-4dde-9190-0f79ed2ffb40.jpg",
+    "photo": "https://sessionize.com/image?f=633b39261b744fda18b902e9712cecfe,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.4a2715f4-78a3-410b-8aef-b5d40c922c1f.jpg",
     "socials": [
       {
         "icon": "twitter",
@@ -812,39 +812,6 @@
       {
         "icon": "website",
         "link": "https://instacart.com",
-        "name": "Company Website"
-      }
-    ]
-  },
-  "da213722-3f6b-4f2d-b47f-59bb947ec0e3": {
-    "order": 4,
-    "featured": false,
-    "name": "Fred Porciúncula",
-    "bio": "Android developer at Blinkist. Previously a contractor at Quizlet and Disney ABC, Fred started playing with Android apps in 2013, when he and his friends developed a few apps for the university that ended up being used by thousands of students. He's been involved with the Android community ever since he gave his first talk about Kotlin in its 1.0 era, and he loves talking and writing about the language, architecture, and anything related to building Android apps -- especially all the tiny little details involved.",
-    "shortBio": "Android @Blinkist",
-    "country": "Berlin, Germany",
-    "companyLogo": "/images/logos/blinkist.png",
-    "company": "Blinkist",
-    "photo": "https://sessionize.com/image?f=0abb6e7ff2f280fce0413aa7dd9f723c,400,400,1,0,22-3f6b-4f2d-b47f-59bb947ec0e3.6af8ca2e-b9c5-4dbc-8400-4ff2eedcdbda.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/tfcporciuncula",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/tfcporciuncula",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://medium.com/@tfcporciuncula",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.blinkist.com/",
         "name": "Company Website"
       }
     ]
