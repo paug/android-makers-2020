@@ -28,6 +28,8 @@
     ]
   },
   "464fd6c7-2ecb-48cf-8f9d-c82bb160cb5f": {
+    "order": 4,
+    "featured": false,
     "name": "Akshay Mukadam",
     "bio": "A passionate android developer who loves to build simple and beautiful apps. When all done you will find me either cooking delicious Indian cuisines  and cheering for Liverpool FC",
     "shortBio": "Handle gestures and touch events for CustomView",
@@ -1623,6 +1625,8 @@
     ]
   },
   "689c7d97-daf7-4adc-8535-1fd646915977": {
+    "order": 4,
+    "featured": false,
     "name": "Pierre-Antoine LaFayette",
     "bio": "Pierre is an Android VR engineer working on 3D rendering for mobile VR platforms. Previously worked on 360 photo and video rendering in Facebook 360 and Oculus Video for GearVR / Oculus Go as well as in Facebook for Android. He is known internally as the \"Face of VR\" thanks to his iconic Oculus Rift photo. Born and raised in Toronto 🇨🇦. Has competed in basketball, trained in Muay Thai, and performed as a latin dancer.",
     "shortBio": "The Face of VR",
@@ -1733,6 +1737,8 @@
     ]
   },
   "0b98f2d1-1e2f-4ea7-81b7-6a0d0d700112": {
+    "order": 4,
+    "featured": false,
     "name": "Richard Bogdan",
     "bio": "I am a software developer with Android focus. I had 3 workplaces in the past 10 years, currently I am working at Bitrise.",
     "shortBio": "Software developer @ Bitrise",
