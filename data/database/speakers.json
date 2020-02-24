@@ -292,10 +292,10 @@
     "order": 4,
     "featured": false,
     "name": "Benjamin Gonin",
-    "bio": "Benjamin est développeur Android, il travaille actuellement chez Lalalab. Fanboy depuis 2011, il a commencé à travailler dans des agences, chez Kartable, puis SeLoger avant cela.",
+    "bio": "Benjamin est développeur Android, il travaille actuellement chez Lalalab. Fanboy Android depuis 2011, il a commencé à travailler dans des agences, chez Kartable, puis SeLoger avant cela.",
     "shortBio": "Senior Android Developer @ LALALAB",
     "country": "Paris, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/LALALAB.png",
     "company": "LALALAB.",
     "photo": "https://sessionize.com/image?f=9b5b9592de9a54cc94b373a581014071,400,400,1,0,35d83895-80de-4be0-98f0-b1fa33fc652e.jpg",
     "socials": [
@@ -631,7 +631,7 @@
     "bio": "After several years working like a mobile consultant, Enrico moved to London working as lead developer @Smartfocus.com developing an indoor positioning system based on beacons. Since May 2017 working @ TUI.co.uk where he's creating the next generation of mobile travel app for TUI customers.",
     "shortBio": "Senior android developer @ https://www.tui.co.uk/",
     "country": "London, United Kingdom",
-    "companyLogo": "TUI_Logo_2016.svg",
+    "companyLogo": "/images/logos/TUI_Logo_2016.svg",
     "photo": "https://sessionize.com/image?f=8ed91c637794d2f043b2b27755ad1aa6,400,400,1,0,9b373a1b-5370-4a1d-8ffb-c735c942c37d.jpg",
     "socials": [
       {
@@ -868,7 +868,7 @@
     "bio": "Technical Leader Android des outils mobiles collaborateurs en magasin chez Decathlon depuis 2 ans. Je travaille sur l’architecture logicielle de l’ensemble de nos applications mobiles.\r\n\r\nRéel passionné du développement Android et membre du GDG Lille Android, je co-anime le Lille Android User Group depuis 2018.",
     "shortBio": "Decathlon, Android Tech Lead",
     "country": "Lille, France",
-    "companyLogo": "Logo_Decathlon_RVB.jpg",
+    "companyLogo": "/images/logos/Logo_Decathlon_RVB.jpg",
     "photo": "https://sessionize.com/image?f=f4748eb325f42f34907b5da253597911,400,400,1,0,b41aff2d-1d53-4b6a-80af-24d4d6076fe0.jpg",
     "socials": [
       {
@@ -1107,6 +1107,13 @@
   "b2005329-30d3-4783-9a8c-d2e7b2a75f76": {
     "order": 4,
     "featured": false,
+    "badges":[
+      {
+        "name": "gde",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-lisa_wray",
+        "description": "Google Developer Expert"
+      }
+    ],
     "name": "Lisa Wray",
     "bio": "Lisa Wray is an Android developer, speaker, and advocate specializing in user interfaces.  She currently works at Facebook and lives in Seattle.",
     "shortBio": "Android at Facebook",
@@ -1876,7 +1883,7 @@
     "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
     "shortBio": "Software Engineer at 1MG Technologies",
     "country": "New Delhi, India",
-    "companyLogo": "splash_1mg.png",
+    "companyLogo": "/images/logos/splash_1mg.png",
     "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
     "socials": [
       {
@@ -1908,7 +1915,7 @@
     "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
     "shortBio": "Senior Android dev at Square",
     "country": "Bay Area, CA, USA",
-    "companyLogo": "square-logo.png",
+    "companyLogo": "/images/logos/square-logo.png",
     "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
     "socials": [
       {
@@ -1994,7 +2001,7 @@
     "bio": "Xavier F. Gouchet is a Senior Software Engineer at Datadog, experienced public speaker, and proud father. Passionate about open source, testing and architecture, he has been dabbling in Android since the Cupcake days and has been working as a professional Android engineer since 2012. \r\n",
     "shortBio": "Senior Software Engineer at Datadog",
     "country": "France",
-    "companyLogo": "dd_icon_rgb.png",
+    "companyLogo": "/images/logos/datadog.png",
     "photo": "https://sessionize.com/image?f=e163eb835478b09d22bd379acdd2b3cc,400,400,1,0,7f-fad3-49b7-a6b3-82b5f46e5549.1b538ffc-4cb1-40aa-b6b5-9ab8c8986003.png",
     "socials": [
       {
