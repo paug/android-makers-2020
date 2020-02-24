@@ -27,6 +27,26 @@
       }
     ]
   },
+  "464fd6c7-2ecb-48cf-8f9d-c82bb160cb5f": {
+    "name": "Akshay Mukadam",
+    "bio": "A passionate android developer who loves to build simple and beautiful apps. When all done you will find me either cooking delicious Indian cuisines  and cheering for Liverpool FC",
+    "shortBio": "Handle gestures and touch events for CustomView",
+    "country": null,
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=57dd3d74919864b1fe031706a86b7ff0,400,400,1,0,10229cc4-b287-4c53-835c-ca7789c38ffe.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/akshay_m21",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/akshay-mukadam-64942aa9/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
   "6e75d5a7-6616-4fe1-8681-a4a78db7b62e": {
     "order": 4,
     "featured": false,
@@ -1107,7 +1127,7 @@
   "b2005329-30d3-4783-9a8c-d2e7b2a75f76": {
     "order": 4,
     "featured": false,
-    "badges":[
+    "badges": [
       {
         "name": "gde",
         "link": "https://developers.google.com/community/experts/directory/profile/profile-lisa_wray",
@@ -1602,6 +1622,31 @@
       }
     ]
   },
+  "689c7d97-daf7-4adc-8535-1fd646915977": {
+    "name": "Pierre-Antoine LaFayette",
+    "bio": "Pierre is an Android VR engineer working on 3D rendering for mobile VR platforms. Previously worked on 360 photo and video rendering in Facebook 360 and Oculus Video for GearVR / Oculus Go as well as in Facebook for Android. He is known internally as the \"Face of VR\" thanks to his iconic Oculus Rift photo. Born and raised in Toronto 🇨🇦. Has competed in basketball, trained in Muay Thai, and performed as a latin dancer.",
+    "shortBio": "The Face of VR",
+    "country": "Sunnyvale, California, USA",
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=7e127eb15b8968409e8461f3eea51bc9,400,400,1,0,bc358db1-8037-46c9-aad7-8a286dd30583.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/03lafaye",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/plafayette",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://medium.com/@pierrebear",
+        "name": "Blog"
+      }
+    ]
+  },
   "49ac2635-61c7-4ff0-859a-2e59cf28c615": {
     "order": 4,
     "featured": false,
@@ -1686,6 +1731,15 @@
         "name": "Company Website"
       }
     ]
+  },
+  "0b98f2d1-1e2f-4ea7-81b7-6a0d0d700112": {
+    "name": "Richard Bogdan",
+    "bio": "I am a software developer with Android focus. I had 3 workplaces in the past 10 years, currently I am working at Bitrise.",
+    "shortBio": "Software developer @ Bitrise",
+    "country": null,
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=cb6f398d5f093afebf3a57442804afc7,400,400,1,0,af495fb8-4dfd-4fc8-888f-667c42e56209.jpg",
+    "socials": []
   },
   "152f613f-841b-407d-9a65-3703ec2dfae2": {
     "order": 1,
