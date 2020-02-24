@@ -135,7 +135,8 @@
     "bio": "Antoine is an Android Developer at Citymapper based in London. Before that, he worked at Canal+ in Paris. When he's not working to help people catch their buses in big cities, he's watching videos of rockets and space related things, also his desk is named \"Legoland\" by his colleagues. Part of the Droidcon London Program Committee, and organiser for GDG London, he's doing his best to have amazing conferences in London, because the community is really important in the world of Android. And otherwise, he's just eating cheese.",
     "shortBio": "Android Developer at Citymapper, London",
     "country": "London, United-Kingdom",
-    "companyLogo": "/images/logo/citymapper.png",
+    "companyLogo": "/images/logos/citymapper.png",
+    "company": "Citymapper",
     "photo": "https://sessionize.com/image?f=4af93611253c1cf092442bff23373c10,400,400,1,0,a0-c34d-4c87-a7e7-a81a67c8029d.004b1b5c-b975-405e-be04-cbb8b86f7b57.jpg",
     "socials": [
       {
@@ -795,7 +796,7 @@
     "bio": "François  works on the Android app at Instacart. He has a good experience getting his hands dirty on the dark corners of Android's UI stack since the ListView days.",
     "shortBio": "Android @ Instacart",
     "country": "San Francisco, USA",
-    "companyLogo": "instacart-vector-logo.svg",
+    "companyLogo": "/images/logos/instacart.svg",
     "company": "Instacart",
     "photo": "https://sessionize.com/image?f=96959235061b6bce4eb2d6c330586395,400,400,1,0,fa-a150-45bc-b4e6-243583659c26.8ec2b57e-f3a7-44fb-a777-fd67e8b263df.jpg",
     "socials": [
@@ -1336,7 +1337,7 @@
     "bio": "Former Square in San Francisco, now working at Soundcloud in Berlin",
     "shortBio": "Android at Soundcloud",
     "country": "Berlin, DE",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/SoundCloud.png",
     "photo": "https://sessionize.com/image?f=415bd88b1c76a926d3ee27c659aa046f,400,400,1,0,9d-5de0-4f39-a50a-ed48d6eb56ca.c091953d-d32b-4b08-a057-5789670b3de1.jpeg",
     "socials": [
       {
@@ -1838,7 +1839,7 @@
     "bio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA and then Novoda. \r\n\r\nRegularly speaking at conferences and brain-dumping on the 'net got him into the Google Developers Experts programme in 2014. Nowadays he's working on some rather cool Kotlin stuff for JetBrains.",
     "shortBio": "Software Engineer at JetBrains; GDE for Android, Flutter and Identity",
     "country": "Vicenza, Italy",
-    "companyLogo": "jetbrains.svg",
+    "companyLogo": "/images/logos/jetbrains.svg",
     "photo": "https://sessionize.com/image?f=c74ace072d5d24c1cfb41d805601ca0b,400,400,1,0,9313cd75-0b41-44ae-b668-473ea98d668b.jpg",
     "socials": [
       {
