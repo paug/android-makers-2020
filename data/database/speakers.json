@@ -1,4 +1,36 @@
 {
+  "b9af7051-03c3-4595-88ca-a1825112ece4": {
+    "order": 4,
+    "featured": false,
+    "name": "Adam McNeilly",
+    "bio": "Adam is a Software Engineer, Android enthusiast, and pun aficionado. He fell in love with Android when he picked it up as a hobby in 2013 and he's been staying on top of the latest trends and contributing to open source projects ever since. Adam also strives to be an active member of the developer community - traveling the world to attend and speak at hackathons and conferences to both educate and learn from others in the community.",
+    "shortBio": "Senior Android Engineer, OkCupid",
+    "country": "New York City, United States",
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=49f630baa572edff0c78dc5f2ba55e15,400,400,1,0,51-03c3-4595-88ca-a1825112ece4.1abf27fc-a064-4315-ae02-a980bba292d8.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/AdamMc331",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "http://linkedin.com/in/adammcneilly",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://androidessence.com",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://okcupid.com",
+        "name": "Company Website"
+      }
+    ]
+  },
   "a8fd2a73-d62b-4a05-a52b-9be52909a462": {
     "order": 4,
     "featured": false,
