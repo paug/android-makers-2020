@@ -7,6 +7,7 @@
     "shortBio": "Senior Android Engineer, OkCupid",
     "country": "New York City, United States",
     "companyLogo": null,
+    "company": "OkCupid",
     "photo": "https://sessionize.com/image?f=49f630baa572edff0c78dc5f2ba55e15,400,400,1,0,51-03c3-4595-88ca-a1825112ece4.1abf27fc-a064-4315-ae02-a980bba292d8.jpg",
     "socials": [
       {
@@ -64,10 +65,11 @@
     "featured": false,
     "name": "Akshay Mukadam",
     "bio": "A passionate android developer who loves to build simple and beautiful apps. When all done you will find me either cooking delicious Indian cuisines  and cheering for Liverpool FC",
-    "shortBio": "Handle gestures and touch events for CustomView",
-    "country": null,
+    "shortBio": "Product Engineer, Gojek",
+    "country": "India",
     "companyLogo": null,
-    "photo": "https://sessionize.com/image?f=57dd3d74919864b1fe031706a86b7ff0,400,400,1,0,10229cc4-b287-4c53-835c-ca7789c38ffe.jpg",
+    "company": "Go-jek",
+    "photo": "https://sessionize.com/image?f=e935e1a16d36b26d2d474f922f72a01c,400,400,1,0,c7-2ecb-48cf-8f9d-c82bb160cb5f.1e1b4c50-39c1-460b-8dd5-7a335379b170.jpeg",
     "socials": [
       {
         "icon": "twitter",
@@ -87,7 +89,7 @@
     "name": "Alex Zhukovich",
     "bio": "Alex Zhukovich has been developing Android since 2011. Currently, he is working in Takeaway.com. He is a public speaker and software enthusiast with a passion for technologies, which share thoughts & experiences on the private technical blog at http://alexzh.com and YouTube channel: bit.ly/AlexZhYouTube",
     "shortBio": "Senior Android developer - Takeaway.com",
-    "country": null,
+    "country": "Netherlands",
     "companyLogo": null,
     "company": "Takeaway.com",
     "photo": "https://sessionize.com/image?f=c4d15053716735e9ba46ff0343d9f255,400,400,1,0,a7-6616-4fe1-8681-a4a78db7b62e.72dca92d-f6b7-4432-af52-8ef591242cec.jpeg",
@@ -221,8 +223,9 @@
     "name": "Antoine Gerard",
     "bio": "Ingénieur logiciel chez Syntony GNSS, passionné d'informatique et de trucs de nerds. Fan de Kotlin et toujours friand de Java.\r\n\r\nDéveloppeur Android depuis quelques années, j'ai exporté mon savoir d'Android en dehors du monde de l'agence afin de travailler avec des chercheurs en GNSS et plein de formules mathématiques. J'explore des coins du framework Android uniquement cités dans des papiers obscures de Google Scholar.\r\n\r\nSoftware Engineer at Syntony GNSS, complete computer enthusiast and like nerdy stuff. Kotlin's fan and still a Java lover.\r\n\r\nAndroid developer for several years, I exported my Android knowledge outside of the agency world for working with GNSS reasearchers which require a lot of mathematical formula. I explore sides of the Android Frameworks that are only quoted in niche Google Scholar's papers.",
     "shortBio": "Software Engineer at Syntony GNSS",
-    "country": "Toulouse - France",
+    "country": "Toulouse, France",
     "companyLogo": "Syntony_couleur_900px.png",
+    "company": "Syntony",
     "photo": "https://sessionize.com/image?f=e3b59527db1eafc5131509052ad67e82,400,400,1,0,65-3930-4605-8f4d-4dacc490a7e5.4d4482d7-6dc0-4efc-9c22-0d146e1eab12.jpg",
     "socials": [
       {
@@ -278,6 +281,7 @@
     "shortBio": "Lead Android Engineer at ImmobilienScout24 GmbH",
     "country": "Berlin, Germany",
     "companyLogo": "immoscout24.png",
+    "company": "Immoscout24",
     "photo": "https://sessionize.com/image?f=ec6d6dfd5eef710ceed422f0fa026bd2,400,400,1,0,67-356c-4cd5-ba9c-12cec7a3ce79.7f2e9875-7cf4-4ee3-8e2d-f5309706f118.jpg",
     "socials": [
       {
@@ -368,6 +372,7 @@
     "shortBio": "Lead Software Engineer at WIT Software",
     "country": "Coimbra, Portugal",
     "companyLogo": "blue_WIT_Software.png",
+    "company": "WIT Software",
     "photo": "https://sessionize.com/image?f=fe1844d54d4d99ea359d20d6de2bd748,400,400,1,0,b0b9f1ee-6694-4781-b9ec-af27ef8707ae.jpg",
     "socials": [
       {
@@ -381,12 +386,12 @@
         "name": "LinkedIn"
       },
       {
-        "icon": "Facebook",
+        "icon": "website",
         "link": "https://www.facebook.com/cafonsomota",
         "name": "Facebook"
       },
       {
-        "icon": "Instagram",
+        "icon": "website",
         "link": "http://instagram.com/cmota",
         "name": "Instagram"
       },
