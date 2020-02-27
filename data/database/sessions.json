@@ -51,6 +51,39 @@
       "Service"
     ]
   },
+  "176356": {
+    "speakers": [
+      "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775",
+      "f2c947c4-393b-4476-b6b3-b2507e6137dc"
+    ],
+    "title": "Putting The Pieces Back Together : Our Broken Industry",
+    "language": "English",
+    "description": "There are amazing aspects of being in tech - such as communities that are always willing to help and learn from each other, the ability to create positive change in people’s lives and of course, it’s a well-paid profession. I’d rather not do anything else, but there are factors that make me reconsider sometimes. \r\n\r\nIn this talk, we are going to learn how we can do better. The not-so-good side of tech includes gatekeeping (Dagger vs Koin anyone?), de-prioritising privacy and accessibility, devaluing emotional intelligence, increasing rates of burn-out, being allergic to hiring juniors and the list goes on.\r\n\r\nWe will reflect on how we can do better as an industry with actions we can start taking right away, like how to practice compassionate coding, how to avoid creating emotional labor, how to achieve inclusivity in our tech communities, how to hold our organisations accountable and more. \r\n\r\nWith increased awareness and ideas for action, we can put the pieces back together. ",
+    "complexity": "Introductory and overview",
+    "tags": [
+      "Soft skills"
+    ]
+  },
+  "172069": {
+    "title": "Something Something Comedy Something Something",
+    "description": "(we'll develop some new satire talk for this event, in the general area of tech/business/management)",
+    "speakers": [
+      "05fa719f-1528-43ef-adf9-eca92f383262",
+      "152f613f-841b-407d-9a65-3703ec2dfae2"
+    ],
+    "language": "English",
+    "complexity": "Introductory and overview"
+  },
+  "172068": {
+    "title": "Graphics Programming for Android Programmers",
+    "description": "In this session you will learn about the different rendering techniques used in graphics programming: raster/bitmaps, 2D vectors, 3D rasterization, ray-marching, ray-tracing, etc. You will understand when to use which technique and what APIs Android provides to use those techniques in your applications.",
+    "speakers": [
+      "05fa719f-1528-43ef-adf9-eca92f383262",
+      "152f613f-841b-407d-9a65-3703ec2dfae2"
+    ],
+    "language": "English",
+    "complexity": "Introductory and overview"
+  },
   "176381": {
     "title": "Android App Bundle / Android PacKage : à chaque format suffit sa tâche",
     "description": "Pendant plus de 10 ans, l'apk a fait office de format à la fois pour l'installation et la publication d'applications Android. Aujourd'hui, le format aab (Android App Bundle) qui a été introduit en 2018 est devenu le format officiel de publication. Ses principaux objectifs: réduire la taille des packages servis par le store, et favoriser la modularité des applications grâce notamment aux dynamics features. \r\nL'apk reste plus que jamais le format d'installation d'une application. S'il a longtemps été d'usage pour un développeur de déployer un apk \"fat\", l'aab donne à présent au Playstore une opportunité d'optimiser le (ou plutôt les) package[s] qui seront transmis. \r\nNous verrons en détails comment tout cela est rendu possible. \r\n\r\n",
@@ -240,7 +273,9 @@
     "speakers": [
       "9658fd1d-2e15-45cc-9302-7d29be9f7213"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "170959": {
     "title": "Developing in the Dark",
@@ -324,7 +359,9 @@
     "speakers": [
       "0ef1e55b-29b9-4c4b-938d-c59b6c8ea9d3"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "176377": {
     "title": "Experimenting with the Kotlin Compiler",
@@ -334,7 +371,9 @@
     "speakers": [
       "c03a7211-54ff-4819-9789-1a22ed91fafc"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "175635": {
     "title": "Finding the view",
@@ -356,7 +395,9 @@
     "speakers": [
       "7c888e22-f254-4e04-aa56-1853ab18c000"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "174763": {
     "title": "From 7 to 70 Developers, How to Scale your App Release Process",
@@ -424,17 +465,6 @@
     "tags": [
       "Architecture"
     ]
-  },
-  "172068": {
-    "title": "Graphics Programming for Android Programmers",
-    "description": "In this session you will learn about the different rendering techniques used in graphics programming: raster/bitmaps, 2D vectors, 3D rasterization, ray-marching, ray-tracing, etc. You will understand when to use which technique and what APIs Android provides to use those techniques in your applications.",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "152f613f-841b-407d-9a65-3703ec2dfae2",
-      "05fa719f-1528-43ef-adf9-eca92f383262"
-    ],
-    "tags": []
   },
   "176338": {
     "title": "Handle gestures and touch events for CustomView",
@@ -596,7 +626,9 @@
     "speakers": [
       "6e75d5a7-6616-4fe1-8681-a4a78db7b62e"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "174286": {
     "title": "Managing parallelism using coroutines",
@@ -675,19 +707,6 @@
       "Under the hood"
     ]
   },
-  "176356": {
-    "title": "Putting The Pieces Back Together : Our Broken Industry",
-    "description": "There are amazing aspects of being in tech - such as communities that are always willing to help and learn from each other, the ability to create positive change in people’s lives and of course, it’s a well-paid profession. I’d rather not do anything else, but there are factors that make me reconsider sometimes. \r\n\r\nIn this talk, we are going to learn how we can do better. The not-so-good side of tech includes gatekeeping (Dagger vs Koin anyone?), de-prioritising privacy and accessibility, devaluing emotional intelligence, increasing rates of burn-out, being allergic to hiring juniors and the list goes on.\r\n\r\nWe will reflect on how we can do better as an industry with actions we can start taking right away, like how to practice compassionate coding, how to avoid creating emotional labor, how to achieve inclusivity in our tech communities, how to hold our organisations accountable and more. \r\n\r\nWith increased awareness and ideas for action, we can put the pieces back together. ",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775",
-      "f2c947c4-393b-4476-b6b3-b2507e6137dc"
-    ],
-    "tags": [
-      "Soft skills"
-    ]
-  },
   "176384": {
     "title": "Que peux apporter la blockchain à un développeur mobile en 2020 ?",
     "description": "Malgré plus de 10 ans d'existence, les technologies regroupées sous l'appellation blockchain restent méconnues. Elle présentent malgré tout des avantages dans beaucoup d'applications comme la gestion de l'identité, la sécurité des données, ou le respect des données privées. Nous ferons dans ce talk l'état de l'art des technologies blockchain, et leurs applications possibles dans une application mobile.",
@@ -709,7 +728,9 @@
     "speakers": [
       "cb3de15d-e971-496b-bdcf-db23155f3f17"
     ],
-    "tags": []
+    "tags": [
+      "Language"
+    ]
   },
   "176470": {
     "title": "Reducing memory footprint of your app -  what LeakCanary is not telling you about",
@@ -763,17 +784,6 @@
       "Design",
       "Soft skills"
     ]
-  },
-  "172069": {
-    "title": "Something Something Comedy Something Something",
-    "description": "[placeholder - we'll develop some new satire talk for this event, in the general area of tech/business/management)",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "05fa719f-1528-43ef-adf9-eca92f383262",
-      "152f613f-841b-407d-9a65-3703ec2dfae2"
-    ],
-    "tags": []
   },
   "174186": {
     "title": "Soyons acteurs du développement (mobile) durable",
@@ -852,7 +862,9 @@
     "speakers": [
       "2bc1e95f-1243-4ad0-8a11-75541fee10e0"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "175068": {
     "title": "The Light Way",
@@ -862,7 +874,9 @@
     "speakers": [
       "b2005329-30d3-4783-9a8c-d2e7b2a75f76"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "172401": {
     "title": "The Secrets of the Build Scan Plugin and the internals of Gradle",
