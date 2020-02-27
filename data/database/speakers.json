@@ -802,6 +802,7 @@
     "shortBio": "Android Engineer at The New York Times",
     "country": "Italy - Florence",
     "companyLogo": "/images/logos/thenewyorktimes.svg",
+    "company": "The New York Times",
     "photo": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,1,0,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
     "socials": [
       {
@@ -834,6 +835,7 @@
     "shortBio": "Android Engineer @ TradeRepublic",
     "country": "Berlin, Germany",
     "companyLogo": null,
+    "company": "TradeRepublic",
     "photo": "https://sessionize.com/image?f=f108e8d281109f21e5186c34ea9ab2fc,400,400,1,0,8e-972b-41de-ae7a-92a2f77893c3.afd6a8f5-b59a-43b5-bbcb-a6bf06cba290.jpg",
     "socials": [
       {
@@ -896,6 +898,7 @@
     "shortBio": "VideoLAN",
     "country": "Paris, France",
     "companyLogo": "VideoLan_Cone.png",
+    "company": "Videolan",
     "photo": "https://sessionize.com/image?f=d0fda987bed76dc5d9995c0987dbbb67,400,400,1,0,85924007-06d6-41e1-b64c-4b15c4dbf088.jpg",
     "socials": [
       {
@@ -928,6 +931,7 @@
     "shortBio": "Decathlon, Android Tech Lead",
     "country": "Lille, France",
     "companyLogo": "/images/logos/Logo_Decathlon_RVB.jpg",
+    "company": "Decathlon",
     "photo": "https://sessionize.com/image?f=f4748eb325f42f34907b5da253597911,400,400,1,0,b41aff2d-1d53-4b6a-80af-24d4d6076fe0.jpg",
     "socials": [
       {
@@ -957,6 +961,7 @@
     "shortBio": "GDE on Android, Lead Android dev at Citizenme",
     "country": "Istanbul/Turkey",
     "companyLogo": "logo-citizen-me (1).png",
+    "company": "Citizenme",
     "photo": "https://sessionize.com/image?f=aca1ad7535f5ae5f8a37edd9e10f1749,400,400,1,0,fd-1cfb-4930-9dfa-42187e94d869.28a0a51b-11d1-4fd4-a026-e9be2838ef79.jpg",
     "socials": [
       {
@@ -989,6 +994,7 @@
     "shortBio": "Android Developer @ Pulselive",
     "country": "London, UK",
     "companyLogo": null,
+    "company": "Pulselive",
     "photo": "https://sessionize.com/image?f=31b98b8cd132d14a266b5e68a54d1b48,400,400,1,0,0469c660-e022-4d59-a05a-81f66c67cc89.jpg",
     "socials": [
       {
@@ -1028,6 +1034,7 @@
     "shortBio": "Android Developer at Plaid and GDE",
     "country": "Belgium",
     "companyLogo": "Plaid-Logo.png",
+    "company": "Plaid",
     "photo": "https://sessionize.com/image?f=7dc895148a941f63224674fde74bbbc3,400,400,1,0,77-c9c8-454d-8b7a-045ca1d66b7b.81805fa1-d8cc-49b5-baec-19a6c8ec200e.jpg",
     "socials": [
       {
@@ -1090,6 +1097,7 @@
     "shortBio": "Android Developer @ Dashlane",
     "country": "Paris, France",
     "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
+    "company": "Dashlane",
     "photo": "https://sessionize.com/image?f=bc8823f9af18b44a6b60a1e31bb76d72,400,400,1,0,a3428905-00ae-4443-8e3b-92d79039f853.jpg",
     "socials": [
       {
@@ -1117,6 +1125,7 @@
     "shortBio": "Android Developer @Snapp Mobile",
     "country": null,
     "companyLogo": null,
+    "company": "Snapp Mobile",
     "photo": "https://sessionize.com/image?f=4486a4c558ebaa1cb3d8c98417e6b858,400,400,1,0,7a6b15fa-3ca2-4fee-845a-a72d4d9f9f08.jpg",
     "socials": [
       {
@@ -1144,6 +1153,7 @@
     "shortBio": "Senior Android Engineer @ InnovOrder",
     "country": "Paris",
     "companyLogo": "ic_innovorder_full.svg",
+    "company": "Innovorder",
     "photo": "https://sessionize.com/image?f=93e02216d6ca374ebd5cce7544347624,400,400,1,0,97-01f9-44b1-864c-9d85bedf911b.8b6a175e-8088-4fbf-8b24-fbda97933d75.jpg",
     "socials": [
       {
@@ -1178,6 +1188,7 @@
     "shortBio": "Android at Facebook",
     "country": "Seattle, USA",
     "companyLogo": null,
+    "company": "Facebook",
     "photo": "https://sessionize.com/image?f=8f83ad51e8aca6ef8774cefc293db8d7,400,400,1,0,29-30d3-4783-9a8c-d2e7b2a75f76.f55b300b-4787-4917-8e8b-52867c06b32b.jpg",
     "socials": [
       {
@@ -1195,6 +1206,7 @@
     "shortBio": "Senior Software Engineer at Grab Singapore",
     "country": "Singapore",
     "companyLogo": "1200px-Grab_(application)_logo.svg.png",
+    "company": "GrabSG",
     "photo": "https://sessionize.com/image?f=779eef2d18793ac6944bb18bec5cf9f2,400,400,1,0,31eec8c6-de40-4bfa-85c9-446d59e73202.jpg",
     "socials": [
       {
@@ -1267,6 +1279,7 @@
     "shortBio": "Chocolate Droid Officer",
     "country": "Paris France",
     "companyLogo": null,
+    "company": "Dailymotion",
     "photo": "https://sessionize.com/image?f=5f5ac67319859f16e601207744fc9452,400,400,1,0,40b547c1-7b9a-4928-9924-c13102e940c8.jpg",
     "socials": [
       {
@@ -1284,6 +1297,7 @@
     "shortBio": "Android Developer at Dashlane",
     "country": "Paris, France",
     "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
+    "company": "Dashlane",
     "photo": "https://sessionize.com/image?f=c9dbd3ac7486d60159b92292f8dded38,400,400,1,0,a0-8158-45a6-8bbf-10f6ad55ef18.f297498b-0436-4d97-bb22-86d23ff1644f.jpg",
     "socials": [
       {
@@ -1316,6 +1330,7 @@
     "shortBio": "Kotlin enthusiast, slight StackOverflow addict, aspiring educator and writer",
     "country": "Budapest, Hungary",
     "companyLogo": null,
+    "company": "",
     "photo": "https://sessionize.com/image?f=821b31ba727e5a4e63194decf401b39e,400,400,1,0,1c-96d7-480f-9eed-bf5dce444441.544836fc-7bdb-4611-a140-2bda3e9f9655.png",
     "socials": [
       {
@@ -1348,6 +1363,7 @@
     "shortBio": "Android developer at Babylon Health",
     "country": "London, United Kingdom",
     "companyLogo": "BABYLON-LOGO.png",
+    "company": "Babylon",
     "photo": "https://sessionize.com/image?f=7756ad5c67243699b93cdbc1b8d69f96,400,400,1,0,26440a13-27d3-43a1-b06a-08cd9759151a.jpg",
     "socials": [
       {
@@ -1393,6 +1409,7 @@
     "shortBio": "Dailymotion - Android Senior Developer",
     "country": null,
     "companyLogo": null,
+    "company": "Dailymotion",
     "photo": "https://sessionize.com/image?f=6280c369f2082b652cdb833357461582,400,400,1,0,5d1fbff5-0276-4638-9a47-d51c7079bdf2.jpg",
     "socials": []
   },
@@ -1404,6 +1421,7 @@
     "shortBio": "Android at Soundcloud",
     "country": "Berlin, DE",
     "companyLogo": "/images/logos/SoundCloud.png",
+    "company": "Soundcloud",
     "photo": "https://sessionize.com/image?f=415bd88b1c76a926d3ee27c659aa046f,400,400,1,0,9d-5de0-4f39-a50a-ed48d6eb56ca.c091953d-d32b-4b08-a057-5789670b3de1.jpeg",
     "socials": [
       {
@@ -1443,6 +1461,7 @@
     "shortBio": "Developer Advocate (Material Design) at Google",
     "country": "Munich, Germany",
     "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=0290c1ba555a28007c5ed4976d5d14b3,0,0,0,0,2c-785e-4ba5-98b4-2d6fd5cd4343.787b90a9-b4bc-4906-9927-c183b19f713e.jpg",
     "socials": [
       {
@@ -1475,6 +1494,7 @@
     "shortBio": "Android tech lead at Meetic",
     "country": "Lille, France",
     "companyLogo": "/images/logos/Meetic.png",
+    "company": "Meetic",
     "photo": "https://sessionize.com/image?f=389f4f4d6a6f55ba0c12e8f8de5e4fff,400,400,1,0,c0-d0df-45bf-a2f2-cd30791d27b6.cd7dfb1b-259d-4bc6-8a4b-f4c14376d784.jpg",
     "socials": [
       {
@@ -1537,6 +1557,7 @@
     "shortBio": "Android developer @ OCTO Technology",
     "country": "Paris - France",
     "companyLogo": "/images/logos/octo.svg",
+    "company": "Octo",
     "photo": "https://sessionize.com/image?f=46e9340cc6676b60f0763a6231f5c14a,400,400,1,0,69d97ec6-e9f0-474a-afed-3668b94ed882.jpg",
     "socials": [
       {
@@ -1592,6 +1613,7 @@
     "shortBio": "Android developer",
     "country": "Stockholm, Sweden",
     "companyLogo": "citerus-logo.png",
+    "company": "",
     "photo": "https://sessionize.com/image?f=553decd895f2057deaee5de92b86311a,400,400,1,0,18-e092-4474-b8c6-808fe33cedc0.b8264e7e-9d1e-4361-8895-5f2496153e50.jpg",
     "socials": [
       {
@@ -1652,6 +1674,7 @@
     "shortBio": "Practice Leader Mobile chez ASI",
     "country": "Nantes France",
     "companyLogo": null,
+    "company": "ASI",
     "photo": "https://sessionize.com/image?f=ccc6d80222c2b43c183dbf21bd20522c,400,400,1,0,b1-ca6f-4e25-8442-f67cdc7f2b5c.be2c140c-da4a-4b8e-8498-8b7825ea5ad5.jpeg",
     "socials": [
       {
@@ -1669,6 +1692,7 @@
     "shortBio": "The Face of VR",
     "country": "Sunnyvale, California, USA",
     "companyLogo": null,
+    "company": "Facebook",
     "photo": "https://sessionize.com/image?f=7e127eb15b8968409e8461f3eea51bc9,400,400,1,0,bc358db1-8037-46c9-aad7-8a286dd30583.jpg",
     "socials": [
       {
@@ -1721,6 +1745,7 @@
     "shortBio": "Android App Master @Lunabee Studio",
     "country": "Lyon, France",
     "companyLogo": "/images/logos/lunabee.png",
+    "company": "Lunabee",
     "photo": "https://sessionize.com/image?f=8f8a39b841c9808461f005a829903e37,400,400,1,0,08-c439-4f1b-986b-f8344d6d60e0.2dec2c5b-fd08-43d6-b69d-d25e548a1640.jpg",
     "socials": [
       {
@@ -1832,6 +1857,7 @@
     "shortBio": "Founder @Emblock, proud PAUG member since many years, many experiences as CTO & innovation manager.",
     "country": "Nantes, France",
     "companyLogo": null,
+    "company": "Emblock",
     "photo": "https://sessionize.com/image?f=84acf1954bb480923b75b17b1c7dc410,400,400,1,0,d34fdfd1-ede9-46c8-b51d-86d36e6111a2.jpg",
     "socials": [
       {
@@ -1944,6 +1970,7 @@
     "shortBio": "Software Engineer at JetBrains; GDE for Android, Flutter and Identity",
     "country": "Vicenza, Italy",
     "companyLogo": "/images/logos/jetbrains.svg",
+    "company": "Jetbrains",
     "photo": "https://sessionize.com/image?f=c74ace072d5d24c1cfb41d805601ca0b,400,400,1,0,9313cd75-0b41-44ae-b668-473ea98d668b.jpg",
     "socials": [
       {
@@ -1981,6 +2008,7 @@
     "shortBio": "Software Engineer at 1MG Technologies",
     "country": "New Delhi, India",
     "companyLogo": "/images/logos/splash_1mg.png",
+    "company": "1MG Technologies",
     "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
     "socials": [
       {
@@ -2013,6 +2041,7 @@
     "shortBio": "Senior Android dev at Square",
     "country": "Bay Area, CA, USA",
     "companyLogo": "/images/logos/square-logo.png",
+    "company": "Square",
     "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
     "socials": [
       {
@@ -2035,6 +2064,7 @@
     "shortBio": "Android Growth Engineer @Lyft",
     "country": "Seattle, USA",
     "companyLogo": "/images/logos/lyft.svg",
+    "company": "Lyft",
     "photo": "https://sessionize.com/image?f=74534b88ca180b927651aa4d9ae02967,400,400,1,0,09-8132-4ac8-91a5-9e7b293063a4.5bfff84a-3ddf-47af-a9ca-06baeb80662b.jpg",
     "socials": [
       {
@@ -2067,6 +2097,7 @@
     "shortBio": "Tech lead at Slack",
     "country": "San Francisco, California",
     "companyLogo": "slack-logo.png",
+    "company": "Slack",
     "photo": "https://sessionize.com/image?f=864dabb49e05f168ee70e894df853d03,400,400,1,0,f64bf5a5-7cff-4e95-b715-88bb530ff294.jpg",
     "socials": [
       {
@@ -2099,6 +2130,7 @@
     "shortBio": "Senior Software Engineer at Datadog",
     "country": "France",
     "companyLogo": "/images/logos/datadog.png",
+    "company": "Datadog",
     "photo": "https://sessionize.com/image?f=e163eb835478b09d22bd379acdd2b3cc,400,400,1,0,7f-fad3-49b7-a6b3-82b5f46e5549.1b538ffc-4cb1-40aa-b6b5-9ab8c8986003.png",
     "socials": [
       {
@@ -2161,6 +2193,7 @@
     "shortBio": "Android developer advocate at Google",
     "country": "London, United Kingdom",
     "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=172c8141caec5dbd9c73cbe3976d5f9f,400,400,1,0,2c9382ba-cf29-407c-a3d1-6988f8eb72d7.jpg",
     "socials": [
       {
