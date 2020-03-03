@@ -28,6 +28,11 @@
         "logoUrl": "../images/logos/bitrise.png",
         "name": "Bitrise",
         "url": "https://www.bitrise.io/"
+      },
+      {
+        "logoUrl": "../images/logos/badoo_ml.png",
+        "name": "Badoo",
+        "url": "https://badoo.com"
       }
     ]
   },
@@ -46,7 +51,7 @@
         "url": "https://www.moncoyote.com/"
       },
       {
-        "logoUrl": "../images/logos/PS-engineering.svg",
+        "logoUrl": "../images/logos/ps-logo.svg",
         "name": "Publicis Sapient Engineering",
         "url": "https://blog.engineering.publicissapient.fr/"
       }
