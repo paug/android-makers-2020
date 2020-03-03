@@ -37,6 +37,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -117,7 +122,7 @@
     "short": "Montrouge, France",
     "address": "2 Place Emile Cresp, Montrouge, France",
     "pointer": {
-      "latitude": 48.819205, 
+      "latitude": 48.819205,
       "longitude": 2.319641,
       "zoom": 12
     },
