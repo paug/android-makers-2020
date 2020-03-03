@@ -1,4 +1,37 @@
 {
+  "b9af7051-03c3-4595-88ca-a1825112ece4": {
+    "order": 4,
+    "featured": false,
+    "name": "Adam McNeilly",
+    "bio": "Adam is a Software Engineer, Android enthusiast, and pun aficionado. He fell in love with Android when he picked it up as a hobby in 2013 and he's been staying on top of the latest trends and contributing to open source projects ever since. Adam also strives to be an active member of the developer community - traveling the world to attend and speak at hackathons and conferences to both educate and learn from others in the community.",
+    "shortBio": "Senior Android Engineer, OkCupid",
+    "country": "New York City, United States",
+    "companyLogo": null,
+    "company": "OkCupid",
+    "photo": "https://sessionize.com/image?f=49f630baa572edff0c78dc5f2ba55e15,400,400,1,0,51-03c3-4595-88ca-a1825112ece4.1abf27fc-a064-4315-ae02-a980bba292d8.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/AdamMc331",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "http://linkedin.com/in/adammcneilly",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://androidessence.com",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://okcupid.com",
+        "name": "Company Website"
+      }
+    ]
+  },
   "a8fd2a73-d62b-4a05-a52b-9be52909a462": {
     "order": 4,
     "featured": false,
@@ -27,13 +60,36 @@
       }
     ]
   },
+  "464fd6c7-2ecb-48cf-8f9d-c82bb160cb5f": {
+    "order": 4,
+    "featured": false,
+    "name": "Akshay Mukadam",
+    "bio": "A passionate android developer who loves to build simple and beautiful apps. When all done you will find me either cooking delicious Indian cuisines  and cheering for Liverpool FC",
+    "shortBio": "Product Engineer, Gojek",
+    "country": "India",
+    "companyLogo": null,
+    "company": "Go-jek",
+    "photo": "https://sessionize.com/image?f=e935e1a16d36b26d2d474f922f72a01c,400,400,1,0,c7-2ecb-48cf-8f9d-c82bb160cb5f.1e1b4c50-39c1-460b-8dd5-7a335379b170.jpeg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/akshay_m21",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/akshay-mukadam-64942aa9/",
+        "name": "LinkedIn"
+      }
+    ]
+  },
   "6e75d5a7-6616-4fe1-8681-a4a78db7b62e": {
     "order": 4,
     "featured": false,
     "name": "Alex Zhukovich",
     "bio": "Alex Zhukovich has been developing Android since 2011. Currently, he is working in Takeaway.com. He is a public speaker and software enthusiast with a passion for technologies, which share thoughts & experiences on the private technical blog at http://alexzh.com and YouTube channel: bit.ly/AlexZhYouTube",
     "shortBio": "Senior Android developer - Takeaway.com",
-    "country": null,
+    "country": "Netherlands",
     "companyLogo": null,
     "company": "Takeaway.com",
     "photo": "https://sessionize.com/image?f=c4d15053716735e9ba46ff0343d9f255,400,400,1,0,a7-6616-4fe1-8681-a4a78db7b62e.72dca92d-f6b7-4432-af52-8ef591242cec.jpeg",
@@ -135,7 +191,8 @@
     "bio": "Antoine is an Android Developer at Citymapper based in London. Before that, he worked at Canal+ in Paris. When he's not working to help people catch their buses in big cities, he's watching videos of rockets and space related things, also his desk is named \"Legoland\" by his colleagues. Part of the Droidcon London Program Committee, and organiser for GDG London, he's doing his best to have amazing conferences in London, because the community is really important in the world of Android. And otherwise, he's just eating cheese.",
     "shortBio": "Android Developer at Citymapper, London",
     "country": "London, United-Kingdom",
-    "companyLogo": "/images/logo/citymapper.png",
+    "companyLogo": "/images/logos/citymapper.png",
+    "company": "Citymapper",
     "photo": "https://sessionize.com/image?f=4af93611253c1cf092442bff23373c10,400,400,1,0,a0-c34d-4c87-a7e7-a81a67c8029d.004b1b5c-b975-405e-be04-cbb8b86f7b57.jpg",
     "socials": [
       {
@@ -166,8 +223,9 @@
     "name": "Antoine Gerard",
     "bio": "Ingénieur logiciel chez Syntony GNSS, passionné d'informatique et de trucs de nerds. Fan de Kotlin et toujours friand de Java.\r\n\r\nDéveloppeur Android depuis quelques années, j'ai exporté mon savoir d'Android en dehors du monde de l'agence afin de travailler avec des chercheurs en GNSS et plein de formules mathématiques. J'explore des coins du framework Android uniquement cités dans des papiers obscures de Google Scholar.\r\n\r\nSoftware Engineer at Syntony GNSS, complete computer enthusiast and like nerdy stuff. Kotlin's fan and still a Java lover.\r\n\r\nAndroid developer for several years, I exported my Android knowledge outside of the agency world for working with GNSS reasearchers which require a lot of mathematical formula. I explore sides of the Android Frameworks that are only quoted in niche Google Scholar's papers.",
     "shortBio": "Software Engineer at Syntony GNSS",
-    "country": "Toulouse - France",
+    "country": "Toulouse, France",
     "companyLogo": "Syntony_couleur_900px.png",
+    "company": "Syntony",
     "photo": "https://sessionize.com/image?f=e3b59527db1eafc5131509052ad67e82,400,400,1,0,65-3930-4605-8f4d-4dacc490a7e5.4d4482d7-6dc0-4efc-9c22-0d146e1eab12.jpg",
     "socials": [
       {
@@ -223,6 +281,7 @@
     "shortBio": "Lead Android Engineer at ImmobilienScout24 GmbH",
     "country": "Berlin, Germany",
     "companyLogo": "immoscout24.png",
+    "company": "Immoscout24",
     "photo": "https://sessionize.com/image?f=ec6d6dfd5eef710ceed422f0fa026bd2,400,400,1,0,67-356c-4cd5-ba9c-12cec7a3ce79.7f2e9875-7cf4-4ee3-8e2d-f5309706f118.jpg",
     "socials": [
       {
@@ -291,10 +350,10 @@
     "order": 4,
     "featured": false,
     "name": "Benjamin Gonin",
-    "bio": "Benjamin est développeur Android, il travaille actuellement chez Lalalab. Fanboy depuis 2011, il a commencé à travailler dans des agences, chez Kartable, puis SeLoger avant cela.",
+    "bio": "Benjamin est développeur Android, il travaille actuellement chez Lalalab. Fanboy Android depuis 2011, il a commencé à travailler dans des agences, chez Kartable, puis SeLoger avant cela.",
     "shortBio": "Senior Android Developer @ LALALAB",
     "country": "Paris, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/LALALAB.png",
     "company": "LALALAB.",
     "photo": "https://sessionize.com/image?f=9b5b9592de9a54cc94b373a581014071,400,400,1,0,35d83895-80de-4be0-98f0-b1fa33fc652e.jpg",
     "socials": [
@@ -313,6 +372,7 @@
     "shortBio": "Lead Software Engineer at WIT Software",
     "country": "Coimbra, Portugal",
     "companyLogo": "blue_WIT_Software.png",
+    "company": "WIT Software",
     "photo": "https://sessionize.com/image?f=fe1844d54d4d99ea359d20d6de2bd748,400,400,1,0,b0b9f1ee-6694-4781-b9ec-af27ef8707ae.jpg",
     "socials": [
       {
@@ -326,12 +386,12 @@
         "name": "LinkedIn"
       },
       {
-        "icon": "Facebook",
+        "icon": "website",
         "link": "https://www.facebook.com/cafonsomota",
         "name": "Facebook"
       },
       {
-        "icon": "Instagram",
+        "icon": "website",
         "link": "http://instagram.com/cmota",
         "name": "Instagram"
       },
@@ -630,7 +690,7 @@
     "bio": "After several years working like a mobile consultant, Enrico moved to London working as lead developer @Smartfocus.com developing an indoor positioning system based on beacons. Since May 2017 working @ TUI.co.uk where he's creating the next generation of mobile travel app for TUI customers.",
     "shortBio": "Senior android developer @ https://www.tui.co.uk/",
     "country": "London, United Kingdom",
-    "companyLogo": "TUI_Logo_2016.svg",
+    "companyLogo": "/images/logos/TUI_Logo_2016.svg",
     "photo": "https://sessionize.com/image?f=8ed91c637794d2f043b2b27755ad1aa6,400,400,1,0,9b373a1b-5370-4a1d-8ffb-c735c942c37d.jpg",
     "socials": [
       {
@@ -742,6 +802,7 @@
     "shortBio": "Android Engineer at The New York Times",
     "country": "Italy - Florence",
     "companyLogo": "/images/logos/thenewyorktimes.svg",
+    "company": "The New York Times",
     "photo": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,1,0,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
     "socials": [
       {
@@ -774,6 +835,7 @@
     "shortBio": "Android Engineer @ TradeRepublic",
     "country": "Berlin, Germany",
     "companyLogo": null,
+    "company": "TradeRepublic",
     "photo": "https://sessionize.com/image?f=f108e8d281109f21e5186c34ea9ab2fc,400,400,1,0,8e-972b-41de-ae7a-92a2f77893c3.afd6a8f5-b59a-43b5-bbcb-a6bf06cba290.jpg",
     "socials": [
       {
@@ -795,7 +857,7 @@
     "bio": "François  works on the Android app at Instacart. He has a good experience getting his hands dirty on the dark corners of Android's UI stack since the ListView days.",
     "shortBio": "Android @ Instacart",
     "country": "San Francisco, USA",
-    "companyLogo": "instacart-vector-logo.svg",
+    "companyLogo": "/images/logos/instacart.svg",
     "company": "Instacart",
     "photo": "https://sessionize.com/image?f=96959235061b6bce4eb2d6c330586395,400,400,1,0,fa-a150-45bc-b4e6-243583659c26.8ec2b57e-f3a7-44fb-a777-fd67e8b263df.jpg",
     "socials": [
@@ -836,6 +898,7 @@
     "shortBio": "VideoLAN",
     "country": "Paris, France",
     "companyLogo": "VideoLan_Cone.png",
+    "company": "Videolan",
     "photo": "https://sessionize.com/image?f=d0fda987bed76dc5d9995c0987dbbb67,400,400,1,0,85924007-06d6-41e1-b64c-4b15c4dbf088.jpg",
     "socials": [
       {
@@ -867,7 +930,8 @@
     "bio": "Technical Leader Android des outils mobiles collaborateurs en magasin chez Decathlon depuis 2 ans. Je travaille sur l’architecture logicielle de l’ensemble de nos applications mobiles.\r\n\r\nRéel passionné du développement Android et membre du GDG Lille Android, je co-anime le Lille Android User Group depuis 2018.",
     "shortBio": "Decathlon, Android Tech Lead",
     "country": "Lille, France",
-    "companyLogo": "Logo_Decathlon_RVB.jpg",
+    "companyLogo": "/images/logos/Logo_Decathlon_RVB.jpg",
+    "company": "Decathlon",
     "photo": "https://sessionize.com/image?f=f4748eb325f42f34907b5da253597911,400,400,1,0,b41aff2d-1d53-4b6a-80af-24d4d6076fe0.jpg",
     "socials": [
       {
@@ -897,6 +961,7 @@
     "shortBio": "GDE on Android, Lead Android dev at Citizenme",
     "country": "Istanbul/Turkey",
     "companyLogo": "logo-citizen-me (1).png",
+    "company": "Citizenme",
     "photo": "https://sessionize.com/image?f=aca1ad7535f5ae5f8a37edd9e10f1749,400,400,1,0,fd-1cfb-4930-9dfa-42187e94d869.28a0a51b-11d1-4fd4-a026-e9be2838ef79.jpg",
     "socials": [
       {
@@ -929,6 +994,7 @@
     "shortBio": "Android Developer @ Pulselive",
     "country": "London, UK",
     "companyLogo": null,
+    "company": "Pulselive",
     "photo": "https://sessionize.com/image?f=31b98b8cd132d14a266b5e68a54d1b48,400,400,1,0,0469c660-e022-4d59-a05a-81f66c67cc89.jpg",
     "socials": [
       {
@@ -968,6 +1034,7 @@
     "shortBio": "Android Developer at Plaid and GDE",
     "country": "Belgium",
     "companyLogo": "Plaid-Logo.png",
+    "company": "Plaid",
     "photo": "https://sessionize.com/image?f=7dc895148a941f63224674fde74bbbc3,400,400,1,0,77-c9c8-454d-8b7a-045ca1d66b7b.81805fa1-d8cc-49b5-baec-19a6c8ec200e.jpg",
     "socials": [
       {
@@ -1030,6 +1097,7 @@
     "shortBio": "Android Developer @ Dashlane",
     "country": "Paris, France",
     "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
+    "company": "Dashlane",
     "photo": "https://sessionize.com/image?f=bc8823f9af18b44a6b60a1e31bb76d72,400,400,1,0,a3428905-00ae-4443-8e3b-92d79039f853.jpg",
     "socials": [
       {
@@ -1057,6 +1125,7 @@
     "shortBio": "Android Developer @Snapp Mobile",
     "country": null,
     "companyLogo": null,
+    "company": "Snapp Mobile",
     "photo": "https://sessionize.com/image?f=4486a4c558ebaa1cb3d8c98417e6b858,400,400,1,0,7a6b15fa-3ca2-4fee-845a-a72d4d9f9f08.jpg",
     "socials": [
       {
@@ -1084,6 +1153,7 @@
     "shortBio": "Senior Android Engineer @ InnovOrder",
     "country": "Paris",
     "companyLogo": "ic_innovorder_full.svg",
+    "company": "Innovorder",
     "photo": "https://sessionize.com/image?f=93e02216d6ca374ebd5cce7544347624,400,400,1,0,97-01f9-44b1-864c-9d85bedf911b.8b6a175e-8088-4fbf-8b24-fbda97933d75.jpg",
     "socials": [
       {
@@ -1106,11 +1176,19 @@
   "b2005329-30d3-4783-9a8c-d2e7b2a75f76": {
     "order": 4,
     "featured": false,
+    "badges": [
+      {
+        "name": "gde",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-lisa_wray",
+        "description": "Google Developer Expert"
+      }
+    ],
     "name": "Lisa Wray",
     "bio": "Lisa Wray is an Android developer, speaker, and advocate specializing in user interfaces.  She currently works at Facebook and lives in Seattle.",
     "shortBio": "Android at Facebook",
     "country": "Seattle, USA",
     "companyLogo": null,
+    "company": "Facebook",
     "photo": "https://sessionize.com/image?f=8f83ad51e8aca6ef8774cefc293db8d7,400,400,1,0,29-30d3-4783-9a8c-d2e7b2a75f76.f55b300b-4787-4917-8e8b-52867c06b32b.jpg",
     "socials": [
       {
@@ -1128,6 +1206,7 @@
     "shortBio": "Senior Software Engineer at Grab Singapore",
     "country": "Singapore",
     "companyLogo": "1200px-Grab_(application)_logo.svg.png",
+    "company": "GrabSG",
     "photo": "https://sessionize.com/image?f=779eef2d18793ac6944bb18bec5cf9f2,400,400,1,0,31eec8c6-de40-4bfa-85c9-446d59e73202.jpg",
     "socials": [
       {
@@ -1200,6 +1279,7 @@
     "shortBio": "Chocolate Droid Officer",
     "country": "Paris France",
     "companyLogo": null,
+    "company": "Dailymotion",
     "photo": "https://sessionize.com/image?f=5f5ac67319859f16e601207744fc9452,400,400,1,0,40b547c1-7b9a-4928-9924-c13102e940c8.jpg",
     "socials": [
       {
@@ -1217,6 +1297,7 @@
     "shortBio": "Android Developer at Dashlane",
     "country": "Paris, France",
     "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
+    "company": "Dashlane",
     "photo": "https://sessionize.com/image?f=c9dbd3ac7486d60159b92292f8dded38,400,400,1,0,a0-8158-45a6-8bbf-10f6ad55ef18.f297498b-0436-4d97-bb22-86d23ff1644f.jpg",
     "socials": [
       {
@@ -1249,6 +1330,7 @@
     "shortBio": "Kotlin enthusiast, slight StackOverflow addict, aspiring educator and writer",
     "country": "Budapest, Hungary",
     "companyLogo": null,
+    "company": "",
     "photo": "https://sessionize.com/image?f=821b31ba727e5a4e63194decf401b39e,400,400,1,0,1c-96d7-480f-9eed-bf5dce444441.544836fc-7bdb-4611-a140-2bda3e9f9655.png",
     "socials": [
       {
@@ -1281,6 +1363,7 @@
     "shortBio": "Android developer at Babylon Health",
     "country": "London, United Kingdom",
     "companyLogo": "BABYLON-LOGO.png",
+    "company": "Babylon",
     "photo": "https://sessionize.com/image?f=7756ad5c67243699b93cdbc1b8d69f96,400,400,1,0,26440a13-27d3-43a1-b06a-08cd9759151a.jpg",
     "socials": [
       {
@@ -1326,6 +1409,7 @@
     "shortBio": "Dailymotion - Android Senior Developer",
     "country": null,
     "companyLogo": null,
+    "company": "Dailymotion",
     "photo": "https://sessionize.com/image?f=6280c369f2082b652cdb833357461582,400,400,1,0,5d1fbff5-0276-4638-9a47-d51c7079bdf2.jpg",
     "socials": []
   },
@@ -1336,7 +1420,8 @@
     "bio": "Former Square in San Francisco, now working at Soundcloud in Berlin",
     "shortBio": "Android at Soundcloud",
     "country": "Berlin, DE",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/SoundCloud.png",
+    "company": "Soundcloud",
     "photo": "https://sessionize.com/image?f=415bd88b1c76a926d3ee27c659aa046f,400,400,1,0,9d-5de0-4f39-a50a-ed48d6eb56ca.c091953d-d32b-4b08-a057-5789670b3de1.jpeg",
     "socials": [
       {
@@ -1376,6 +1461,7 @@
     "shortBio": "Developer Advocate (Material Design) at Google",
     "country": "Munich, Germany",
     "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=0290c1ba555a28007c5ed4976d5d14b3,0,0,0,0,2c-785e-4ba5-98b4-2d6fd5cd4343.787b90a9-b4bc-4906-9927-c183b19f713e.jpg",
     "socials": [
       {
@@ -1408,6 +1494,7 @@
     "shortBio": "Android tech lead at Meetic",
     "country": "Lille, France",
     "companyLogo": "/images/logos/Meetic.png",
+    "company": "Meetic",
     "photo": "https://sessionize.com/image?f=389f4f4d6a6f55ba0c12e8f8de5e4fff,400,400,1,0,c0-d0df-45bf-a2f2-cd30791d27b6.cd7dfb1b-259d-4bc6-8a4b-f4c14376d784.jpg",
     "socials": [
       {
@@ -1470,6 +1557,7 @@
     "shortBio": "Android developer @ OCTO Technology",
     "country": "Paris - France",
     "companyLogo": "/images/logos/octo.svg",
+    "company": "Octo",
     "photo": "https://sessionize.com/image?f=46e9340cc6676b60f0763a6231f5c14a,400,400,1,0,69d97ec6-e9f0-474a-afed-3668b94ed882.jpg",
     "socials": [
       {
@@ -1525,6 +1613,7 @@
     "shortBio": "Android developer",
     "country": "Stockholm, Sweden",
     "companyLogo": "citerus-logo.png",
+    "company": "",
     "photo": "https://sessionize.com/image?f=553decd895f2057deaee5de92b86311a,400,400,1,0,18-e092-4474-b8c6-808fe33cedc0.b8264e7e-9d1e-4361-8895-5f2496153e50.jpg",
     "socials": [
       {
@@ -1585,12 +1674,41 @@
     "shortBio": "Practice Leader Mobile chez ASI",
     "country": "Nantes France",
     "companyLogo": null,
+    "company": "ASI",
     "photo": "https://sessionize.com/image?f=ccc6d80222c2b43c183dbf21bd20522c,400,400,1,0,b1-ca6f-4e25-8442-f67cdc7f2b5c.be2c140c-da4a-4b8e-8498-8b7825ea5ad5.jpeg",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/ptibulle",
         "name": "Twitter"
+      }
+    ]
+  },
+  "689c7d97-daf7-4adc-8535-1fd646915977": {
+    "order": 4,
+    "featured": false,
+    "name": "Pierre-Antoine LaFayette",
+    "bio": "Pierre is an Android VR engineer working on 3D rendering for mobile VR platforms. Previously worked on 360 photo and video rendering in Facebook 360 and Oculus Video for GearVR / Oculus Go as well as in Facebook for Android. He is known internally as the \"Face of VR\" thanks to his iconic Oculus Rift photo. Born and raised in Toronto 🇨🇦. Has competed in basketball, trained in Muay Thai, and performed as a latin dancer.",
+    "shortBio": "The Face of VR",
+    "country": "Sunnyvale, California, USA",
+    "companyLogo": null,
+    "company": "Facebook",
+    "photo": "https://sessionize.com/image?f=7e127eb15b8968409e8461f3eea51bc9,400,400,1,0,bc358db1-8037-46c9-aad7-8a286dd30583.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/03lafaye",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/plafayette",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://medium.com/@pierrebear",
+        "name": "Blog"
       }
     ]
   },
@@ -1627,6 +1745,7 @@
     "shortBio": "Android App Master @Lunabee Studio",
     "country": "Lyon, France",
     "companyLogo": "/images/logos/lunabee.png",
+    "company": "Lunabee",
     "photo": "https://sessionize.com/image?f=8f8a39b841c9808461f005a829903e37,400,400,1,0,08-c439-4f1b-986b-f8344d6d60e0.2dec2c5b-fd08-43d6-b69d-d25e548a1640.jpg",
     "socials": [
       {
@@ -1679,6 +1798,17 @@
       }
     ]
   },
+  "0b98f2d1-1e2f-4ea7-81b7-6a0d0d700112": {
+    "order": 4,
+    "featured": false,
+    "name": "Richard Bogdan",
+    "bio": "I am a software developer with Android focus. I had 3 workplaces in the past 10 years, currently I am working at Bitrise.",
+    "shortBio": "Software developer @ Bitrise",
+    "country": null,
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=cb6f398d5f093afebf3a57442804afc7,400,400,1,0,af495fb8-4dfd-4fc8-888f-667c42e56209.jpg",
+    "socials": []
+  },
   "152f613f-841b-407d-9a65-3703ec2dfae2": {
     "order": 1,
     "featured": true,
@@ -1727,6 +1857,7 @@
     "shortBio": "Founder @Emblock, proud PAUG member since many years, many experiences as CTO & innovation manager.",
     "country": "Nantes, France",
     "companyLogo": null,
+    "company": "Emblock",
     "photo": "https://sessionize.com/image?f=84acf1954bb480923b75b17b1c7dc410,400,400,1,0,d34fdfd1-ede9-46c8-b51d-86d36e6111a2.jpg",
     "socials": [
       {
@@ -1838,7 +1969,8 @@
     "bio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA and then Novoda. \r\n\r\nRegularly speaking at conferences and brain-dumping on the 'net got him into the Google Developers Experts programme in 2014. Nowadays he's working on some rather cool Kotlin stuff for JetBrains.",
     "shortBio": "Software Engineer at JetBrains; GDE for Android, Flutter and Identity",
     "country": "Vicenza, Italy",
-    "companyLogo": "jetbrains.svg",
+    "companyLogo": "/images/logos/jetbrains.svg",
+    "company": "Jetbrains",
     "photo": "https://sessionize.com/image?f=c74ace072d5d24c1cfb41d805601ca0b,400,400,1,0,9313cd75-0b41-44ae-b668-473ea98d668b.jpg",
     "socials": [
       {
@@ -1875,7 +2007,8 @@
     "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
     "shortBio": "Software Engineer at 1MG Technologies",
     "country": "New Delhi, India",
-    "companyLogo": "splash_1mg.png",
+    "companyLogo": "/images/logos/splash_1mg.png",
+    "company": "1MG Technologies",
     "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
     "socials": [
       {
@@ -1907,7 +2040,8 @@
     "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
     "shortBio": "Senior Android dev at Square",
     "country": "Bay Area, CA, USA",
-    "companyLogo": "square-logo.png",
+    "companyLogo": "/images/logos/square-logo.png",
+    "company": "Square",
     "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
     "socials": [
       {
@@ -1930,6 +2064,7 @@
     "shortBio": "Android Growth Engineer @Lyft",
     "country": "Seattle, USA",
     "companyLogo": "/images/logos/lyft.svg",
+    "company": "Lyft",
     "photo": "https://sessionize.com/image?f=74534b88ca180b927651aa4d9ae02967,400,400,1,0,09-8132-4ac8-91a5-9e7b293063a4.5bfff84a-3ddf-47af-a9ca-06baeb80662b.jpg",
     "socials": [
       {
@@ -1962,6 +2097,7 @@
     "shortBio": "Tech lead at Slack",
     "country": "San Francisco, California",
     "companyLogo": "slack-logo.png",
+    "company": "Slack",
     "photo": "https://sessionize.com/image?f=864dabb49e05f168ee70e894df853d03,400,400,1,0,f64bf5a5-7cff-4e95-b715-88bb530ff294.jpg",
     "socials": [
       {
@@ -1993,7 +2129,8 @@
     "bio": "Xavier F. Gouchet is a Senior Software Engineer at Datadog, experienced public speaker, and proud father. Passionate about open source, testing and architecture, he has been dabbling in Android since the Cupcake days and has been working as a professional Android engineer since 2012. \r\n",
     "shortBio": "Senior Software Engineer at Datadog",
     "country": "France",
-    "companyLogo": "dd_icon_rgb.png",
+    "companyLogo": "/images/logos/datadog.png",
+    "company": "Datadog",
     "photo": "https://sessionize.com/image?f=e163eb835478b09d22bd379acdd2b3cc,400,400,1,0,7f-fad3-49b7-a6b3-82b5f46e5549.1b538ffc-4cb1-40aa-b6b5-9ab8c8986003.png",
     "socials": [
       {
@@ -2056,6 +2193,7 @@
     "shortBio": "Android developer advocate at Google",
     "country": "London, United Kingdom",
     "companyLogo": "/images/logos/google.svg",
+    "company": "Google",
     "photo": "https://sessionize.com/image?f=172c8141caec5dbd9c73cbe3976d5f9f,400,400,1,0,2c9382ba-cf29-407c-a3d1-6988f8eb72d7.jpg",
     "socials": [
       {

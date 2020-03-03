@@ -51,23 +51,43 @@
       "Service"
     ]
   },
-  "173227": {
-    "title": "All things Background - is there life after AsyncTask?",
-    "description": "Android offers a range of background processing APIs - from WorkManager, JobScheduler to DownloadManager. While AsyncTask was deprecated, Coroutines offer new possibilities. With all of these options it seems challenging to know when you should use which.  \r\nThis talk will provide actionable guidance using a use-case approach to explain what each API is good at, their differences and nuances.",
-    "language": "English",
-    "complexity": "Intermediate",
+  "176356": {
     "speakers": [
-      "b4cf78c9-623b-4b8f-b676-097fb7802668",
-      "e869461e-b6fb-43e5-a89c-033da87008c0"
+      "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775",
+      "f2c947c4-393b-4476-b6b3-b2507e6137dc"
     ],
+    "title": "Putting The Pieces Back Together : Our Broken Industry",
+    "language": "English",
+    "description": "There are amazing aspects of being in tech - such as communities that are always willing to help and learn from each other, the ability to create positive change in people’s lives and of course, it’s a well-paid profession. I’d rather not do anything else, but there are factors that make me reconsider sometimes. \r\n\r\nIn this talk, we are going to learn how we can do better. The not-so-good side of tech includes gatekeeping (Dagger vs Koin anyone?), de-prioritising privacy and accessibility, devaluing emotional intelligence, increasing rates of burn-out, being allergic to hiring juniors and the list goes on.\r\n\r\nWe will reflect on how we can do better as an industry with actions we can start taking right away, like how to practice compassionate coding, how to avoid creating emotional labor, how to achieve inclusivity in our tech communities, how to hold our organisations accountable and more. \r\n\r\nWith increased awareness and ideas for action, we can put the pieces back together. ",
+    "complexity": "Introductory and overview",
     "tags": [
-      "Architecture"
+      "Soft skills"
     ]
+  },
+  "172069": {
+    "title": "Something Something Comedy Something Something",
+    "description": "(we'll develop some new satire talk for this event, in the general area of tech/business/management)",
+    "speakers": [
+      "05fa719f-1528-43ef-adf9-eca92f383262",
+      "152f613f-841b-407d-9a65-3703ec2dfae2"
+    ],
+    "language": "English",
+    "complexity": "Introductory and overview"
+  },
+  "172068": {
+    "title": "Graphics Programming for Android Programmers",
+    "description": "In this session you will learn about the different rendering techniques used in graphics programming: raster/bitmaps, 2D vectors, 3D rasterization, ray-marching, ray-tracing, etc. You will understand when to use which technique and what APIs Android provides to use those techniques in your applications.",
+    "speakers": [
+      "05fa719f-1528-43ef-adf9-eca92f383262",
+      "152f613f-841b-407d-9a65-3703ec2dfae2"
+    ],
+    "language": "English",
+    "complexity": "Introductory and overview"
   },
   "176381": {
     "title": "Android App Bundle / Android PacKage : à chaque format suffit sa tâche",
     "description": "Pendant plus de 10 ans, l'apk a fait office de format à la fois pour l'installation et la publication d'applications Android. Aujourd'hui, le format aab (Android App Bundle) qui a été introduit en 2018 est devenu le format officiel de publication. Ses principaux objectifs: réduire la taille des packages servis par le store, et favoriser la modularité des applications grâce notamment aux dynamics features. \r\nL'apk reste plus que jamais le format d'installation d'une application. S'il a longtemps été d'usage pour un développeur de déployer un apk \"fat\", l'aab donne à présent au Playstore une opportunité d'optimiser le (ou plutôt les) package[s] qui seront transmis. \r\nNous verrons en détails comment tout cela est rendu possible. \r\n\r\n",
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
       "b8647805-eaff-4885-929f-513d5f1ee728"
@@ -90,9 +110,9 @@
     ]
   },
   "168603": {
-    "title": "Android everywhere!",
+    "title": "FR Android everywhere!",
     "description": "Feedback on VLC adaptationto various Android platforms, such as mobile, TV, Auto, Chromebooks, Desktop mode, foldable, casting.\r\nAnd  and presentation of these platform with live demos of VLC on it.\r\n\r\nLet's see how to achieve it, what are the pains and the benefits.",
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
       "78ffd2f4-e52a-4a7d-8ead-8cf072843946"
@@ -153,19 +173,6 @@
       "Design"
     ]
   },
-  "169276": {
-    "title": "Automate your workflows with Kotlin",
-    "description": "From git housekeeping to releasing. From keeping a sane backlog to handling internationalization and monitoring status, the life of a developer involves more than meets the eye.\r\n\r\nThis talk will be a feedback about how we use Kotlin extensively at dailymotion to:\r\n\r\n* automate the dev workflows with command-line apps on dev machines.\r\n* achieve CI independence with kotlin runners on CI machines.\r\n* run Kotlin on the server using the gradle appengine plugin.\r\n* more generally, ditch bash and perl and use kscript instead.\r\n\r\nThat's a lot to cover and the goal of this talk is not to dig into each technology but more to inspire and show the range of possibilities opened by Kotlin.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "9c90fc80-8166-4e7a-975c-5b4321000659",
-      "d904f0ac-0ae8-4405-8223-4f688adef9df"
-    ],
-    "tags": [
-      "Tools"
-    ]
-  },
   "173222": {
     "title": "Benchmarking your application",
     "description": "Back in 1974, Donald Knuth said that “premature optimization is the root of all evil (or at least most of it) in programming”. But optimization without benchmarks can be even worse than that. It’s like following a map without using a compass, and just following your instinct that you’re going in the right direction. \r\n\r\nWhether it is during development or at runtime, many tools exist to let you measure the performance of your applications. These measures can then be used to prioritize which parts to optimize first, as well as measure the performances gained (or lost) after a refactoring.\r\n",
@@ -179,37 +186,30 @@
       "Tools"
     ]
   },
-  "173974": {
-    "title": "Breaking your app security: Unexpected security flaws and how to fix them",
-    "description": "If you think that I will talk about hiding your private keys into C/C++ code, you're wrong.\r\n\r\nLet's discover together some real security issues that have been found into production apps, and how to fix them.\r\nThrough a lot of concrete examples, we will see how easy it is to introduce a security flaw into your app.\r\n\r\nHackers are smart, let's get smarter: You will get from this session a bunch of useful tips you can apply in your everyday job to make sure that your app is as secure as it should be.\r\n\r\nAnd if you are a hacker, well.. you may find new ways to attack most popular apps.",
+  "176235": {
+    "title": "CameraX - the new powerful Jetpack library",
+    "description": "Camera development has been quite a painful task. But now comes the new Jetpack library : CameraX. With a use case based lifecycle aware approach, it provides a consistent & easy to use API. In the talk, I will talk about:\r\nOverview & architecture\r\nLibrary structure with 3 main abstracted handles \r\nBinding the use cases to the Lifecycle\r\nPrimary benefits \r\nSample app code to demonstrate how to get started\r\nThe goal is to help everyone understand how this library aims to strike a balance between abstracting away the difficult bits of managing the camera while allowing flexibility and customization. The “Click of a camera” has just become easier!",
     "language": "English",
     "complexity": "Intermediate",
     "speakers": [
-      "cda15006-0bbc-47f8-ac5e-5405709c2af9"
+      "a34985cc-f276-4f1a-ba53-db86d084fe93"
     ],
     "tags": [
-      "Security"
+      "Under the hood"
     ]
   },
-  "176397": {
-    "title": "Building an accessible smart guitar for the deaf, blind and mute",
-    "description": "I've always loved playing guitar - but I feel it's something that I've always taken for granted. Whilst I was able to pick up a guitar\r\nand start teaching myself how to play, that experience might not be the same for everyone. That's why I decided to build a smart, accessible guitar that would allow others to experience the joy of music with less of hurdle to do so.\r\n\r\nPowered by Actions on Google, Firebase, Dialogflow and Google Cloud - the Chord Assist smart guitar allows people who are blind, deaf or mute to be able to learn, play and tune their guitar. In this talk I want to share the journey of this project - from the importance of inclusive craft to how all these technologies come together to provide an accessible experience for everyone.\r\n",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "22a0842d-51da-43e2-a5f2-b48893ae49f4"
-    ],
-    "tags": []
-  },
-  "176513": {
-    "title": "Conquering Common Conundrums with ConstraintLayout",
-    "description": "ConstraintLayout was announced at Google I/O 2016, but even after 4 years of improvements, additions, and fixes, it can still be a little daunting to get started with ConstraintLayout. Even if you've been using it for a while, the sheer volume of functionality and possibility can be overwhelming. You might have a nagging feeling that you are not using ConstraintLayout in \"the right away\" or at least not using it to its full potential.\r\n\r\nIn this session, we're going to look at common layout problems and ask common layout questions, and start solving them with ConstraintLayout, exploring why and when we might choose some features and functionality over others and building a basic set of tools and techniques. Hopefully, after this talk, ConstraintLayout will feel less overwhelming with a fundamental toolset upon which you can build as you conquer increasingly complex layouts.",
-    "language": "English",
+  "169276": {
+    "title": "Compilez, déployez et gérez votre CI en Kotlin",
+    "description": "Kotlin est devenu le standard pour le dev Android. Mais saviez vous qu'il pouvait être utilisé dans de nombreux autres cas ?\r\n\r\n* Sur les machines de dev, pour la gestion des pull requests et connexion Jira.\r\n* Sur les serveurs de CI  avec un runner Kotlin qui execute la compilation, tests et publication.\r\n* De manière générale, pour remplacer Bash et Perl par du Kotlin partout!\r\n\r\nAprès une introduction à KScript et Clikt, nous présenterons Kinta, un outil d'automatisation pour le développement mobile, évolutif et opensource.\r\n",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
-      "2d41d3fb-3321-4b47-a401-ae84a5de2423"
+      "9c90fc80-8166-4e7a-975c-5b4321000659",
+      "d904f0ac-0ae8-4405-8223-4f688adef9df"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "176241": {
     "title": "ConstraintLayout : now and next",
@@ -240,6 +240,18 @@
       "Under the hood"
     ]
   },
+  "173974": {
+    "title": "Déjouer la sécurité de votre app : Les problèmes de sécurité inattendus et comment les corriger",
+    "description": "Si vous pensez que je vais vous conseiller de dissimuler vos clés privés dans du code C/C++, vous vous trompez !\r\n\r\nDécouvrons ensemble quelques véritables problèmes de sécurité qui ont été trouvés dans des applications en production (et comment les résoudre).\r\nAu moyen de quelques exemples concrets, nous verrons à quel point (et sans le faire exprès), il est facile d'introduire une faille de sécurité dans une application.\r\n\r\nLes pirates sont malins, soyons plus malins qu'eux : Vous sortirez de cette session avez quelques conseils et astuces applicables à votre travail de tous les jours, afin de vous assurer que votre application est aussi sécurisée que possible.\r\n\r\nEt si vous êtes un pirate, et bien.. il est possible que vous repartiez avec de nouvelles idées pour vos prochaines attaques.",
+    "language": "French",
+    "complexity": "Intermediate",
+    "speakers": [
+      "cda15006-0bbc-47f8-ac5e-5405709c2af9"
+    ],
+    "tags": [
+      "Security"
+    ]
+  },
   "173703": {
     "title": "Dekompiling",
     "description": "Kotlin has many features that are leaps and bounds ahead of Java. However, its primary target platform being the JVM, all of these features still need to compile to the same bytecode as Java does.\r\n\r\nThis is a look at how a variety of interesting Kotlin features are compiled to bytecode, and what their Java equivalents would be. Even though Kotlin abstracts away much of the virtual machine and the original feature set of Java with its own features, it’s still important to know what your Kotlin code compiles to. Not only can this knowledge give you the power to optimize your code, but it will also help you avoid subtle bugs that would otherwise be near impossible to track down.",
@@ -261,7 +273,9 @@
     "speakers": [
       "9658fd1d-2e15-45cc-9302-7d29be9f7213"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "170959": {
     "title": "Developing in the Dark",
@@ -288,9 +302,9 @@
     ]
   },
   "174151": {
-    "title": "Don't lose yourself with the Android Location Framework",
+    "title": "FR Don't lose yourself with the Android Location Framework",
     "description": "Français:\r\nAujourd’hui, on compte plus de 2,3 milliards d’appareils tournant sous Android dans le monde. Cela représente tout autant de récepteurs GPS - ou plutôt GNSS – et beaucoup d’applications nécessitent ou utilisent une position. Cela parait simple d’utiliser les Google Play Services pour récupérer une lastLocation ou directement la couche android.location avec un joli onLocationChanged ; et c’est parfois bien suffisant dans bien des cas, mais pas toujours...\r\n\r\nAlors, comment cette position est-elle construite ? Par quelles entrées ? De plus, qu’est-ce qu’une position exactement ? Et c’est quoi la FusedLocation ? On peut très vite se perdre lorsque l’on cherche à se positionner correctement et avec précision. \r\n\r\nLe framework de localisation Android est complexe et relativement lourd… Il reste cela dit très performant et cache pas mal de secrets ! Par exemple, saviez-vous que vous pouvez lire directement le contenu d’un message envoyé par les satellites ? Ou encore qu’on peut utiliser d’autres sources de données pour calculer une position, notamment grâce à la fusion ?\r\nDurant cette présentation, nous allons décortiquer la couche android.location et comprendre comment une position est calculée, comment bien utiliser les différentes callbacks ou méthodes qui doivent nous retourner cette position. Mais aussi les différentes capacités cachées du framework, et pourquoi pas une introduction au monde merveilleux du GNSS… \r\n\r\nEnglish:\r\nToday, we count more than 2.3 billion Android devices in the world. This is as much GPS receivers; or GNSS receivers, and a\r\nlot of application require or use a location. Using Google Play Services looks easy for gathering a lastLocation, or directly through the android.location layer with a nice onLocationChanged; this is often enough. But how this location is computed? Using which inputs? What is truly a location? And what is this FusedLocation everybody talks about ? We can be quickly lost when we search for a precise position.\r\nThe Android’s framework is complexe, quite heavy, yet, it performs well et hides some secrets. For instance, did you know that you can read the whole content of a satellite message? But also, we can use several sources for positioning using fusion! \r\nDuring this talk, we will be dissecting the android.location layer and understand how a position is calculated. How to use correctly the multiple callbacks or methods available which returns a location. But also, the different hidden ability of the framework, and why an introduction to the wonderful world of GNSS… \r\n",
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
       "9b593465-3930-4605-8f4d-4dacc490a7e5"
@@ -313,7 +327,7 @@
     ]
   },
   "176625": {
-    "title": "Easing in to Material transitions",
+    "title": "Easing into Material transitions",
     "description": "Motion plays a key part in making your UI expressive and easy to use. Arguably the most important type of motion is transitions; they are the foundation of a strong motion system and fundamental to the usability of an app. However, implementing transitions has traditionally been challenging...\r\n\r\nIn this session, you will learn about the new Material Design transition patterns and speccing guidelines. See how these can be easily implemented in code and customized for your app's needs, using the Material Components for Android library.",
     "language": "English",
     "complexity": "Intermediate",
@@ -345,7 +359,9 @@
     "speakers": [
       "0ef1e55b-29b9-4c4b-938d-c59b6c8ea9d3"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "176377": {
     "title": "Experimenting with the Kotlin Compiler",
@@ -355,7 +371,9 @@
     "speakers": [
       "c03a7211-54ff-4819-9789-1a22ed91fafc"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "175635": {
     "title": "Finding the view",
@@ -369,18 +387,6 @@
       "Under the hood"
     ]
   },
-  "168437": {
-    "title": "Flowing Things, not so strange in the MVI world",
-    "description": "Migrating an Rx MVI pattern completely to coroutines using Flow.\r\n\r\nIn the MVI world, there was a missing piece from the coroutines framework and due to this, it always felt strange to completely adopt coroutines. Recently, with the introduction of Co-routines Flow library, things are not so strange anymore.\r\nIn this talk we will have a look at Coroutines Flow library, its need and how it compares with the reactive world. We will then learn to migrate an Rx MVI pattern to use coroutines Flow.",
-    "language": "English",
-    "complexity": "Advanced",
-    "speakers": [
-      "6b8f27b2-f4f8-4dcb-92e7-0381ae87ad85"
-    ],
-    "tags": [
-      "Architecture"
-    ]
-  },
   "175957": {
     "title": "Flutter: A Path of Vines and Flowers",
     "description": "The Flutter framework provides some great features that have lured a lot of developers. In real life though, not everything is perfect. As professional developers, we can expect nothing less than great tooling, a strong support for enabling several environments, a robust way of managing resources and providing a great user experience. In this talk I'll explain the great features but I'll also cover several aspects that Flutter development is currently lacking, all of that from an Android developer perspective.",
@@ -389,7 +395,9 @@
     "speakers": [
       "7c888e22-f254-4e04-aa56-1853ab18c000"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "174763": {
     "title": "From 7 to 70 Developers, How to Scale your App Release Process",
@@ -401,6 +409,21 @@
     ],
     "tags": [
       "Soft skills"
+    ]
+  },
+  "166909": {
+    "title": "Fueled Reactive apps with Asynchronous Flow",
+    "description": "Reactive Extensions are widely used on large scale successful Android applications, and for this, the most popular library is an adaptation of these Reactive Extensions, the very well known RxJava. What if we could use the existing Kotlin suspending functions asynchronously to return more than a single value?\r\nHow could we return multiple asynchronously backed results in Kotlin?\r\nKotlin Flows to the rescue!\r\nWould Kotlin Flows replace RxJava in the long term on the Android platform? How could we start migrating smoothly to Flow on hybrid (Java & Kotlin) languages apps?",
+    "language": "English",
+    "complexity": "Intermediate",
+    "speakers": [
+      "75a99392-2d32-4632-9d9b-a70bb700365c"
+    ],
+    "tags": [
+      "Design",
+      "GreenTech",
+      "Language",
+      "Tools"
     ]
   },
   "175937": {
@@ -443,16 +466,18 @@
       "Architecture"
     ]
   },
-  "172068": {
-    "title": "Graphics Programming for Android Programmers",
-    "description": "In this session you will learn about the different rendering techniques used in graphics programming: raster/bitmaps, 2D vectors, 3D rasterization, ray-marching, ray-tracing, etc. You will understand when to use which technique and what APIs Android provides to use those techniques in your applications.",
+  "176338": {
+    "title": "Handle gestures and touch events for CustomView",
+    "description": "Creating custom view itself is a challenging task, what if you have a requirement it needs to be aware of touch events, gestures(Drag, fling, swipe), that itself makes the task daunting and to make it worst, a designers comes up with a requirement its properties(background, shape, etc) should react based on the touch.\r\n\t\r\n\tIn this talk, we learn about how android touch system work. We will also learn how to deal with nested scrolling view groups, along with mixture of canvas, animation API's how  we can manipulate our view appearance based on user touch behaviour. We will also have an overview of other alternatives provided by android framework.\r\n\t\r\n\tAt the end of talk we will have good understanding about the touch system and ways to incorporate this in our apps.",
     "language": "English",
-    "complexity": "Introductory and overview",
+    "complexity": "Intermediate",
     "speakers": [
-      "152f613f-841b-407d-9a65-3703ec2dfae2",
-      "05fa719f-1528-43ef-adf9-eca92f383262"
+      "464fd6c7-2ecb-48cf-8f9d-c82bb160cb5f"
     ],
-    "tags": []
+    "tags": [
+      "Animation",
+      "Under the hood"
+    ]
   },
   "169303": {
     "title": "How much memory do your objects really use?",
@@ -601,7 +626,9 @@
     "speakers": [
       "6e75d5a7-6616-4fe1-8681-a4a78db7b62e"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "174286": {
     "title": "Managing parallelism using coroutines",
@@ -627,18 +654,6 @@
       "Architecture",
       "Language",
       "Testing"
-    ]
-  },
-  "176518": {
-    "title": "MVVM (and friends) tips, tricks, and learnings",
-    "description": "MVP? MVVM? MVI! MvRx? Unidirectional data flow. Driving UI from a model. Single source of truth! Observer patter.\r\n\r\nIt's really easy to mumble about patterns and concepts and pretend to know about whatever is trending at the moment, but when it comes to actually writing the code and getting those things out of the paper, it's a whole different story.\r\n\r\nIn this talk we'll share everything we've learned so far from working in an MVVMish way in the last year. The good (how do we properly handle a single stream of data?), the bad (how do we handle events? what about navigation?), the real (how do we write tests?), and the contradictory (how do we make Dagger and ViewModels happy together? should I like LiveData?) -- it's all there! Examples included.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "da213722-3f6b-4f2d-b47f-59bb947ec0e3"
-    ],
-    "tags": [
-      "Architecture"
     ]
   },
   "175185": {
@@ -692,23 +707,10 @@
       "Under the hood"
     ]
   },
-  "176356": {
-    "title": "Putting The Pieces Back Together : Our Broken Industry",
-    "description": "There are amazing aspects of being in tech - such as communities that are always willing to help and learn from each other, the ability to create positive change in people’s lives and of course, it’s a well-paid profession. I’d rather not do anything else, but there are factors that make me reconsider sometimes. \r\n\r\nIn this talk, we are going to learn how we can do better. The not-so-good side of tech includes gatekeeping (Dagger vs Koin anyone?), de-prioritising privacy and accessibility, devaluing emotional intelligence, increasing rates of burn-out, being allergic to hiring juniors and the list goes on.\r\n\r\nWe will reflect on how we can do better as an industry with actions we can start taking right away, like how to practice compassionate coding, how to avoid creating emotional labor, how to achieve inclusivity in our tech communities, how to hold our organisations accountable and more. \r\n\r\nWith increased awareness and ideas for action, we can put the pieces back together. ",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775",
-      "f2c947c4-393b-4476-b6b3-b2507e6137dc"
-    ],
-    "tags": [
-      "Soft skills"
-    ]
-  },
   "176384": {
     "title": "Que peux apporter la blockchain à un développeur mobile en 2020 ?",
     "description": "Malgré plus de 10 ans d'existence, les technologies regroupées sous l'appellation blockchain restent méconnues. Elle présentent malgré tout des avantages dans beaucoup d'applications comme la gestion de l'identité, la sécurité des données, ou le respect des données privées. Nous ferons dans ce talk l'état de l'art des technologies blockchain, et leurs applications possibles dans une application mobile.",
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
       "933caffb-2f12-49f0-b438-fcb1e0c6562b"
@@ -716,6 +718,18 @@
     "tags": [
       "Architecture",
       "Security"
+    ]
+  },
+  "185789": {
+    "title": "Reaktive: reactive programming in Kotlin Multiplatform",
+    "description": "Nowadays reactive programming is one of the key skills of (not only) a mobile developer. It is successfully being used for both Android and iOS development and other platforms. With the advent of the Kotlin Multiplatform Project there is a desire to use reactive programming in it as well.\r\nI will talk about our Reaktive library and its features. Will superficially cover its Kotlin Native part, K/N memory model, multithreading, and how Reaktive works in Kotlin Native. I will also quickly compare Reaktive with coroutines.",
+    "language": "English",
+    "complexity": "Advanced",
+    "speakers": [
+      "cb3de15d-e971-496b-bdcf-db23155f3f17"
+    ],
+    "tags": [
+      "Language"
     ]
   },
   "176470": {
@@ -771,17 +785,6 @@
       "Soft skills"
     ]
   },
-  "172069": {
-    "title": "Something Something Comedy Something Something",
-    "description": "[placeholder - we'll develop some new satire talk for this event, in the general area of tech/business/management)",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "05fa719f-1528-43ef-adf9-eca92f383262",
-      "152f613f-841b-407d-9a65-3703ec2dfae2"
-    ],
-    "tags": []
-  },
   "174186": {
     "title": "Soyons acteurs du développement (mobile) durable",
     "description": "Remplacer les gobelets en plastique par des gourdes. Éteindre les appareils en veille. La prise de conscience collective sur l’environnement a permis de déterminer des gestes  simples que l’on peut tous faire pour améliorer à notre niveau la situation écologique.\r\n\r\nMais qu’en est-il de nos habitudes professionnelles ? En tant que développeurs mobiles, des gestes sont également possibles. Aussi bien notre chaîne de production (poste de travail, usine d’intégration continue) que nos apps. Car chaque consommation énergétique, si peu coûteuse soit-elle, multipliée par des centaines de milliers d’installations engendre un triste gâchis.\r\n\r\nConscient de surfer sur la vague environnementale, ce talk abordera ces habitudes de développeurs mobiles que nous pouvons changer, à quel prix et pour quels bénéfices. Nous parlerons également d'obsolescence programmée, dont nous nous rendons complices sans même parfois nous en apercevoir. \r\n",
@@ -807,6 +810,18 @@
       "Language"
     ]
   },
+  "176420": {
+    "title": "Take Control Of Your APIs With GraphQL",
+    "description": "Have you ever been blocked from being productive at your job because you're waiting on a change from the API team? Started building a page only to find out the API response doesn't actually have what you need? With GraphQL, we don't have to wait for someone else. In this talk, we'll introduce the benefits of a client side API and understand why this will be the approach of the future. You'll learn what tools are available for consuming GraphQL APIs on Android, and tips for having them coexist with the REST APIs you already support. You'll leave this talk with a clear roadmap on how you can begin migrating your apps to this new technology. ",
+    "language": "English",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "b9af7051-03c3-4595-88ca-a1825112ece4"
+    ],
+    "tags": [
+      "Tools"
+    ]
+  },
   "176369": {
     "title": "Taking over someone else's codebase",
     "description": "Android has now been around for quite a while and it's becoming rare to have the chance of writing a new app from scratch in a professional environment. In this talk we'll have a look at problems that may arise while taking on someone else's codebase, what can be done to have an impact from day one and avoid the usual \"I don't understand this code\" frustration.\r\nThis talk will include both technical bits (quick architecture wins, gradle tweaking...)  as well as more generic advice regarding communicating empathically with other developers and making incremental changes leading to a codebase we feel comfortable and happy with.",
@@ -825,6 +840,20 @@
       "Under the hood"
     ]
   },
+  "176247": {
+    "title": "Taking Your Talents to VR: Android Development on Oculus Quest",
+    "description": "Step into VR and immerse your Android development. Oculus Quest, with its simplicity and convenience, is proving to be VR's first console and is getting critical acclaim. But did you know that you can build and deploy both 2D and 3D Android apps on Oculus Quest? In this talk, Pierre will cover the different ways to build applications for Oculus Quest looking at a few different case studies. He'll talk about Quill Theater, a new application he worked on for playing back VR drawn animation from Quill. Quill Theater was built with a traditional native C++ Android app development process using an OpenGL ES 3D renderer. If you have a graphics background, mobile game developers have had a lot of success taking their talents to mobile VR. We believe AR and VR ubiquity is on the horizon so developing a 3D skill set is a good investment for any Android developer, and there are several ways to build 3D applications for Quest. With 2D app reprojection on Oculus Quest, we are also able to enjoy Android media applications in VR in Oculus TV. Oculus Quest may just be the most fun destination for Android development!",
+    "language": "English",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "689c7d97-daf7-4adc-8535-1fd646915977"
+    ],
+    "tags": [
+      "Animation",
+      "Architecture",
+      "Under the hood"
+    ]
+  },
   "176209": {
     "title": "The Hitchhikers Guide Through Kotlin Multiplatform",
     "description": "Since the early days of mobile that we keep seeing new frameworks being designed to overcome one of the biggest challenges:\r\n* How can I develop for both Android and iOS?\r\n\r\nAlthough it’s initial promises, when we talk about performance, maintainability or even customization we keep discarding these solutions and we always choose native.\r\n\r\n\r\nFast forward to the present, and now we have two new languages: Android is Kotlin first and iOS, Swift. And if you put them side by side you can see a lot of similarities between both what will ease switching between one to the other if you have to develop for both platforms.\r\n\r\nBut what I told that you could just develop in Kotlin and run it seamlessly on all devices?\r\n\r\nHere comes Kotlin Multiplatform!",
@@ -833,7 +862,9 @@
     "speakers": [
       "2bc1e95f-1243-4ad0-8a11-75541fee10e0"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "175068": {
     "title": "The Light Way",
@@ -843,7 +874,9 @@
     "speakers": [
       "b2005329-30d3-4783-9a8c-d2e7b2a75f76"
     ],
-    "tags": []
+    "tags": [
+      "Tools"
+    ]
   },
   "172401": {
     "title": "The Secrets of the Build Scan Plugin and the internals of Gradle",
@@ -885,9 +918,9 @@
     ]
   },
   "175760": {
-    "title": "Welcome onBoard!",
+    "title": "FR Welcome onBoard!",
     "description": "Congratulation! 🥳\r\nYou finally managed to hire the rare gem that a developer is.\r\nNow, s/he can help you can take some of the workloads off your shoulders and slay bugs 🤺\r\nWell, not exactly 😟\r\nThe first steps in a new company are often hard and stressful. It may take some time before s/he finds her/his marks and get up to speed with the rest of the team.\r\nCome and learn how to make a newbie feeling welcome and happy to work in your team.\r\n\r\n(This talk will also give tips for the newly hired devs)",
-    "language": "English",
+    "language": "French",
     "complexity": "Introductory and overview",
     "speakers": [
       "0f359408-c439-4f1b-986b-f8344d6d60e0"
@@ -920,6 +953,30 @@
       "Soft skills"
     ]
   },
+  "186387": {
+    "title": "Whats new with Data Storage?",
+    "description": "Google introduced the idea of Scoped Storage to further increase the security of application storage usage. Scoped Storage was planned to be implemented in Android 10, but it caused great noise in the developer community, so it has been postponed. Now with Android 11 on the sight, it looks like Scoped Storage is happening for real. Within my talk I will briefly introduce Scoped Storage to the audience, describe some challenges with the migration to it, and share my thoughts how could we do it in a pain free way.",
+    "language": "English",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "0b98f2d1-1e2f-4ea7-81b7-6a0d0d700112"
+    ],
+    "tags": [
+      "Tools"
+    ]
+  },
+  "173975": {
+    "title": "Why derive a Password",
+    "description": "As Android developers, security matters in Android development. With the rapid growth of Android devices in the world, Security has never been as important as it is today, and it will never be an outdated subject.\r\n\r\nThis session will talk about why derive a Password in application and how to do it on Android.\r\n\r\nPasswords or passphrases created by humans are often short or predictable enough to allow password cracking. Taking some examples of several common attacks we will explain why using the password directly for encryption and authentication is risky. We will understand how Secure Derivation of Passwords can prevent password cracking. And most important, we will talk about what are the solutions on Android.\r\n\r\nIn this talk you will learn password security on Android:\r\n- Cryptographic knowledge about password cracking\r\n- What is the key derivation\r\n- Solutions for key derivation\r\n- How to improve password security on Android using Password-based key derivation functions?\r\n- What are the existing Android framework API solutions, the limitations, the improvements?\r\n- On Android, how to use modern password-based key derivation functions such as PBKDF2 and Argon2\r\n\r\nAndroid engineers interested in improving password security and understanding cryptographic in Android development are definitely recommended to come to this talk.",
+    "language": "English",
+    "complexity": "Intermediate",
+    "speakers": [
+      "0cc865f0-2d9d-479d-b247-181ff5b8357a"
+    ],
+    "tags": [
+      "Security"
+    ]
+  },
   "167575": {
     "title": "Your first AOSP contribution",
     "description": "Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted to search the code in AOSP but found it difficult? We'll dig into the tools like Repo and Gerrit that the Android team uses everyday. Get ready to be a contributor to the Android Open Source Platform!",
@@ -932,5 +989,5 @@
       "Tools",
       "Under the hood"
     ]
-  },
+  }
 }
