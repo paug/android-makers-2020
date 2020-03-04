@@ -100,6 +100,11 @@
         "name": "Twitter"
       },
       {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/alex-zhukovich/",
+        "name": "LinkedIn"
+      },
+      {
         "icon": "website",
         "link": "https://alexzh.com/",
         "name": "Blog"
@@ -267,9 +272,9 @@
         "name": "Blog"
       },
       {
-        "title": "Company Website",
-        "url": "https://magiclab.co",
-        "linkType": "Company_Website"
+        "icon": "website",
+        "link": "https://magiclab.co",
+        "name": "Company Website"
       }
     ]
   },
@@ -305,7 +310,7 @@
         "name": "Company Website"
       },
       {
-        "icon": "Website",
+        "icon": "website",
         "link": "https://ashdavies.io/",
         "name": "Other"
       }
@@ -386,12 +391,12 @@
         "name": "LinkedIn"
       },
       {
-        "icon": "website",
+        "icon": "facebook",
         "link": "https://www.facebook.com/cafonsomota",
         "name": "Facebook"
       },
       {
-        "icon": "website",
+        "icon": "instagram",
         "link": "http://instagram.com/cmota",
         "name": "Instagram"
       },
@@ -438,7 +443,7 @@
         "name": "Company Website"
       },
       {
-        "icon": "YouTube",
+        "icon": "youtube",
         "link": "http://bit.ly/chansecode",
         "name": "Other"
       }
@@ -1167,6 +1172,11 @@
         "name": "LinkedIn"
       },
       {
+        "icon": "instagram",
+        "link": "https://www.instagram.com/oleur/",
+        "name": "Instagram"
+      },
+      {
         "icon": "website",
         "link": "https://innovorder.fr",
         "name": "Company Website"
@@ -1326,8 +1336,8 @@
     "order": 4,
     "featured": false,
     "name": "Márton Braun",
-    "bio": "A Kotlin enthusiast since the 1.0 of the language. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of a couple open source Kotlin libraries. Android developer (and self-proclaimed Kotlin evangelist) at AutSoft. Android/Kotlin tech editor at RayWenderlich.com. University student, working on a master's in computer engineering at the Budapest University of Technology and Economics. Instructor at the same university, teaching Kotlin and Android.",
-    "shortBio": "Kotlin enthusiast, slight StackOverflow addict, aspiring educator and writer",
+    "bio": "A Kotlin enthusiast since the 1.0 of the language, writer, speaker, educator. Software Engineer at Skyscanner. Android/Kotlin Tech Editor at RayWenderlich.com. Instructor at BME-VIK, teaching Kotlin and Android. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of the MaterialDrawerKt and Krate libraries./Kotlin tech editor at RayWenderlich.com. University student, working on a master's in computer engineering at the Budapest University of Technology and Economics. Instructor at the same university, teaching Kotlin and Android.",
+    "shortBio": "Software Engineer @ Skyscanner",
     "country": "Budapest, Hungary",
     "companyLogo": null,
     "company": "",
@@ -1364,12 +1374,17 @@
     "country": "London, United Kingdom",
     "companyLogo": "BABYLON-LOGO.png",
     "company": "Babylon",
-    "photo": "https://sessionize.com/image?f=7756ad5c67243699b93cdbc1b8d69f96,400,400,1,0,26440a13-27d3-43a1-b06a-08cd9759151a.jpg",
+    "photo": "https://sessionize.com/image?f=de24c265e681017e28b7bea0e026d076,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.8a585467-5364-442d-87b2-075131e8d8d8.jpeg",
     "socials": [
       {
         "icon": "twitter",
         "link": "https://twitter.com/maxmzzn",
         "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/maxime-mazzone-7781b296//",
+        "name": "LinkedIn"
       }
     ]
   },
@@ -1670,11 +1685,11 @@
     "order": 4,
     "featured": false,
     "name": "Pierre Tibulle",
-    "bio": "Job Crafter en ESN, Practice Leader mobile (Android/iOS/Hybride) chez ASI, je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
-    "shortBio": "Practice Leader Mobile chez ASI",
+    "bio": "CTO chez Ikobox, je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
+    "shortBio": "CTO Ikobox",
     "country": "Nantes France",
     "companyLogo": null,
-    "company": "ASI",
+    "company": "Ikobox",
     "photo": "https://sessionize.com/image?f=ccc6d80222c2b43c183dbf21bd20522c,400,400,1,0,b1-ca6f-4e25-8442-f67cdc7f2b5c.be2c140c-da4a-4b8e-8498-8b7825ea5ad5.jpeg",
     "socials": [
       {
@@ -1916,7 +1931,7 @@
         "name": "Company Website"
       },
       {
-        "icon": "website",
+        "icon": "github",
         "link": "https://github.com/salihgueler",
         "name": "Github"
       },
@@ -2022,7 +2037,7 @@
         "name": "LinkedIn"
       },
       {
-        "icon": "Facebook",
+        "icon": "facebook",
         "link": "https://www.facebook.com/sid.the.biker",
         "name": "Facebook"
       },
@@ -2079,7 +2094,7 @@
       },
       {
         "icon": "website",
-        "link": "https://thomasezan.com/",
+        "link": "https://thomasezan.me/",
         "name": "Blog"
       },
       {
