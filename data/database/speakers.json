@@ -288,6 +288,13 @@
     "companyLogo": "immoscout24.png",
     "company": "Immoscout24",
     "photo": "https://sessionize.com/image?f=ec6d6dfd5eef710ceed422f0fa026bd2,400,400,1,0,67-356c-4cd5-ba9c-12cec7a3ce79.7f2e9875-7cf4-4ee3-8e2d-f5309706f118.jpg",
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-ashley_davies",
+        "name": "gde"
+      }
+    ],
     "socials": [
       {
         "icon": "twitter",
@@ -730,6 +737,13 @@
     "companyLogo": "/images/logos/shopify.svg",
     "company": "Shopify",
     "photo": "https://sessionize.com/image?f=41a4778607e97eddf9c65745a792fa2c,400,400,1,0,51cd9bfa-ec73-4907-9d26-5d4688229f22.jpg",
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-etienne_caron",
+        "name": "gde"
+      }
+    ],
     "socials": [
       {
         "icon": "twitter",
@@ -763,6 +777,13 @@
     "companyLogo": "/images/logos/tag-heuer.png",
     "company": "Tag Heuer",
     "photo": "https://sessionize.com/image?f=dc1771b8dd570f66fdb2250723911e76,400,400,1,0,34-7c28-4e6d-a5dc-271203984645.0db2beaa-1089-4a33-ba98-d07250074724.jpg",
+    "badges": [
+      {
+        "description": "Google Developer Expert",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-eyal_lezmy",
+        "name": "gde"
+      }
+    ],
     "socials": [
       {
         "icon": "twitter",
