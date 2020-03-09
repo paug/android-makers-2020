@@ -391,16 +391,6 @@
         "name": "LinkedIn"
       },
       {
-        "icon": "facebook",
-        "link": "https://www.facebook.com/cafonsomota",
-        "name": "Facebook"
-      },
-      {
-        "icon": "instagram",
-        "link": "http://instagram.com/cmota",
-        "name": "Instagram"
-      },
-      {
         "icon": "website",
         "link": "https://medium.com/@cafonsomota",
         "name": "Blog"
@@ -1170,11 +1160,6 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/salvijulien/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "instagram",
-        "link": "https://www.instagram.com/oleur/",
-        "name": "Instagram"
       },
       {
         "icon": "website",
@@ -2035,11 +2020,6 @@
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/siddhant-panhalkar-292675ba/",
         "name": "LinkedIn"
-      },
-      {
-        "icon": "facebook",
-        "link": "https://www.facebook.com/sid.the.biker",
-        "name": "Facebook"
       },
       {
         "icon": "website",
