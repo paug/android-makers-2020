@@ -117,10 +117,10 @@
   },
   "location": {
     "label": "Location",
-    "name": "Le Beffroi",
-    "city": "Montrouge",
-    "short": "Montrouge, France",
-    "address": "2 Place Emile Cresp, Montrouge, France",
+    "name": "Online",
+    "city": "",
+    "short": "",
+    "address": "",
     "pointer": {
       "latitude": 48.819205,
       "longitude": 2.319641,
@@ -130,8 +130,8 @@
       "latitude": 48.85,
       "longitude": 2.32
     },
-    "description": "At the gateway of Paris, in Le Beffroi de Montrouge",
-    "longDescription": "More than 10 000m2, with a 800+ attendees keynote room, at the gateway of Paris"
+    "description": "Online, the entire world",
+    "longDescription": ""
   },
   "mediaQueries": {
     "xs": {

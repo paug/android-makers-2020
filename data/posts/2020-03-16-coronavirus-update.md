@@ -33,7 +33,7 @@ The quick evolution of the Covid-19 virus has led to us modifying the Android Ma
 
 However, last week has been decisive for us: the virus has spread in France and the government has taken measures to limit the spread. In this context, asking 800 people to congregate at the event is not possible. Following this decision we had to think about the remaining options.
 
-Finding a new date has been the first option we considered. We really want to have a perfect Android Makers 2021 (in April, as usual) and making an Android Maker 2020 in October/November would make it too hard to organize.
+Finding a new date has been the first option we considered. We really want to have a perfect Android Makers 2021 (in April, as usual) and making an Android Makers 2020 in October/November would make it too hard to organize.
 
 Event cancellation is something we wanted to avoid. We have worked a lot to prepare the event, our speakers have submitted outstanding talks, our sponsors have prepared amazing entertainment, and you were so many to be eager to attend the conference. We decided to take advantage of this situation and, for the first time, we present a new experience: The Virtual Android Makers. 
 
