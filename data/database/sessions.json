@@ -51,39 +51,6 @@
       "Service"
     ]
   },
-  "176356": {
-    "speakers": [
-      "a6e2fe8e-80ac-4ce2-a3db-a03b41ba8775",
-      "f2c947c4-393b-4476-b6b3-b2507e6137dc"
-    ],
-    "title": "Putting The Pieces Back Together : Our Broken Industry",
-    "language": "English",
-    "description": "There are amazing aspects of being in tech - such as communities that are always willing to help and learn from each other, the ability to create positive change in people’s lives and of course, it’s a well-paid profession. I’d rather not do anything else, but there are factors that make me reconsider sometimes. \r\n\r\nIn this talk, we are going to learn how we can do better. The not-so-good side of tech includes gatekeeping (Dagger vs Koin anyone?), de-prioritising privacy and accessibility, devaluing emotional intelligence, increasing rates of burn-out, being allergic to hiring juniors and the list goes on.\r\n\r\nWe will reflect on how we can do better as an industry with actions we can start taking right away, like how to practice compassionate coding, how to avoid creating emotional labor, how to achieve inclusivity in our tech communities, how to hold our organisations accountable and more. \r\n\r\nWith increased awareness and ideas for action, we can put the pieces back together. ",
-    "complexity": "Introductory and overview",
-    "tags": [
-      "Soft skills"
-    ]
-  },
-  "172069": {
-    "title": "Something Something Comedy Something Something",
-    "description": "(we'll develop some new satire talk for this event, in the general area of tech/business/management)",
-    "speakers": [
-      "05fa719f-1528-43ef-adf9-eca92f383262",
-      "152f613f-841b-407d-9a65-3703ec2dfae2"
-    ],
-    "language": "English",
-    "complexity": "Introductory and overview"
-  },
-  "172068": {
-    "title": "Graphics Programming for Android Programmers",
-    "description": "In this session you will learn about the different rendering techniques used in graphics programming: raster/bitmaps, 2D vectors, 3D rasterization, ray-marching, ray-tracing, etc. You will understand when to use which technique and what APIs Android provides to use those techniques in your applications.",
-    "speakers": [
-      "05fa719f-1528-43ef-adf9-eca92f383262",
-      "152f613f-841b-407d-9a65-3703ec2dfae2"
-    ],
-    "language": "English",
-    "complexity": "Introductory and overview"
-  },
   "176381": {
     "title": "Android App Bundle / Android PacKage : à chaque format suffit sa tâche",
     "description": "Pendant plus de 10 ans, l'apk a fait office de format à la fois pour l'installation et la publication d'applications Android. Aujourd'hui, le format aab (Android App Bundle) qui a été introduit en 2018 est devenu le format officiel de publication. Ses principaux objectifs: réduire la taille des packages servis par le store, et favoriser la modularité des applications grâce notamment aux dynamics features. \r\nL'apk reste plus que jamais le format d'installation d'une application. S'il a longtemps été d'usage pour un développeur de déployer un apk \"fat\", l'aab donne à présent au Playstore une opportunité d'optimiser le (ou plutôt les) package[s] qui seront transmis. \r\nNous verrons en détails comment tout cela est rendu possible. \r\n\r\n",
@@ -227,19 +194,6 @@
       "Tools"
     ]
   },
-  "172499": {
-    "title": "Debug your IDE, make your dev tools better.",
-    "description": "At Square, our Android app has more than 1,500 modules, 1.5 million lines of code. Until recently we were facing a hard reality: our build was too slow and it impacted developer productivity. Neither Gradle, nor the Android Gradle Plugin, not even Intelli J / Android Studio were working well at such a large scale. All our tools were sluggish, the coding experience was terrible, and productivity was getting lower and lower even though we were adopting the best practices of the industry such as having a modularized codebase, and using design patterns like Dependency Injection.\r\n\r\nThis talk for advanced developers is about the journey to improve the Gradle based tools of the Android ecosystem. It will explain how we learnt to debug them, profile them, and improve the whole toolchain. \r\n\r\nAfter a few months, during which we developed a tighter partnership with Jetbrains, Gradle and Google, we are now in a better shape: the IDEs are responsive, our build is faster, productivity is higher, and we are contributing to make the future versions of the tools even better. \r\n",
-    "language": "English",
-    "complexity": "Advanced",
-    "speakers": [
-      "eb1a2a18-6b45-46a8-b58e-78dba26ddd74"
-    ],
-    "tags": [
-      "Tools",
-      "Under the hood"
-    ]
-  },
   "173974": {
     "title": "Déjouer la sécurité de votre app : Les problèmes de sécurité inattendus et comment les corriger",
     "description": "Si vous pensez que je vais vous conseiller de dissimuler vos clés privés dans du code C/C++, vous vous trompez !\r\n\r\nDécouvrons ensemble quelques véritables problèmes de sécurité qui ont été trouvés dans des applications en production (et comment les résoudre).\r\nAu moyen de quelques exemples concrets, nous verrons à quel point (et sans le faire exprès), il est facile d'introduire une faille de sécurité dans une application.\r\n\r\nLes pirates sont malins, soyons plus malins qu'eux : Vous sortirez de cette session avez quelques conseils et astuces applicables à votre travail de tous les jours, afin de vous assurer que votre application est aussi sécurisée que possible.\r\n\r\nEt si vous êtes un pirate, et bien.. il est possible que vous repartiez avec de nouvelles idées pour vos prochaines attaques.",
@@ -289,18 +243,6 @@
       "Design"
     ]
   },
-  "176501": {
-    "title": "Do the Loco-MotionLayout GUI Edition: Building animations with the MotionEditor",
-    "description": "Last year at Android Dev Summit (and hours before my previous MotionLayout talk) the new MotionEditor was announced for MotionLayout. This new GUI means using MotionLayout has become much easier and you no longer need to write XML. Hurrah!\r\n\r\nIn this talk we’ll explore how we can get started using the new MotionEditor and learn more about MotionLayout by creating an animation that you would never think is possible. We’ll learn the basics, what a MotionScene is, what KeyAttributes and KeyFrames are and we’ll see some captivating animations. We’ll also take a look at what the MotionEditor generates for us under the hood. \r\n\r\nAt the end of this talk you’ll leave with a newfound love and basic knowledge of creating animations using the MotionEditor and MotionLayout. You’ll go back to work begging your designers to give you those crazy animations that have always been put to one side.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "41c0f6ee-e843-4c48-ad80-de88bfaf34ee"
-    ],
-    "tags": [
-      "Animation"
-    ]
-  },
   "174151": {
     "title": "Ne vous perdez plus avec le framework de localisation Android",
     "description": "Français:\r\nAujourd’hui, on compte plus de 2,3 milliards d’appareils tournant sous Android dans le monde. Cela représente tout autant de récepteurs GPS - ou plutôt GNSS – et beaucoup d’applications nécessitent ou utilisent une position. Cela parait simple d’utiliser les Google Play Services pour récupérer une lastLocation ou directement la couche android.location avec un joli onLocationChanged ; et c’est parfois bien suffisant dans bien des cas, mais pas toujours...\r\n\r\nAlors, comment cette position est-elle construite ? Par quelles entrées ? De plus, qu’est-ce qu’une position exactement ? Et c’est quoi la FusedLocation ? On peut très vite se perdre lorsque l’on cherche à se positionner correctement et avec précision. \r\n\r\nLe framework de localisation Android est complexe et relativement lourd… Il reste cela dit très performant et cache pas mal de secrets ! Par exemple, saviez-vous que vous pouvez lire directement le contenu d’un message envoyé par les satellites ? Ou encore qu’on peut utiliser d’autres sources de données pour calculer une position, notamment grâce à la fusion ?\r\nDurant cette présentation, nous allons décortiquer la couche android.location et comprendre comment une position est calculée, comment bien utiliser les différentes callbacks ou méthodes qui doivent nous retourner cette position. Mais aussi les différentes capacités cachées du framework, et pourquoi pas une introduction au monde merveilleux du GNSS… \r\n\r\nEnglish:\r\nToday, we count more than 2.3 billion Android devices in the world. This is as much GPS receivers; or GNSS receivers, and a\r\nlot of application require or use a location. Using Google Play Services looks easy for gathering a lastLocation, or directly through the android.location layer with a nice onLocationChanged; this is often enough. But how this location is computed? Using which inputs? What is truly a location? And what is this FusedLocation everybody talks about ? We can be quickly lost when we search for a precise position.\r\nThe Android’s framework is complexe, quite heavy, yet, it performs well et hides some secrets. For instance, did you know that you can read the whole content of a satellite message? But also, we can use several sources for positioning using fusion! \r\nDuring this talk, we will be dissecting the android.location layer and understand how a position is calculated. How to use correctly the multiple callbacks or methods available which returns a location. But also, the different hidden ability of the framework, and why an introduction to the wonderful world of GNSS… \r\n",
@@ -324,19 +266,6 @@
     "tags": [
       "Testing",
       "Tools"
-    ]
-  },
-  "176625": {
-    "title": "Easing into Material transitions",
-    "description": "Motion plays a key part in making your UI expressive and easy to use. Arguably the most important type of motion is transitions; they are the foundation of a strong motion system and fundamental to the usability of an app. However, implementing transitions has traditionally been challenging...\r\n\r\nIn this session, you will learn about the new Material Design transition patterns and speccing guidelines. See how these can be easily implemented in code and customized for your app's needs, using the Material Components for Android library.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "ebf1de28-63a7-4f57-838d-8871f500913b"
-    ],
-    "tags": [
-      "Animation",
-      "Design"
     ]
   },
   "176506": {
@@ -493,20 +422,6 @@
       "Under the hood"
     ]
   },
-  "175896": {
-    "title": "How the community is shaping Jetpack Compose",
-    "description": "Jetpack Compose is a new reactive UI toolkit that simplifies and accelerates UI development. \r\nThis talk will tell the story of how YOU are influencing Compose. We will share a brief introduction to what elegant developer experience entails, such as API usability, tooling, and documentation; why it matters, and lessons learned from user research on Jetpack Compose. You will hear about how our team used user research to make improvements to different APIs and tooling offered by Compose.",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "b4cf78c9-623b-4b8f-b676-097fb7802668",
-      "49ac2635-61c7-4ff0-859a-2e59cf28c615"
-    ],
-    "tags": [
-      "Design",
-      "Soft skills"
-    ]
-  },
   "176462": {
     "title": "How to add Flutter to your existing app",
     "description": "From the day that it's announced, Flutter is attracting so many developers from different backgrounds. It gives the developers a chance to develop an app from a single codebase and deploy it for Android, iOS, Desktop, and Web. But not everyone is in the position to abandon an existing codebase and start from scratch - luckily Flutter got you covered even if you just want to extend your existing application with cool Flutter features.\r\n\r\nIn this talk, we will have a look at how you can add Flutter to your ongoing iOS and Android applications by showing a real-life example app with thousands of users and, we will talk about how you can rewrite your existing applications step by step with Flutter.",
@@ -656,19 +571,6 @@
       "Testing"
     ]
   },
-  "175185": {
-    "title": "Navigating Modularized Apps",
-    "description": "Every Android app has a navigation infrastructure, whether it's intentional or not. Once an app becomes modularized it is important to be more intentional about this. The Navigation Android Architecture Component now has support for On Demand Dynamic Feature Module Delivery. In this session we'll introduce you to what the new libraries can do for you and how you can customize the user experience of downloading new features.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "e869461e-b6fb-43e5-a89c-033da87008c0"
-    ],
-    "tags": [
-      "Architecture",
-      "Under the hood"
-    ]
-  },
   "175670": {
     "title": "Nitrogen in your (test) pyramid.",
     "description": "Unit, integration, UI tests are part of the famous test pyramid, different tools were used in order to full fill it, but still today there are lot of issues about how to execute it in a proper manner and how to sync all environments (local, ci, etc) in order to satisfy all the testing criteria, and having a good reports.\r\n\r\nFrom IO 2018 with the announcement of project Nitrogen, Google'd like to \"nitrogenize\" our tests creating a single entry point and solve all issues\r\nwe had in the past. With October release of Robolectric 4.0 and androidx.test 1.0.0, both testing environments are converging on a set of common test APIs. Robolectric now supports the AndroidJUnit4 test runner, ActivityTestRule, and Espresso for interacting with UI components.",
@@ -772,19 +674,6 @@
       "Tools"
     ]
   },
-  "166058": {
-    "title": "Sliding with Keynote",
-    "description": "In this talk Chris will show you how to use Apple Keynote to write great slides for technical presentations. From general slide organization, to the mysteries of Magic Move, to using animations to convey meaning, you will hopefully come out of this talk with some new tips & tricks which you can use in your presentations.",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "fd699fd4-ca8a-4b16-a811-cfb7de9e9b1b"
-    ],
-    "tags": [
-      "Design",
-      "Soft skills"
-    ]
-  },
   "174186": {
     "title": "Soyons acteurs du développement (mobile) durable",
     "description": "Remplacer les gobelets en plastique par des gourdes. Éteindre les appareils en veille. La prise de conscience collective sur l’environnement a permis de déterminer des gestes  simples que l’on peut tous faire pour améliorer à notre niveau la situation écologique.\r\n\r\nMais qu’en est-il de nos habitudes professionnelles ? En tant que développeurs mobiles, des gestes sont également possibles. Aussi bien notre chaîne de production (poste de travail, usine d’intégration continue) que nos apps. Car chaque consommation énergétique, si peu coûteuse soit-elle, multipliée par des centaines de milliers d’installations engendre un triste gâchis.\r\n\r\nConscient de surfer sur la vague environnementale, ce talk abordera ces habitudes de développeurs mobiles que nous pouvons changer, à quel prix et pour quels bénéfices. Nous parlerons également d'obsolescence programmée, dont nous nous rendons complices sans même parfois nous en apercevoir. \r\n",
@@ -795,19 +684,6 @@
     ],
     "tags": [
       "GreenTech"
-    ]
-  },
-  "166529": {
-    "title": "Suspending over Views",
-    "description": "Kotlin Coroutines allow us to model asynchronous problems like synchronous code. Most usage has concentrated on I/O tasks and concurrent operations, but Coroutines are also great at modelling asynchronous problems on the same thread. This talk will cover how you can use Coroutines with the Android View system, giving you the ability to orchestrate complex UI operations with ease.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "fd699fd4-ca8a-4b16-a811-cfb7de9e9b1b"
-    ],
-    "tags": [
-      "Animation",
-      "Language"
     ]
   },
   "176420": {
@@ -837,20 +713,6 @@
       "Soft skills",
       "Testing",
       "Tools",
-      "Under the hood"
-    ]
-  },
-  "176247": {
-    "title": "Taking Your Talents to VR: Android Development on Oculus Quest",
-    "description": "Step into VR and immerse your Android development. Oculus Quest, with its simplicity and convenience, is proving to be VR's first console and is getting critical acclaim. But did you know that you can build and deploy both 2D and 3D Android apps on Oculus Quest? In this talk, Pierre will cover the different ways to build applications for Oculus Quest looking at a few different case studies. He'll talk about Quill Theater, a new application he worked on for playing back VR drawn animation from Quill. Quill Theater was built with a traditional native C++ Android app development process using an OpenGL ES 3D renderer. If you have a graphics background, mobile game developers have had a lot of success taking their talents to mobile VR. We believe AR and VR ubiquity is on the horizon so developing a 3D skill set is a good investment for any Android developer, and there are several ways to build 3D applications for Quest. With 2D app reprojection on Oculus Quest, we are also able to enjoy Android media applications in VR in Oculus TV. Oculus Quest may just be the most fun destination for Android development!",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "689c7d97-daf7-4adc-8535-1fd646915977"
-    ],
-    "tags": [
-      "Animation",
-      "Architecture",
       "Under the hood"
     ]
   },
@@ -975,19 +837,6 @@
     ],
     "tags": [
       "Security"
-    ]
-  },
-  "167575": {
-    "title": "Your first AOSP contribution",
-    "description": "Have you ever wanted to fix a bug in AOSP but found it daunting? Have you wanted to search the code in AOSP but found it difficult? We'll dig into the tools like Repo and Gerrit that the Android team uses everyday. Get ready to be a contributor to the Android Open Source Platform!",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "74240ec1-9924-499e-9a8b-8c2640b02648"
-    ],
-    "tags": [
-      "Tools",
-      "Under the hood"
     ]
   }
 }
