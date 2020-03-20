@@ -10,7 +10,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Buy virtual ticket",
   "callForPapers": "Call for papers",
   "callForMakers": "Call for makers",
   "becomeASponsor": "Become A Sponsor",
@@ -104,23 +104,23 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.", 
-    "callToAction": {  
-     "featuredSessions": {  
-       "description": "Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.",
-       "label": "Explore last years session",
-       "link": "https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg/videos" 
-     }, 
-     "howItWas": {  
-       "description": "Our team creates Android Makers to be the best place for experience sharing in a phenomenal atmosphere.", 
-       "label": "See the 2018 pictures", 
-       "link": "https://photos.app.goo.gl/WDhmy1iGabI651163" 
-     }  
+    "title": "What you need to know, before you ask.",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "Android Makers brings online the world class experts in Android for 2 days of sessions, workshops and showcases.",
+        "label": "Explore last years session",
+        "link": "https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg/videos"
+      },
+      "howItWas": {
+        "description": "Our team creates Android Makers to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See the 2018 pictures",
+        "link": "https://photos.app.goo.gl/WDhmy1iGabI651163"
+      }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "800+"
+        "number": "800++"
       },
       "days": {
         "label": "Days",
@@ -146,7 +146,7 @@
   "partnersBlock": {
     "title": "Partners",
     "button": "Become a sponsor",
-    "link":"mailto:contact@androidmakers.fr"
+    "link": "mailto:contact@androidmakers.fr"
   },
   "featuredVideos": {
     "title": "Android Makers 2019 featured videos",

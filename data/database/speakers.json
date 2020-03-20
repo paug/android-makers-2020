@@ -207,7 +207,7 @@
   },
   "10659767-356c-4cd5-ba9c-12cec7a3ce79": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "name": "Ash Davies",
     "bio": "Google Developer Expert for Android, enthusiastic speaker, lead engineer at ImmobilieenScout24, Kotlin aficionado, spends more time travelling than working (he/him)",
     "shortBio": "Lead Android Engineer at ImmobilienScout24 GmbH",
@@ -441,7 +441,7 @@
   },
   "7c888e22-f254-4e04-aa56-1853ab18c000": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "description": "Google Developer Expert",
@@ -513,7 +513,7 @@
   },
   "878ec0bb-f4d7-4b83-a9af-ff6e359a35dc": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "name": "Etienne Caron",
     "bio": "Etienne Caron is a Staff Developer at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert program, and an instructor for Caster.io\r\n\r\nEtienne has been an active member of the Android developer community in Montreal since 2010, and regularly contributes time to mentoring startups, developers and students in the mobile space.",
     "shortBio": "Shopify",
@@ -553,7 +553,7 @@
   },
   "00697e34-7c28-4e6d-a5dc-271203984645": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "name": "Eyal LEZMY",
     "bio": "- Treasurer at the Paris Android User Group\r\n- Co-organizer of Android Makers in Paris\r\n- Google Developer Expert\r\n\r\nI've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, worked several years on Genymotion, an Android emulator. Then I joined Qonto a French B2B bank to build their Android app and I recently joined TAG Heuer to build their connected watches and ecosystem.\r\n",
     "shortBio": "Tag Heuer",
@@ -758,7 +758,7 @@
   },
   "e11a53fd-1cfb-4930-9dfa-42187e94d869": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "description": "Google Developer Expert",
@@ -831,7 +831,7 @@
   },
   "b3770b77-c9c8-454d-8b7a-045ca1d66b7b": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "description": "Google Developer Expert",
@@ -871,7 +871,7 @@
   },
   "a7d0fcec-49dd-4e65-bcb7-ad3d1901928c": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "name": "google",
@@ -985,7 +985,7 @@
   },
   "b2005329-30d3-4783-9a8c-d2e7b2a75f76": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "name": "gde",
@@ -1228,7 +1228,7 @@
   },
   "ed1e4545-4547-4697-9515-28f4174f09dd": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "name": "google",
@@ -1493,7 +1493,7 @@
   },
   "adadf66f-529c-48fd-ba12-94903187a216": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "description": "Google Developer Expert",
@@ -1571,7 +1571,7 @@
   },
   "e397fee8-078f-4694-8a1f-35b1d57f1fce": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "description": "Google Developer Expert",
@@ -1766,7 +1766,7 @@
   },
   "c909bc83-2fc0-4607-a71a-6c969f155aeb": {
     "order": 4,
-    "featured": false,
+    "featured": true,
     "badges": [
       {
         "name": "google",
