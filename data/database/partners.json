@@ -23,7 +23,13 @@
         "logoUrl": "../images/logos/leboncoin.svg",
         "name": "Le Bon Coin",
         "url": "https://www.leboncoin.fr/"
-      },
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "title": "Silver Sponsors",
+    "logos": [
       {
         "logoUrl": "../images/logos/bitrise.png",
         "name": "Bitrise",
@@ -33,17 +39,11 @@
         "logoUrl": "../images/logos/badoo_ml.png",
         "name": "Badoo",
         "url": "https://badoo.com"
-      }
-    ]
-  },
-  {
-    "order": 2,
-    "title": "Silver Sponsors",
-    "logos": [
+      },
       {
-        "logoUrl": "../images/logos/hiway.svg",
-        "name": "Hiway",
-        "url": "https://hiway-freelance.com/"
+        "logoUrl": "../images/logos/ps-logo.svg",
+        "name": "Publicis Sapient Engineering",
+        "url": "https://blog.engineering.publicissapient.fr/"
       },
       {
         "logoUrl": "../images/logos/coyote.png",
@@ -51,15 +51,15 @@
         "url": "https://www.moncoyote.com/"
       },
       {
-        "logoUrl": "../images/logos/ps-logo.svg",
-        "name": "Publicis Sapient Engineering",
-        "url": "https://blog.engineering.publicissapient.fr/"
-      }
+        "logoUrl": "../images/logos/hiway.svg",
+        "name": "Hiway",
+        "url": "https://hiway-freelance.com/"
+      }  
     ]
   },
   {
     "order": 3,
-    "title": "Virtual Sponsors",
+    "title": "Basic Sponsors",
     "logos": [
       {
         "logoUrl": "../images/logos/MWM.png",
