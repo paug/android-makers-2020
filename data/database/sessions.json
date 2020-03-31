@@ -64,22 +64,10 @@
       "Under the hood"
     ]
   },
-  "166824": {
-    "title": "Android App Start Explained and measured",
-    "description": "I'll go through the 7 main steps requires to launch any Android App on any device. We will also measure each steps to get the actual cost. This talk will help you improving  your App Start understanding and performance.",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "f906557e-b030-481d-ba29-3b1421c43f93"
-    ],
-    "tags": [
-      "Under the hood"
-    ]
-  },
   "168603": {
-    "title": "FR Android everywhere!",
-    "description": "Feedback on VLC adaptationto various Android platforms, such as mobile, TV, Auto, Chromebooks, Desktop mode, foldable, casting.\r\nAnd  and presentation of these platform with live demos of VLC on it.\r\n\r\nLet's see how to achieve it, what are the pains and the benefits.",
-    "language": "French",
+    "title": "Android everywhere!",
+    "description": "Mobile + TV + Auto + Chromebooks + screen casting + Desktop mode + foldables!\r\n\r\nFeedback and live demos on VLC adaptation to all possible Android platforms/devices.\r\n\r\nAdapting your app to these platforms has many benefits, and in some case it doesn't require much work!\r\n\r\nWe will see how to adapt an Android application to enjoy it everywhere and what the result looks like.",
+    "language": "English",
     "complexity": "Intermediate",
     "speakers": [
       "78ffd2f4-e52a-4a7d-8ead-8cf072843946"
@@ -194,16 +182,17 @@
       "Tools"
     ]
   },
-  "173974": {
-    "title": "Déjouer la sécurité de votre app : Les problèmes de sécurité inattendus et comment les corriger",
-    "description": "Si vous pensez que je vais vous conseiller de dissimuler vos clés privés dans du code C/C++, vous vous trompez !\r\n\r\nDécouvrons ensemble quelques véritables problèmes de sécurité qui ont été trouvés dans des applications en production (et comment les résoudre).\r\nAu moyen de quelques exemples concrets, nous verrons à quel point (et sans le faire exprès), il est facile d'introduire une faille de sécurité dans une application.\r\n\r\nLes pirates sont malins, soyons plus malins qu'eux : Vous sortirez de cette session avez quelques conseils et astuces applicables à votre travail de tous les jours, afin de vous assurer que votre application est aussi sécurisée que possible.\r\n\r\nEt si vous êtes un pirate, et bien.. il est possible que vous repartiez avec de nouvelles idées pour vos prochaines attaques.",
-    "language": "French",
-    "complexity": "Intermediate",
+  "172499": {
+    "title": "Debug your IDE, make your dev tools better.",
+    "description": "At Square, our Android app has more than 1,500 modules, 1.5 million lines of code. Until recently we were facing a hard reality: our build was too slow and it impacted developer productivity. Neither Gradle, nor the Android Gradle Plugin, not even Intelli J / Android Studio were working well at such a large scale. All our tools were sluggish, the coding experience was terrible, and productivity was getting lower and lower even though we were adopting the best practices of the industry such as having a modularized codebase, and using design patterns like Dependency Injection.\r\n\r\nThis talk for advanced developers is about the journey to improve the Gradle based tools of the Android ecosystem. It will explain how we learnt to debug them, profile them, and improve the whole toolchain. \r\n\r\nAfter a few months, during which we developed a tighter partnership with Jetbrains, Gradle and Google, we are now in a better shape: the IDEs are responsive, our build is faster, productivity is higher, and we are contributing to make the future versions of the tools even better. \r\n",
+    "language": "English",
+    "complexity": "Advanced",
     "speakers": [
-      "cda15006-0bbc-47f8-ac5e-5405709c2af9"
+      "eb1a2a18-6b45-46a8-b58e-78dba26ddd74"
     ],
     "tags": [
-      "Security"
+      "Tools",
+      "Under the hood"
     ]
   },
   "173703": {
@@ -216,6 +205,19 @@
     ],
     "tags": [
       "Language",
+      "Under the hood"
+    ]
+  },
+  "166026": {
+    "title": "Demystifying Low Latency Audio on Android",
+    "description": "Enabling an enhanced audio experience for your users is the topmost priority for developers who build audio processing apps. Android, however, holds dark secrets about low latency audio, thus making it harder for developers to build responsive audio apps and user experiences. This talk uncovers those dark secrets while also giving a quick rundown on working with Native code along with Kotlin and how the platform has evolved over time to fix the issues with Low Latency Audio. Towards the end, Oboe library for building real-time audio apps is introduced showcasing how it simplifies everything.",
+    "language": "English",
+    "complexity": "Intermediate",
+    "speakers": [
+      "3e5fddb1-d6ae-42af-8f79-a3c0b61b0892"
+    ],
+    "tags": [
+      "Architecture",
       "Under the hood"
     ]
   },
@@ -241,31 +243,6 @@
     ],
     "tags": [
       "Design"
-    ]
-  },
-  "174151": {
-    "title": "Ne vous perdez plus avec le framework de localisation Android",
-    "description": "Français:\r\nAujourd’hui, on compte plus de 2,3 milliards d’appareils tournant sous Android dans le monde. Cela représente tout autant de récepteurs GPS - ou plutôt GNSS – et beaucoup d’applications nécessitent ou utilisent une position. Cela parait simple d’utiliser les Google Play Services pour récupérer une lastLocation ou directement la couche android.location avec un joli onLocationChanged ; et c’est parfois bien suffisant dans bien des cas, mais pas toujours...\r\n\r\nAlors, comment cette position est-elle construite ? Par quelles entrées ? De plus, qu’est-ce qu’une position exactement ? Et c’est quoi la FusedLocation ? On peut très vite se perdre lorsque l’on cherche à se positionner correctement et avec précision. \r\n\r\nLe framework de localisation Android est complexe et relativement lourd… Il reste cela dit très performant et cache pas mal de secrets ! Par exemple, saviez-vous que vous pouvez lire directement le contenu d’un message envoyé par les satellites ? Ou encore qu’on peut utiliser d’autres sources de données pour calculer une position, notamment grâce à la fusion ?\r\nDurant cette présentation, nous allons décortiquer la couche android.location et comprendre comment une position est calculée, comment bien utiliser les différentes callbacks ou méthodes qui doivent nous retourner cette position. Mais aussi les différentes capacités cachées du framework, et pourquoi pas une introduction au monde merveilleux du GNSS… \r\n\r\nEnglish:\r\nToday, we count more than 2.3 billion Android devices in the world. This is as much GPS receivers; or GNSS receivers, and a\r\nlot of application require or use a location. Using Google Play Services looks easy for gathering a lastLocation, or directly through the android.location layer with a nice onLocationChanged; this is often enough. But how this location is computed? Using which inputs? What is truly a location? And what is this FusedLocation everybody talks about ? We can be quickly lost when we search for a precise position.\r\nThe Android’s framework is complexe, quite heavy, yet, it performs well et hides some secrets. For instance, did you know that you can read the whole content of a satellite message? But also, we can use several sources for positioning using fusion! \r\nDuring this talk, we will be dissecting the android.location layer and understand how a position is calculated. How to use correctly the multiple callbacks or methods available which returns a location. But also, the different hidden ability of the framework, and why an introduction to the wonderful world of GNSS… \r\n",
-    "language": "French",
-    "complexity": "Intermediate",
-    "speakers": [
-      "9b593465-3930-4605-8f4d-4dacc490a7e5"
-    ],
-    "tags": [
-      "Under the hood"
-    ]
-  },
-  "176055": {
-    "title": "E2E2U: Slack’s journey to developer-driven end-to-end testing",
-    "description": "Two years ago we presented on an approach that makes authoring reliable Android UI tests easier. To date, Slack android developers have written 731 UI tests and all of them run as part of a merge-blocking (and, most importantly, reliable) pull-request check. Having conquered this level, we set our sights on the top of our test pyramid - automated e2e tests. This test suite was still being maintained by a single hero developer, who, through sheer grit and determination, didn’t let this important part of our release process die. Armed with experience in functional UI testing, we embarked on an adventure to make our end-to-end test suite a shared responsibility of the entire team. Our journey has taken us through the fields of dagger, the bog of espresso IdlingResources, the inferno of proguard and, perhaps the most challenging of them all, cultural aspects of quality assurance. We look forward to sharing where we are in our never-ending testing story.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "ca887d91-53e4-4d13-8e94-fbd235e958e0"
-    ],
-    "tags": [
-      "Testing",
-      "Tools"
     ]
   },
   "176506": {
@@ -314,6 +291,18 @@
     ],
     "tags": [
       "Under the hood"
+    ]
+  },
+  "168437": {
+    "title": "Flowing Things, not so strange in the MVI world",
+    "description": "Migrating an Rx MVI pattern completely to coroutines using Flow.\r\n\r\nIn the MVI world, there was a missing piece from the coroutines framework and due to this, it always felt strange to completely adopt coroutines. Recently, with the introduction of Co-routines Flow library, things are not so strange anymore.\r\nIn this talk we will have a look at Coroutines Flow library, its need and how it compares with the reactive world. We will then learn to migrate an Rx MVI pattern to use coroutines Flow.",
+    "language": "English",
+    "complexity": "Advanced",
+    "speakers": [
+      "6b8f27b2-f4f8-4dcb-92e7-0381ae87ad85"
+    ],
+    "tags": [
+      "Architecture"
     ]
   },
   "175957": {
@@ -435,6 +424,21 @@
       "Under the hood"
     ]
   },
+  "172261": {
+    "title": "How to effectively scan barcodes on Android",
+    "description": "Android does not provide a native solution to detect barcodes in your application. However, some barcode image processing libraries are available but it is not always easy to use them for top performance.\r\nThrough this talk, we will see how to implement barcode detection in your Android application from camera management to optimization of barcode recognition thanks to machine learning.",
+    "language": "English",
+    "complexity": "Intermediate",
+    "speakers": [
+      "4674e36f-50f8-4ffb-a486-679d730c759e"
+    ],
+    "tags": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Tools",
+      "Under the hood"
+    ]
+  },
   "176363": {
     "title": "How to make your app lose weight",
     "description": "For a ton of reasons, we want our apps to be lighter. To take less storage space? To be quicker to download?  To get the next billion users? But yes, it takes time to do everything… But... NO. I promise, it can be really easy to lose weight! (At least for your app)\r\n\r\nI want to show you, with only a few hours, your app can be smaller and everybody can do it. WEBP, R8, Lint, so many tools to help us achieve this, I’ll explain everything to you.",
@@ -450,6 +454,19 @@
       "Soft skills",
       "Tools",
       "Under the hood"
+    ]
+  },
+  "192939": {
+    "title": "Intégrer plusieurs librairies Kotlin Native dans vos apps Android/iOS",
+    "description": "Les applications Coyote Android et iOS partagent du code métier en C++ depuis 10 ans.\r\n\r\nJNI, Bindings Objective-C sont du boilerplate dont on se passerait bien d'écrire, en plus les développeurs préfèrent écrire Kotlin ...\r\n\r\nKotlin Native arrive à point.\r\n\r\nMais comment intégrer plusieurs librairies Kotlin Native dans vos applications Android/iOS?",
+    "language": "French",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "22971f2f-e773-4c71-a767-4e0cf49d0e04",
+      "7dce605a-8ab8-44f2-8e1e-ad9b029c2b5d"
+    ],
+    "tags": [
+      "Tools"
     ]
   },
   "166442": {
@@ -503,19 +520,6 @@
       "Soft skills"
     ]
   },
-  "176189": {
-    "title": "Less is more, a Design System with Jetpack Compose",
-    "description": "Writing UI for Android is usually quite repetitive and hard to scale. After a few years on the same project, we often end up with a large layout folder filled with single-use XML layouts.\r\n\r\nIn this talk, I will share with you the journey we took at Babylon Health, \r\nto create a Design System that simplifies and accelerates our UI development.\r\n\r\nFrom the first difficulties to get everyone on board to the release of our UI-components library, this talk will take you through the principles we adopted and the modelisation of our re-usable components. I will show you how you can use a modern declarative UI framework, like Jetpack Compose, to create a consistent UI and experience for your users and developers alike.",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "53f01c30-81e8-4895-988a-eb20bad7fb55"
-    ],
-    "tags": [
-      "Design",
-      "Under the hood"
-    ]
-  },
   "172129": {
     "title": "Lessons from a Librarian",
     "description": "Codebase maintenance is a fun, terrible, exciting, daunting, nuanced, and interesting line of work. Sometimes you’re the janitor and sometimes you’re the surgeon. This talk is about lessons learned over the years of doing core librarian work in open source and on a big team in a large codebase. From API design to engaging dogma, we’ll dive into the many facets of maintaining a codebase’s foundations and the community that grows around it, and how to leverage them for a better developer experience for everyone.\r\n\r\nOh, and tombstone cakes.\r\n",
@@ -557,18 +561,44 @@
       "Language"
     ]
   },
-  "176343": {
-    "title": "Migrating a production database to Room",
-    "description": "Last year I finally took the leap and migrated the SQLite database in my most used app to Room. Having years of degraded, locally persisted data syncing from the app to the backen proved to be quite a challenge to migrate. \r\nThis presentation is a how to on migrating from a legacy SQLite DB to Room. It highlights some benefits of using Room, presents a few different options for migration strategies and goes into working with Room in practice.\r\nThis session require you to know about: Kotlin and SQLite. There will also be some architecture components, Dagger 2 and Coroutines.",
+  "176505": {
+    "title": "Mathematics for Developers",
+    "description": "20-30 years ago the classic path to a software development career was a degree in computer science, mathematics or a closely related field. Our eco-system has changed a lot since then and many developers have joined the industry from all walks of life: self-educated, going through developer bootcamps, cross-training from other professions etc.\r\n\r\nWhile mathematics is not necessarily a requirement to be a good software developer, there are a lot of areas in our day-to-day work that use maths to a varying degree. Think about animations, machine learning, functional programming, lambda calculus and many more.\r\n\r\nThis talk is for people who are interested in extending their maths knowledge, building up on existing foundations or starting from scratch. \r\n\r\nWhile it's obviously impossible to teach maths in 40 minutes, this session will look at common areas in which maths help us being better developers and at the pathways to build up the knowledge needed. You will leave this talk with an idea of what might be useful to know and brush up on and some guidance on how to get there.\r\n\r\n\r\n",
     "language": "English",
-    "complexity": "Advanced",
+    "complexity": "Introductory and overview",
     "speakers": [
-      "eb4a5e18-e092-4474-b8c6-808fe33cedc0"
+      "eb5cd092-73fa-402d-8636-8a52574e74c3"
     ],
     "tags": [
-      "Architecture",
       "Language",
-      "Testing"
+      "Soft skills",
+      "Tools"
+    ]
+  },
+  "176114": {
+    "title": "Mobile Trends 2020 - Vers une expérience mobile 5 étoiles",
+    "description": "Nous créons des applications pour rendre service à nos utilisateurs. Mais au delà de la qualité, de la robustesse et de la fiabilité de ce service, comment proposer une expérience mobile confortable et attrayante ?\r\n\r\nAprès avoir étudié les changements et les tendances des applications les plus populaires, nous vous proposons 10 bonnes pratiques de conceptions qui vous éviterons les faux pas, et vous aideront à proposer une expérience mobile intuitive et immersive.\r\n\r\nLes 5 étoiles sur les stores sont au bout du chemin !",
+    "language": "English",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "4f6d2a24-eb80-46df-bf6b-09af7c915c73",
+      "2553ba47-e51c-42c6-b7b5-1136d927eca2"
+    ],
+    "tags": [
+      "Design",
+      "Soft skills"
+    ]
+  },
+  "174151": {
+    "title": "Ne vous perdez plus avec le framework de localisation Android",
+    "description": "Français:\r\nAujourd’hui, on compte plus de 2,3 milliards d’appareils tournant sous Android dans le monde. Cela représente tout autant de récepteurs GPS - ou plutôt GNSS – et beaucoup d’applications nécessitent ou utilisent une position. Cela parait simple d’utiliser les Google Play Services pour récupérer une lastLocation ou directement la couche android.location avec un joli onLocationChanged ; et c’est parfois bien suffisant dans bien des cas, mais pas toujours...\r\n\r\nAlors, comment cette position est-elle construite ? Par quelles entrées ? De plus, qu’est-ce qu’une position exactement ? Et c’est quoi la FusedLocation ? On peut très vite se perdre lorsque l’on cherche à se positionner correctement et avec précision. \r\n\r\nLe framework de localisation Android est complexe et relativement lourd… Il reste cela dit très performant et cache pas mal de secrets ! Par exemple, saviez-vous que vous pouvez lire directement le contenu d’un message envoyé par les satellites ? Ou encore qu’on peut utiliser d’autres sources de données pour calculer une position, notamment grâce à la fusion ?\r\nDurant cette présentation, nous allons décortiquer la couche android.location et comprendre comment une position est calculée, comment bien utiliser les différentes callbacks ou méthodes qui doivent nous retourner cette position. Mais aussi les différentes capacités cachées du framework, et pourquoi pas une introduction au monde merveilleux du GNSS… \r\n\r\nEnglish:\r\nToday, we count more than 2.3 billion Android devices in the world. This is as much GPS receivers; or GNSS receivers, and a\r\nlot of application require or use a location. Using Google Play Services looks easy for gathering a lastLocation, or directly through the android.location layer with a nice onLocationChanged; this is often enough. But how this location is computed? Using which inputs? What is truly a location? And what is this FusedLocation everybody talks about ? We can be quickly lost when we search for a precise position.\r\nThe Android’s framework is complexe, quite heavy, yet, it performs well et hides some secrets. For instance, did you know that you can read the whole content of a satellite message? But also, we can use several sources for positioning using fusion! \r\nDuring this talk, we will be dissecting the android.location layer and understand how a position is calculated. How to use correctly the multiple callbacks or methods available which returns a location. But also, the different hidden ability of the framework, and why an introduction to the wonderful world of GNSS… \r\n",
+    "language": "French",
+    "complexity": "Intermediate",
+    "speakers": [
+      "9b593465-3930-4605-8f4d-4dacc490a7e5"
+    ],
+    "tags": [
+      "Under the hood"
     ]
   },
   "175670": {
@@ -582,19 +612,6 @@
     "tags": [
       "Architecture",
       "Testing"
-    ]
-  },
-  "174484": {
-    "title": "None to Manual to Dagger (A DI Journey)",
-    "description": "Everyone starts learning dagger from its annotations (e.g. from @Component to @Scope), and finds it difficult to learn. However, we can learn it using an opposite approach and learn it better. This talk is going to discuss about that reverse approach to learn dagger.\r\n\r\nInstead of learning what is @Component and how to use it, this talk first goes through something\r\nwhich doesn't have any DI and then discuss about the ways to inject the dependencies manually. In this\r\njourney of migrating from \"No DI\" to \"Manual DI\", we will end up at a place where our codebase looks\r\nsomewhat similar to dagger's generated code. Now is the time to replace those with proper dagger annotations and make it a journey from \"Manual DI\" to \"Dagger\".\r\n\r\nIn this journey, we will see a lot of Dagger's generated code first (as if we wrote them ourselves) and\r\nthen Dagger's annotations. This will make everyone visualise which Dagger annotation is doing what job and which should be used when.",
-    "language": "English",
-    "complexity": "Introductory and overview",
-    "speakers": [
-      "e7ace08f-10bc-4e0c-a3f1-2471868b5261"
-    ],
-    "tags": [
-      "Architecture",
-      "Under the hood"
     ]
   },
   "165628": {
@@ -635,7 +652,7 @@
     ]
   },
   "176470": {
-    "title": "Reducing memory footprint of your app -  what LeakCanary is not telling you about",
+    "title": "Reducing memory footprint of your app - what LeakCanary is not telling you about",
     "description": "Using LeakCanary but still seeing a lot of OutOfMemoryError crash reports on Firebase? \r\n\r\nIn this talk, I’ll show examples of non-trivial cases that I found in commercial projects with solutions that might help reduce memory consumption in your app (by almost a half!).\r\n\r\nI’ll explain why Glide is not always able to free all unused bitmaps and what problems you might encounter while using RecyclerView and ViewPager.",
     "language": "English",
     "complexity": "Intermediate",
@@ -661,17 +678,18 @@
       "Tools"
     ]
   },
-  "175713": {
-    "title": "Shrink, Secure & Optimize Your App With R8",
-    "description": "This talk dives into some of the details of how the new shrinker Google R8 evolved, & how it differs from D8 and Proguard. Android developers know that app size, security and optimization is an important factor in user engagement. In an emerging market like India size of an application matters. The lesser the size the probability of increasing downloads will be more. Smaller is always faster such as download, install, startup. Here comes R8 which is a shrinking technique to shrink your app size. It uses Tree Shaking, Optimization for size, Minification(Obfuscation) techniques.\r\n\r\nFollowing is the outline of the talk:\r\n1. How R8 evolved from Java Compiler, Dex Compiler, Proguard, D8.\r\n2. What are keep rules?\r\n3. What is shrinking in R8?\r\n4. How much you can save using R8?\r\n5. What are R8 shrinking fundamentals?\r\n5. R8 for library developer. \r\n6. Some of the best practices for R8.",
+  "172307": {
+    "title": "Riding the state flow",
+    "description": "View, State, Action ... Unidirectional Data Flow is not a concept unique to React. Used for many years in Web development, it tends to propagate to mobile platforms. Why? Because it helps develop our UI and consider the changes as states and events. \r\n\r\nThis topic is not new on Android. But Kotlin and coroutines can now greatly improve our experience.\r\n\r\nLet's see how we can structure our Android MVVM development with such an approach. Let's take some concrete samples and see how we can easily write it with just a Kotlin function, and even embrace functional programming.  ",
     "language": "English",
-    "complexity": "Intermediate",
+    "complexity": "Introductory and overview",
     "speakers": [
-      "783383ee-7b06-415a-9e72-a46a21bb3e92"
+      "66fbb80a-cd18-4ba1-931d-d070d060ab95"
     ],
     "tags": [
-      "Security",
-      "Tools"
+      "Architecture",
+      "Tools",
+      "Under the hood"
     ]
   },
   "174186": {
@@ -728,18 +746,6 @@
       "Tools"
     ]
   },
-  "175068": {
-    "title": "The Light Way",
-    "description": "What if an app could be performant by being simple?\r\nWhat if an app could work “at scale” for 1 billion users using only standard Android paradigms?\r\n\r\nAt Facebook, we support some of the biggest, most complex apps in the world.  But we also support developing countries, low-memory phones, and spotty network. So in Messenger Lite, we tried something different.  We prioritized cold start and APK size by going back to basics.  We limit our dependencies -- and our feature set.  And we embrace what the Android framework provides to make a completely native app that’s featherweight and really, really fast.\r\n\r\nI’ll walk you through how these tools -- like data binding, RecyclerViews, a database-driven UI, and simply writing *less code* -- are available to every Android developer who wants to build their app the Lite way.\r\n",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "b2005329-30d3-4783-9a8c-d2e7b2a75f76"
-    ],
-    "tags": [
-      "Tools"
-    ]
-  },
   "172401": {
     "title": "The Secrets of the Build Scan Plugin and the internals of Gradle",
     "description": "Build scans provide some very useful information about Gradle Builds. Build time, configuration time, task execution time.\r\nScans even show garbage collection time, time spent downloading dependencies, time spent in annotation processors? What can you do with all this data?\r\n\r\nIn this talk I'll share how to surface actionable information from your Gradle build immediately to developers without using the build scan plugin or Gradle Enterprise.",
@@ -789,18 +795,6 @@
     ],
     "tags": [
       "Soft skills"
-    ]
-  },
-  "176289": {
-    "title": "What The Context ?",
-    "description": "Context in Android is probably the most confusing topic for even the most seasoned Android developers. Most of us have been burned in one way or the other due to the lack of clarity on what Context is on Android and how to use it.\r\n\r\nIn this talk I will try to demystify what context is on Android & explain the various options and their implications. We will try and understand how the various contexts differ and why should you as a developer care. We will also have a final cheatsheet to use going forward so that you are absolutely sure about which context to use & when.",
-    "language": "English",
-    "complexity": "Advanced",
-    "speakers": [
-      "a8fd2a73-d62b-4a05-a52b-9be52909a462"
-    ],
-    "tags": [
-      "Under the hood"
     ]
   },
   "176472": {

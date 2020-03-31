@@ -32,34 +32,6 @@
       }
     ]
   },
-  "a8fd2a73-d62b-4a05-a52b-9be52909a462": {
-    "order": 4,
-    "featured": false,
-    "name": "Adnan A M",
-    "bio": "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge, experience and exposure with E-Commerce and used to previously work with BookMyShow(India's largest entertainment/ticketing portal with a 14M+ user base), where he went on to rewrite the entire app from scratch.",
-    "shortBio": "Android developer @ Redmart",
-    "country": "Bangalore, India",
-    "companyLogo": null,
-    "company": "Redmart",
-    "photo": "https://sessionize.com/image?f=3dc90a7c09429ec1de22bec03b606f5a,400,400,1,0,73-d62b-4a05-a52b-9be52909a462.f491287c-7bad-413e-b0ac-8e7079e20300.jpeg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/adnanM0123",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/adnan-a-m-9b378955/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://zolostays.com/",
-        "name": "Company Website"
-      }
-    ]
-  },
   "464fd6c7-2ecb-48cf-8f9d-c82bb160cb5f": {
     "order": 4,
     "featured": false,
@@ -112,6 +84,23 @@
       {
         "icon": "website",
         "link": "https://corporate.takeaway.com/",
+        "name": "Company Website"
+      }
+    ]
+  },
+  "4f6d2a24-eb80-46df-bf6b-09af7c915c73": {
+    "order": 4,
+    "featured": false,
+    "name": "Alizée Lambert",
+    "bio": "Alizée est consultante UXUI chez OCTO Technology. Après un rapide détour par l’UX research, elle co-construit aujourd’hui avec ses clients et leurs utilisateurs des applications mobiles et web dans des secteurs variés (énergie, secteur publique, startups…). Passionnée par les problématiques d’expérience utilisateur en mobilité, elle suit de près les évolutions sociales et techniques afin d’imaginer des expériences toujours plus intuitives.",
+    "shortBio": "UXUI designer @OCTOTechnology",
+    "country": "Paris, France",
+    "companyLogo": "/images/logos/octo.svg",
+    "photo": "https://sessionize.com/image?f=89035f9a5e0f626edce3641ce9f99c7e,400,400,1,0,78eeac43-a5fa-4914-8a71-a82304c9526b.jpg",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://www.octo.com/en/",
         "name": "Company Website"
       }
     ]
@@ -202,6 +191,33 @@
         "icon": "website",
         "link": "https://magiclab.co",
         "name": "Company Website"
+      }
+    ]
+  },
+  "66fbb80a-cd18-4ba1-931d-d070d060ab95": {
+    "order": 4,
+    "featured": false,
+    "name": "Arnaud Giuliani",
+    "bio": "Software developer for more than 13 years. Since a while now, I work as mainly as a Senior Android developer and keep hands in backend stuff.  I'm a speaker since 2016. I talk mostly about Kotlin, Android & Koin. \r\n\r\nIn 2017, I've created Koin (https://insert-koin.io), a lightweight dependency injection framework for Kotlin.",
+    "shortBio": "Mobile Engineer - Lead Koin Project ",
+    "country": "Toulouse, France",
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=d140659a18eba04dab15be12fa2fa84e,400,400,1,0,52868836-85da-47a2-8c0e-a014a15cb625.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arnogiu",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/arnaud-giuliani-0b2b73b/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@giuliani.arnaud",
+        "name": "Blog"
       }
     ]
   },
@@ -298,43 +314,6 @@
         "icon": "website",
         "link": "https://cafonsomota.xyz",
         "name": "Company Website"
-      }
-    ]
-  },
-  "e7ace08f-10bc-4e0c-a3f1-2471868b5261": {
-    "order": 4,
-    "featured": false,
-    "name": "Chandra Sekhar Nayak",
-    "bio": "I am an Android developer since last 7 years. Apart from developing Android apps for my employer, I do organize BlrKotlin (India's biggest Kotlin focused user group). I create YouTube videos for my channel \"Chanse Code\" and sometimes blog at chansek.com",
-    "shortBio": "Building Android apps for Lowe's",
-    "country": "Bengaluru, India",
-    "companyLogo": null,
-    "photo": "https://sessionize.com/image?f=578b671b8080c7d783673c937819d6a8,400,400,1,0,c5b2684f-b59a-4ebf-b123-d3ce4ff61329.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/iChanSek",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/chandra-sekhar-nayak-1aba6538",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "http://chansek.com",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "http://www.lowes.co.in/",
-        "name": "Company Website"
-      },
-      {
-        "icon": "youtube",
-        "link": "http://bit.ly/chansecode",
-        "name": "Other"
       }
     ]
   },
@@ -700,6 +679,43 @@
     "photo": "https://sessionize.com/image?f=f64f5996f47fe6a01a6bfd3f4fa466a3,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.4a438ebf-09bf-4f2e-9b37-8a3535fef20b.png",
     "socials": []
   },
+  "6b8f27b2-f4f8-4dcb-92e7-0381ae87ad85": {
+    "order": 4,
+    "featured": false,
+    "name": "Garima Jain",
+    "bio": "Garima Jain, Android GDE, also known as  @ragdroid is working as an Android Engineer at Over. Previously she has worked with Fueled Noida and Bharti Soft Bank (Hoppr, Hike). She is also an international speaker, CasterIO author and an active technical blogger.",
+    "shortBio": "Android Engineer at Over",
+    "country": "Bangalore, India",
+    "companyLogo": "gvXGc9Ww.png",
+    "photo": "https://sessionize.com/image?f=cda9e673e2329264c53b10872ed58e9a,400,400,1,0,b2-f4f8-4dcb-92e7-0381ae87ad85.3c1812d5-4d97-4169-9232-9cbd90a98cdf.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ragdroid",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/ragdroid/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://ragdroid.com",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.madewithover.com/",
+        "name": "Company Website"
+      },
+      {
+        "title": "Medium",
+        "link": "https://medium.com/@ragdroid",
+        "name": "Other"
+      }
+    ]
+  },
   "78ffd2f4-e52a-4a7d-8ead-8cf072843946": {
     "order": 4,
     "featured": false,
@@ -899,34 +915,6 @@
       }
     ]
   },
-  "cda15006-0bbc-47f8-ac5e-5405709c2af9": {
-    "order": 4,
-    "featured": false,
-    "name": "Jonathan Salamon",
-    "bio": "Développeur Android chez Dashlane, je suis amené à travailler sur des fonctionnalités innovantes devant mêler performance et sécurité absolue.\r\n\r\nFan de nouvelles technologies (Réalité virtuelle, objets connectés, etc..) j'ai pu participé, en tant qu'auto-entrepreneur ou bénévole, au développement de projets innovants utilisant des nouvelles technologies et divers objets tels que le Bluetooth Low Energy, le NFC, du Geofencing, des montres sous Android Wear et même des Google Glass.\r\n\r\nJ'aime apprendre et je suis heureux d'avoir déjà pu toucher à de nombreux domaines allant du développement d'applications web front-end/back-end, au développement de jeux, en passant par des applications Android B2B/B2C et la conception d'objets connectés",
-    "shortBio": "Android Developer @ Dashlane",
-    "country": "Paris, France",
-    "companyLogo": "/images/logos/Dashlane-Lockup-Green.svg",
-    "company": "Dashlane",
-    "photo": "https://sessionize.com/image?f=bc8823f9af18b44a6b60a1e31bb76d72,400,400,1,0,a3428905-00ae-4443-8e3b-92d79039f853.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://www.twitter.com/J_TheFrench",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/salamonjonathan/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.dashlane.com",
-        "name": "Company Website"
-      }
-    ]
-  },
   "c03a7211-54ff-4819-9789-1a22ed91fafc": {
     "order": 4,
     "featured": false,
@@ -983,61 +971,30 @@
       }
     ]
   },
-  "b2005329-30d3-4783-9a8c-d2e7b2a75f76": {
-    "order": 4,
-    "featured": true,
-    "badges": [
-      {
-        "name": "gde",
-        "link": "https://developers.google.com/community/experts/directory/profile/profile-lisa_wray",
-        "description": "Google Developer Expert"
-      }
-    ],
-    "name": "Lisa Wray",
-    "bio": "Lisa Wray is an Android developer, speaker, and advocate specializing in user interfaces.  She currently works at Facebook and lives in Seattle.",
-    "shortBio": "Android at Facebook",
-    "country": "Seattle, USA",
-    "companyLogo": null,
-    "company": "Facebook",
-    "photo": "https://sessionize.com/image?f=8f83ad51e8aca6ef8774cefc293db8d7,400,400,1,0,29-30d3-4783-9a8c-d2e7b2a75f76.f55b300b-4787-4917-8e8b-52867c06b32b.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "http://twitter.com/lisawrayz",
-        "name": "Twitter"
-      }
-    ]
-  },
-  "f906557e-b030-481d-ba29-3b1421c43f93": {
+  "eb5cd092-73fa-402d-8636-8a52574e74c3": {
     "order": 4,
     "featured": false,
-    "name": "Lucas Nelaupe",
-    "bio": "Android developer at @GrabSG focusing on performance at scale.",
-    "shortBio": "Senior Software Engineer at Grab Singapore",
-    "country": "Singapore",
-    "companyLogo": "1200px-Grab_(application)_logo.svg.png",
-    "company": "GrabSG",
-    "photo": "https://sessionize.com/image?f=779eef2d18793ac6944bb18bec5cf9f2,400,400,1,0,31eec8c6-de40-4bfa-85c9-446d59e73202.jpg",
+    "name": "Kai Koenig",
+    "bio": "I am a Software Solutions Architect specialised in web and mobile technologies using client-side platforms such as mobile web, Flutter and Android. \r\n\r\nAnother focus of my work is building and the integration with JVM-backend platforms such as Java, Kotlin, CFML, Lucee and others like Go and Python. I spend most of my work time contributing to projects of various clients and sizes, fulfilling the role of an architect, principal developer, consultant or mentor/instructor.\r\n\r\n",
+    "shortBio": "I build stuff for Android and have 4 chickens! :)",
+    "country": "Wellington, New Zealand",
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=6e4baa98a91bd3e6c40fc496a4cc2dc7,400,400,1,0,26f22f59-8493-4803-8692-cdf3b8633419.jpg",
     "socials": [
       {
         "icon": "twitter",
-        "link": "https://twitter.com/lucas34990",
+        "link": "http://twitter.com/AgentK",
         "name": "Twitter"
       },
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/lucasnelaupe/",
+        "link": "https://www.linkedin.com/in/kaikoenig/",
         "name": "LinkedIn"
       },
       {
         "icon": "website",
-        "link": "https://medium.com/@lucas.nelaupe",
+        "link": "https://medium.com/@kaikoenig",
         "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.grab.com/sg/",
-        "name": "Company Website"
       }
     ]
   },
@@ -1122,29 +1079,6 @@
         "icon": "website",
         "link": "http://autsoft.hu/en",
         "name": "Company Website"
-      }
-    ]
-  },
-  "53f01c30-81e8-4895-988a-eb20bad7fb55": {
-    "order": 4,
-    "featured": false,
-    "name": "Maxime Mazzone",
-    "bio": "Maxime Mazzone is an Android developer at Babylon Health. He specialised in UI aiming to make it as simple as possible for every developer to make great usable apps. Working on declarative UI and Design systems at Babylon Health, he also enjoys playing with modern UI frameworks like Flutter.",
-    "shortBio": "Android developer at Babylon Health",
-    "country": "London, United Kingdom",
-    "companyLogo": "BABYLON-LOGO.png",
-    "company": "Babylon",
-    "photo": "https://sessionize.com/image?f=de24c265e681017e28b7bea0e026d076,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.8a585467-5364-442d-87b2-075131e8d8d8.jpeg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/maxmzzn",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/maxime-mazzone-7781b296//",
-        "name": "LinkedIn"
       }
     ]
   },
@@ -1289,6 +1223,70 @@
       }
     ]
   },
+  "3e5fddb1-d6ae-42af-8f79-a3c0b61b0892": {
+    "order": 4,
+    "featured": false,
+    "name": "Nishant Srivastava",
+    "bio": "Nishant is an Android Engineer based in Berlin, Germany. He is an open source enthusiast who spends his time doodling when not hacking on Android, while also being a caffeine-dependent life-form. He can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings. He has experience in Android SDK Engineering, Firmware Engineering and Audio Digital Signal Processing(DSP) on Android.\r\n\r\nHe has been part of 3 startups in the past, ranging from being the Founding team member at OmniLabs, Inc.,  being the First employee at Silverpush for whom he developed the company’s patented UAB (Unique Audio Beacon) Technology to being an Android Engineer at Soundbrenner where he dabbled in the art of Firmware Engineering a bit for their custom wearable product, Core while managing their Android application.",
+    "shortBio": "Android Engineer",
+    "country": "Berlin, Germany",
+    "companyLogo": "crvsh_logo.png",
+    "photo": "https://sessionize.com/image?f=65c251356a527d124c51b4492f3cca0b,400,400,1,0,0e8d9749-2465-4b8c-9208-05792b4b5daf.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/nisrulz",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/nisrulz",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://crushingcode.nisrulz.com/",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "http://nisrulz.com/",
+        "name": "Company Website"
+      },
+      {
+        "title": "Github",
+        "link": "https://github.com/nisrulz",
+        "name": "Other"
+      },
+      {
+        "title": "Portfolio",
+        "link": "https://github.com/nisrulz/nisrulz.github.io#nishant-srivastava",
+        "name": "Other"
+      }
+    ]
+  },
+  "7dce605a-8ab8-44f2-8e1e-ad9b029c2b5d": {
+    "order": 4,
+    "featured": false,
+    "name": "Olivier Daniel",
+    "bio": "5 years as an Android developper in Coyote. I actively participated to the creation of a common project containing the Coyote application and two of its devices : Nav+ and Up. ",
+    "shortBio": "Coyote System, Android developper",
+    "country": "Bordeaux, France",
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=9241e49309c0d21cea971b6ce5d9f838,400,400,1,0,5a-8ab8-44f2-8e1e-ad9b029c2b5d.7e72871e-ea93-4970-a598-00cf8317a459.jpeg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/olivier-daniel-5137706b",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.moncoyote.com/fr/",
+        "name": "Company Website"
+      }
+    ]
+  },
   "d3841a2b-b09c-41f7-afa6-26734c05a277": {
     "order": 4,
     "featured": false,
@@ -1309,39 +1307,6 @@
         "icon": "website",
         "link": "https://medium.com/@PaulinaSadowska",
         "name": "Blog"
-      }
-    ]
-  },
-  "eb4a5e18-e092-4474-b8c6-808fe33cedc0": {
-    "order": 4,
-    "featured": false,
-    "name": "Peter Törnhult",
-    "bio": "Peter is an Android developer who's worked in mobile app development since early 2000, both professionally and as an Indie developer. He’s not afraid of rolling up his sleeves to work on the backend, pipelines, web or taking on the role of Scrum master. While he focuses on Android and UI work he’s also engaged as a Meetup organizer for Android in Stockholm where he lives",
-    "shortBio": "Android developer",
-    "country": "Stockholm, Sweden",
-    "companyLogo": "citerus-logo.png",
-    "company": "",
-    "photo": "https://sessionize.com/image?f=553decd895f2057deaee5de92b86311a,400,400,1,0,18-e092-4474-b8c6-808fe33cedc0.b8264e7e-9d1e-4361-8895-5f2496153e50.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/petertornhult",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/petertornhult/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://medium.com/@peter.tornhult",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.citerus.se/",
-        "name": "Company Website"
       }
     ]
   },
@@ -1448,6 +1413,60 @@
       {
         "icon": "website",
         "link": "https://twitter.com/",
+        "name": "Company Website"
+      }
+    ]
+  },
+  "2553ba47-e51c-42c6-b7b5-1136d927eca2": {
+    "order": 4,
+    "featured": false,
+    "name": "Rémi Dormoy",
+    "bio": "Développeur mobile chez OCTO Technology, Rémi est très intéressé par les problématiques de design et de parcours utilisateurs, il travaille au jour le jour à développer des applications Android fluides et agréables dans différents secteurs comme la banque ou la recherche d'emplois. ",
+    "shortBio": "Android Developer OCTO Technology",
+    "country": null,
+    "companyLogo": "/images/logos/octo.svg",
+    "photo": "https://sessionize.com/image?f=55b6224f0b6d42b1e652a99895aa8ff8,400,400,1,0,268cca23-9d3e-407b-a5b5-e03327795115.jpg",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/r%C3%A9mi-dormoy-2918a1125/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.octo.com",
+        "name": "Company Website"
+      }
+    ]
+  },
+  "4674e36f-50f8-4ffb-a486-679d730c759e": {
+    "order": 4,
+    "featured": false,
+    "name": "Renaud Mathieu",
+    "bio": "Android Software Engineer based in Paris. Renaud likes sharing return of experience on how to develop Android apps. Renaud used to work at Captain Train, Viadeo and Parrot and is currently building NEOS that will change the way customers will pay in any shop.",
+    "shortBio": "Android @ NEOS",
+    "country": "Paris, France",
+    "companyLogo": "share.png",
+    "photo": "https://sessionize.com/image?f=f208ca6c2d9102d01df59c1c341d4479,400,400,1,0,2952bcff-8886-47d8-911d-b70321f9b768.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/renaud_mathieu",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/renaudmathieu1/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://renaudmathieu.fr",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://neos.app",
         "name": "Company Website"
       }
     ]
@@ -1614,30 +1633,24 @@
       }
     ]
   },
-  "783383ee-7b06-415a-9e72-a46a21bb3e92": {
+  "eb1a2a18-6b45-46a8-b58e-78dba26ddd74": {
     "order": 4,
     "featured": false,
-    "name": "Siddhant Panhalkar",
-    "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
-    "shortBio": "Software Engineer at 1MG Technologies",
-    "country": "New Delhi, India",
-    "companyLogo": "/images/logos/splash_1mg.png",
-    "company": "1MG Technologies",
-    "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
+    "name": "Stéphane NICOLAS",
+    "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
+    "shortBio": "Senior Android dev at Square",
+    "country": "Bay Area, CA, USA",
+    "companyLogo": "square-logo.png",
+    "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
     "socials": [
       {
         "icon": "twitter",
-        "link": "https://twitter.com/SiddhantPanhal2",
+        "link": "https://twitter.com/D_Lemures",
         "name": "Twitter"
       },
       {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/siddhant-panhalkar-292675ba/",
-        "name": "LinkedIn"
-      },
-      {
         "icon": "website",
-        "link": "https://www.1mg.com/",
+        "link": "https://squareup.com",
         "name": "Company Website"
       }
     ]
@@ -1675,38 +1688,16 @@
       }
     ]
   },
-  "ca887d91-53e4-4d13-8e94-fbd235e958e0": {
+  "22971f2f-e773-4c71-a767-4e0cf49d0e04": {
     "order": 4,
     "featured": false,
-    "name": "Valera Zakharov",
-    "bio": "Valera leads the mobile developer experience team at Slack. Prior to Slack, he led the development of Espresso at Google and contributed to the infrastructure that runs hundreds of android tests per second. He is passionate about building (and presenting about!) infrastructure that makes the lives of developers more pleasant and productive.",
-    "shortBio": "Tech lead at Slack",
-    "country": "San Francisco, California",
-    "companyLogo": "slack-logo.png",
-    "company": "Slack",
-    "photo": "https://sessionize.com/image?f=864dabb49e05f168ee70e894df853d03,400,400,1,0,f64bf5a5-7cff-4e95-b715-88bb530ff294.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/valera_zakharov",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/vzakharov/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://medium.com/@valera.zakharov",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://slack.engineering",
-        "name": "Company Website"
-      }
-    ]
+    "name": "Vincent Nicolle",
+    "bio": "Développeur dans le mobile depuis plus de 20 ans, passionné par les nouvelles technologies. A rejoint Coyote System en 2010 en tant que développeur multi-plateformes (iOS/Android).",
+    "shortBio": "Coyote System, Lead Software Engineer Mobile",
+    "country": "Bordeaux, France",
+    "companyLogo": "/images/logos/coyotte.png",
+    "photo": "https://sessionize.com/image?f=a030058217e75aa677570f29d50b0044,400,400,1,0,2f-e773-4c71-a767-4e0cf49d0e04.067a1fe0-0c44-4c66-adec-292314efbd0c.png",
+    "socials": []
   },
   "bf58d77f-fad3-49b7-a6b3-82b5f46e5549": {
     "order": 4,
