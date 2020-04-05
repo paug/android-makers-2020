@@ -780,6 +780,8 @@
     ]
   },
   "cb9da4e8-c687-4231-96e7-f0e594fe7f5d": {
+    "order": 4,
+    "featured": false,
     "name": "Helen Adekoya",
     "bio": "Helping teams deliver high-quality, reliable, app releases on a defined regular cadence.",
     "shortBio": "Technical Program Manager @ Lyft ",
@@ -789,6 +791,8 @@
     "socials": []
   },
   "2d41d3fb-3321-4b47-a401-ae84a5de2423": {
+    "order": 4,
+    "featured": true,
     "name": "Huyen Tue Dao",
     "bio": "Huyen Tue Dao is an Android developer and Google Developer Expert for Android and Kotlin. She currently works on the Trello Android app at Atlasssian and is also co-producer of the \"Android Dialogs\" YouTube channel.\r\n\r\nHuyen lives in Denver, CO though is often found in the DC Metro area. When not up late programming, she is often found up late gaming (video, board, card, anything).",
     "shortBio": "Android Code Monkey @ Trello",
@@ -1284,6 +1288,8 @@
     ]
   },
   "a0eaa66e-1b5f-4b90-a2c8-0e50472971b8": {
+    "order": 4,
+    "featured": false,
     "name": "Pierre Benayoun",
     "bio": "todo",
     "shortBio": "Android Engineer at Deezer",
@@ -1632,6 +1638,8 @@
     ]
   },
   "783383ee-7b06-415a-9e72-a46a21bb3e92": {
+    "order": 4,
+    "featured": false,
     "name": "Siddhant Panhalkar",
     "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
     "shortBio": "Software Engineer at 1MG Technologies",
