@@ -161,39 +161,6 @@
       }
     ]
   },
-  "cb3de15d-e971-496b-bdcf-db23155f3f17": {
-    "order": 4,
-    "featured": false,
-    "name": "Arkadii Ivanov",
-    "bio": "Born in Saint-Petersburg, Russia. Currently live in London, UK. Started working as a Windows developer in 2008. Then switched to Android development in 2012.",
-    "shortBio": "Android Developer, Badoo by MagicLab",
-    "country": "London, UK",
-    "companyLogo": null,
-    "company": "MagicLab",
-    "photo": "https://sessionize.com/image?f=633b39261b744fda18b902e9712cecfe,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.4a2715f4-78a3-410b-8aef-b5d40c922c1f.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/arkann1985",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/arkadyivanov/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://badootech.badoo.com/",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://magiclab.co",
-        "name": "Company Website"
-      }
-    ]
-  },
   "66fbb80a-cd18-4ba1-931d-d070d060ab95": {
     "order": 4,
     "featured": false,
@@ -710,7 +677,7 @@
         "name": "Company Website"
       },
       {
-        "title": "Medium",
+        "icon": "Medium",
         "link": "https://medium.com/@ragdroid",
         "name": "Other"
       }
@@ -808,6 +775,45 @@
       {
         "icon": "website",
         "link": "https://citizenme.com",
+        "name": "Company Website"
+      }
+    ]
+  },
+  "cb9da4e8-c687-4231-96e7-f0e594fe7f5d": {
+    "name": "Helen Adekoya",
+    "bio": "Helping teams deliver high-quality, reliable, app releases on a defined regular cadence.",
+    "shortBio": "Technical Program Manager @ Lyft ",
+    "country": null,
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=ea66e1999a9e75e5e3cebd24e8dfd2bc,400,400,1,0,e8-c687-4231-96e7-f0e594fe7f5d.2ba8c49d-8dbc-4264-a800-f0ec736eade6.jpg",
+    "socials": []
+  },
+  "2d41d3fb-3321-4b47-a401-ae84a5de2423": {
+    "name": "Huyen Tue Dao",
+    "bio": "Huyen Tue Dao is an Android developer and Google Developer Expert for Android and Kotlin. She currently works on the Trello Android app at Atlasssian and is also co-producer of the \"Android Dialogs\" YouTube channel.\r\n\r\nHuyen lives in Denver, CO though is often found in the DC Metro area. When not up late programming, she is often found up late gaming (video, board, card, anything).",
+    "shortBio": "Android Code Monkey @ Trello",
+    "country": "Denver, CO, USA",
+    "companyLogo": null,
+    "photo": "https://sessionize.com/image?f=4fba0036ec10512c17e5818e8ad8b302,400,400,1,0,082b63d1-68c8-4245-862e-15f1263325ff.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/queencodemonkey",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/huyentuedao/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.randomlytyping.com/",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.randomlytyping.com",
         "name": "Company Website"
       }
     ]
@@ -1127,39 +1133,6 @@
       }
     ]
   },
-  "3b23cdc0-d0df-45bf-a2f2-cd30791d27b6": {
-    "order": 4,
-    "featured": false,
-    "name": "Nicolas Mouchel",
-    "bio": "Nicolas leads the Android team at Meetic, where he organises the team and the project to create a great dating app. He has been working with Android for 7 years. He likes technical challenges and good food.",
-    "shortBio": "Android tech lead at Meetic",
-    "country": "Lille, France",
-    "companyLogo": "/images/logos/Meetic.png",
-    "company": "Meetic",
-    "photo": "https://sessionize.com/image?f=389f4f4d6a6f55ba0c12e8f8de5e4fff,400,400,1,0,c0-d0df-45bf-a2f2-cd30791d27b6.cd7dfb1b-259d-4bc6-8a4b-f4c14376d784.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/_sagix",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/nicolas-mouchel/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "http://sagix.fr",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.meetic-group.com/",
-        "name": "Company Website"
-      }
-    ]
-  },
   "ed1e4545-4547-4697-9515-28f4174f09dd": {
     "order": 4,
     "featured": true,
@@ -1254,12 +1227,12 @@
         "name": "Company Website"
       },
       {
-        "title": "Github",
+        "icon": "Github",
         "link": "https://github.com/nisrulz",
         "name": "Other"
       },
       {
-        "title": "Portfolio",
+        "icon": "Portfolio",
         "link": "https://github.com/nisrulz/nisrulz.github.io#nishant-srivastava",
         "name": "Other"
       }
@@ -1307,6 +1280,31 @@
         "icon": "website",
         "link": "https://medium.com/@PaulinaSadowska",
         "name": "Blog"
+      }
+    ]
+  },
+  "a0eaa66e-1b5f-4b90-a2c8-0e50472971b8": {
+    "name": "Pierre Benayoun",
+    "bio": "todo",
+    "shortBio": "Android Engineer at Deezer",
+    "country": "Bordeaux, France",
+    "companyLogo": "Deezer_logo.svg",
+    "photo": "https://sessionize.com/image?f=f0b12a34e3acf8104c7629282070749e,400,400,1,0,6e-1b5f-4b90-a2c8-0e50472971b8.3483fab3-2206-44b7-8d6c-0400c7615c74.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Pierre_Benayoun",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/pierrebenayoun1976/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.deezer.com/us/",
+        "name": "Company Website"
       }
     ]
   },
@@ -1630,6 +1628,31 @@
         "icon": "website",
         "link": "https://sebastiano.dev",
         "name": "Personal website"
+      }
+    ]
+  },
+  "783383ee-7b06-415a-9e72-a46a21bb3e92": {
+    "name": "Siddhant Panhalkar",
+    "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
+    "shortBio": "Software Engineer at 1MG Technologies",
+    "country": "New Delhi, India",
+    "companyLogo": "splash_1mg.png",
+    "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/SiddhantPanhal2",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/siddhant-panhalkar-292675ba/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.1mg.com/",
+        "name": "Company Website"
       }
     ]
   },
