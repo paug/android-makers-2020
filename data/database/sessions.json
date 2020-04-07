@@ -802,7 +802,9 @@
     "language": "",
     "complexity": "",
     "speakers": [],
-    "tags": []
+    "tags": [
+      "Keynote"
+    ]
   },
   "no-op": {
     "title": "",
@@ -810,7 +812,9 @@
     "language": "",
     "complexity": "",
     "speakers": [],
-    "tags": []
+    "tags": [
+      "Service"
+    ]
   },
   "break": {
     "description": "Coffeeeeeee! ☕️",
