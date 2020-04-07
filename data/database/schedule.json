@@ -287,9 +287,6 @@
             "items": [
               "break"
             ]
-          },
-          {
-            "items": []
           }
         ]
       },
@@ -441,20 +438,20 @@
     ],
     "tracks": [
       {
-        "title": "Moebius",
-        "infos": "1st floor"
+        "title": "Track 1",
+        "infos": "Online"
       },
       {
-        "title": "Room A. & L. Blin",
-        "infos": "Basement"
+        "title": "Track 2",
+        "infos": "Online"
       },
       {
-        "title": "Room 2.02",
-        "infos": "2nd floor"
+        "title": "Track 3",
+        "infos": "Online"
       },
       {
-        "title": "Room 2.04",
-        "infos": "2nd floor"
+        "title": "Track 4",
+        "infos": "Online"
       }
     ]
   },
@@ -714,9 +711,6 @@
             "items": [
               "break"
             ]
-          },
-          {
-            "items": []
           }
         ]
       },
@@ -888,24 +882,20 @@
     ],
     "tracks": [
       {
-        "title": "Moebius",
-        "infos": "1st floor"
+        "title": "Track 1",
+        "infos": "Online"
       },
       {
-        "title": "Room A. & L. Blin",
-        "infos": "Basement"
+        "title": "Track 2",
+        "infos": "Online"
       },
       {
-        "title": "Room 2.02",
-        "infos": "2nd floor"
+        "title": "Track 3",
+        "infos": "Online"
       },
       {
-        "title": "Room 2.04",
-        "infos": "2nd floor"
-      },
-      {
-        "title": "Office Hours",
-        "infos": "1st floor"
+        "title": "Track 4",
+        "infos": "Online"
       }
     ]
   }
