@@ -795,5 +795,30 @@
       "Architecture",
       "Soft skills"
     ]
+  },
+  "keynote": {
+    "title": "Keynote",
+    "description": "Keynote",
+    "language": "",
+    "complexity": "",
+    "speakers": [],
+    "tags": []
+  },
+  "no-op": {
+    "title": "",
+    "description": "",
+    "language": "",
+    "complexity": "",
+    "speakers": [],
+    "tags": []
+  },
+  "break": {
+    "description": "Coffeeeeeee! ☕️",
+    "icon": "coffee-break",
+    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+    "title": "Coffee break",
+    "tags": [
+      "Service"
+    ]
   }
 }
