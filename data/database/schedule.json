@@ -4,6 +4,17 @@
     "timeslots": [
       {
         "startTime": "10:00",
+        "endTime": "10:15",
+        "sessions": [
+          {
+            "items": [
+              "welcome"
+            ]
+          }
+        ]
+      },
+      {
+        "startTime": "10:15",
         "endTime": "11:00",
         "sessions": [
           {

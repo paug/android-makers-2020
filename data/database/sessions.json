@@ -799,11 +799,23 @@
   "keynote": {
     "title": "Keynote",
     "description": "Keynote",
+    "icon": "opening",
     "language": "",
     "complexity": "",
     "speakers": [],
     "tags": [
       "Keynote"
+    ]
+  },
+  "welcome": {
+    "title": "Welcome Message",
+    "description": "Welcome Message",
+    "icon": "registration",
+    "language": "",
+    "complexity": "",
+    "speakers": [],
+    "tags": [
+      "Welcome Message"
     ]
   },
   "no-op": {
