@@ -1,0 +1,24 @@
+{
+  "allRooms": [
+    {
+      "infos": "",
+      "roomId": "track1",
+      "roomName": "Track 1"
+    },
+    {
+      "infos": "",
+      "roomId": "track2",
+      "roomName": "Track 2"
+    },
+    {
+      "infos": "",
+      "roomId": "track3",
+      "roomName": "Track 3"
+    },
+    {
+      "infos": "",
+      "roomId": "track4",
+      "roomName": "Track 4"
+    }
+  ]
+}
