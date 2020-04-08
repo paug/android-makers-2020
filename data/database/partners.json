@@ -70,6 +70,17 @@
   },
   {
     "order": 4,
+    "title": "Other Partners",
+    "logos": [
+      {
+        "logoUrl": "../images/logos/slido.svg",
+        "name": "Slido",
+        "url": "http://sli.do"
+      }
+    ]
+  },
+  {
+    "order": 5,
     "title": "Website Template",
     "logos": [
       {
