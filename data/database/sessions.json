@@ -1,4 +1,16 @@
 {
+  "195718": {
+    "title": "Story of a full-remote culture",
+    "description": "Remote working has really been a strong trend for several years now and obviously, those days, it became a reality for a lot of people, especially for software engineers. But there are various ways of working remotely and it's not always obvious to settle a remote culture in a company. In this talk, we'll talk about remote-friendly and remote-first companies, benefits that remote work brings to a company and how to work in a distributed team. ",
+    "language": "English",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "9716ff27-d78b-437f-9ce8-24087a771ccc"
+    ],
+    "tags": [
+      "Soft skills"
+    ]
+  },
   "173222": {
     "title": "Benchmarking your application",
     "description": "Back in 1974, Donald Knuth said that “premature optimization is the root of all evil (or at least most of it) in programming”. But optimization without benchmarks can be even worse than that. It’s like following a map without using a compass, and just following your instinct that you’re going in the right direction. \r\n\r\nWhether it is during development or at runtime, many tools exist to let you measure the performance of your applications. These measures can then be used to prioritize which parts to optimize first, as well as measure the performances gained (or lost) after a refactoring.\r\n",
