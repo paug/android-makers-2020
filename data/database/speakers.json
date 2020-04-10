@@ -1101,11 +1101,11 @@
     "order": 4,
     "featured": false,
     "name": "Márton Braun",
-    "bio": "A Kotlin enthusiast since the 1.0 of the language, writer, speaker, educator. Software Engineer at Skyscanner. Android/Kotlin Tech Editor at RayWenderlich.com. Instructor at BME-VIK, teaching Kotlin and Android. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of the MaterialDrawerKt and Krate libraries./Kotlin tech editor at RayWenderlich.com. University student, working on a master's in computer engineering at the Budapest University of Technology and Economics. Instructor at the same university, teaching Kotlin and Android.",
+    "bio": "A Kotlin enthusiast since the 1.0 of the language, writer, speaker, educator. Software Engineer at Skyscanner. Android/Kotlin Tech Editor at RayWenderlich.com. Instructor at BME-VIK, teaching Kotlin and Android. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of the MaterialDrawerKt and Krate libraries.",
     "shortBio": "Software Engineer @ Skyscanner",
     "country": "Budapest, Hungary",
     "companyLogo": null,
-    "company": "",
+    "company": "Skyscanner",
     "photo": "https://sessionize.com/image?f=821b31ba727e5a4e63194decf401b39e,400,400,1,0,1c-96d7-480f-9eed-bf5dce444441.544836fc-7bdb-4611-a140-2bda3e9f9655.png",
     "socials": [
       {
