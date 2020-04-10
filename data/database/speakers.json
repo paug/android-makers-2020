@@ -99,6 +99,11 @@
     "photo": "https://sessionize.com/image?f=89035f9a5e0f626edce3641ce9f99c7e,400,400,1,0,78eeac43-a5fa-4914-8a71-a82304c9526b.jpg",
     "socials": [
       {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/alizeelambert/",
+        "name": "LinkedIn"
+      },
+      {
         "icon": "website",
         "link": "https://www.octo.com/en/",
         "name": "Company Website"
