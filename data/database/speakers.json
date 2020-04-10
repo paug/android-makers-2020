@@ -284,6 +284,32 @@
       }
     ]
   },
+  "9716ff27-d78b-437f-9ce8-24087a771ccc": {
+    "name": "Clément Garcia",
+    "bio": "I started to work on my first Android apps on Froyo and Gingerbread during my studies and now, after spending some time at a digital services company and a few years in a connected objects startup, I am leading the Android team at Heetch: a ride-sharing French startup operating in Europe and Africa that has adopted a remote-first culture from the very beginning of the company.",
+    "shortBio": "Android Tech Lead at Heetch",
+    "country": "Rennes, France",
+    "companyLogo": "Heetch_Logo_Large_Pink.png",
+    "company": "Heetch",
+    "photo": "https://sessionize.com/image?f=33b4b0c239f2d849f3969c569606d27c,400,400,1,0,27-d78b-437f-9ce8-24087a771ccc.0963fc3f-d3fa-4b81-b378-cab4673d24af.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/HappyDr0id",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/clemgarcia/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.heetch.com/",
+        "name": "Company_Website"
+      }
+    ]
+  },
   "8e801485-26e6-49a2-b3cd-91e8f481d2d1": {
     "order": 4,
     "featured": false,
