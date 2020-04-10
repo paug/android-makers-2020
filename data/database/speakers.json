@@ -648,7 +648,14 @@
   },
   "6b8f27b2-f4f8-4dcb-92e7-0381ae87ad85": {
     "order": 4,
-    "featured": false,
+    "featured": true,
+    "badges": [
+      {
+        "description": "Google Developer Expert for Android",
+        "link": "https://developers.google.com/community/experts/directory/profile/profile-garima_jain",
+        "name": "gde"
+      }
+    ],
     "name": "Garima Jain",
     "bio": "Garima Jain, Android GDE, also known as  @ragdroid is working as an Android Engineer at Over. Previously she has worked with Fueled Noida and Bharti Soft Bank (Hoppr, Hike). She is also an international speaker, CasterIO author and an active technical blogger.",
     "shortBio": "Android Engineer at Over",
