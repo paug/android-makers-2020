@@ -1824,46 +1824,6 @@
       }
     ]
   },
-  "c909bc83-2fc0-4607-a71a-6c969f155aeb": {
-    "order": 4,
-    "featured": true,
-    "badges": [
-      {
-        "name": "google",
-        "link": "https://developer.android.com/",
-        "description": "Android Developer Advocate"
-      }
-    ],
-    "name": "Yacine Rezgui",
-    "bio": "Yacine is working as an Android Developer Advocate at Google, helping to make Android the best mobile platform for developers.\r\nHis focus is the developer experience across the whole ecosystem, from the expert to the beginner. He worked previously at IBM\r\nas a developer advocate and as full stack developer in several startups. He's currently living in London, UK.",
-    "shortBio": "Android developer advocate at Google",
-    "country": "London, United Kingdom",
-    "companyLogo": "/images/logos/google.svg",
-    "company": "Google",
-    "photo": "https://sessionize.com/image?f=172c8141caec5dbd9c73cbe3976d5f9f,400,400,1,0,2c9382ba-cf29-407c-a3d1-6988f8eb72d7.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/yrezgui",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/yrezgui/",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://yrezgui.com",
-        "name": "Blog"
-      },
-      {
-        "icon": "website",
-        "link": "https://developer.android.com/",
-        "name": "Company Website"
-      }
-    ]
-  },
   "8ce6cf3a-735e-4a2a-b05f-e2081e5b6741": {
     "order": 4,
     "featured": false,
