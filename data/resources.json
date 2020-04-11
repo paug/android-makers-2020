@@ -222,6 +222,7 @@
   },
   "sessionDetails": {
     "contentLevel": "Content level",
+    "viewSlido": "View Slido",
     "viewPresentation": "View presentation",
     "viewVideo": "View video",
     "speakers": "Speakers"
