@@ -1,22 +1,22 @@
 {
   "0": {
-    "name": "Moebius",
-    "capacity": 750,
-    "level": "1st floor"
+    "name": "Track 1",
+    "capacity": 380000,
+    "level": "Online"
   },
   "1": {
-    "name": "Room A. & L. Blin",
-    "capacity": 250,
-    "level": "Basement"
+    "name": "Track 2",
+    "capacity": 380000,
+    "level": "Online"
   },
   "2": {
-    "name": "Room 2.02",
-    "capacity": 100,
-    "level": "2nd floor"
+    "name": "Track 3",
+    "capacity": 380000,
+    "level": "Online"
   },
   "3": {
-    "name": "Room 2.04",
-    "capacity": 50,
-    "level": "2nd floor"
+    "name": "Track 4",
+    "capacity": 380000,
+    "level": "Online"
   }
 }
