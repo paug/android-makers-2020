@@ -6,7 +6,7 @@
     "bio": "Adam is a Software Engineer, Android enthusiast, and pun aficionado. He fell in love with Android when he picked it up as a hobby in 2013 and he's been staying on top of the latest trends and contributing to open source projects ever since. Adam also strives to be an active member of the developer community - traveling the world to attend and speak at hackathons and conferences to both educate and learn from others in the community.",
     "shortBio": "Senior Android Engineer, OkCupid",
     "country": "New York City, United States",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/okcupid_whitebg.svg",
     "company": "OkCupid",
     "photo": "https://sessionize.com/image?f=49f630baa572edff0c78dc5f2ba55e15,400,400,1,0,51-03c3-4595-88ca-a1825112ece4.1abf27fc-a064-4315-ae02-a980bba292d8.jpg",
     "socials": [
@@ -39,7 +39,7 @@
     "bio": "A passionate android developer who loves to build simple and beautiful apps. When all done you will find me either cooking delicious Indian cuisines  and cheering for Liverpool FC",
     "shortBio": "Product Engineer, Gojek",
     "country": "India",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Gojek_logo_2019.svg",
     "company": "Go-jek",
     "photo": "https://sessionize.com/image?f=e935e1a16d36b26d2d474f922f72a01c,400,400,1,0,c7-2ecb-48cf-8f9d-c82bb160cb5f.1e1b4c50-39c1-460b-8dd5-7a335379b170.jpeg",
     "socials": [
@@ -62,7 +62,7 @@
     "bio": "Alex Zhukovich has been developing Android since 2011. Currently, he is working in Takeaway.com. He is a public speaker and software enthusiast with a passion for technologies, which share thoughts & experiences on the private technical blog at http://alexzh.com and YouTube channel: bit.ly/AlexZhYouTube",
     "shortBio": "Senior Android developer - Takeaway.com",
     "country": "Netherlands",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Takeaway_logo.svg",
     "company": "Takeaway.com",
     "photo": "https://sessionize.com/image?f=c4d15053716735e9ba46ff0343d9f255,400,400,1,0,a7-6616-4fe1-8681-a4a78db7b62e.72dca92d-f6b7-4432-af52-8ef591242cec.jpeg",
     "socials": [
@@ -151,7 +151,7 @@
     "bio": "Ingénieur logiciel chez Syntony GNSS, passionné d'informatique et de trucs de nerds. Fan de Kotlin et toujours friand de Java.\r\n\r\nDéveloppeur Android depuis quelques années, j'ai exporté mon savoir d'Android en dehors du monde de l'agence afin de travailler avec des chercheurs en GNSS et plein de formules mathématiques. J'explore des coins du framework Android uniquement cités dans des papiers obscures de Google Scholar.\r\n\r\nSoftware Engineer at Syntony GNSS, complete computer enthusiast and like nerdy stuff. Kotlin's fan and still a Java lover.\r\n\r\nAndroid developer for several years, I exported my Android knowledge outside of the agency world for working with GNSS reasearchers which require a lot of mathematical formula. I explore sides of the Android Frameworks that are only quoted in niche Google Scholar's papers.",
     "shortBio": "Software Engineer at Syntony GNSS",
     "country": "Toulouse, France",
-    "companyLogo": "Syntony_couleur_900px.png",
+    "companyLogo": "/images/logos/syntony-cut.png",
     "company": "Syntony",
     "photo": "https://sessionize.com/image?f=e3b59527db1eafc5131509052ad67e82,400,400,1,0,65-3930-4605-8f4d-4dacc490a7e5.4d4482d7-6dc0-4efc-9c22-0d146e1eab12.jpg",
     "socials": [
@@ -174,7 +174,7 @@
     "bio": "Software developer for more than 13 years. Since a while now, I work as mainly as a Senior Android developer and keep hands in backend stuff. I'm working with Big companies as well as with startups. I'm a speaker since 2016. I talk mostly about Kotlin, Android & Koin. In 2017, I've created Koin (https://insert-koin.io), a lightweight dependency injection framework for Kotlin.\r\nI joined BlaBlaCar mobile team in 2020.",
     "shortBio": "Mobile Software Engineer @ BlaBlaCar",
     "country": "Toulouse, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/BlaBlaCar_logo.svg",
     "company": "BlaBlaCar",
     "photo": "https://sessionize.com/image?f=d140659a18eba04dab15be12fa2fa84e,400,400,1,0,52868836-85da-47a2-8c0e-a014a15cb625.jpg",
     "socials": [
@@ -202,7 +202,7 @@
     "bio": "Google Developer Expert for Android, enthusiastic speaker, lead engineer at ImmobilieenScout24, Kotlin aficionado, spends more time travelling than working (he/him)",
     "shortBio": "Lead Android Engineer at ImmobilienScout24 GmbH",
     "country": "Berlin, Germany",
-    "companyLogo": "immoscout24.png",
+    "companyLogo": "/images/logos/immoscout24.svg",
     "company": "Immoscout24",
     "photo": "https://sessionize.com/image?f=ec6d6dfd5eef710ceed422f0fa026bd2,400,400,1,0,67-356c-4cd5-ba9c-12cec7a3ce79.7f2e9875-7cf4-4ee3-8e2d-f5309706f118.jpg",
     "badges": [
@@ -265,7 +265,7 @@
     "bio": "Android team lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.",
     "shortBio": "Lead Software Engineer at WIT Software",
     "country": "Coimbra, Portugal",
-    "companyLogo": "blue_WIT_Software.png",
+    "companyLogo": "/images/logos/wit-logo.svg",
     "company": "WIT Software",
     "photo": "https://sessionize.com/image?f=fe1844d54d4d99ea359d20d6de2bd748,400,400,1,0,b0b9f1ee-6694-4781-b9ec-af27ef8707ae.jpg",
     "socials": [
@@ -296,7 +296,7 @@
     "bio": "I started to work on my first Android apps on Froyo and Gingerbread during my studies and now, after spending some time at a digital services company and a few years in a connected objects startup, I am leading the Android team at Heetch: a ride-sharing French startup operating in Europe and Africa that has adopted a remote-first culture from the very beginning of the company.",
     "shortBio": "Android Tech Lead at Heetch",
     "country": "Rennes, France",
-    "companyLogo": "Heetch_Logo_Large_Pink.png",
+    "companyLogo": "/images/logos/Heetch_Logo_Large_Pink.png",
     "company": "Heetch",
     "photo": "https://sessionize.com/image?f=33b4b0c239f2d849f3969c569606d27c,400,400,1,0,27-d78b-437f-9ce8-24087a771ccc.0963fc3f-d3fa-4b81-b378-cab4673d24af.jpg",
     "socials": [
@@ -347,7 +347,7 @@
     "bio": "Csaba leads development of Android projects at Supercharge. His role is to take part of planning, designing, choosing the best architecture for projects, and leading sizeable Android teams during the whole process of development. He also optimises the company’s code review, continuous integration and testing workflows. Csaba is passionate about open source: he was contributing to several high-impact projects related to Android development, including the Android Framework source code itself, and he was the lead developer of the popular GitHub library, AndroidAnnotations.",
     "shortBio": "Lead Android Developer, Supercharge",
     "country": "Budapest, Hungary",
-    "companyLogo": "supercharge_logo17-with text-horizontal-black (4) (1).png",
+    "companyLogo": "/images/logos/supercharge_logo17-with text-horizontal-black.png",
     "company": "Supercharge",
     "photo": "https://sessionize.com/image?f=852a10f718456eaa0ca5745aa77c8010,400,400,1,0,e325d98b-c023-495e-a41a-db8686618e93.jpg",
     "socials": [
@@ -403,7 +403,7 @@
     "bio": "I am a mobile developer, currently enhancing the Gametime App and enjoying exploring San Francisco. I have been learning and building Android apps since more than 2 years now.  I am always up for a new challenge and want to create awesome mobile apps with the purpose to make life fun and easy and solve problems. If I am not coding, I am usually traveling or lost in my other world of fictional novels.",
     "shortBio": "Mobile Developer - Gametime",
     "country": "San Francisco, USA",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/gametime.svg",
     "company": "Gametime",
     "photo": "https://sessionize.com/image?f=0b1fb41dbbee06e18edafbdc049a8358,400,400,1,0,cc-f276-4f1a-ba53-db86d084fe93.fd999ba8-4ec4-408c-8bdc-b15c7e626e8a.jpg",
     "socials": [
@@ -625,7 +625,7 @@
     "bio": "Software engineer with a strong mobile background.\r\nI’ve worked for widely different clients in various countries, on an even wider range of projects. From greenfield to enormous untested legacy codebase, I’ve seen glory and horror while always managing to have a positive impact. Eternal learner, you’ll always find me with a book, listening to a podcast or at a local meetup to improve what I know or discover something I don’t. TDD, clean code, best practices, pair programming but also empathy and compromise. ",
     "shortBio": "Android Engineer @ TradeRepublic",
     "country": "Berlin, Germany",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/logo.95578af-trade-republic.svg",
     "company": "TradeRepublic",
     "photo": "https://sessionize.com/image?f=f108e8d281109f21e5186c34ea9ab2fc,400,400,1,0,8e-972b-41de-ae7a-92a2f77893c3.afd6a8f5-b59a-43b5-bbcb-a6bf06cba290.jpg",
     "socials": [
@@ -648,7 +648,7 @@
     "bio": "François  works on the Android app at Instacart. He has a good experience getting his hands dirty on the dark corners of Android's UI stack since the ListView days.",
     "shortBio": "Android @ Instacart",
     "country": "San Francisco, USA",
-    "companyLogo": "/images/logos/instacart.svg",
+    "companyLogo": "/images/logos/instacart-cut.svg",
     "company": "Instacart",
     "photo": "https://sessionize.com/image?f=96959235061b6bce4eb2d6c330586395,400,400,1,0,fa-a150-45bc-b4e6-243583659c26.8ec2b57e-f3a7-44fb-a777-fd67e8b263df.jpg",
     "socials": [
@@ -695,7 +695,7 @@
     "bio": "Garima Jain, Android GDE, also known as  @ragdroid is working as an Android Engineer at Over. Previously she has worked with Fueled Noida and Bharti Soft Bank (Hoppr, Hike). She is also an international speaker, CasterIO author and an active technical blogger.",
     "shortBio": "Android Engineer at Over",
     "country": "Bangalore, India",
-    "companyLogo": "gvXGc9Ww.png",
+    "companyLogo": "/images/logos/over-gvXGc9Ww.png",
     "company": "Over",
     "photo": "https://sessionize.com/image?f=cda9e673e2329264c53b10872ed58e9a,400,400,1,0,b2-f4f8-4dcb-92e7-0381ae87ad85.3c1812d5-4d97-4169-9232-9cbd90a98cdf.jpg",
     "socials": [
@@ -733,7 +733,7 @@
     "bio": "Lead Android developer at VideoLAN and Videolabs",
     "shortBio": "VideoLAN",
     "country": "Paris, France",
-    "companyLogo": "VideoLan_Cone.png",
+    "companyLogo": "/images/logos/VideoLan_Cone-cut.png",
     "company": "Videolan",
     "photo": "https://sessionize.com/image?f=d0fda987bed76dc5d9995c0987dbbb67,400,400,1,0,85924007-06d6-41e1-b64c-4b15c4dbf088.jpg",
     "socials": [
@@ -796,7 +796,7 @@
     "bio": "Hadi Develops Android Applications since Android 1.6 Donut and very passionate about it. Developed a handful of Android applications since then with a variety of technical challenges. I also like to try new things. He developed software for other platforms professionally and personally. Hadi likes to share his experiences so he is writing blog posts in Turkish and English. He is really active in community slack channels to help people out and get helped. He also gives talks about Android development mostly about Kotlin related subjects. Hadi loves to learn new things and share them with people.",
     "shortBio": "GDE on Android, Lead Android dev at Citizenme",
     "country": "Istanbul/Turkey",
-    "companyLogo": "logo-citizen-me (1).png",
+    "companyLogo": "/images/logos/logo-citizen-me.png",
     "company": "Citizenme",
     "photo": "https://sessionize.com/image?f=aca1ad7535f5ae5f8a37edd9e10f1749,400,400,1,0,fd-1cfb-4930-9dfa-42187e94d869.28a0a51b-11d1-4fd4-a026-e9be2838ef79.jpg",
     "socials": [
@@ -829,7 +829,7 @@
     "bio": "Helping teams deliver high-quality, reliable, app releases on a defined regular cadence.",
     "shortBio": "Technical Program Manager @ Lyft ",
     "country": null,
-    "companyLogo": null,
+    "companyLogo": "/images/logos/lyft.svg",
     "company": "Lyft",
     "photo": "https://sessionize.com/image?f=ea66e1999a9e75e5e3cebd24e8dfd2bc,400,400,1,0,e8-c687-4231-96e7-f0e594fe7f5d.2ba8c49d-8dbc-4264-a800-f0ec736eade6.jpg",
     "socials": []
@@ -841,7 +841,7 @@
     "bio": "Huyen Tue Dao is an Android developer and Google Developer Expert for Android and Kotlin. She currently works on the Trello Android app at Atlasssian and is also co-producer of the \"Android Dialogs\" YouTube channel.\r\n\r\nHuyen lives in Denver, CO though is often found in the DC Metro area. When not up late programming, she is often found up late gaming (video, board, card, anything).",
     "shortBio": "Android Code Monkey @ Trello",
     "country": "Denver, CO, USA",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/trello-logo-blue.svg",
     "company": "Trello",
     "photo": "https://sessionize.com/image?f=4fba0036ec10512c17e5818e8ad8b302,400,400,1,0,082b63d1-68c8-4245-862e-15f1263325ff.jpg",
     "socials": [
@@ -874,7 +874,7 @@
     "bio": "Jamie is an Android Developer at Pulselive, and was the Android lead on the Cricket World Cup 2019 app.\r\n\r\nBefore Pulselive, Jamie was building CTS tests for Project Tango.",
     "shortBio": "Android Developer @ Pulselive",
     "country": "London, UK",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/pulselive-global-sprite.png",
     "company": "Pulselive",
     "photo": "https://sessionize.com/image?f=31b98b8cd132d14a266b5e68a54d1b48,400,400,1,0,0469c660-e022-4d59-a05a-81f66c67cc89.jpg",
     "socials": [
@@ -914,7 +914,7 @@
     "bio": "Jeroen Mols is a Google Developer Expert (GDE) in Android, the former lead Android developer at Philips Hue and an internationally recognized speaker. With a passion for complex systems and highly technical apps, Jeroen has helped realize four connected products and over 15 Android applications.\r\n\r\nExperienced in leading large teams, he can step beyond his developer role and provide technical leadership to others. He continuously challenges the status quo and mentors people surrounding him to grow. Shipping apps to millions of users, Jeroen has a thorough understanding of both the Android framework and how maintainable software should be crafted.",
     "shortBio": "Android Developer at Plaid and GDE",
     "country": "Belgium",
-    "companyLogo": "Plaid-Logo.png",
+    "companyLogo": "/images/logos/Plaid_logo.svg",
     "company": "Plaid",
     "photo": "https://sessionize.com/image?f=7dc895148a941f63224674fde74bbbc3,400,400,1,0,77-c9c8-454d-8b7a-045ca1d66b7b.81805fa1-d8cc-49b5-baec-19a6c8ec200e.jpg",
     "socials": [
@@ -977,7 +977,7 @@
     "bio": "Jossi is an Android Developer at Snapp Mobile. Jossi graduated high school in 2018 and has been working on many projects, including software for startups as well as car manufacturers. As a GDG Organiser and part of Women Tech Makers Hamburg, he is working on a project bringing coding classes to schools using several new approaches. Jossi also loves Kotlin and Rabbits!",
     "shortBio": "Android Developer @Snapp Mobile",
     "country": null,
-    "companyLogo": null,
+    "companyLogo": "/images/logos/snapp-mobile.png",
     "company": "Snapp Mobile",
     "photo": "https://sessionize.com/image?f=4486a4c558ebaa1cb3d8c98417e6b858,400,400,1,0,7a6b15fa-3ca2-4fee-845a-a72d4d9f9f08.jpg",
     "socials": [
@@ -1005,7 +1005,7 @@
     "bio": "Into the Android development since Froyo when Fragment was just a myth, former Android engineer at CINEMUR, I am currently working at InnovOrder as Senior Android Engineer where we are bringing restaurants to the next level.\r\nBesides that, I am a world traveler and a beer lover always looking for the best IPAs!",
     "shortBio": "Senior Android Engineer @ InnovOrder",
     "country": "Paris",
-    "companyLogo": "ic_innovorder_full.svg",
+    "companyLogo": "/images/logos/ic_innovorder_full.svg",
     "company": "Innovorder",
     "photo": "https://sessionize.com/image?f=93e02216d6ca374ebd5cce7544347624,400,400,1,0,97-01f9-44b1-864c-9d85bedf911b.8b6a175e-8088-4fbf-8b24-fbda97933d75.jpg",
     "socials": [
@@ -1060,7 +1060,7 @@
     "bio": "Martin has been crafting strongly typed software since Android 1.5. After streaming a whole lot of videos in all kind of weird multimedia formats, he's looking lately into strong typing his API requests with GraphQL and automate everything so he can relax more!",
     "shortBio": "Chocolate Droid Officer",
     "country": "Paris France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Dailymotion-Wordmark.png",
     "company": "Dailymotion",
     "photo": "https://sessionize.com/image?f=cb0d9a29bb01915dd245ffed6c556f69,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.22a6e8e9-6f72-41cd-8e61-7f2dcf9c6809.jpg",
     "socials": [
@@ -1111,7 +1111,7 @@
     "bio": "A Kotlin enthusiast since the 1.0 of the language, writer, speaker, educator. Software Engineer at Skyscanner. Android/Kotlin Tech Editor at RayWenderlich.com. Instructor at BME-VIK, teaching Kotlin and Android. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of the MaterialDrawerKt and Krate libraries.",
     "shortBio": "Software Engineer @ Skyscanner",
     "country": "Budapest, Hungary",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg",
     "company": "Skyscanner",
     "photo": "https://sessionize.com/image?f=821b31ba727e5a4e63194decf401b39e,400,400,1,0,1c-96d7-480f-9eed-bf5dce444441.544836fc-7bdb-4611-a140-2bda3e9f9655.png",
     "socials": [
@@ -1144,7 +1144,7 @@
     "bio": "Dailymotion - Android Senior Developer",
     "shortBio": "Dailymotion - Android Senior Developer",
     "country": null,
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Dailymotion-Wordmark.png",
     "company": "Dailymotion",
     "photo": "https://sessionize.com/image?f=238a7e147517b25f8e2f8c961386c512,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.2d3f1d5c-c890-40ad-a59f-37345b944891.png",
     "socials": []
@@ -1252,7 +1252,7 @@
     "bio": "Nishant is an Android Engineer based in Berlin, Germany. He is an open source enthusiast who spends his time doodling when not hacking on Android, while also being a caffeine-dependent life-form. He can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings. He has experience in Android SDK Engineering, Firmware Engineering and Audio Digital Signal Processing(DSP) on Android.\r\n\r\nHe has been part of 3 startups in the past, ranging from being the Founding team member at OmniLabs, Inc.,  being the First employee at Silverpush for whom he developed the company’s patented UAB (Unique Audio Beacon) Technology to being an Android Engineer at Soundbrenner where he dabbled in the art of Firmware Engineering a bit for their custom wearable product, Core while managing their Android application.",
     "shortBio": "Android Engineer",
     "country": "Berlin, Germany",
-    "companyLogo": "crvsh_logo.png",
+    "companyLogo": "/images/logos/crvsh_logo.png",
     "company": "Crvsh",
     "photo": "https://sessionize.com/image?f=65c251356a527d124c51b4492f3cca0b,400,400,1,0,0e8d9749-2465-4b8c-9208-05792b4b5daf.jpg",
     "socials": [
@@ -1295,7 +1295,7 @@
     "bio": "5 years as an Android developper in Coyote. I actively participated to the creation of a common project containing the Coyote application and two of its devices : Nav+ and Up. ",
     "shortBio": "Coyote System, Android developper",
     "country": "Bordeaux, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/coyotte.png",
     "company": "Coyote System",
     "photo": "https://sessionize.com/image?f=9241e49309c0d21cea971b6ce5d9f838,400,400,1,0,5a-8ab8-44f2-8e1e-ad9b029c2b5d.7e72871e-ea93-4970-a598-00cf8317a459.jpeg",
     "socials": [
@@ -1318,7 +1318,7 @@
     "bio": "I work as an Android Developer at Allegro, largest online marketplace in Poland. Loves to share knowledge through public speaking and blog posts.",
     "shortBio": "Mobile Software Engineer @ Allegro",
     "country": "Poznań, Poland",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Allegro.pl_sklep.svg",
     "company": "Allegro",
     "photo": "https://sessionize.com/image?f=8deeb6a0ad7d5c68cb4970796052d01c,400,400,1,0,0cf8a6fd-4b7f-46ce-88fe-fe9357dbd1e4.jpg",
     "socials": [
@@ -1499,7 +1499,7 @@
     "bio": "Android Software Engineer based in Paris. Renaud likes sharing return of experience on how to develop Android apps. Renaud used to work at Captain Train, Viadeo and Parrot and is currently building NEOS that will change the way customers will pay in any shop.",
     "shortBio": "Android @ NEOS",
     "country": "Paris, France",
-    "companyLogo": "share.png",
+    "companyLogo": "/images/logos/logo_lyfpay.svg",
     "company": "NEOS",
     "photo": "https://sessionize.com/image?f=f208ca6c2d9102d01df59c1c341d4479,400,400,1,0,2952bcff-8886-47d8-911d-b70321f9b768.jpg",
     "socials": [
@@ -1532,7 +1532,7 @@
     "bio": "8+ year’s experience in Software Development industry. Started as Android developer and worked as Scrum Master. \r\nWorked a lot in security-related topics, for the last several years in Fintech and now at Bitrise. I like quality products and forward-thinking.",
     "shortBio": "Software developer @ Bitrise",
     "country": null,
-    "companyLogo": null,
+    "companyLogo": "/images/logos/bitrise.png",
     "company": "Bitrise",
     "photo": "https://sessionize.com/image?f=77e20c43988f48a6bae3e04da0e72d60,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.4f594ce5-3285-4ee4-a1c2-e5f918e02a8a.jpg",
     "socials": []
@@ -1544,7 +1544,7 @@
     "bio": "Founder @Emblock, proud PAUG member since many years, many experiences as CTO & innovation manager.",
     "shortBio": "Founder @Emblock, proud PAUG member since many years, many experiences as CTO & innovation manager.",
     "country": "Nantes, France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/emblock-logo-xl-light.png",
     "company": "Emblock",
     "photo": "https://sessionize.com/image?f=84acf1954bb480923b75b17b1c7dc410,400,400,1,0,d34fdfd1-ede9-46c8-b51d-86d36e6111a2.jpg",
     "socials": [
@@ -1579,7 +1579,7 @@
     "bio": "Salih is a Berlin based Senior Mobile Engineer who is a Google Developer Expert for Flutter and Dart. He likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
     "shortBio": "Senior Mobile Engineer at Klar",
     "country": "Berlin, Germany",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/klar.png",
     "company": "Klar",
     "photo": "https://sessionize.com/image?f=61e7010297cc1fe6a8458929adf7ac31,400,400,1,0,6f-529c-48fd-ba12-94903187a216.0b218d7f-e945-4468-92f7-a4fa30127168.png",
     "socials": [
@@ -1695,7 +1695,7 @@
     "bio": "Software Engineer, passionate about how to make efficient and performance centric applications. Keen on learning new things everyday.",
     "shortBio": "Software Engineer at 1MG Technologies",
     "country": "New Delhi, India",
-    "companyLogo": "splash_1mg.png",
+    "companyLogo": "/images/logos/splash_1mg.png",
     "company": "1MG Technologies",
     "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
     "socials": [
@@ -1723,7 +1723,7 @@
     "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
     "shortBio": "Senior Android dev at Square",
     "country": "Bay Area, CA, USA",
-    "companyLogo": "square-logo.png",
+    "companyLogo": "/images/logos/Square_Inc_logo.svg",
     "company": "Square",
     "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
     "socials": [
@@ -1847,7 +1847,7 @@
     "bio": "Zac is a mobile engineer with primary focus areas in Android, code gen, Kotlin, OSS, and avoiding sniffly APIs. He’s the creator of a few open source projects like AutoDispose and CatchUp, and active contributor to several more.",
     "shortBio": "Mobile @ Slack",
     "country": "New York City, USA",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/Slack_Technologies_Logo.svg",
     "company": "Slack",
     "photo": "https://sessionize.com/image?f=d5666c8297648122c7d005dcaa1a8861,400,400,1,0,3a-735e-4a2a-b05f-e2081e5b6741.217980d7-51ef-494f-b123-94011276b254.jpg",
     "socials": [
