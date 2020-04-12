@@ -1,5 +1,7 @@
 #!/usr/bin/env kotlin
 
+// A very dirty script to duplicate the photo and photoUrl fields in the json.
+// It's in the repo to serve as a base if other json manipulations have to be made. 
 @file:DependsOn("com.squareup.moshi:moshi-kotlin:1.9.2")
 
 import com.squareup.moshi.Moshi
@@ -28,9 +30,5 @@ fun Any.makeMutable(): Any {
     }.toMutableMap()
     else -> this
   }
-
-}
-
-fun duplicatePhoto(any: Any) {
 
 }
