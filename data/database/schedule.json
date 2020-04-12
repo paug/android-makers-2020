@@ -1,6 +1,7 @@
 {
   "2020-04-20": {
     "dateReadable": "April 20",
+    "date": "2020-04-20",
     "timeslots": [
       {
         "startTime": "10:00",
@@ -459,6 +460,7 @@
   },
   "2020-04-21": {
     "dateReadable": "April 21",
+    "date": "2020-04-21",
     "timeslots": [
       {
         "startTime": "10:00",
