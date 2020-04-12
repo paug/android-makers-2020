@@ -146,19 +146,13 @@
       {
         "endDate": "2020-04-20T14:30:00+02:00", 
         "roomId": "track2", 
-        "sessionId": "no-op", 
+        "sessionId": "186387", 
         "startDate": "2020-04-20T14:10:00+02:00"
       }, 
       {
         "endDate": "2020-04-20T14:30:00+02:00", 
         "roomId": "track3", 
         "sessionId": "174736", 
-        "startDate": "2020-04-20T14:10:00+02:00"
-      }, 
-      {
-        "endDate": "2020-04-20T14:30:00+02:00", 
-        "roomId": "track4", 
-        "sessionId": "186387", 
         "startDate": "2020-04-20T14:10:00+02:00"
       }, 
       {
