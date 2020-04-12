@@ -434,7 +434,7 @@
     "slido": "https://app.sli.do/event/79lcfi8m?section=763a1120-13e7-4f7a-abc0-95a77d8bbfc0"
   },
   "176241": {
-    "title": "ConstraintLayout : now and next",
+    "title": "ConstraintLayout: now and next",
     "description": "ConstraintLayout is a popular library to simplify creating adaptable UI and animations. This session will cover the latest 2.0 release with the MotionLayout component as well as presenting what's coming next -- with even more flexible graphical capabilities and Compose integration.",
     "language": "English",
     "complexity": "Intermediate",
