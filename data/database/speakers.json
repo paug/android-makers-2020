@@ -96,6 +96,7 @@
     "shortBio": "UXUI designer @OCTOTechnology",
     "country": "Paris, France",
     "companyLogo": "/images/logos/octo.svg",
+    "company": "Octo",
     "photo": "https://sessionize.com/image?f=89035f9a5e0f626edce3641ce9f99c7e,400,400,1,0,78eeac43-a5fa-4914-8a71-a82304c9526b.jpg",
     "socials": [
       {
@@ -174,6 +175,7 @@
     "shortBio": "Mobile Software Engineer @ BlaBlaCar",
     "country": "Toulouse, France",
     "companyLogo": null,
+    "company": "BlaBlaCar",
     "photo": "https://sessionize.com/image?f=d140659a18eba04dab15be12fa2fa84e,400,400,1,0,52868836-85da-47a2-8c0e-a014a15cb625.jpg",
     "socials": [
       {
@@ -346,6 +348,7 @@
     "shortBio": "Lead Android Developer, Supercharge",
     "country": "Budapest, Hungary",
     "companyLogo": "supercharge_logo17-with text-horizontal-black (4) (1).png",
+    "company": "Supercharge",
     "photo": "https://sessionize.com/image?f=852a10f718456eaa0ca5745aa77c8010,400,400,1,0,e325d98b-c023-495e-a41a-db8686618e93.jpg",
     "socials": [
       {
@@ -464,6 +467,7 @@
     "shortBio": "Senior android developer @ https://www.tui.co.uk/",
     "country": "London, United Kingdom",
     "companyLogo": "/images/logos/TUI_Logo_2016.svg",
+    "company": "TUI",
     "photo": "https://sessionize.com/image?f=8ed91c637794d2f043b2b27755ad1aa6,400,400,1,0,9b373a1b-5370-4a1d-8ffb-c735c942c37d.jpg",
     "socials": [
       {
@@ -692,6 +696,7 @@
     "shortBio": "Android Engineer at Over",
     "country": "Bangalore, India",
     "companyLogo": "gvXGc9Ww.png",
+    "company": "Over",
     "photo": "https://sessionize.com/image?f=cda9e673e2329264c53b10872ed58e9a,400,400,1,0,b2-f4f8-4dcb-92e7-0381ae87ad85.3c1812d5-4d97-4169-9232-9cbd90a98cdf.jpg",
     "socials": [
       {
@@ -825,6 +830,7 @@
     "shortBio": "Technical Program Manager @ Lyft ",
     "country": null,
     "companyLogo": null,
+    "company": "Lyft",
     "photo": "https://sessionize.com/image?f=ea66e1999a9e75e5e3cebd24e8dfd2bc,400,400,1,0,e8-c687-4231-96e7-f0e594fe7f5d.2ba8c49d-8dbc-4264-a800-f0ec736eade6.jpg",
     "socials": []
   },
@@ -836,6 +842,7 @@
     "shortBio": "Android Code Monkey @ Trello",
     "country": "Denver, CO, USA",
     "companyLogo": null,
+    "company": "Trello",
     "photo": "https://sessionize.com/image?f=4fba0036ec10512c17e5818e8ad8b302,400,400,1,0,082b63d1-68c8-4245-862e-15f1263325ff.jpg",
     "socials": [
       {
@@ -1246,6 +1253,7 @@
     "shortBio": "Android Engineer",
     "country": "Berlin, Germany",
     "companyLogo": "crvsh_logo.png",
+    "company": "Crvsh",
     "photo": "https://sessionize.com/image?f=65c251356a527d124c51b4492f3cca0b,400,400,1,0,0e8d9749-2465-4b8c-9208-05792b4b5daf.jpg",
     "socials": [
       {
@@ -1288,6 +1296,7 @@
     "shortBio": "Coyote System, Android developper",
     "country": "Bordeaux, France",
     "companyLogo": null,
+    "company": "Coyote System",
     "photo": "https://sessionize.com/image?f=9241e49309c0d21cea971b6ce5d9f838,400,400,1,0,5a-8ab8-44f2-8e1e-ad9b029c2b5d.7e72871e-ea93-4970-a598-00cf8317a459.jpeg",
     "socials": [
       {
@@ -1333,6 +1342,7 @@
     "shortBio": "Android Engineer at Deezer",
     "country": "Bordeaux, France",
     "companyLogo": "/images/logos/deezer.svg",
+    "company": "Deezer",
     "photo": "https://sessionize.com/image?f=f0b12a34e3acf8104c7629282070749e,400,400,1,0,6e-1b5f-4b90-a2c8-0e50472971b8.3483fab3-2206-44b7-8d6c-0400c7615c74.jpg",
     "socials": [
       {
@@ -1467,6 +1477,7 @@
     "shortBio": "Android Developer OCTO Technology",
     "country": null,
     "companyLogo": "/images/logos/octo.svg",
+    "company": "Octo",
     "photo": "https://sessionize.com/image?f=55b6224f0b6d42b1e652a99895aa8ff8,400,400,1,0,268cca23-9d3e-407b-a5b5-e03327795115.jpg",
     "socials": [
       {
@@ -1489,6 +1500,7 @@
     "shortBio": "Android @ NEOS",
     "country": "Paris, France",
     "companyLogo": "share.png",
+    "company": "NEOS",
     "photo": "https://sessionize.com/image?f=f208ca6c2d9102d01df59c1c341d4479,400,400,1,0,2952bcff-8886-47d8-911d-b70321f9b768.jpg",
     "socials": [
       {
@@ -1521,6 +1533,7 @@
     "shortBio": "Software developer @ Bitrise",
     "country": null,
     "companyLogo": null,
+    "company": "Bitrise",
     "photo": "https://sessionize.com/image?f=77e20c43988f48a6bae3e04da0e72d60,400,400,1,0,17-c3b3-4f60-a968-c69ca370e361.4f594ce5-3285-4ee4-a1c2-e5f918e02a8a.jpg",
     "socials": []
   },
@@ -1683,6 +1696,7 @@
     "shortBio": "Software Engineer at 1MG Technologies",
     "country": "New Delhi, India",
     "companyLogo": "splash_1mg.png",
+    "company": "1MG Technologies",
     "photo": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg",
     "socials": [
       {
@@ -1710,6 +1724,7 @@
     "shortBio": "Senior Android dev at Square",
     "country": "Bay Area, CA, USA",
     "companyLogo": "square-logo.png",
+    "company": "Square",
     "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
     "socials": [
       {
@@ -1765,6 +1780,7 @@
     "shortBio": "Coyote System, Lead Software Engineer Mobile",
     "country": "Bordeaux, France",
     "companyLogo": "/images/logos/coyotte.png",
+    "company": "Coyote System",
     "photo": "https://sessionize.com/image?f=a030058217e75aa677570f29d50b0044,400,400,1,0,2f-e773-4c71-a767-4e0cf49d0e04.067a1fe0-0c44-4c66-adec-292314efbd0c.png",
     "socials": []
   },
