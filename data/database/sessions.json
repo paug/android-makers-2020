@@ -307,7 +307,7 @@
   "176114": {
     "title": "Mobile Trends 2020 - Vers une expérience mobile 5 étoiles",
     "description": "Nous créons des applications pour rendre service à nos utilisateurs. Mais au delà de la qualité, de la robustesse et de la fiabilité de ce service, comment proposer une expérience mobile confortable et attrayante ?\r\n\r\nAprès avoir étudié les changements et les tendances des applications les plus populaires, nous vous proposons 10 bonnes pratiques de conceptions qui vous éviterons les faux pas, et vous aideront à proposer une expérience mobile intuitive et immersive.\r\n\r\nLes 5 étoiles sur les stores sont au bout du chemin !",
-    "language": "English",
+    "language": "French",
     "complexity": "Introductory and overview",
     "speakers": [
       "4f6d2a24-eb80-46df-bf6b-09af7c915c73",
@@ -730,7 +730,7 @@
   "168603": {
     "title": "Android everywhere!",
     "description": "Mobile + TV + Auto + Chromebooks + screen casting + Desktop mode + foldables!\r\n\r\nFeedback and live demos on VLC adaptation to all possible Android platforms/devices.\r\n\r\nAdapting your app to these platforms has many benefits, and in some case it doesn't require much work!\r\n\r\nWe will see how to adapt an Android application to enjoy it everywhere and what the result looks like.",
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
       "78ffd2f4-e52a-4a7d-8ead-8cf072843946"
@@ -760,7 +760,8 @@
     "language": "English",
     "complexity": "Intermediate",
     "speakers": [
-      "8ce6cf3a-735e-4a2a-b05f-e2081e5b6741"
+      "8ce6cf3a-735e-4a2a-b05f-e2081e5b6741",
+      "e862a78f-9664-4f80-9f3f-2eea47aa7fcb"
     ],
     "tags": [
       "Architecture",
@@ -844,7 +845,7 @@
   "176490": {
     "title": "L'accessibilité en toute simplicité",
     "description": "Vous cherchez à rendre votre app accessible mais vous avez peur que ce soit trop compliqué ? \r\nVous avez un audit d'accessibilité en vue et vous paniquez ? \r\nCette session est pour vous !  \r\nBien que l'a11y ai pour réputation d'être difficile à mettre en place, il est possible de le faire avec très peu d'efforts grâce à quelques principes simples.\r\nDe plus, nous allons voir comment rendre votre app accessible peut vous aider à écrire du code qualitatif.",
-    "language": "English",
+    "language": "French",
     "complexity": "Intermediate",
     "speakers": [
       "a16b8efa-a150-45bc-b4e6-243583659c26"
@@ -854,6 +855,19 @@
       "Soft skills"
     ],
     "slido": "https://app.sli.do/event/79lcfi8m?section=73c8c7e1-45db-4ccc-9a0f-60e69fd3ede5"
+  },
+  "197096": {
+    "title": "Pull requests 👨‍💻, yoga 🧘‍♂️ & avocado toasts 🥑: 7 ans d’engineering à Square ✨",
+    "description": "En 2013, j’ai eu l’opportunité de déménager à San Francisco pour rejoindre l’équipe Android de Square. J'y ai beaucoup appris et découvert de nombreuses pratiques que j’aimerai partager avec l’audience. Ces pratiques sont parfois individuelles, parfois collectives, parfois du Software Engineering et parfois plus générale. Et probablement pas Scum Master frAgile certified ;-) . Quelques sujets parmi la multitude abordée: Design Docs, transparence, core team vs décentralisation, méditation, le secrets des entretiens de code…",
+    "language": "French",
+    "complexity": "Intermediate",
+    "speakers": [
+      "a733fc42-dcb9-4107-9675-70335f2889e9"
+    ],
+    "tags": [
+      "Soft skills"
+    ],
+    "slido": "https://app.sli.do/event/79lcfi8m?section=59591b6f-c025-4eff-9ec5-c6c3d37ec931"
   },
   "keynote": {
     "title": "Keynote",
