@@ -1339,7 +1339,7 @@
     "bio": "5 years as an Android developper in Coyote. I actively participated to the creation of a common project containing the Coyote application and two of its devices : Nav+ and Up. ",
     "shortBio": "Coyote System, Android developper",
     "country": "Bordeaux, France",
-    "companyLogo": "/images/logos/coyotte.png",
+    "companyLogo": "/images/logos/coyote.png",
     "company": "Coyote System",
     "photo": "https://sessionize.com/image?f=9241e49309c0d21cea971b6ce5d9f838,400,400,1,0,5a-8ab8-44f2-8e1e-ad9b029c2b5d.7e72871e-ea93-4970-a598-00cf8317a459.jpeg",
     "socials": [
@@ -1363,7 +1363,7 @@
     "bio": "I work as an Android Developer at Allegro, largest online marketplace in Poland. Loves to share knowledge through public speaking and blog posts.",
     "shortBio": "Mobile Software Engineer @ Allegro",
     "country": "Poznań, Poland",
-    "companyLogo": "/images/logos/Allegro.pl_sklep.svg",
+    "companyLogo": "/images/logos/Allegro_pl_sklep.svg",
     "company": "Allegro",
     "photo": "https://sessionize.com/image?f=8deeb6a0ad7d5c68cb4970796052d01c,400,400,1,0,0cf8a6fd-4b7f-46ce-88fe-fe9357dbd1e4.jpg",
     "socials": [
@@ -1445,7 +1445,7 @@
     "bio": "CTO chez Ikobox, je gribouille des sketchnotes colorées et avec le temps qu'il me reste je participe à l'organisation du meetup Android Nantes (GDG)...",
     "shortBio": "CTO Ikobox",
     "country": "Nantes France",
-    "companyLogo": null,
+    "companyLogo": "/images/logos/ikobox.png",
     "company": "Ikobox",
     "photo": "https://sessionize.com/image?f=ccc6d80222c2b43c183dbf21bd20522c,400,400,1,0,b1-ca6f-4e25-8442-f67cdc7f2b5c.be2c140c-da4a-4b8e-8498-8b7825ea5ad5.jpeg",
     "socials": [
@@ -1778,7 +1778,7 @@
   "eb1a2a18-6b45-46a8-b58e-78dba26ddd74": {
     "order": 4.0,
     "featured": false,
-    "name": "Stéphane NICOLAS",
+    "name": "Stéphane Nicolas",
     "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
     "shortBio": "Senior Android dev at Square",
     "country": "Bay Area, CA, USA",
@@ -1840,7 +1840,7 @@
     "bio": "Développeur dans le mobile depuis plus de 20 ans, passionné par les nouvelles technologies. A rejoint Coyote System en 2010 en tant que développeur multi-plateformes (iOS/Android).",
     "shortBio": "Coyote System, Lead Software Engineer Mobile",
     "country": "Bordeaux, France",
-    "companyLogo": "/images/logos/coyotte.png",
+    "companyLogo": "/images/logos/coyote.png",
     "company": "Coyote System",
     "photo": "https://sessionize.com/image?f=a030058217e75aa677570f29d50b0044,400,400,1,0,2f-e773-4c71-a767-4e0cf49d0e04.067a1fe0-0c44-4c66-adec-292314efbd0c.png",
     "socials": [],
