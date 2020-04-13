@@ -627,9 +627,7 @@
         "endTime": "14:10",
         "sessions": [
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           },
           {
             "items": [
