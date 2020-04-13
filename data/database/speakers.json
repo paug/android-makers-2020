@@ -1970,10 +1970,11 @@
   "a733fc42-dcb9-4107-9675-70335f2889e9": {
     "order": 4.0,
     "featured": false,
-    "name": "Android Tech Lead @Square, author of LeakCanary & AndroidAnnotations, killer of fragments.🍷🥖⛷🇫🇷",
+    "name": "Pierre-Yves Ricau",
+    "bio": "Android Tech Lead @Square, author of LeakCanary & AndroidAnnotations, killer of fragments.🍷🥖⛷🇫🇷",
     "shortBio": "Android Plumber",
     "country": "San Francisco, USA",
-    "companyLogo": "/images/logos/Square_Inc_logo.svg",
+    "companyLogo": "/images/logos/square.png",
     "company": "Square",
     "photo": "https://sessionize.com/image?f=e6d4e10ab2f547648e5a6cd8deba3143,200,200,1,0,42-dcb9-4107-9675-70335f2889e9.56c98052-18b9-4927-9a59-66eea016fa86.jpg",
     "socials": [
