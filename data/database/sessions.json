@@ -10,7 +10,8 @@
     "tags": [
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=c4e503f1-c1e2-40fc-8bf0-bf23c1cdd1e5"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=c4e503f1-c1e2-40fc-8bf0-bf23c1cdd1e5",
+    "platformUrl": "https://androidmakers.fr"
   },
   "173222": {
     "title": "Benchmarking your application",
@@ -24,7 +25,8 @@
       "Testing",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=bd68ae62-894d-4161-89a4-ed8988918dcb"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=bd68ae62-894d-4161-89a4-ed8988918dcb",
+    "platformUrl": "https://androidmakers.fr"
   },
   "173703": {
     "title": "Dekompiling",
@@ -38,7 +40,8 @@
       "Language",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=662514bf-3daf-4c33-9f8f-7cbcbfa38576"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=662514bf-3daf-4c33-9f8f-7cbcbfa38576",
+    "platformUrl": "https://androidmakers.fr"
   },
   "166909": {
     "title": "Fueled Reactive apps with Asynchronous Flow",
@@ -54,7 +57,8 @@
       "Language",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=1c8ee038-bd83-4e2b-a054-8127df1c9375"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=1c8ee038-bd83-4e2b-a054-8127df1c9375",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175345": {
     "title": "Tirer le meilleur de Firebase Remote Config",
@@ -68,7 +72,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=f5739f99-1d0f-48b9-9dc6-1b7a830e823f"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=f5739f99-1d0f-48b9-9dc6-1b7a830e823f",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176384": {
     "title": "Que peux apporter la blockchain à un développeur mobile en 2020 ?",
@@ -82,7 +87,8 @@
       "Architecture",
       "Security"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=f5739f99-1d0f-48b9-9dc6-1b7a830e823f"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=f5739f99-1d0f-48b9-9dc6-1b7a830e823f",
+    "platformUrl": "https://androidmakers.fr"
   },
   "169303": {
     "title": "How much memory do your objects really use?",
@@ -97,7 +103,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=dab62b71-c676-4eeb-b222-6fc9977e8ae4"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=dab62b71-c676-4eeb-b222-6fc9977e8ae4",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175670": {
     "title": "Nitrogen in your (test) pyramid.",
@@ -111,7 +118,8 @@
       "Architecture",
       "Testing"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=370486d3-ce27-4b2e-a9a5-1aa97b368ac7"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=370486d3-ce27-4b2e-a9a5-1aa97b368ac7",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175760": {
     "title": "Welcome onBoard!",
@@ -124,7 +132,8 @@
     "tags": [
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=050385f7-508f-4863-a7ef-ce94ee33fc7f"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=050385f7-508f-4863-a7ef-ce94ee33fc7f",
+    "platformUrl": "https://androidmakers.fr"
   },
   "174162": {
     "title": "Utilisez les DSL Kotlin pour vos scripts Gradle",
@@ -138,7 +147,8 @@
       "Language",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=4b20b28e-c917-489f-94ce-a0e630d2c43d"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=4b20b28e-c917-489f-94ce-a0e630d2c43d",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175102": {
     "title": "Animation journey: MotionLayout chapter.",
@@ -151,7 +161,8 @@
     "tags": [
       "Animation"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=71248e2a-7374-4726-bc83-44b4cf1e5aa1"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=71248e2a-7374-4726-bc83-44b4cf1e5aa1",
+    "platformUrl": "https://androidmakers.fr"
   },
   "169276": {
     "title": "Compilez, déployez et gérez votre CI en Kotlin",
@@ -165,7 +176,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=75dd63e4-864e-48d0-ae75-163c1bc3371b"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=75dd63e4-864e-48d0-ae75-163c1bc3371b",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176363": {
     "title": "How to make your app lose weight",
@@ -183,7 +195,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=d275ae26-4a4f-4707-ab93-3a567d801071"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=d275ae26-4a4f-4707-ab93-3a567d801071",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176209": {
     "title": "The Hitchhikers Guide Through Kotlin Multiplatform",
@@ -196,7 +209,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=9ee87c57-21ca-4651-970b-22d9b330d862"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=9ee87c57-21ca-4651-970b-22d9b330d862",
+    "platformUrl": "https://androidmakers.fr"
   },
   "174736": {
     "title": "Getting the most out of Android KTX",
@@ -209,7 +223,8 @@
     "tags": [
       "Architecture"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=6c8003e2-be92-498b-b6c2-e435d551874b"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=6c8003e2-be92-498b-b6c2-e435d551874b",
+    "platformUrl": "https://androidmakers.fr"
   },
   "186387": {
     "title": "Whats new with Data Storage?",
@@ -222,7 +237,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=985e70d1-f75a-46c6-b8d7-17e51fbf3bcf"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=985e70d1-f75a-46c6-b8d7-17e51fbf3bcf",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176377": {
     "title": "Experimenting with the Kotlin Compiler",
@@ -235,7 +251,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=1ddb73e0-57bf-4a89-8c9f-daff8c2304ce"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=1ddb73e0-57bf-4a89-8c9f-daff8c2304ce",
+    "platformUrl": "https://androidmakers.fr"
   },
   "166442": {
     "title": "Introduction au Sketchnoting",
@@ -248,7 +265,8 @@
     "tags": [
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=4b8d3909-b6ed-4d23-a471-54f002211c55"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=4b8d3909-b6ed-4d23-a471-54f002211c55",
+    "platformUrl": "https://androidmakers.fr"
   },
   "166088": {
     "title": "Ktor to your heart’s content: easy mobile backends in Kotlin",
@@ -262,7 +280,8 @@
       "Language",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=5328c2cd-158a-4bf7-a0b7-910de04022fd"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=5328c2cd-158a-4bf7-a0b7-910de04022fd",
+    "platformUrl": "https://androidmakers.fr"
   },
   "168081": {
     "title": "Everything They Don’t Tell You About Dynamic Features and Instant Apps",
@@ -275,7 +294,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=d5d5ca94-02c0-4b80-a8d3-bf0e1372d8e2"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=d5d5ca94-02c0-4b80-a8d3-bf0e1372d8e2",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176462": {
     "title": "How to add Flutter to your existing app",
@@ -289,7 +309,8 @@
       "Soft skills",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=72ebcb5d-de0f-478a-a1ae-8bbac422905a"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=72ebcb5d-de0f-478a-a1ae-8bbac422905a",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176426": {
     "title": "Let's build Android UI with Jetpack Compose",
@@ -302,7 +323,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=8904dd2f-c7b8-464f-a977-e9d21d8be1ca"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=8904dd2f-c7b8-464f-a977-e9d21d8be1ca",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176114": {
     "title": "Mobile Trends 2020 - Vers une expérience mobile 5 étoiles",
@@ -317,7 +339,8 @@
       "Design",
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=9e3c198d-ed3c-4edc-b692-fffca81459b9"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=9e3c198d-ed3c-4edc-b692-fffca81459b9",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176381": {
     "title": "Android App Bundle / Android PacKage : à chaque format suffit sa tâche",
@@ -331,7 +354,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=b08add4b-39d7-49a9-9fa4-b15f96c20fd7"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=b08add4b-39d7-49a9-9fa4-b15f96c20fd7",
+    "platformUrl": "https://androidmakers.fr"
   },
   "170959": {
     "title": "Developing in the Dark",
@@ -344,7 +368,8 @@
     "tags": [
       "Design"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=2ef41254-092e-4808-b27e-c13a85cff883"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=2ef41254-092e-4808-b27e-c13a85cff883",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176470": {
     "title": "Reducing memory footprint of your app - what LeakCanary is not telling you about",
@@ -359,7 +384,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=636ff551-8e8f-46d2-ab3a-054906700d80"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=636ff551-8e8f-46d2-ab3a-054906700d80",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176506": {
     "title": "Everything is an API",
@@ -372,7 +398,8 @@
     "tags": [
       "Architecture"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=243be93d-550b-491c-aba1-3889b62e7be6"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=243be93d-550b-491c-aba1-3889b62e7be6",
+    "platformUrl": "https://androidmakers.fr"
   },
   "172261": {
     "title": "How to effectively scan barcodes on Android",
@@ -388,7 +415,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=d6a8c318-4dfc-49c2-a71a-30a9494c8b92"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=d6a8c318-4dfc-49c2-a71a-30a9494c8b92",
+    "platformUrl": "https://androidmakers.fr"
   },
   "174763": {
     "title": "From 7 to 70 Developers, How to Scale your App Release Process",
@@ -402,7 +430,8 @@
     "tags": [
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=8a129ebf-415b-4a99-b21e-ac2b8565cbe5"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=8a129ebf-415b-4a99-b21e-ac2b8565cbe5",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175937": {
     "title": "Gérer la restauration de données avec les Android Architecture Components.",
@@ -417,7 +446,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=55d80b1f-d3ee-42c5-83fe-d4b1756738bb"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=55d80b1f-d3ee-42c5-83fe-d4b1756738bb",
+    "platformUrl": "https://androidmakers.fr"
   },
   "172401": {
     "title": "The Secrets of the Build Scan Plugin and the internals of Gradle",
@@ -431,7 +461,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=763a1120-13e7-4f7a-abc0-95a77d8bbfc0"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=763a1120-13e7-4f7a-abc0-95a77d8bbfc0",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176241": {
     "title": "ConstraintLayout: now and next",
@@ -448,7 +479,8 @@
       "Design",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=c03988ec-b3ec-41a5-ad5c-233637c8e918"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=c03988ec-b3ec-41a5-ad5c-233637c8e918",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176472": {
     "title": "What's my manager doing all day?",
@@ -461,7 +493,8 @@
     "tags": [
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=9fa33b09-543c-4c54-8799-43a0ba85b4bf"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=9fa33b09-543c-4c54-8799-43a0ba85b4bf",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176235": {
     "title": "CameraX - the new powerful Jetpack library",
@@ -474,7 +507,8 @@
     "tags": [
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=01c13064-553f-4d33-bdc1-538f3fe46892"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=01c13064-553f-4d33-bdc1-538f3fe46892",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176338": {
     "title": "Handle gestures and touch events for CustomView",
@@ -488,7 +522,8 @@
       "Animation",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=70aa61c0-8c40-41b6-8ef0-7237407c628e"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=70aa61c0-8c40-41b6-8ef0-7237407c628e",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176505": {
     "title": "Mathematics for Developers",
@@ -503,7 +538,8 @@
       "Soft skills",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=bdffedc9-d11e-422b-bb57-65d6f607da35"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=bdffedc9-d11e-422b-bb57-65d6f607da35",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175713": {
     "title": "Shrink, Secure & Optimize Your App With R8",
@@ -517,7 +553,8 @@
       "Security",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=6e3f5d7f-f37f-4b51-ac71-eb847d47e8e5"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=6e3f5d7f-f37f-4b51-ac71-eb847d47e8e5",
+    "platformUrl": "https://androidmakers.fr"
   },
   "172299": {
     "title": "20 ans de métier et encore pas mal de questions",
@@ -532,7 +569,8 @@
       "Testing",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=1c32dd6f-6e79-4919-b210-211b2092ee7d"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=1c32dd6f-6e79-4919-b210-211b2092ee7d",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175149": {
     "title": "Annotation processing for Kotlin done right",
@@ -546,7 +584,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=04a22561-d92e-4626-931b-f87e7c5ef88e"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=04a22561-d92e-4626-931b-f87e7c5ef88e",
+    "platformUrl": "https://androidmakers.fr"
   },
   "174286": {
     "title": "Managing parallelism using coroutines",
@@ -559,7 +598,8 @@
     "tags": [
       "Language"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=70927300-28f8-45aa-8e3a-abc82b87db1e"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=70927300-28f8-45aa-8e3a-abc82b87db1e",
+    "platformUrl": "https://androidmakers.fr"
   },
   "166026": {
     "title": "Demystifying Low Latency Audio on Android",
@@ -573,7 +613,8 @@
       "Architecture",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=01f4a750-604d-4bcf-a787-c228e626c22b"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=01f4a750-604d-4bcf-a787-c228e626c22b",
+    "platformUrl": "https://androidmakers.fr"
   },
   "168437": {
     "title": "Flowing Things, not so strange in the MVI world",
@@ -586,7 +627,8 @@
     "tags": [
       "Architecture"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=310a2c2d-50bc-4a8c-8760-d327f130f185"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=310a2c2d-50bc-4a8c-8760-d327f130f185",
+    "platformUrl": "https://androidmakers.fr"
   },
   "174151": {
     "title": "Ne vous perdez plus avec le framework de localisation Android",
@@ -599,7 +641,8 @@
     "tags": [
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=c382dee1-afa2-4fd8-b41a-b8db66520601"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=c382dee1-afa2-4fd8-b41a-b8db66520601",
+    "platformUrl": "https://androidmakers.fr"
   },
   "173975": {
     "title": "Why derive a Password",
@@ -612,7 +655,8 @@
     "tags": [
       "Security"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=8b149a02-f874-4db3-bf73-1d498b90240d"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=8b149a02-f874-4db3-bf73-1d498b90240d",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175957": {
     "title": "Flutter: A Path of Vines and Flowers",
@@ -625,7 +669,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=14ce844e-eb1a-45d5-840a-5e257af4d591"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=14ce844e-eb1a-45d5-840a-5e257af4d591",
+    "platformUrl": "https://androidmakers.fr"
   },
   "192939": {
     "title": "Intégrer plusieurs librairies Kotlin Native dans vos apps Android/iOS",
@@ -639,7 +684,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=7b484e61-71b6-42bc-a84a-53cf65610ba6"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=7b484e61-71b6-42bc-a84a-53cf65610ba6",
+    "platformUrl": "https://androidmakers.fr"
   },
   "177389": {
     "title": "App Clinic",
@@ -652,7 +698,8 @@
     "tags": [
       "Design"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=d09425c3-2ca8-4350-ae7b-ad9116d40c8d"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=d09425c3-2ca8-4350-ae7b-ad9116d40c8d",
+    "platformUrl": "https://androidmakers.fr"
   },
   "165628": {
     "title": "Please Draw Me a Sheep... in AR",
@@ -665,7 +712,8 @@
     "tags": [
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=acc7fe58-2f27-4163-b103-823fd4f867c9"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=acc7fe58-2f27-4163-b103-823fd4f867c9",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176369": {
     "title": "Taking over someone else's codebase",
@@ -684,7 +732,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=3d32e8f5-7062-459c-aced-5b5580b332e1"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=3d32e8f5-7062-459c-aced-5b5580b332e1",
+    "platformUrl": "https://androidmakers.fr"
   },
   "174186": {
     "title": "Soyons acteurs du développement (mobile) durable",
@@ -697,7 +746,8 @@
     "tags": [
       "GreenTech"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=a925dfd9-2d25-48a6-8c52-5b88cf3ac5f3"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=a925dfd9-2d25-48a6-8c52-5b88cf3ac5f3",
+    "platformUrl": "https://androidmakers.fr"
   },
   "172307": {
     "title": "Riding the state flow",
@@ -712,7 +762,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=9b93e8df-7e26-4450-932d-fd4b7ffc954b"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=9b93e8df-7e26-4450-932d-fd4b7ffc954b",
+    "platformUrl": "https://androidmakers.fr"
   },
   "165920": {
     "title": "Demystifying the Google Assistant for Android developers",
@@ -725,7 +776,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=287c9fba-6f84-4b7d-a005-9f697569a173"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=287c9fba-6f84-4b7d-a005-9f697569a173",
+    "platformUrl": "https://androidmakers.fr"
   },
   "168603": {
     "title": "Android everywhere!",
@@ -738,7 +790,8 @@
     "tags": [
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=40474842-b22e-4533-99b8-8a5e7b00d421"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=40474842-b22e-4533-99b8-8a5e7b00d421",
+    "platformUrl": "https://androidmakers.fr"
   },
   "171059": {
     "title": "Kotlin Reactive Programming Patterns",
@@ -752,7 +805,8 @@
       "Architecture",
       "Language"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=17cd2383-e66a-4170-b390-ec7d9a3c86f6"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=17cd2383-e66a-4170-b390-ec7d9a3c86f6",
+    "platformUrl": "https://androidmakers.fr"
   },
   "172129": {
     "title": "Lessons from a Librarian",
@@ -771,7 +825,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=20f5fa1a-62b8-4c43-a591-d273c22beea3"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=20f5fa1a-62b8-4c43-a591-d273c22beea3",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176420": {
     "title": "Take Control Of Your APIs With GraphQL",
@@ -784,7 +839,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=490d77d2-4de6-4bc0-8222-cdd0d447e4f7"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=490d77d2-4de6-4bc0-8222-cdd0d447e4f7",
+    "platformUrl": "https://androidmakers.fr"
   },
   "175635": {
     "title": "Finding the view",
@@ -797,7 +853,8 @@
     "tags": [
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=4fcfce19-83bf-4ec8-88df-53a2df51f573"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=4fcfce19-83bf-4ec8-88df-53a2df51f573",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176240": {
     "title": "Android Studio Design Tools",
@@ -813,7 +870,8 @@
       "Design",
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=2cb89bb1-75fc-4667-97d1-9052ebfadf36"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=2cb89bb1-75fc-4667-97d1-9052ebfadf36",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176513": {
     "title": "Conquering Common Conundrums with ConstraintLayout",
@@ -826,7 +884,8 @@
     "tags": [
       "Tools"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=95f355f0-19ac-4958-8a92-7cf2091885e7"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=95f355f0-19ac-4958-8a92-7cf2091885e7",
+    "platformUrl": "https://androidmakers.fr"
   },
   "172499": {
     "title": "Debug your IDE, make your dev tools better.",
@@ -840,7 +899,8 @@
       "Tools",
       "Under the hood"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=6b168d67-0bac-40f7-ae19-babf755f976b"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=6b168d67-0bac-40f7-ae19-babf755f976b",
+    "platformUrl": "https://androidmakers.fr"
   },
   "176490": {
     "title": "L'accessibilité en toute simplicité",
@@ -854,7 +914,8 @@
       "Architecture",
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=73c8c7e1-45db-4ccc-9a0f-60e69fd3ede5"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=73c8c7e1-45db-4ccc-9a0f-60e69fd3ede5",
+    "platformUrl": "https://androidmakers.fr"
   },
   "197096": {
     "title": "Pull requests 👨‍💻, yoga 🧘‍♂️ & avocado toasts 🥑: 7 ans d’engineering à Square ✨",
@@ -867,7 +928,8 @@
     "tags": [
       "Soft skills"
     ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=59591b6f-c025-4eff-9ec5-c6c3d37ec931"
+    "slido": "https://app.sli.do/event/79lcfi8m?section=59591b6f-c025-4eff-9ec5-c6c3d37ec931",
+    "platformUrl": "https://androidmakers.fr"
   },
   "keynote": {
     "title": "Keynote",
