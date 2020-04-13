@@ -1932,5 +1932,58 @@
       }
     ],
     "photoUrl": "https://sessionize.com/image?f=d5666c8297648122c7d005dcaa1a8861,400,400,1,0,3a-735e-4a2a-b05f-e2081e5b6741.217980d7-51ef-494f-b123-94011276b254.jpg"
+  },
+  "e862a78f-9664-4f80-9f3f-2eea47aa7fcb": {
+    "order": 4.0,
+    "featured": false,
+    "name": "James Barr",
+    "bio": "James is a software engineer focusing on Android, UI & design systems, Kotlin, and large code migrations. He’s currently working on Eats at Uber, with previous work at Imgur, Two Toasters, and BlackBerry. In his spare time, James enjoys running, biking, go karting, and attending NASCAR races.",
+    "shortBio": "Software Engineer @ Uber",
+    "country": "San Francisco, CA, US",
+    "companyLogo": "/images/logos/uber.svg",
+    "company": "Uber",
+    "photo": "https://sessionize.com/image?f=599a4d4214356643e663efdab8b96cf5,200,200,1,0,d2743e18-1ccc-48e8-958b-6da912c2ab01.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/jbarr21",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://jamesbarr.dev/",
+        "name": "Blog"
+      },
+      {
+        "icon": "website",
+        "link": "https://uber.com/",
+        "name": "Company Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "linkedin.com/in/jamesrbarr",
+        "name": "LinkedIn"
+      }
+    ],
+    "photoUrl": "https://sessionize.com/image?f=599a4d4214356643e663efdab8b96cf5,200,200,1,0,d2743e18-1ccc-48e8-958b-6da912c2ab01.jpg"
+  },
+  "a733fc42-dcb9-4107-9675-70335f2889e9": {
+    "order": 4.0,
+    "featured": false,
+    "name": "Pierre-Yves Ricau",
+    "bio": "Android Tech Lead @Square, author of LeakCanary & AndroidAnnotations, killer of fragments.🍷🥖⛷🇫🇷",
+    "shortBio": "Android Plumber",
+    "country": "San Francisco, USA",
+    "companyLogo": "/images/logos/square.png",
+    "company": "Square",
+    "photo": "https://sessionize.com/image?f=e6d4e10ab2f547648e5a6cd8deba3143,200,200,1,0,42-dcb9-4107-9675-70335f2889e9.56c98052-18b9-4927-9a59-66eea016fa86.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Piwai",
+        "name": "Twitter"
+      }
+    ],
+    "photoUrl": "https://sessionize.com/image?f=e6d4e10ab2f547648e5a6cd8deba3143,200,200,1,0,42-dcb9-4107-9675-70335f2889e9.56c98052-18b9-4927-9a59-66eea016fa86.jpg"
   }
 }
