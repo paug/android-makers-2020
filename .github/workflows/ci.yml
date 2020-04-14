@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - add-github-actions
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install
+      - run: npm run build
+      - run: echo $SERVICE_ACCOUNT_JSON > serviceAccount.json
+        env:
+          SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
+      - run: npm i yarn
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/blog.json blog
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/gallery.json gallery
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/notifications.json notifications
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/partners.json partners
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/rooms.json rooms
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/schedule-app.json schedule-app
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/schedule-data.json schedule-data
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/schedule.json schedule
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/sessions.json sessions
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/speakers.json speakers
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/team.json team
+      - run: ./node_modules/.bin/yarn firestore:copy data/database/venues.json venues
+
+          
