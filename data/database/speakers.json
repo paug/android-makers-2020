@@ -1332,30 +1332,6 @@
     ],
     "photoUrl": "https://sessionize.com/image?f=65c251356a527d124c51b4492f3cca0b,400,400,1,0,0e8d9749-2465-4b8c-9208-05792b4b5daf.jpg"
   },
-  "7dce605a-8ab8-44f2-8e1e-ad9b029c2b5d": {
-    "order": 4.0,
-    "featured": false,
-    "name": "Olivier Daniel",
-    "bio": "5 years as an Android developper in Coyote. I actively participated to the creation of a common project containing the Coyote application and two of its devices : Nav+ and Up. ",
-    "shortBio": "Coyote System, Android developper",
-    "country": "Bordeaux, France",
-    "companyLogo": "/images/logos/coyote.png",
-    "company": "Coyote System",
-    "photo": "https://sessionize.com/image?f=9241e49309c0d21cea971b6ce5d9f838,400,400,1,0,5a-8ab8-44f2-8e1e-ad9b029c2b5d.7e72871e-ea93-4970-a598-00cf8317a459.jpeg",
-    "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/olivier-daniel-5137706b",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "https://www.moncoyote.com/fr/",
-        "name": "Company Website"
-      }
-    ],
-    "photoUrl": "https://sessionize.com/image?f=9241e49309c0d21cea971b6ce5d9f838,400,400,1,0,5a-8ab8-44f2-8e1e-ad9b029c2b5d.7e72871e-ea93-4970-a598-00cf8317a459.jpeg"
-  },
   "d3841a2b-b09c-41f7-afa6-26734c05a277": {
     "order": 4.0,
     "featured": false,
