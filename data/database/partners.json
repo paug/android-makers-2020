@@ -36,11 +36,6 @@
         "url": "https://www.bitrise.io/"
       },
       {
-        "logoUrl": "../images/logos/badoo_ml.png",
-        "name": "Badoo",
-        "url": "https://badoo.com"
-      },
-      {
         "logoUrl": "../images/logos/ps-logo.svg",
         "name": "Publicis Sapient Engineering",
         "url": "https://blog.engineering.publicissapient.fr/"
@@ -51,10 +46,10 @@
         "url": "https://www.moncoyote.com/"
       },
       {
-        "logoUrl": "../images/logos/hiway.svg",
-        "name": "Hiway",
-        "url": "https://hiway-freelance.com/"
-      }  
+        "logoUrl": "../images/logos/blablacar.png",
+        "name": "Blablacar",
+        "url": "https://www.blablacar.fr/"
+      }
     ]
   },
   {
@@ -65,6 +60,11 @@
         "logoUrl": "../images/logos/MWM.png",
         "name": "MWM",
         "url": "http://musicworldmedia.com/"
+      },
+      {
+        "logoUrl": "../images/logos/Meetic.png",
+        "name": "Meetic",
+        "url": "https://www.meetic.fr/"
       }
     ]
   },
