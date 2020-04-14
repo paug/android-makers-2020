@@ -891,16 +891,6 @@
       "Welcome Message"
     ]
   },
-  "no-op": {
-    "title": "",
-    "description": "",
-    "language": "",
-    "complexity": "",
-    "speakers": [],
-    "tags": [
-      "Service"
-    ]
-  },
   "break": {
     "description": "Coffeeeeeee! ☕️",
     "icon": "coffee-break",

@@ -101,9 +101,7 @@
         "endTime": "12:30",
         "sessions": [
           {
-            "items": [
-              "no-op"
-            ],
+            "items": [],
             "extend": 2
           },
           {
@@ -236,9 +234,7 @@
             ]
           },
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           }
         ]
       },
@@ -296,9 +292,7 @@
         "endTime": "16:50",
         "sessions": [
           {
-            "items": [
-              "no-op"
-            ],
+            "items": [],
             "extend": 2
           },
           {
@@ -370,9 +364,7 @@
             ]
           },
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           }
         ]
       },
@@ -398,15 +390,11 @@
             "extend": 2
           },
           {
-            "items": [
-              "no-op"
-            ],
+            "items": [],
             "extend": 2
           },
           {
-            "items": [
-              "no-op"
-            ],
+            "items": [],
             "extend": 2
           },
           {
@@ -512,9 +500,7 @@
             ]
           },
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           },
           {
             "items": [
@@ -610,14 +596,10 @@
             ]
           },
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           },
           {
-            "items": [
-              "no-op"
-            ],
+            "items": [],
             "extend": 2
           }
         ]
@@ -625,24 +607,7 @@
       {
         "startTime": "13:50",
         "endTime": "14:10",
-        "sessions": [
-          {
-            "items": []
-          },
-          {
-            "items": [
-              "no-op"
-            ]
-          },
-          {
-            "items": [
-              "no-op"
-            ]
-          },
-          {
-            "items": []
-          }
-        ]
+        "sessions": []
       },
       {
         "startTime": "14:10",
@@ -666,9 +631,7 @@
             "extend": 2
           },
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           },
           {
             "items": [
@@ -676,9 +639,7 @@
             "extend": 2
           },
           {
-            "items": [
-              "no-op"
-            ],
+            "items": [],
             "extend": 5
           }
         ]
@@ -731,9 +692,7 @@
             "extend": 2
           },
           {
-            "items": [
-              "no-op"
-            ]
+            "items": []
           },
           {
             "items": []
@@ -870,13 +829,7 @@
       {
         "startTime": "18:00",
         "endTime": "19:00",
-        "sessions": [
-          {
-            "items": [
-              "no-op"
-            ]
-          }
-        ]
+        "sessions": []
       }
     ],
     "tracks": [
