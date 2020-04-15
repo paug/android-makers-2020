@@ -250,20 +250,6 @@
     ],
     "slido": "https://app.sli.do/event/79lcfi8m?section=4b8d3909-b6ed-4d23-a471-54f002211c55"
   },
-  "166088": {
-    "title": "Ktor to your heart’s content: easy mobile backends in Kotlin",
-    "description": "Thump thump… thump thump… thump thump…\r\n\r\nMost Android developers are familiar with Kotlin and use it every day with great success (and joy!). But the bloodline of the language extends well beyond Android! From cross-platform development, to the desktop, to the web, to backends, Kotlin’s pedigree as a versatile language puts all us developers in a great position to leverage existing knowledge for a variety of tasks outside a mobile engineer’s comfort zone.\r\n\r\nIn this session we’ll use Kotlin, Ktor and coroutines to write a backend for our splendid fictional mobile app product: PushBeat. After learning the basics of a RESTful API, we’ll see what Ktor takes care of for us, what features may be helpful for our mobile projects, and how little we actually need to learn to be a productive backend engineer in no time!",
-    "language": "English",
-    "complexity": "Intermediate",
-    "speakers": [
-      "e397fee8-078f-4694-8a1f-35b1d57f1fce"
-    ],
-    "tags": [
-      "Language",
-      "Tools"
-    ],
-    "slido": "https://app.sli.do/event/79lcfi8m?section=5328c2cd-158a-4bf7-a0b7-910de04022fd"
-  },
   "168081": {
     "title": "Everything They Don’t Tell You About Dynamic Features and Instant Apps",
     "description": "Creating an Android project that is decoupled enough to be able to release an individual feature as an instant app is a tough ask. It becomes even more daunting when your starting point is a monolithic, single module project. In this talk we’ll go over how we modularised the Cricket World Cup 2019 app in order to release an instant app, and we’ll show every single problem we hit along the way.",
