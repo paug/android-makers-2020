@@ -1961,5 +1961,24 @@
       }
     ],
     "photoUrl": "https://sessionize.com/image?f=15e51a57f98b3749fc7084cc08e5439e,200,200,1,0,17-c3b3-4f60-a968-c69ca370e361.b4e7a783-88f2-4036-837e-2bd0f974f855.jpg"
+  },
+  "2f06b856-2d7e-4062-b595-d4a01623c34d": {
+    "order": 4.0,
+    "featured": false,
+    "name": "Taylor Ling",
+    "bio": "Taylor Ling is a Digital Product Designer and passionate about great digital product experience, as well as closing the gap between design and development. He co-founded and designed Fabulous, a scientific habit-forming companion that received Material Design Award from Google in 2016.\r\n\r\nBefore Fabulous, he worked in an international 3D printing company on their life-saving medical software for surgeons. He also worked at a software solution house in Kuala Lumpur called Snappymob and crafted Saved, an award-winning iOS financial tracker app.",
+    "shortBio": "Design Co-Founder, Fabulous Co.",
+    "country": "Kuala Lumpur, Malaysia",
+    "companyLogo": "/images/logos/fabulous.png",
+    "company": "Fabulous",
+    "photo": "https://sessionize.com/image?f=760b8e16584ad5af74386495fa51bb54,400,400,1,0,be8ecbf6-7f27-4bfb-a687-1c97d9bbc711.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/taylorling",
+        "name": "Twitter"
+      }
+    ],
+    "photoUrl": "https://sessionize.com/image?f=7c023cf371b951f6bbe5e93ff5c150e4,200,200,1,0,be8ecbf6-7f27-4bfb-a687-1c97d9bbc711.jpg"
   }
 }
