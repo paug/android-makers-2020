@@ -223,6 +223,8 @@
   "sessionDetails": {
     "contentLevel": "Content level",
     "viewSlido": "View Slido",
+    "viewLive": "View live on the platform",
+    "viewFeedback": "Give feedback",
     "viewPresentation": "View presentation",
     "viewVideo": "View video",
     "speakers": "Speakers"

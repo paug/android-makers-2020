@@ -71,10 +71,20 @@
         </marked-element>
 
         <div class="actions" layout horizontal>
+          <a class="action" href$="[[session.platformUrl]]" hidden$="[[!session.platformUrl]]" target="_blank"
+            rel="noopener noreferrer" layout horizontal center>
+            <iron-icon icon="hoverboard:video"></iron-icon>
+            <span>{$ sessionDetails.viewLive $}</span>
+          </a>
           <a class="action" href$="[[session.slido]]" hidden$="[[!session.slido]]" target="_blank"
             rel="noopener noreferrer" layout horizontal center>
             <iron-icon icon="hoverboard:microphone"></iron-icon>
             <span>{$ sessionDetails.viewSlido $}</span>
+          </a>
+          <a class="action" href$="[[session.feedback]]" hidden$="[[!session.feedback]]" target="_blank"
+            rel="noopener noreferrer" layout horizontal center>
+            <iron-icon icon="hoverboard:feedback"></iron-icon>
+            <span>{$ sessionDetails.viewFeedback $}</span>
           </a>
           <a class="action" href$="[[session.presentation]]" hidden$="[[!session.presentation]]" target="_blank"
             rel="noopener noreferrer" layout horizontal center>
