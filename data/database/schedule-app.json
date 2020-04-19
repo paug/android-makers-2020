@@ -162,12 +162,6 @@
         "startDate": "2020-04-20T14:40:00+02:00"
       }, 
       {
-        "endDate": "2020-04-20T15:20:00+02:00", 
-        "roomId": "track3", 
-        "sessionId": "176377", 
-        "startDate": "2020-04-20T14:40:00+02:00"
-      }, 
-      {
         "endDate": "2020-04-20T15:40:00+02:00", 
         "roomId": "all", 
         "sessionId": "break", 
@@ -378,6 +372,12 @@
         "startDate": "2020-04-21T13:30:00+02:00"
       }, 
       {
+        "endDate": "2020-04-21T14:10:00+02:00", 
+        "roomId": "track3", 
+        "sessionId": "176377", 
+        "startDate": "2020-04-21T13:30:00+02:00"
+      }, 
+      {
         "endDate": "2020-04-21T14:20:00+02:00", 
         "roomId": "all", 
         "sessionId": "break", 
@@ -496,6 +496,12 @@
         "roomId": "all", 
         "sessionId": "break", 
         "startDate": "2020-04-21T17:40:00+02:00"
+      }, 
+      {
+        "endDate": "2020-04-21T19:00:00+02:00", 
+        "roomId": "all", 
+        "sessionId": "thank-you", 
+        "startDate": "2020-04-21T18:00:00+02:00"
       }
     ]
   }
