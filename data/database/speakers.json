@@ -1980,5 +1980,16 @@
       }
     ],
     "photoUrl": "https://sessionize.com/image?f=7c023cf371b951f6bbe5e93ff5c150e4,200,200,1,0,be8ecbf6-7f27-4bfb-a687-1c97d9bbc711.jpg"
+  },
+  "b18ff130-676b-4a26-b36f-518d93778c6c": {
+    "order": 4.0,
+    "featured": false,
+    "name": "Clémentine Marie",
+    "bio": "",
+    "shortBio": "Freediver",
+    "country": "France",
+    "photo": "https://res.cloudinary.com/ideation/image/upload/w_400,h_400,c_fill,q_auto,f_auto,dpr_auto/dfbjanxeqzratewp4lve",
+    "socials": [],
+    "photoUrl": "https://res.cloudinary.com/ideation/image/upload/w_400,h_400,c_fill,q_auto,f_auto,dpr_auto/dfbjanxeqzratewp4lve"
   }
 }
