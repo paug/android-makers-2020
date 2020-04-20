@@ -992,7 +992,22 @@
     ],
     "platformUrl": "https://androidmakers.virtualconference.com/#/conference/5e9cc00e388f06001b4331cb"
   },
-
+  "198665": {
+    "title": "Développez votre propre application audio de relaxation",
+    "description": "In this little workshop, we will discover some of the Android audio APIs in a concrete example: we are going to build, step by step, our own relaxing application.\n\nThis session is meant for everyone that have little knowledge of the audio stack on Android and that wants to bring home a little memory from AndroidMakers 2020 :)\n\nHere is a link of what we will build: https://drive.google.com/open?id=1lnykBAyXfyK0O66muPLwvXBEnL8rwUGA (The sound in the recording is very low, my bad)\n\nNote: this session will be held in French. Sorry for non-French speakers :/\n\nWhat you will do:\n- Discover some audio features in a concrete example\n- Create a little relaxing audio app\n- Use MediaPlayer to indefinitely loop a song\n- Use SoundPool to overlap sounds and create an infinite audio experience\n- Use ValueAnimator to create a subtle \"breathing\" animation\n\nWhat you won't do:\n- Use a specific app architecture (MVVM, MVP, etc.)\n- Deep dive into the audio features of Android\n- Cover all UX aspects of an audio app (background support, etc.)\n\nRequirements:\n- Computer with AndroidStudio (3.6.+)\n- Workshop kit: https://drive.google.com/open?id=1cuxzy4yRhLpknLn43d8o_P7I-7nrS3Rc\n- Android device or emulator\n- Bonus: headphones",
+    "language": "French",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "453b89b2-b526-4c8d-87cb-de95a31cc311"
+    ],
+    "tags": [
+      "workshop",
+      "audio"
+    ],
+    "platformUrl": "https://androidmakers.virtualconference.com/#/conference/5e9dc58a91eb5d001bc681cd",
+    "feedback": "https://openfeedback-b7ab9.web.app/mMHR63ARZQpPidFQISyc/2020-04-20/198665",
+    "slido": "https://app.sli.do/event/79lcfi8m?section=59958154-a211-42a9-a894-83abb9cbcf7e"
+  },
   "keynote": {
     "title": "Keynote",
     "description": "Keynote",

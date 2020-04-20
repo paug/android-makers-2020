@@ -1991,5 +1991,32 @@
     "photo": "https://res.cloudinary.com/ideation/image/upload/w_400,h_400,c_fill,q_auto,f_auto,dpr_auto/dfbjanxeqzratewp4lve",
     "socials": [],
     "photoUrl": "https://res.cloudinary.com/ideation/image/upload/w_400,h_400,c_fill,q_auto,f_auto,dpr_auto/dfbjanxeqzratewp4lve"
+  },
+  "453b89b2-b526-4c8d-87cb-de95a31cc311": {
+    "order": 4.0,
+    "featured": false,
+    "name": "Vincent Barthélémy",
+    "bio": "Vincent Barthélémy joined MWM 5 years ago to build an ecosystem of music applications. Since the first edition of AndroidMakers, the whole MWM Android team has attended the event with a Maker stands. Every year, they build little demo apps to promote the audio features of the Android SDK, discuss with the attendees of the new possibilities offered by the last Android version.",
+    "shortBio": "Head of Android Team at MWM",
+    "country": "France",
+    "photo": "https://sessionize.com/image?f=ec39ec9c2a74a86fdee3d9bba5726fa5,200,200,1,0,f8122b96-26c9-4f8b-8ba5-34a446e4cbed.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/MWMcompany",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "https://musicworldmedia.com/",
+        "name": "Company Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/company/mwmcompany/",
+        "name": "LinkedIn"
+      }
+    ],
+    "photoUrl": "https://sessionize.com/image?f=ec39ec9c2a74a86fdee3d9bba5726fa5,200,200,1,0,f8122b96-26c9-4f8b-8ba5-34a446e4cbed.jpg"
   }
 }
