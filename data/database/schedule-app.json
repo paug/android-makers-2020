@@ -414,6 +414,12 @@
         "startDate": "2020-04-21T14:40:00+02:00"
       }, 
       {
+        "endDate": "2020-04-21T15:20:00+02:00",
+        "roomId": "track1",
+        "sessionId": "197097",
+        "startDate": "2020-04-21T15:00:00+02:00"
+      },
+      {
         "endDate": "2020-04-21T15:20:00+02:00", 
         "roomId": "all", 
         "sessionId": "break", 
