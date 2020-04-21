@@ -992,6 +992,19 @@
     ],
     "platformUrl": "https://androidmakers.virtualconference.com/#/conference/5e9cc00e388f06001b4331cb"
   },
+  "197098": {
+    "title": "Pause détente & étirements",
+    "description": "20 minutes pour faire un break et étirer vos petits muscles avant de reprendre la journée !\nRejoignez moi pour dérouiller vos cervicales et metacarpes sans bouger de votre écran!",
+    "language": "French",
+    "complexity": "Introductory and overview",
+    "speakers": [
+      "b18ff130-676b-4a26-b36f-518d93778c6c"
+    ],
+    "tags": [
+      "Soft skills"
+    ],
+    "platformUrl": "https://androidmakers.virtualconference.com/#/conference/5e9df9f31195cf001b0a2df7"
+  },
   "198665": {
     "title": "Développez votre propre application audio de relaxation",
     "description": "In this little workshop, we will discover some of the Android audio APIs in a concrete example: we are going to build, step by step, our own relaxing application.\n\nThis session is meant for everyone that have little knowledge of the audio stack on Android and that wants to bring home a little memory from AndroidMakers 2020 :)\n\nHere is a link of what we will build: https://drive.google.com/open?id=1lnykBAyXfyK0O66muPLwvXBEnL8rwUGA (The sound in the recording is very low, my bad)\n\nNote: this session will be held in French. Sorry for non-French speakers :/\n\nWhat you will do:\n- Discover some audio features in a concrete example\n- Create a little relaxing audio app\n- Use MediaPlayer to indefinitely loop a song\n- Use SoundPool to overlap sounds and create an infinite audio experience\n- Use ValueAnimator to create a subtle \"breathing\" animation\n\nWhat you won't do:\n- Use a specific app architecture (MVVM, MVP, etc.)\n- Deep dive into the audio features of Android\n- Cover all UX aspects of an audio app (background support, etc.)\n\nRequirements:\n- Computer with AndroidStudio (3.6.+)\n- Workshop kit: https://drive.google.com/open?id=1cuxzy4yRhLpknLn43d8o_P7I-7nrS3Rc\n- Android device or emulator\n- Bonus: headphones",
