@@ -504,12 +504,6 @@
         "startDate": "2020-04-21T17:00:00+02:00"
       }, 
       {
-        "endDate": "2020-04-21T17:40:00+02:00", 
-        "roomId": "track4", 
-        "sessionId": "172499", 
-        "startDate": "2020-04-21T17:00:00+02:00"
-      }, 
-      {
         "endDate": "2020-04-21T18:10:00+02:00", 
         "roomId": "all", 
         "sessionId": "thank-you", 
