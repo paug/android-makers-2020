@@ -933,22 +933,6 @@
     "feedback": "https://openfeedback-b7ab9.web.app/mMHR63ARZQpPidFQISyc/2020-04-20/176513",
     "slido": "https://app.sli.do/event/79lcfi8m?section=95f355f0-19ac-4958-8a92-7cf2091885e7"
   },
-  "172499": {
-    "title": "Debug your IDE, make your dev tools better.",
-    "description": "At Square, our Android app has more than 1,500 modules, 1.5 million lines of code. Until recently we were facing a hard reality: our build was too slow and it impacted developer productivity. Neither Gradle, nor the Android Gradle Plugin, not even Intelli J / Android Studio were working well at such a large scale. All our tools were sluggish, the coding experience was terrible, and productivity was getting lower and lower even though we were adopting the best practices of the industry such as having a modularized codebase, and using design patterns like Dependency Injection.\r\n\r\nThis talk for advanced developers is about the journey to improve the Gradle based tools of the Android ecosystem. It will explain how we learnt to debug them, profile them, and improve the whole toolchain. \r\n\r\nAfter a few months, during which we developed a tighter partnership with Jetbrains, Gradle and Google, we are now in a better shape: the IDEs are responsive, our build is faster, productivity is higher, and we are contributing to make the future versions of the tools even better. \r\n",
-    "language": "English",
-    "complexity": "Advanced",
-    "speakers": [
-      "eb1a2a18-6b45-46a8-b58e-78dba26ddd74"
-    ],
-    "tags": [
-      "Tools",
-      "Under the hood"
-    ],
-    "platformUrl": "https://androidmakers.virtualconference.com/#/conference/5e95a5dd1954df001b6e2a5b",
-    "feedback": "https://openfeedback-b7ab9.web.app/mMHR63ARZQpPidFQISyc/2020-04-20/172499",
-    "slido": "https://app.sli.do/event/79lcfi8m?section=6b168d67-0bac-40f7-ae19-babf755f976b"
-  },
   "176490": {
     "title": "L'accessibilité en toute simplicité",
     "description": "Vous cherchez à rendre votre app accessible mais vous avez peur que ce soit trop compliqué ? \r\nVous avez un audit d'accessibilité en vue et vous paniquez ? \r\nCette session est pour vous !  \r\nBien que l'a11y ai pour réputation d'être difficile à mettre en place, il est possible de le faire avec très peu d'efforts grâce à quelques principes simples.\r\nDe plus, nous allons voir comment rendre votre app accessible peut vous aider à écrire du code qualitatif.",

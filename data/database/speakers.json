@@ -1751,30 +1751,6 @@
     ],
     "photoUrl": "https://sessionize.com/image?f=309055c4dbe8254a3eb8c71ecd5307a9,400,400,1,0,ee-7b06-415a-9e72-a46a21bb3e92.ff8fb136-2094-4f0b-ac9e-bc55f6378dce.jpeg"
   },
-  "eb1a2a18-6b45-46a8-b58e-78dba26ddd74": {
-    "order": 4.0,
-    "featured": false,
-    "name": "Stéphane Nicolas",
-    "bio": "Bio:\r\nWith 20+ years of Java coding experience, I am now a Senior Android Developer at Square. As a member of the Square Foundation team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.\r\n\r\nI am an Free & Open Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github:\r\nhttps://github.com/stephanenicolas.\r\n\r\nExperience: \r\nDroidCon SF 2018\r\nDroidCon Turin 2017\r\nAndroid Makers Paris 2017\r\nMobius Saint Petersburg 2017\r\nDroidCon New York: 2015\r\nDroidCon Paris: 2013, 2014\r\nDroidCon Berlin:  2013\r\nDroidCon London: 2013\r\nDroidCon Amsterdam: 2012\r\nDevoxx BE: 2015\r\nDevoxx FR: 2012\r\nAndevCon SF: 2014, 2016\r\nAndevCon Boston: 2013\r\nMobile Era, Oslo: 2016\r\nDev Fest Nantes: 2012\r\n\r\nTalks for Android User Groups: Paris, Montreal\r\n\r\n",
-    "shortBio": "Senior Android dev at Square",
-    "country": "Bay Area, CA, USA",
-    "companyLogo": "/images/logos/Square_Inc_logo.svg",
-    "company": "Square",
-    "photo": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg",
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/D_Lemures",
-        "name": "Twitter"
-      },
-      {
-        "icon": "website",
-        "link": "https://squareup.com",
-        "name": "Company Website"
-      }
-    ],
-    "photoUrl": "https://sessionize.com/image?f=c49186779e90c6e43424e61e6c83f257,400,400,1,0,18-6b45-46a8-b58e-78dba26ddd74.59162aca-de1d-45b2-aa61-503a7d195a10.jpg"
-  },
   "f8c30c09-8132-4ac8-91a5-9e7b293063a4": {
     "order": 4.0,
     "featured": false,
