@@ -2018,5 +2018,32 @@
       }
     ],
     "photoUrl": "https://sessionize.com/image?f=ec39ec9c2a74a86fdee3d9bba5726fa5,200,200,1,0,f8122b96-26c9-4f8b-8ba5-34a446e4cbed.jpg"
+  },
+  "2bcd8543-a998-48c9-8cbf-e03f9b17ff83": {
+    "order": 4.0,
+    "featured": false,
+    "name": "Lorica Claesson",
+    "bio": "Lorica is a UX Designer with a twist, having both a design and technical background.\n\nShe is passionate about innovative desktop, web and mobile applications that are tailored for real users. Designing engaging and easy-to-use interfaces backed up by a solid technical understanding of what is feasible and using a range of methods for understanding what users really want and need.\n\nLorica works as a UX design consultant in Switzerland, specializing in mobile design, with a seemingly rare interest for designing Android apps.",
+    "shortBio": "UX Designer",
+    "country": "Zürich, Switzerland",
+    "photo": "https://sessionize.com/image?f=561315035fce83b1be5e1534226d817d,200,200,1,0,43-a998-48c9-8cbf-e03f9b17ff83.a06a40c1-90fd-48e5-99cb-a7044873168e.jpg",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/lorica",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "http://www.nordicusability.com",
+        "name": "Company Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/lorica-claesson-348b121/",
+        "name": "LinkedIn"
+      }
+    ],
+    "photoUrl": "https://sessionize.com/image?f=561315035fce83b1be5e1534226d817d,200,200,1,0,43-a998-48c9-8cbf-e03f9b17ff83.a06a40c1-90fd-48e5-99cb-a7044873168e.jpg"
   }
 }
