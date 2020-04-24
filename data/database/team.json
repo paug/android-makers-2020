@@ -38,7 +38,7 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1526573324/photo_400x400.jpg",
+        "photoUrl": "/images/team/djavan.png",
         "name": "Djavan Bertrand",
         "socials" : [ {
           "icon" : "twitter",
@@ -48,7 +48,7 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGMPm4NaQ2bHg/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=g3zVJUAnSYvlc4VQZYDcqeFTa3OROYVh_30AKygBxOk",
+        "photoUrl": "/images/team/edouard.jpg",
         "name": "Edouard Marquez",
         "socials" : [ {
           "icon" : "twitter",
@@ -83,7 +83,7 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1196821614765264900/S6DegBlg_400x400.jpg",
+        "photoUrl": "/images/team/martin.jpg",
         "name": "Martin Bonnin",
         "socials" : [ {
           "icon" : "twitter",
@@ -113,7 +113,7 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF5mqkj69Lx5w/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=m4vanPy7ni0EcAOcP5K_6tn84YkSIwGDnvu48JRHY0E",
+        "photoUrl": "/images/team/romain.jpg",
         "name": "Romain Ménétrier",
         "socials" : [ {
           "icon" : "twitter",
