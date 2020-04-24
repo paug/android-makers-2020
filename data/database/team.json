@@ -104,12 +104,22 @@
       {
         "title": "Organizer",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fremy_barbosa.jpeg?alt=media&token=1143ff43-692e-4d7c-adf1-acba5b356700",
-        "name": "Remy Barbosa"
+        "name": "Remy Barbosa",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/BarbosaRmy",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
         "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF5mqkj69Lx5w/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=m4vanPy7ni0EcAOcP5K_6tn84YkSIwGDnvu48JRHY0E",
-        "name": "Romain Ménétrier"
+        "name": "Romain Ménétrier",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/romemore",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer, photos",
@@ -134,12 +144,22 @@
       {
         "title": "Organizer",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fthomas_barthelemy.jpeg?alt=media&token=19fa5845-5910-47e9-b9ff-31a7b4f2a560",
-        "name": "Thomas Barthélémy"
+        "name": "Thomas Barthélémy",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/t_barthel",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
         "photoUrl": "https://pbs.twimg.com/profile_images/652853930108538880/ky0MYY5V_400x400.jpg",
-        "name": "Turhan Oz"
+        "name": "Turhan Oz",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/turhantech",
+          "name" : "Twitter"
+        }]
       }
     ],
     "order": 1,
@@ -159,7 +179,12 @@
       {
         "name": "Maxime Guillaume",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fmaxime_guillaume.jpg?alt=media&token=45105f5c-25e6-414d-b6d4-76b441c1de69",
-        "title": ""
+        "title": "",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/guillmaxx",
+          "name" : "Twitter"
+        }]
       }
     ],
     "order": 0,
