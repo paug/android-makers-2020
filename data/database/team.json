@@ -2,76 +2,6 @@
   {
     "members": [
       {
-        "title": "Website, Android app, photos",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1177335817104175109/MGPT17XV_400x400.jpg",
-        "name": "Benjamin Gonin",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/_benju_",
-          "name" : "Twitter"
-        }]
-      },
-      {
-        "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/910937517578424320/da8z8FL0_400x400.jpg",
-        "name": "Marion Hayoun",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/loutry",
-          "name" : "Twitter"
-        }]
-      },
-      {
-        "title": "Website",
-        "photoUrl": "https://pbs.twimg.com/profile_images/989475350953553921/aqXeK-YO_400x400.jpg",
-        "name": "Antonin Fouques",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/cmoatoto",
-          "name" : "Twitter"
-        }]
-      },
-      {
-        "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1810811721/11_-_1_400x400.jpg",
-        "name": "Eyal Lezmy",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/Eyal_Lezmy",
-          "name" : "Twitter"
-        }]
-      },
-      {
-        "photoUrl": "https://pbs.twimg.com/profile_images/1193168545221238790/2TxOlQ51_400x400.jpg",
-        "name": "Stéphane Guérin",
-        "title": "Organizer",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/guerwan",
-          "name" : "Twitter"
-        }]
-      },
-      {
-        "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1196821614765264900/S6DegBlg_400x400.jpg",
-        "name": "Martin Bonnin",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/martinbonnin",
-          "name" : "Twitter"
-        }]
-      },
-      {
-        "title": "Organizer, photos",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1013865859880759297/s0cSh-qU_400x400.jpg",
-        "name": "Stan Kocken",
-        "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/stan_kocken",
-          "name" : "Twitter"
-        }]
-      },
-      {
         "name": "Adrien Vitti",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2019.appspot.com/o/people%2Fadrien_vitti.jpg?alt=media&token=46f23aa2-413d-4103-8eba-26782e207d7a",
         "title": "Android app"
@@ -88,27 +18,37 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGMPm4NaQ2bHg/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=g3zVJUAnSYvlc4VQZYDcqeFTa3OROYVh_30AKygBxOk",
-        "name": "Edouard Marquez",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Famael.jpg?alt=media&token=00e9e0c3-34d6-4586-8713-b26d36fcff7e",
+        "name": "Amaël Sikel",
         "socials" : [ {
           "icon" : "twitter",
-          "link" : "https://twitter.com/g123k",
+          "link" : "https://twitter.com/r4dixx",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Website",
+        "photoUrl": "https://pbs.twimg.com/profile_images/989475350953553921/aqXeK-YO_400x400.jpg",
+        "name": "Antonin Fouques",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/cmoatoto",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Website, Android app, photos",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1177335817104175109/MGPT17XV_400x400.jpg",
+        "name": "Benjamin Gonin",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/_benju_",
           "name" : "Twitter"
         }]
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF5mqkj69Lx5w/profile-displayphoto-shrink_800_800/0?e=1585785600&v=beta&t=m4vanPy7ni0EcAOcP5K_6tn84YkSIwGDnvu48JRHY0E",
-        "name": "Romain Ménétrier"
-      },
-      {
-        "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/652853930108538880/ky0MYY5V_400x400.jpg",
-        "name": "Turhan Oz"
-      },
-      {
-        "title": "Organizer",
-        "photoUrl": "https://pbs.twimg.com/profile_images/1526573324/photo_400x400.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fdjavan.png?alt=media&token=a93fa77c-3c3b-4b2f-b7d8-c3f7b8131872",
         "name": "Djavan Bertrand",
         "socials" : [ {
           "icon" : "twitter",
@@ -118,18 +58,78 @@
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fremy_barbosa.jpeg?alt=media&token=1143ff43-692e-4d7c-adf1-acba5b356700",
-        "name": "Remy Barbosa"
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fedouard.jpg?alt=media&token=d599c909-85a4-49ba-8477-60be20c2e468",
+        "name": "Edouard Marquez",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/g123k",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fthomas_barthelemy.jpeg?alt=media&token=19fa5845-5910-47e9-b9ff-31a7b4f2a560",
-        "name": "Thomas Barthélémy"
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Felaine.jpg?alt=media&token=605b1616-583c-4e33-b9ea-ab89b5ccadaf",
+        "name": "Elaine Dias Batista",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/elainedbatista",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1810811721/11_-_1_400x400.jpg",
+        "name": "Eyal Lezmy",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/Eyal_Lezmy",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Ffarouk.jpg?alt=media&token=03df3235-a6fd-4d62-8cf9-2b2af3908267",
+        "name": "Farouk Touzi",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/touzifarouk",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fgael_jestin.jpeg?alt=media&token=49d9d61f-a8bc-4778-a668-79d7c223a8b6",
         "name": "Gaël Jestin"
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fjulien.jpg?alt=media&token=f894164e-c82c-491a-bf85-1c7f0d07330a",
+        "name": "Julien Salvi",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/JulienSalvi",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/910937517578424320/da8z8FL0_400x400.jpg",
+        "name": "Marion Hayoun",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/loutry",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fmartin.jpg?alt=media&token=4f2835fc-4c92-4152-954e-765b70984e0b",
+        "name": "Martin Bonnin",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/martinbonnin",
+          "name" : "Twitter"
+        }]
       },
       {
         "title": "Organizer",
@@ -140,6 +140,76 @@
           "link" : "https://twitter.com/bonbonking",
           "name" : "Twitter"
         }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fremy_barbosa.jpeg?alt=media&token=1143ff43-692e-4d7c-adf1-acba5b356700",
+        "name": "Remy Barbosa",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/BarbosaRmy",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Frobin.jpg?alt=media&token=8b87d435-86d8-47be-b38d-e84750391d61",
+        "name": "Robin Kanatzar",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/RobinKanatzar",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fromain.jpg?alt=media&token=c5db6872-8a57-420e-a4c0-7cb222b5d7cd",
+        "name": "Romain Ménétrier",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/romemore",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer, photos",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1013865859880759297/s0cSh-qU_400x400.jpg",
+        "name": "Stan Kocken",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/stan_kocken",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "photoUrl": "https://pbs.twimg.com/profile_images/1193168545221238790/2TxOlQ51_400x400.jpg",
+        "name": "Stéphane Guérin",
+        "title": "Organizer",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/guerwan",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fthomas_barthelemy.jpeg?alt=media&token=19fa5845-5910-47e9-b9ff-31a7b4f2a560",
+        "name": "Thomas Barthélémy",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/t_barthel",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/652853930108538880/ky0MYY5V_400x400.jpg",
+        "name": "Turhan Oz",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/turhantech",
+          "name" : "Twitter"
+        }]
       }
     ],
     "order": 1,
@@ -148,18 +218,24 @@
   {
     "members": [
       {
-        "name": "Maxime Guillaume",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fmaxime_guillaume.jpg?alt=media&token=45105f5c-25e6-414d-b6d4-76b441c1de69",
-        "title": ""
-      },
-      {
         "name": "John Karp",
         "photoUrl": "https://pbs.twimg.com/profile_images/803900316051718144/lDK8E_p9_400x400.jpg",
         "title": ""
       },
       {
-        "name": "Camille Fabre",
-        "title": ""
+        "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fleila.jpeg?alt=media&token=935283e2-9420-40c8-8a9b-35eaed182b7f",
+        "name": "Leïla Bouhend"
+      },
+      {
+        "name": "Maxime Guillaume",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fmaxime_guillaume.jpg?alt=media&token=45105f5c-25e6-414d-b6d4-76b441c1de69",
+        "title": "",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/guillmaxx",
+          "name" : "Twitter"
+        }]
       }
     ],
     "order": 0,
