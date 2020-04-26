@@ -143,6 +143,16 @@
       },
       {
         "title": "Organizer",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Flena.jpg?alt=media&token=54144ffd-f2fb-4f78-86c9-41ee4c7cfd60",
+        "name": "Léna Ndiaye",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/annetlenandiaye",
+          "name" : "Twitter"
+        }]
+      },
+      {
+        "title": "Organizer",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/android-makers-2020.appspot.com/o/team%2Fremy_barbosa.jpeg?alt=media&token=1143ff43-692e-4d7c-adf1-acba5b356700",
         "name": "Remy Barbosa",
         "socials" : [ {
